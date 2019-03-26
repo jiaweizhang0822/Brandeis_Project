@@ -1,0 +1,294 @@
+---
+title: "Project3: Classfication"
+author: "the BRICS"
+date: "3/19/2019"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width=6, fig.height=4,fig.align = 'center', warning=FALSE, message=FALSE,echo=FALSE,results='hold')
+```
+
+```{r}
+library(dplyr)
+library(psych)
+library(caret)
+library(corrplot)
+library(ggplot2)
+library(lubridate)
+library(pROC)
+library(plotROC)
+library(rpart.plot)
+library(knitr)
+library(gbm)
+```
+
+####1. Data loading and processing
+```{r,results='hide'}
+data<-read.csv('/Users/jiawei/Desktop/second\ sem/big\ data2/pj3/weatherAUS.csv')
+data<- data %>% mutate(month = month.abb[month(Date)])
+data<-data %>% select(-RISK_MM,-Location,-WindDir9am,-WindDir3pm,-WindSpeed9am,-WindSpeed3pm,-Date)
+sapply(data, function(x) sum(is.na(x))/nrow(data)*100)
+data<-data %>% na.omit()
+sapply(data, function(x) sum(is.na(x))/nrow(data)*100)
+describe(data)
+```
+
+#####1.1 Dataset introduction
+This dataset contains daily weather observations from numerous Australian weather stations. There are 142k observations and 24 different variables in the dataset. The dependent variable is whether tomorrow will rain or not. In order to get the prediction, we have both categorical features and numerical features, including temperature, direction and the speed of the strongest wind, humidity, evaporation, pressure, cloud, sunshine and whether the previous day rains or not. The data is from [kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package).
+
+#####1.2 Target variable
+Our target variable is a dummy variable indicating whether tomorrow rains or not.
+
+#####1.3 Data Description
+
+```{r}
+kable(describe(data)[,c(2,8,3,5,4,9)],digits=2)
+```
+
+
+
+![Table1](/Users/jiawei/Desktop/second\ sem/big\ data2/pj3/table1.png)
+
+
+\newpage
+
+#####1.4 Data preprocessing
+After having a general observation of the dataset, we performed the following steps to process the data before we start the modeling process. 
+
+**a. Delete the variable *RISK_MM* **  
+We deleted the variable *RISK_MM8* because this variable measures the data related with tomorrow and contains information of the dependent variable. 
+
+**b. Delete the variable *Location* **  
+We deleted the variable *Location* because under this variable, each observation has little variance.
+
+**c. Delete the specific wind condition variable **  
+We deleted all the variables related with the specific wind conditions since these variables have little relation with possibility of raining. They are *WindDir9am, WindDir3pm, WindSpeed9am, WindSpeed3pm*
+
+**d. Treatment of missing values**  
+We deleted all rows with NA values, there are still enough data (58117) remaining. Model might be biased if the data are not randomly missed. 
+
+**e.Create new variable *month* **  
+We created a now variable named *month* which is the date of the observation day in numerical version. 
+
+**f. Correlation matrix plot**  
+After looking at the Correlation matrix, we deleted highly correlated predictors (>0.8) including *Temp9am, Temp3pm, Pressure9am* to avoid the problem of colinearility.
+
+```{r}
+intname<-c()
+for(i in colnames(data)){if(class(data[1,i])=='integer' | (class(data[1,i])=='numeric')) {intname=c(intname,i)}}
+data1<-data %>% select(intname)
+#correlation matrix plot
+cormatrix<-cor(data1)
+corrplot(as.matrix(cormatrix), method="color",tl.col='black',tl.cex=0.8)
+data<-data %>% select(-Temp9am, -Temp3pm, -Pressure9am)
+
+```
+
+\newpage
+
+####2. Model Selection
+#####2.0 Method Introduction
+For all of the three models, the code we define control is `control <- trainControl(method='cv',number=5)` .In the trainControl() function, we have set the argument `method` equals to `cv`, which stands for cross-validation. Also, `number=5` means 5-fold cross-validation. By doing so, we go through a resampling procedure to evaluate the model on unseen data. To be more specific, the original dataset is shuffled and randomly partitioned into 5 equal sized subsamples. Of the 5 subsamples, 4 subsamples are used as training data while the remaining 1 subsample is retained as the validation data for testing the model. The cross-validation process is then repeated 5 times, with each of the 5 subsamples used exactly once as the validation data. The 5 results can then be averaged to produce a single estimation. In this way, we can avoid getting an overfitting model. Also, we scale and center our data to make all features at similar 
+magnitude.
+
+#####2.1 Logistic Regression
+######2.1.1 First trail
+As mentioned before, we use RainTomorrow as the target variable. After the basic data preprocess, we then conduct our first Logistic model (model 1). We run the model against all other variables and the results are shown below. Based on the regression result, we find that WindGustDir, a categorical variable, is not statistically significant for most of its levels, and there are some months that do not have statistically significant coefficients. As a result, we decide to get rid of the variables that are not statistically significant in an effort to improve the predictability of the model. Moreover, we check for the outlier. By looking at the residual plots of the model, we find 5 outliers with observation number of 134352, 133158, 103810, 82287, 84899 and delete them from our dataset.
+
+```{r}
+logit<- glm(RainTomorrow ~ ., data =data, family = "binomial") 
+options(scipen=999)
+#summary(logit)
+par(mfrow=c(2,2))
+plot(logit)
+newdata<- data[, -c(134352,133158,103810,14227,82287,84899)] #delete outlier
+control <- trainControl(method="cv",number=5,savePredictions = T, summaryFunction = twoClassSummary,classProbs = T) 
+model1 <- train(RainTomorrow~., data=data, method="glm", preProcess=c('center',"scale"), trControl=control)
+#model1
+summary(model1)
+```
+
+######2.1.2 Second trail
+We then run a second Logistic regression with the new dataset and all statistically significant variables. The result for model 2 is shown below. 
+
+```{r}
+data1<-newdata %>% select(-WindGustDir)
+data1$month<-ifelse(data1$month %in% c('Jun','Jul','May','Nov','Oct','Sep'),'Apr', data1$month )
+model2 <- train(RainTomorrow~., data=data1, method="glm", preProcess=c('center',"scale"), trControl=control)
+#model2
+summary(model2)
+```
+
+\newpage
+
+######2.1.3 Third trail
+The third Logistic regression we run includes a quadratic term *WindGustSpeed^2*. For this model, we still scale and center our data and conduct a 5-fold cross validation. According to the regression result, this model (model 3) has all statistically significant variables. Also, model 3 has a relatively high sensitivity, relatively low specificity, and a highest ROC of 0.88257 among all models (ROC curve shown below). Therefore, we would conclude that model 3 is our final best Logistic model. The regression results together with the odd ratio (exp(B)) are shown below.
+
+```{r}
+model3 <- train(RainTomorrow~.+I(WindGustSpeed^2), data=data1, method="glm", preProcess=c('center',"scale"), trControl=control)
+summary(model3)
+```
+
+
+```{r}
+ggplot(model3$pred, aes(m=Yes, d=factor(obs, levels = c('Yes', "No")))) + 
+  geom_roc(n.cuts=0) + 
+  coord_equal() +
+  style_roc()
+```
+
+The following is the coefficients interpretation of model 3 based on the odd ratio of each variable.
+
+
+
+![Table2](/Users/jiawei/Desktop/second\ sem/big\ data2/pj3/table2.png)
+
+\newpage
+
+#####2.2 KNN
+The k-nearest neighbors (k-NN) classification is instance-based learning. It first saves training set in memory and then compares unseen data to the training set. The unseen object is classified by a plurality vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors.
+
+In our k-nn model, when k is 5, the sensitivity is 0.9301 and the specificity is 0.5278. When k is 7, the sensitivity is 0.9359 while the specificity is 0.5227. When k is 9, the sensitivity is 0.9399 and the specificity is 0.5166. Although specificity is not that satisfactory, high sensitivity means the prediction of the k-nn model is much accurate. Therefore, we can conclude that the k-nn model is not overfitting.
+
+Besides, the ROC Curve is another powerful performance measure for binary classification. To interpret the curve, we need to check whether the curve is close to the left upper corner, where the true positive rate is close to 1.0 while the false positive rate is close to 0. Another equivalent way is to see the Area Under the Curve or AUC. Typically, good classifiers tend to have a big area under the ROC curve.
+
+From the summary, we can see that when k=9, the value of ROC becomes the largest, meaning the model is optimal at this time. Thus, the final k value used in the model is 9. The corresponding ROC curve is drawn.
+
+```{r}
+#model4 <- train(RainTomorrow~.+I(WindGustSpeed^2), data=data1, method="knn", preProcess=c('center',"scale"), trControl=control)
+#model4
+#summary(model4)
+
+#selectedIndices <- model4$pred$k == 9
+#ggplot(model4$pred[selectedIndices,], aes(m=Yes, d=factor(obs, levels = c('Yes', "No")))) + 
+ # geom_roc(n.cuts=0) + 
+#  coord_equal() +
+#  style_roc()
+```
+
+
+```{r fig.width=6, fig.height=4,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG('/Users/jiawei/Desktop/second\ sem/big\ data2/pj3/table4.png')
+ grid.raster(img)
+```
+
+```{r fig.width=6, fig.height=4,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG('/Users/jiawei/Desktop/second\ sem/big\ data2/pj3/table5.png')
+ grid.raster(img)
+```
+
+
+#####2.3 Classification Tree
+
+Classification tree automatically assigns a class to new observations with certain features. The classification process is finished by asking some questions step by step.
+
+In order to find the best model for the classification tree, we need to compare the complexity parameter (cp) with the ROC. An optimal cp value can be estimated by testing different cp values and using cross-validation approaches to determine the corresponding prediction accuracy of the model. The best cp is defined as the one that maximizes the cross-validation accuracy.
+
+In our model, when cp is 0.007067138, the ROC value is 0.7521, the sensitivity is 0.9578 and the specificity is 0.42449941. When cp is 0.025363172, the ROC value is 0.7017, the sensitivity is 0.9433 and the specificity is 0.42850412. When cp is 0.210051040, the ROC value is 0.5373, the sensitivity is 0.9850 and the specificity is 0.0896. Although the third one has the highest sensitivity and the lowest specificity, its ROC value is relatively low, meaning the accuracy is not guaranteed. Based on these, we choose the model with a cp of 0.007067138 as the final model because it produces the largest ROC while not overfitting the model.
+
+
+```{r}
+model5 <- train(RainTomorrow~.+I(WindGustSpeed^2), data=data1, method="rpart", preProcess=c('center',"scale"), trControl=control)
+#model5
+#summary(model5)
+```
+```{r fig.width=6, fig.height=4,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG('/Users/jiawei/Desktop/second\ sem/big\ data2/pj3/table6.png')
+ grid.raster(img)
+```
+
+```{r}
+selectedIndices <- model5$pred$cp ==model5$bestTune
+ggplot(model5$pred[selectedIndices,], aes(m=Yes, d=factor(obs, levels = c('Yes', "No")))) + 
+  geom_roc(n.cuts=0) + 
+  coord_equal() +
+  style_roc()
+
+rpart.plot(model5$finalModel)
+```
+
+
+
+
+
+If we take a closer look at the tree above, the classification process is done by asking questions about humidity and WindGustSpeed. Particularly, if humidity at 3 pm today is lower than 0.98, then it will not rain tomorrow. If humidity at 3 pm today is lower than 1.6 and the WindGustSpeed is lower than 0.11, then it will not rain tomorrow. If humidity at 3 pm today is lower than 1.6 but the WindGustSpeed is higher or equal to 0.11, then tomorrow will be a rainy day. If the humidity at 3 pm today is higher or equal to 1.6, then it will rain tomorrow.
+
+####3.Model Comparison
+Before we compare and contrast the three different models we conducted, we have to determine the best model of each method.  
+For Logistic Model, like what we mentioned above, we choose the last model (model 3) as the best logstic model since it has the highest AUC value of 0.882.  
+For the KNN model, we choose the model with the largest k of 9 as the best KNN model.KNN model is non-parametric, it means that it does not make any assumptions on the underlying data distribution. Therefore, KNN could and probably should be one of the first choices for a classification study when there is little or no prior knowledge about the distribution data.  
+For the classification tree model, both AUC and accuracy increase when cp decreases. So, we choose the decision tree model with the lowest cp value of 0.007 as our final decision tree model, which means that we have chosen to use the simplest tree among the three.  
+After the determination of the best model for each method, we then compare them altogether and try to find the FINAL BEST model for our project. We chose AUC and accuracy as our measure for choosing from 3 different models. 
+
+```{r fig.width=6, fig.height=8,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG('/Users/jiawei/Desktop/second\ sem/big\ data2/pj3/table3.png')
+ grid.raster(img)
+```
+
+
+
+As we can see in this form, the AUC, accuracy and specificity of the logistic model are all the highest among 3 models. But decision tree model has the highest sensitivity, which contradicts with other measurements.  
+
+In this specific case, we treat sensitivity more important than specificity because false prediction of not rain will bring larger trouble. If the model tell us it won't rain tomorrow,we will not consider bringing umbrellas, which will cause a lot of inconvenience if tomorrow actully rains. However, the sensitivity of the 3 models are quite close, leaving only 1.6% difference in logistic model and the decision tree model. Considering the fact that the specificity of the decision tree is 10% lower than that of the logistic model, we still choose the logistic model as our best model for its high AUC and accuracy.
+
+\newpage
+####4.Visulization
+```{r,echo=FALSE}
+p1<-data1 %>% ggplot( aes(x=MinTemp, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p2<-data1 %>% ggplot( aes(x=MaxTemp, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p3<-data1 %>% ggplot( aes(x=Rainfall, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_x_continuous(limits=c(0,2.5))+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p4<-data1 %>% ggplot( aes(x=WindGustSpeed, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+
+grid.arrange(p1,p2,p3,p4, ncol=2)
+
+p5<-data1 %>% ggplot( aes(x=Humidity3pm, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p6<-data1 %>% ggplot( aes(x=Humidity9am, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p7<-data1 %>% ggplot( aes(x=Pressure3pm, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p8<-data1 %>% ggplot( aes(x=Cloud3pm, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+
+grid.arrange(p5,p6,p7,p8, ncol=2)
+
+p9<-data1 %>% ggplot( aes(x=Cloud9am, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p10<-data1 %>% ggplot( aes(x=Sunshine, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p11<-data1 %>% ggplot(aes( fill=RainTomorrow, x=RainToday)) + 
+  geom_histogram(stat = 'count',position='fill',width=.5)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+p12<-data %>% ggplot(aes( fill=RainTomorrow, x=month)) + 
+  geom_histogram(stat = 'count',position='fill',width=.5)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+grid.arrange(p9,p10,p11,p12, ncol=2)
+
+```
