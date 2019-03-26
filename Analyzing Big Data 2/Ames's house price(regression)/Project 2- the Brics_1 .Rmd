@@ -1,0 +1,311 @@
+---
+title: "Project 1"
+author: "the BRICS"
+date: "3/5/2019"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width=8, fig.height=6,fig.align = 'center',echo=FALSE, warning=FALSE, message=FALSE,echo=FALSE,results='hold')
+```
+```{r}
+library(caret)
+library(gbm)
+library(ggplot2)
+library(randomForest)
+library(dplyr)
+library(psych)
+library(corrplot)
+library(leaps)
+library(forecast)
+library(car)
+library(knitr)
+```
+
+
+####1. Loading and pre-processing of Data
+
+```{r}
+total<-read.csv('/Users/jiawei/Downloads/house-prices-advanced-regression-techniques/train.csv')
+options(scipen=99)
+#train<-train %>% select(-Id)
+```
+#####1.1 Data introduction
+There are 1460 observations in the dataset. Within each observation, we have numerous features of one particular house (such as the building class, first-floor square feet, and the number of bedrooms above basement level) and its sale price. The data is from a [kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
+
+```{r}
+#total1 get out of vars with NA
+total1<-total
+for (i in colnames(total1)){
+  if (length(which(is.na(total1[i])))!=0){total1<-total1 %>% select(-i)}
+}
+```
+#####1.2 Treatment of missing values  
+There are 80 variables in total. Since 19 variables have missing values, we decide to remove them. After this first data processing step, we have 61 variables left.
+
+####2. Feature Selection
+
+#####2.1 Correlation coefficient  
+The corrplot is a graphical display of correlation matrix of all features. It is important to identify the hidden structure and pattern in the matrix. From the corrplot, we can see that SalePrice is related to a lot of variables obviously.  
+Next, we focus on the relationship between SalePrice and other variables. To be specific, we find the variables that have a high correlation with SalePrice through corrplot by filtering them with the standard: correlation coefficient (variable, SalePrice) >0.4.  
+With this method, we get the following variables: *OverallQual, YearBuilt, YearRemodAdd, TotalBsmtSF, X1stFlrSF, GrLivArea, FullBath, TotRms, AbvGrd, Fireplaces, GarageCars, GarageArea*.
+
+```{r,fig.width=9, fig.height=6,fig.align='center'}
+set.seed(666)  # set seed for reproducing the partition
+train.index <- sample(c(1:nrow(total1)),round(0.6*nrow(total1)) )  
+train <- total1[train.index,]
+valid <- total1[-train.index,]
+intname<-c()
+for(i in colnames(train)){if(class(train[1,i])=='integer'){intname=c(intname,i)}}
+train1<-train %>% select(intname)
+#correlation matrix plot
+corrplot(as.matrix(cor(train1)), method="color",tl.col='black',tl.cex=0.8)
+
+#use rf algo to get feature importance
+control <- trainControl(method="cv", number=10)
+# train the model
+#model <- train(SalePrice~., data=train, method="rf", preProcess=c('center',"scale"), trControl=control,importance=T)
+#importance<-varImp(model)
+
+# summarize importance
+#print(importance)
+train<-train %>% select(OverallQual,YearBuilt,YearRemodAdd,TotalBsmtSF,X1stFlrSF,GrLivArea,FullBath ,TotRmsAbvGrd,Fireplaces,GarageCars,GarageArea,MSSubClass,SalePrice)
+
+traindc<-train
+valid<-valid %>% select(OverallQual,YearBuilt,YearRemodAdd,TotalBsmtSF,X1stFlrSF,GrLivArea,FullBath ,TotRmsAbvGrd,Fireplaces,GarageCars,GarageArea,MSSubClass,SalePrice)
+
+```
+
+
+
+
+#####2.2 Random forest model  
+Since categorical features are not considered in correlation matrix, we then use the random forest model to rank features by their importance from all the 61 variables. Top 15 variables are: *GrLivArea, OverallQual, BsmtFinSF1, GarageArea, TotalBsmtSF, LotArea, X1stFlrSF, GarageCars, X2ndFlrSF, YearBuilt, Fireplaces, YearRemodAdd, OverallCond, MSSubClass, ExterQual*.
+
+#####2.3 Decision on relevant and important variables  
+By combining the two methods above, we decide to use these variables: *OverallQual, YearBuilt, YearRemodAdd, TotalBsmtSF, X1stFlrSF, GrLivArea, FullBath, AbvGrd, Fireplaces, GarageCars, GarageArea, MSSubClass*
+The detalied variable descriptions are shown below.
+
+
+![](/Users/jiawei/Desktop/second\ sem/big\ data2/pj2/table1.png)
+\newpage
+
+####3. Descriptive Statistics  
+
+#####3.1 Descriptive Statistics 
+After selecting the relevant and important variables, we have created a summary table with the minimum, average, median, standard deviation and maximum.
+
+```{r}
+kable(describe(train)[,c(2,8,3,5,4,9)],digits=2)
+```
+
+#####3.2 box-and-whisker plots
+Also, we draw several box-and-whisker plots. We can tell from the plot that overall quality, garages cars, total rooms above ground do influence sale price of a house
+
+```{r,fig.align='center',fig.height=5,fig.width=8}
+p1<-train %>% ggplot(aes(x=factor(OverallQual),y=SalePrice))+
+  geom_boxplot()+
+  labs(x='Overall quality')
+
+p2<-train %>% ggplot(aes(x=factor(GarageCars),y=SalePrice))+
+  geom_boxplot()+
+  labs(x='garage cars')
+
+p3<-train %>% ggplot(aes(x=factor(TotRmsAbvGrd),y=SalePrice))+
+  geom_boxplot()+
+  labs(x='Total rooms above ground')
+
+grid.arrange(p1,p2,p3, ncol=2)
+```
+
+#####3.3 Scatterplots
+Then, we create scatter plots. We can tell from the plot that year built, year remodeled, fist floor square footage, ground living area all might have linear relationship with saleprice.
+
+```{r,fig.align='center',fig.height=6,fig.width=8}
+
+p1<-train %>% ggplot(aes(x=YearBuilt,y=SalePrice))+
+  geom_point(position='jitter')
+
+p2<-train %>% ggplot(aes(x=YearRemodAdd,y=SalePrice))+
+  geom_point(position='jitter')+
+  labs(x='Year remodeled')
+p3<-train %>% ggplot(aes(x=X1stFlrSF,y=SalePrice))+
+  geom_point()+
+  labs(x='Fist floor square footage')
+p5<-train %>% ggplot(aes(x=TotalBsmtSF,y=SalePrice))+
+  geom_point()+
+  labs(x='Total basement square footage')
+p4<-train %>% ggplot(aes(x=GarageArea,y=SalePrice))+
+  geom_point()+
+  labs(x='Ground living area')
+
+grid.arrange(p1,p2,p3,p4, ncol=2)
+```
+
+#####3.4 Target variable
+The SalePrice is the target variable and we are trying to predict it.  
+First, predicting the sale price makes business sense. Generally speaking, when valuing a house, we need to focus on its features. For example, how many full bathrooms above grade (ground)? One bathroom is just the minimum requirement. If there are two to three bathrooms, the house has a bigger size and experiences more functionality. It could be labeled as a “luxury” house and thus has a higher sale price. The logic is that SalePrice might be a function of other variables.  
+Second, we can observe some important relationships from the box-and-whisker plots and scatter plots. There are some linear relationships between other variables and the SalePrice. For instance, by looking at the scatter plot of “Ground living area and Sale Price”, we can find that as the ground living area increases, the sale price ascends. More ground living area means a spacious and large-scale house. It is easy to understand that the house will be sold at a higher price.
+
+
+####4. Model Selection
+Based on the analysis above, we choose Sale Price as the target variable for the regression modeling process. In order to find the most appropriate dependent variables for the model, we use forward selection, backward selection, and forward-and-backward selection to narrow down our choices of variables. We use the 12 variables with the highest correlations with sale price or with most importance to the model we identify before as the original set of variables and let the computer select for us. After conducting these three selection methods, we find the results were all the same, which suggest a drop of 4 variables (*TotalBsmtSF, GarageArea, TotRmsAbvGrd, FullBath*).   According to the output in R, the selections are based on the AIC of each model. R only keeps the model with lowest AIC. We then use the 8 remaining variables as the determinants of House Sale Price and run a multiple regression against them. The primary model is called lm.stepf, and the results are shown below.
+```{r,results='hide'}
+#final train and valid data
+
+#Method1: Backward Elimination
+lm<-lm(SalePrice~.,train)
+lm.stepb <- step(lm, direction = "backward")
+summary(lm.stepb)  # Which variables were dropped?
+lm.stepb.pred <- predict(lm.stepb, valid)
+accuracy(lm.stepb.pred, valid$SalePrice)
+
+#Method2: Stepwise
+lm.stepboth <- step(lm, direction = "both")
+summary(lm.stepboth)  # Which variables were dropped/added?
+lm.stepboth.pred <- predict(lm.stepboth, valid)
+accuracy(lm.stepboth.pred, valid$SalePrice)
+
+#Method3: forward
+lm.null <- lm(SalePrice~1, data = train)
+# use step() to run forward regression.
+lm.stepf <- step(lm.null, scope=list(lower=lm.null, upper=lm), direction = "forward")
+summary(lm.stepf)  # Which variables were added?
+lm.stepf.pred <- predict(lm.stepf, valid)
+accuracy(lm.stepf.pred, valid$SalePrice)
+
+rmsein<-sqrt(mean(lm.stepf$residuals^2))
+rmseout<-sqrt(mean((predict(lm.stepf,valid)-valid$SalePrice)^2))
+rmsein
+rmseout
+
+train<-train %>% select(OverallQual ,YearBuilt,YearRemodAdd,X1stFlrSF,GrLivArea,Fireplaces ,GarageCars,MSSubClass,SalePrice)
+valid<-valid %>% select(OverallQual ,YearBuilt,YearRemodAdd,X1stFlrSF,GrLivArea,Fireplaces ,GarageCars,MSSubClass,SalePrice)
+```
+
+
+```{r}
+summary(lm.stepf)
+```
+
+####5. Model improvement
+
+#####5.1 Model diagnose
+To ensure that the assumptions of regression (OLS) are not being violated, we run several diagnoses to check for the model validation. The VIF of the variables are all smaller than 5 which indicates that there’s no problem of collinearity. We then closely exam the residual plots of our model. The somewhat curvy Residual vs. Fitted plot shows that with the increase of fitted value, the residuals decrease at first and then increase. It may indicate that the true relationship between sale price and all the the house determinants is not linear. The QQ plot shows a fat tail, suggesting a non-normal distribution of the residuals.
+```{r}
+#check for Variance Inflation Factor (VIF); must be < 10; should be less than 5
+print(vif(lm.stepf))
+#AIC(lm.stepf)
+## additional diagnostics to check for outliers/leverage points
+par(mfrow=c(2,2))
+plot(lm.stepf)
+```
+
+
+
+#####5.2 Deal with Outlier
+By looking at all four plots, we notice that there are some outlier problems for our model. The outliers with index of 524,770, 804, 1047, and 1299 prevail in all four plots and are therefore removed from the dataset. After the removal of outliers, the new model, model1, has an improved adjusted R-Squared, lower AIC, and all statistically significant coefficients. The residual plots also improve a lot after the removal of the outliers. The histogram of residuals has a bell shape, which indicates a normal distribution of the residuals. Finally, we check for heteroskedasticity and fix the problem by robusting the standard errors. We would then conclude that the model 1 is the final best linear regression model to estimate the house sale price. The final model is shown below. The adjusted r-squared is 0.8322 and the RMSE using validation data is 39203. 
+
+```{r}
+outlier_index<-c(which(train.index==524),which(train.index==770),which(train.index==804),which(train.index==1299),which(train.index==1047))
+
+train1<-train[-outlier_index,]
+model1<-lm(SalePrice~.,train1)
+summary(model1)
+```
+
+```{r}
+par(mfrow=c(2,2))
+plot(model1)
+```
+```{r,fig.align='center',fig.height=4,fig.width=6}
+par(mfrow=c(2,2))
+hist(model1$residual)
+aicmodel1<-AIC(model1)
+model1.pred <- predict(model1, valid)
+a1<-accuracy(model1.pred, valid$SalePrice)
+#library(lmtest)
+#library(sandwich)
+#HCcov.model1 <- vcovHC(model1, type="HC1")
+#rse.model1 <- sqrt(diag(HCcov.model1))
+#coeftest(model1, vcov=HCcov.model1)
+
+#library(stargazer)
+#stargazer(model1,model1, se=list( NULL,rse.model1),column.labels=c("model1","model 1 robust"), no.spaces=TRUE,add.lines=list(c(round(AIC(model1),4),round(AIC(model1),4))),type = "html", out="~/Desktop/model1.html")
+```
+
+
+#####5.3 Add Polynomial Term
+When we draw the residual independent varialble plots, we notice that there are high powers for OverallQual and YearBuilt (these plots have trends). 
+```{r}
+par(mfrow=c(2,2))
+plot(train1$OverallQual,model1$residual)
+plot(train1$YearBuilt,model1$residual)
+```
+
+Therefore, we try the quadratic and cubic terms for these variables. We don't include powers higher than 3 in order to avoid overfit. After adding the polynomial terms and removal of outliers, the new model is called polymodel2, with imporved adjusted R-squared and smaller RMSE. Our final adjusted R-squared is 0.8723, and the RMSE for test data is 32911. The residual plots also improve a lot after add higher order terms and the removal of the outliers. The residual plots as well as the results for the final model are shown below.
+
+
+```{r}
+
+#OverallQual ,YearBuilt,YearRemodAdd,X1stFlrSF,GrLivArea,Fireplaces ,GarageCars,MSSubClass
+polymodel<-lm(SalePrice~.+I(YearBuilt^2)+I(YearBuilt^3)+I(OverallQual^3)+I(OverallQual^2),data=train[-outlier_index,])
+polymodel1sum<-summary(polymodel)
+polymodel1aic<-AIC(polymodel) #lowest AIC
+par(mfrow=c(2,2))
+#plot(polymodel)
+
+rmsenew<-sqrt(mean(polymodel$residuals^2))
+
+
+model2.pred <- predict(polymodel, valid)
+a2<-accuracy(model2.pred, valid$SalePrice)
+
+outlier_index2<-c(which(train.index==524),which(train.index==770),which(train.index==804),which(train.index==1299),which(train.index==1047),which(train.index==689),which(train.index==474),which(train.index==1325))
+
+polymodel2<-lm(SalePrice~.+I(YearBuilt^2)+I(YearBuilt^3)+I(OverallQual^3)+I(OverallQual^2),data=train[-outlier_index2,])
+plot(polymodel2)
+```
+
+
+
+```{r}
+options(scipen=-1111)
+s3<-summary(polymodel2)
+print(summary(polymodel2),digits=2)
+
+```
+
+We also draw a residual ~ predicted price plot in the in validation data. We can tell from the plot that the model is good since residuals are symmetrically distributed around 0 except for the 3 outliers.
+```{r,fig.width=6,fig.height=4,fig.align='center'}
+validpred<-predict(polymodel,valid) #test for outsample RMSE
+err<-valid$SalePrice-validpred
+
+plot(validpred,err)
+#accuracy(polymodel,valid$SalePrice)
+```
+
+
+
+####6. Outliers
+
+Among all, eight of our observations were removed outliers. The outliers accounted for about 0.9% of our observations. It’s an acceptable number which would not lead to an obvious drop of total observation number. 
+
+
+####7. Model Interpretation and reflection
+Our final model is different because we have added higher-order terms including the square of original construction date, cube of original construction date, square of Overall Quality and cube of Overall Quality. The following table provides a simple intrepretation of the coefficients.
+
+```{r fig.width=6, fig.height=8,echo=FALSE,results='hide'}
+library(png)
+library(grid)
+img <- readPNG('/Users/jiawei/Desktop/second\ sem/big\ data2/pj2/table2.png')
+ grid.raster(img)
+```
+
+
+![](/Users/jiawei/Desktop/second\ sem/big\ data2/pj2/table3.png)
+
