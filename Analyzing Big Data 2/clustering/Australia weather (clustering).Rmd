@@ -1,0 +1,248 @@
+---
+title: "Project 4 Clustering"
+author: "the BRICS"
+date: "4/1/2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width=6, fig.height=4,fig.align = 'center', warning=FALSE, message=FALSE,echo=FALSE,results='hold')
+```
+
+```{r}
+library(dplyr)
+library(psych)
+library(ggplot2)
+library(lubridate)
+library(caret)
+library(knitr)
+library(gbm)
+library(openxlsx)
+```
+```{r,results='hide'}
+data<-read.csv('/Users/jiawei/Desktop/second\ sem/big\ data2/pj/pj3/weatherAUS.csv')
+data<- data %>% mutate(month = as.factor(month.abb[month(Date)]))
+```
+
+#####1.1 Dataset introduction
+This dataset contains daily weather observations from numerous Australian weather stations. There are 142k observations and 24 different variables in the dataset. The dependent variable is whether tomorrow will rain or not. In order to get the prediction, we have both categorical features and numerical features, including temperature, direction and the speed of the strongest wind, humidity, evaporation, pressure, cloud, sunshine and whether the previous day rains or not. The data is from [kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package).
+
+#####1.2 Target variable
+Our target variable is a dummy variable indicating whether tomorrow rains or not.
+
+#####1.3 Data Description
+
+```{r}
+kable(describe(data)[,c(2,8,3,5,4,9)],digits=2)
+```
+
+\newpage
+
+![Table1](/Users/jiawei/Desktop/second\ sem/big\ data2/pj/pj4/table1.png)
+
+\newpage
+
+```{r}
+data<-data %>% select(-RISK_MM,-Location,-WindDir9am,-WindDir3pm,-WindSpeed9am,-WindSpeed3pm,-Date)
+#sapply(data, function(x) sum(is.na(x))/nrow(data)*100)
+data<-data %>% na.omit()
+
+set.seed(668)
+sampleindex<-sample(nrow(data),10000)
+data<-data[sampleindex,]
+row.names(data) <- 1:10000
+#describe(data)
+#remove y
+data1<-data[,-17]
+```
+
+\newpage
+
+#####1.4 Data preprocessing
+After having a general observation of the dataset, we performed the following steps to process the data before we start the modeling process. 
+
+**a. Delete the variable *RISK_MM* **  
+We deleted the variable *RISK_MM8* because this variable measures the data related with tomorrow and contains information of the dependent variable. 
+
+**b. Delete the variable *Location* **  
+We deleted the variable *Location* because under this variable, each observation has little variance.
+
+**c. Delete the specific wind condition variable **  
+We deleted all the variables related with the specific wind conditions since these variables have little relation with possibility of raining. They are *WindDir9am, WindDir3pm, WindSpeed9am, WindSpeed3pm*
+
+**d. Treatment of missing values**  
+We deleted all rows with NA values, there are still enough data (58117) remaining. Model might be biased if the data are not randomly missed. 
+
+**e.Create new variable *month* **  
+We created a now variable named *month* which is the date of the observation day in numerical version. 
+
+**f. Correlation matrix plot**  
+After looking at the Correlation matrix, we deleted highly correlated predictors (>0.8) including *Temp9am, Temp3pm, Pressure9am* to avoid the problem of colinearility.
+
+####2.Clustering
+We randomly select 10000 observations because the computer can't handle 50000 observations.
+
+####2.1 HierCluster
+
+After testing for all the methods to calculate distance and clustering methods, we choose the "euclidean" method for distance and "ward.D" method for Hierarchical clustering because this combination gives the most evenly spread dendrogram. According to the result of k-means and our understanding of the dataset, we choose the distance of about 1100 to cut the tree into 3 clusters with quite close number of observations.
+We do not use the heatmap to help determine the cluster number because too many observations have made the heatmap hard to distinguish.
+
+```{r}
+#scale only numerical vars
+data1.norm<-data1
+for (i in 1:17){ 
+  if (i!=6 & i!=16 & i!=17 ) {data1.norm[,i]=scale(data1[,i])}
+  else {data1.norm[,i]=data1[,i]}
+  }
+#data1.norm<-data1.norm[,-c(6,17)]
+dist.norm <- dist(data1.norm, method = "euclidean")  
+# in hclust() set argument method =  
+# to "ward.D", "single", "complete", "average", "median", or "centroid"
+hc1 <- hclust(dist.norm, method = "ward.D")
+p1<-plot(hc1, hang = -1, ann = FALSE,main="Dendrogram")
+memb1 <- cutree(hc1, k = 3)
+cat(memb1,file="HierCluster11.csv")
+hist(memb1)
+# plot heatmap 
+# rev() reverses the color mapping to large = dark
+p2<-heatmap(as.matrix(data1.norm[,c(-6,-16,-17)]), Colv = NA, hclustfun = hclust, 
+        col=rev(paste("grey",1:99,sep="")))
+
+```
+
+####2.2 Kmeans
+We only keep numerical variables in kmeans because the function can't handle the categorical variables.
+We choose the k mainly based on the following scree plots. Both of the plots show that within cluster sum of squares declines rather smoothly either in value or percentage of total sum of squares as number of clusters k increases. We regard k=2 and k=3 as two elbows. Considering that 2 clusters still have relatively high wss/tss ratio and our data depicts the conditions for predicting raining possibility, we choose k=3 to generate 3 clusters which is more reasonable to distinguish the characteristics.
+
+```{r}
+#keep only numerical vars 
+data2.norm<-data1.norm[,c(-6,-16,-17)]
+# show cluster membership
+#cat(km$cluster)
+wss <- rep(0,15)
+ratio<-rep(0,15)
+for (i in 1:15) {
+  # Fit the model: km.out
+  km.out <- kmeans(data2.norm, centers = i, nstart = 20, iter.max = 50)
+  # Save the within cluster sum of squares
+  wss[i] <- km.out$tot.withinss
+  ratio[i] <- km.out$tot.withinss/km.out$totss
+}
+
+# Produce a scree plot
+plot(1:15, ratio, type = "b", 
+     xlab = "k", 
+     ylab = "Ratio of wss/tss",main ="Scree plot for wss/tss ratio")
+km.out <- kmeans(data2.norm, centers = 3, nstart = 20, iter.max = 50)
+cat(km.out$cluster,file="Kmeans.csv")
+```
+
+####3. Logistic Regression
+After we find the clusters based on the Hierarchical and Kmeans methods, we add the two new variables to our dataset and re-run our best logistic model with these two new variables.
+```{r}
+clusterdata<-read.xlsx('/Users/jiawei/Desktop/second\ sem/big\ data2/pj/pj4/Weather-New.xlsx') #load for new dataset
+clusterdata<-clusterdata %>% select(-Temp9am, -Temp3pm, -Pressure9am) #delete all irrevelent var
+clusterdata<-clusterdata %>% select(-WindGustDir)
+clusterdata$month<-ifelse(clusterdata$month %in% c('Jun','Jul','May','Nov','Oct','Sep'),'Apr', clusterdata$month )
+data<-clusterdata %>% select(-HierCluster,-KMeansCluster)
+
+clusterdata$HierCluster<-as.factor(clusterdata$HierCluster)
+clusterdata$KMeansCluster<-as.factor(clusterdata$KMeansCluster)
+attach(clusterdata)
+hier<- clusterdata %>% select(-KMeansCluster)
+kmean<-clusterdata %>% select(-HierCluster)
+
+control <- trainControl(method="cv",number=5,savePredictions = TRUE, summaryFunction = twoClassSummary,classProbs = T) 
+#original data
+model1 <- train(RainTomorrow~.+I(WindGustSpeed^2), data=data, method="glm", preProcess=c('center',"scale"), trControl=control)
+#hiercluster
+model2 <- train(RainTomorrow~.+I(WindGustSpeed^2), data=hier, method="glm", preProcess=c('center',"scale"), trControl=control)
+#kmeancluster
+model3<-train(RainTomorrow~.+I(WindGustSpeed^2), data=kmean, method="glm", preProcess=c('center',"scale"), trControl=control)
+
+#adding both cluster factors
+model4<-train(RainTomorrow~.+I(WindGustSpeed^2), data=clusterdata, method="glm", preProcess=c('center',"scale"), trControl=control)
+
+```
+We have run the model with only HierCluster, only KmeanCluster, and both clusters. We then compare the results together.
+
+Model 1 is the original model and Model 2 and Model 3 are models when adding only hier cluster or kmeans cluster separately.We also try to add both hier and kmeans cluster into Model 4. The ROCs of the four models are different every time we run the model, because cross-validation applies different sample of data into the 4 models. In general, the comparison of the four models could be model 3> model 4> model 2> model 1, while the relationship does not hold each time. And the result of one trial is shown in the table below.   
+ROC  
+Model1	0.88499  
+Model2	0.88499  
+Model3	0.88558  
+Model4	0.88533  
+
+According to the result, original model (model 1) is the worst one but it is very close with the hiercluster model (model 2). By adding the hiercluster, the odds of raining tomorrow drop by 4% from the model 1 to the model 2, and the odds drop by 1.4% from model 2 to model 3. While the odds of raining tomorrow increased by 2.6% from model 2 to model 3, which may be due to the reason that model 1 covers model 2. Also, the conclusions we draw from 1&2 and 1&3 are opposed to our intuition. That could be explained by the fact that the difference between cluster 1 and cluster 2 is not that obvious. If we look back at the boxplot labeled with HierCluster, we can see the median of cluster 1 is close to that of cluster 2. Also, the range between 1st Q and 3rd Q, or upper and lower sides of the box, of cluster 1 cover that of cluster 2. The odds ratio under the hier clustering are all smaller than 1. When we use hiercluster, the result does not improve much, which maybe because that the result of the hier cluster is not very good, so when using the result as the variable, the model would not improve much.
+
+Odds ratio  
+HierCluster2	0.9598  
+HierCluster3	0.9866  
+
+The **best model** is the KMeanCluster model (model 3), which generates the highest ROC with different sample of data. Also, the differences between the data under kmeans clustering are more obvious than the differences under hier clustering. The odds ratio increased by 19% from model 1 to model 2, meaning that the odds of raining tomorrow under model 2 is 19% more likely than the odds ratio under model 1. Similarly, the odds ratio increased by 4% from model 1 to model 3. While the odds of raining tomorrow drop by 15% from model 2 to model 3, meaning that the the odds of raining tomorrow under model 3 is 15% less likely than the odds ratio under model 2.  
+
+Odds ratio  
+KMeansCluster2	1.1913  
+KMeansCluster3	1.0407  
+
+We also tried to add both kMeans clustering and the hier clustering. However, the ROC is lower than that of adding only KMeans cluster. When adding both Hier and KMeans, the changes in odds ratio move in the opposite way. The odds ratio in the two HierCluster decrease, while the odds ratio in the two KMeansCluster increase.  
+
+Odds ratio  
+HierCluster2	0.9253  
+HierCluster3	0.9520  
+KMeansCluster2	1.2215  
+KMeansCluster3	1.0597  
+  
+
+####4. Cluster Interpretation
+```{r}
+clusterdata %>%  ggplot(aes(x = KMeansCluster, y = Humidity3pm, col=KMeansCluster))+ geom_boxplot()
+
+clusterdata %>%  ggplot(aes(x = HierCluster, y = Humidity3pm, col=HierCluster))+ geom_boxplot()
+
+plot(clusterdata$Humidity3pm,clusterdata$Sunshine,col=clusterdata$KMeansCluster,
+     main = "Characteristic for clusters-KMeans",
+     xlab = "Humidity at 3pm today",
+     ylab = "Level of sunshine")
+
+plot(clusterdata$Humidity3pm,clusterdata$Sunshine,col=clusterdata$HierCluster,
+     main = "Characteristic for clusters-HierCluster",
+     xlab = "Humidity at 3pm today",
+     ylab = "Level of sunshine")
+
+clusterdata %>% ggplot( aes(x=KMeansCluster, fill=RainTomorrow)) +
+  geom_density(alpha=0.4)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+
+clusterdata %>% ggplot( aes(x=Humidity3pm, fill=KMeansCluster)) +
+  geom_density(alpha=0.4)
+
+clusterdata %>% ggplot(aes( fill=RainTomorrow, x=KMeansCluster)) + 
+    geom_histogram(stat = 'count',position='fill',width=.5)+
+  scale_fill_manual(values=c('#879CF0','#F9BE7A'))
+```
+####4.1 Scatter plot
+From the scatter plot of humidity at 3pm and sunshine, we can see that cluster 1 lies in the upper left corner, cluster 2 lies in the middle, and cluster 3 lies in the bottom right corner. That makes sense. For example, dots in the bottom right corner have relatively high humidity at 3 pm today while the level of sunshine is relatively low. These features can be interpreted as a higher possibility of raining tomorrow, which is consistent with the meaning of cluster 3.
+Also, we can compare the two scatter plots colored with KMeansCluster and HierCluster. There is an obvious difference between cluster 1 and 2 in KMeans method. In contrast, the difference between these two clusters is less identifiable in HierCluster method. This observation is consistent with the conclusion we get from the two boxplots.
+
+####4.2 Density plot
+From the density plot of KMeansCluster, as the cluster changes from 1 to 3, the possibility of not raining tomorrow becomes lower and lower. This observation is consistent with the conclusion that cluster 3 stands for a higher possibility of raining tomorrow.
+From the density plot of Humidity3pm, as the cluster changes from 1 to 3, there is an increase in the level of humidity. Intuitively, higher humidity at 3pm today leads to higher possibility of raining tomorrow, which is the same as the meaning of cluster 3.
+
+####4.3 Histogram
+From the histogram, we can see that as the cluster changes from 1 to 3, the percentage of raining tomorrow increases. To be more specific, the increase from cluster 1 to 2 is smaller, while the increase from cluster 2 to 3 is larger.
+
+####5. Appendix
+#####5.1 Odds ratio for four models.
+```{r}
+#compare results
+exp(summary(model1)$coef[,1])
+exp(summary(model2)$coef[,1])
+exp(summary(model3)$coef[,1])
+exp(summary(model4)$coef[,1])
+```
+
+
+
