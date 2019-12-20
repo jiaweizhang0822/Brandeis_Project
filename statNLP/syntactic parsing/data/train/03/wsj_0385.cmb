@@ -1,0 +1,1030 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNS Analyses) 
+      (PP (IN of) 
+        (SBAR 
+          (WHADVP (WRB why) )
+          (S 
+            (NP (NNS currencies) )
+            (VP (VBP do) 
+              (SBAR 
+                (WHNP (WP what) )
+                (S 
+                  (NP (PRP they) )
+                  (VP (VBP do) 
+                    (NP (-NONE- T) )))))
+            (, ,) 
+            (S 
+              (NP (-NONE- *) )
+              (VP 
+                (VP (VBG losing) )
+                (CC or) 
+                (VP (VBG gaining) 
+                  (NP (NN value) )
+                  (PP (IN against) 
+                    (NP 
+                      (NP (NNS goods) )
+                      (CC or) 
+                      (NP (DT each) 
+                        (ADJP (JJ other) )))))))
+            (, ,) ))))
+    (VP (VBP are) 
+      (NP (DT a) (JJ favorite) (NN pursuit) 
+        (PP (IN of) 
+          (NP (NNS economists) ))))
+    (. .) ))
+( (S 
+    (NP (PRP They) )
+    (RB also) 
+    (VP (VBP are) (RB often) 
+      (ADJP (JJ opaque) )
+      (PP (TO to) 
+        (NP (NNS non-economists) )))
+    (. .) ))
+( (S 
+    (NP (NNS Eyes) )
+    (VP (VBP glaze) (IN over) )
+    (SBAR 
+      (WHADVP (WRB when) )
+      (S 
+        (NP (NNS monetarists) )
+        (VP (VBP talk) 
+          (PP (IN about) 
+            (NP 
+              (NP (JJ base) (NN money) )
+              (, ,) 
+              (NP (NN velocity) )
+              (CC or) 
+              (NP (NN purchasing) (NN power) (NN parity) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NN Anyone) )
+      (VP (VBG wondering) 
+        (PP (IN about) 
+          (NP 
+            (NP (DT the) (NN subject) )
+            (POS 's) (NN importance) ))))
+    (, ,) (RB however) 
+    (, ,)
+    (MD should) 
+    (VP (VB ask) 
+      (NP 
+        (NP (NNP Nigel) (NNP Lawson) )
+        (, ,) 
+        (SBAR 
+          (WHNP (WP who) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBD resigned) 
+              (NP (JJ last) (NN week) )
+              (PP (IN as) 
+                (NP 
+                  (NP (NNP Margaret) (NNP Thatcher) )
+                  (POS 's) 
+                  (NP (NNP Chancellor) 
+                    (PP (IN of) 
+                      (NP (DT the) (NNP Exchequer) )))))
+              (PP (IN amid) 
+                (NP 
+                  (NP (JJ political) (NN turmoil) )
+                  (VP (VBN generated) 
+                    (PP (IN by) 
+                      (NP 
+                        (NP (NNP Britain) )
+                        (POS 's) (NN drift) 
+                        (PP (IN toward) 
+                          (NP (NN stagflation) ))))))))))))
+    (. .) ))
+( (S 
+    (NP 
+      (NP (NNP Britain) )
+      (POS 's) (NN inflation) )
+    (RB probably) 
+    (VP (VBZ is) 
+      (ADJP (JJ traceable) 
+        (PP (IN in) 
+          (NP (NN part) ))
+        (PP (TO to) 
+          (NP 
+            (NP (NNP Mr.) (NNP Lawson) )
+            (POS 's) (NN failure) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB get) 
+                (NP (DT the) (JJ pound-deutsche) (NN mark) (NN exchange) (NN rate) )
+                (ADJP (JJ right) )))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NN Money) )
+      (POS 's) (NN importance) )
+    (VP (VBZ is) 
+      (ADJP (JJ central) 
+        (PP (TO to) 
+          (NP (DT a) (JJ genteel) (NN debate) 
+            (PP (RB now) (IN under) 
+              (NP (NN way) ))
+            (PP (IN between) 
+              (NP (CD two) (NNP U.S.) (JJ monetarist) (NNS camps) ))
+            (PP (IN over) 
+              (NP 
+                (NP (NN something) )
+                (VP (VBN called) 
+                  (NP 
+                    (NP (DT the) (`` ``) (NN world) (NN dollar) (NN base) ('' '') )
+                    (NP 
+                      (-LRB- -LRB-)
+                      (NN WDB) 
+                      (-RRB- -RRB-)
+                      )))))))))
+    (. .) ))
+( (S 
+    (NP 
+      (NP (CD One) (JJ economic) (NN model) )
+      (VP (VBN fashioned) 
+        (PP (IN out) 
+          (PP (IN of) 
+            (NP (DT this) (NN concept) )))))
+    (VBZ is) 
+    (VP (VBG predicting) 
+      (NP (DT a) (NNP U.S.) (NN recession) )
+      (NP 
+        (NP (RB late) (DT this) (NN year) )
+        (CC or) 
+        (NP (RB early) (JJ next) (NN year) )))
+    (. .) ))
+( (S 
+    (S 
+      (SBAR (IN Whether) 
+        (S 
+          (NP (DT the) (NN prediction) )
+          (VP (VBZ is) 
+            (ADJP (JJ correct) ))))
+      (: --) 
+      (CC and)
+      (S 
+        (PP (IN with) 
+          (NP 
+            (NP (RB only) (CD two) (NNS months) )
+            (VP (VBN left) 
+              (PP (IN in) 
+                (NP (CD 1989) ))))))
+      (S 
+        (NP (NN time) )
+        (RB soon) (MD will) 
+        (VP (VB tell) ))
+      (: --) )
+    (S 
+      (NP (DT the) (NN debate) )
+      (PP (IN at) 
+        (ADJP (JJS least) ))
+      (VP (VBZ is) 
+        (NP (DT a) (JJ useful) (NN reminder) 
+          (SBAR (IN that) 
+            (S 
+              (NP (DT the) (NNP U.S.) (NN dollar) )
+              (VP (VBZ is) (RB not) 
+                (NP (RB just) (DT a) 
+                  (ADJP (JJ national) )
+                  (, ,) (CC but) (DT an) (JJ international) (NN currency) )))))))
+    (. .) ))
+( (S 
+    (SBAR (IN If) 
+      (S 
+        (NP (NNP U.S.) (JJ monetary) (NN policy) )
+        (VP (VBZ goes) (RB astray) )))
+    (S 
+      (NP (PRP it) )
+      (MD will) 
+      (VP (VB have) 
+        (NP (NNS repercussions) 
+          (PP (RB well) (IN beyond) 
+            (NP 
+              (NP (DT those) )
+              (SBAR 
+                (WHNP (WDT that) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VP (VBD unseated) 
+                    (NP (DT the) 
+                      (ADJP (JJ estimable) )
+                      (NNP Mr.) (NNP Lawson) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN WDB) (NN model) 
+      (PP (IN in) 
+        (NP (NN question) )))
+    (VP (VBZ is) 
+      (NP (DT a) (NN product) 
+        (PP (IN of) 
+          (NP 
+            (NP (DT an) (JJ upstart) (NNS economics) (NN shop) )
+            (VP (VBN called) 
+              (NP 
+                (NP (NNP Bell) (NNP Mueller) (NNP Cannon) (NNP Inc) (. .) )
+                (NP 
+                  (-LRB- -LRB-)
+                  (NNP BMC) 
+                  (-RRB- -RRB-)
+                  )))))))
+    (. .) ))
+( (S 
+    (SBAR 
+      (WHADVP (WRB When) )
+      (S 
+        (NP (NNP Goldman) (NNP Sachs) )
+        (VP (VBD challenged) 
+          (NP (DT the) (NNP BMC) (NN recession) (NN forecast) )
+          (PP (IN in) 
+            (NP (PRP$ its) (JJ economic) (NN newsletter) ))
+          (NP (DT a) (JJ few) (NNS weeks) (RB ago) ))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NNP BMC) (NNS folks) )
+      (VBD were) 
+      (VP (VBN delighted) ))
+    (. .) ))
+( (S 
+    (SBAR (RB Even) (IN though) 
+      (ADJP (JJ critical) ))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (VP (VBD was) 
+        (NP (RB just) (DT the) (NN kind) 
+          (PP (IN of) 
+            (NP 
+              (NP (NN attention) )
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP (PRP they) )
+                  (VBD were) 
+                  (VP (VBG seeking) 
+                    (NP (-NONE- T) )))))))))
+    (. .) ))
+( (S (IN So) 
+    (S 
+      (NP (PRP they) )
+      (VP (VBD fired) (RP back) 
+        (PP (IN at) 
+          (NP (DT the) (NNP Goldman) (NNP Sachs) (NNS objections) ))
+        (PP (IN in) 
+          (NP 
+            (NP (PRP$ their) (JJ own) (NNS economics) (NN letter) )
+            (, ,) 
+            (NP (`` ``) (DT The) (NNP BMC) (NNP Report) (. .) ('' '') )))))))
+( (S 
+    (NP (PRP They) )
+    (RB also) 
+    (VP (VBD arranged) 
+      (NP (DT a) (NN luncheon) )
+      (PP (IN in) 
+        (NP (NNP New) (NNP York) )))
+    (S 
+      (NP (-NONE- *) )
+      (VP (TO to) 
+        (VP (RB further) (VB explain) 
+          (NP (PRP$ their) (NN forecast) ))
+        (CC and) 
+        (VP (VB solicit) 
+          (NP (JJ new) (NNS clients) ))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP BMC) (NNS folks) )
+    (VP (VBP are) (RB n't) (RB really) 
+      (NP (NNS amateurs) 
+        (PP (IN at) 
+          (NP (JJ intellectual) (NN dueling) ))))
+    (. .) ))
+( (S 
+    (NP (NNP President) (NNP Jeffrey) (NNP Bell) )
+    (PP (IN in) 
+      (NP (CD 1978) ))
+    (VP 
+      (VP (VBD upset) 
+        (NP 
+          (ADJP (JJ longtime) )
+          (NNP New) (NNP Jersey) (NNP Republican) (NNP Senator) (NNP Clifford) (NNP Case) )
+        (PP (IN in) 
+          (NP (DT a) (NN primary) )))
+      (CC and) 
+      (VP (VBD made) 
+        (NP (DT an) (JJ unsuccessful) (NN run) 
+          (PP (IN at) 
+            (NP 
+              (NP (NNP Bill) (NNP Bradley) )
+              (POS 's) (NNP U.S.) (NNP Senate) (NN seat) )))))
+    (. .) ))
+( (S 
+    (NP 
+      (NP (NNP John) (NNP Mueller) )
+      (, ,) 
+      (NP 
+        (NP (NNP BMC) )
+        (POS 's) (NN vice) (NN president) 
+        (CC and)
+        (JJ chief) (NN economist) )
+      (, ,) )
+    (VP (VBD spent) 
+      (NP (CD 10) (NNS years) )
+      (PP (IN on) 
+        (NP (DT the) (NN staff) 
+          (PP (IN of) 
+            (NP (NNP Rep.) (NNP Jack) (NNP Kemp) ))))
+      (, ,) 
+      (S 
+        (NP (-NONE- *) )
+        (VP 
+          (VP (VBG sharpening) 
+            (NP (PRP$ his) (JJ political) (NNS skills) ))
+          (CC and) 
+          (VP (VBG providing) 
+            (NP (NN analysis) )
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB back) (RP up) 
+                (NP 
+                  (NP (DT the) (NN congressman) )
+                  (POS 's) (JJ supply-side) (NNS arguments) )))))))
+    (. .) ))
+( (S (RB So) 
+    (S 
+      (SBAR (RB even) (IN though) 
+        (S 
+          (NP (NNP BMC) )
+          (VP (VBZ is) 
+            (ADJP (RB only) (CD 18) (NNS months) (JJ old) ))))
+      (, ,) 
+      (S 
+        (NP (PRP$ its) (NNS principals) )
+        (VBP have) 
+        (VP (VBN been) 
+          (NP (NN part) 
+            (PP (IN of) 
+              (NP (DT the) (JJ national) (JJ economic) (NN debate) )))
+          (PP (IN for) 
+            (NP (NNS years) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (SINV 
+    (WHNP (WP What) )
+    (VP (VBZ is) )
+    (NP (DT the) (NN world) (NN dollar) (NN base) )
+    (. ?) ))
+( (S 
+    (NP (DT An) (NN article) 
+      (PP (IN on) 
+        (NP (DT these) (NNS pages) ))
+      (PP (IN by) 
+        (NP (NNP Mr.) (NNP Mueller) ))
+      (PP (IN on) 
+        (NP (NNP June) (CD 29) )))
+    (VP (VBD touched) (RP off) 
+      (NP (DT the) (NN debate) 
+        (PP (IN with) 
+          (NP (NNP Goldman) (NNP Sachs) ))))
+    (. .) ))
+( (S 
+    (NP (PRP It) )
+    (VP (VBD defined) 
+      (NP (DT the) (NN WDB) )
+      (PP (RB as) 
+        (NP 
+          (CONJP (RB not) (RB only) )
+          (NP 
+            (NP (NN currency) 
+              (CC and)
+              (JJ commercial) (NN bank) (NNS reserves) )
+            (VP (VBN created) 
+              (PP (IN by) 
+                (NP (DT the) (NNP Federal) (NNP Reserve) ))))
+          (, ,) 
+          (CONJP (CC but) (RB also) )
+          (NP 
+            (NP (DT the) (NN sum) 
+              (PP (IN of) 
+                (NP (NN dollar) (NNS reserves) )))
+            (VP (VBN held) 
+              (PP (IN by) 
+                (NP 
+                  (ADJP (JJ foreign) (JJ central) )
+                  (NNS banks) )))))))
+    (. .) ))
+( (S (`` ``) 
+    (NP (DT The) (NN world) (NN dollar) (NN base) )
+    (, ,) 
+    (PP (IN in) 
+      (NP (NN fact) ))
+    (, ,) 
+    (VP (VBZ is) 
+      (ADJP (JJ analogous) 
+        (PP (TO to) 
+          (NP (DT the) (NN world) (NN stock) 
+            (PP (IN of) 
+              (NP (JJ monetary) (NN gold) 
+                (PP (IN under) 
+                  (NP (DT the) (JJ classical) (NN gold) (NN standard) ))))))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBD wrote) )
+      (NP (NNP Mr.) (NNP Mueller) ))
+    (. .) ))
+( (S 
+    (NP (NNP BMC) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD was) 
+            (ADJP (JJ able) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB predict) 
+                  (NP (DT the) (NN rise) 
+                    (PP (IN in) 
+                      (NP (NN inflation) ))
+                    (PP (IN in) 
+                      (NP (DT the) (NNP U.S.) ))
+                    (NP (RB early) (DT this) (NN year) ))
+                  (PP (IN from) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (VP (VBG observing) 
+                        (NP (JJ rapid) (NN growth) 
+                          (PP (IN in) 
+                            (NP (DT the) (NN world) (NN dollar) (NN base) )))))))))))))
+    (. .) ))
+( (S 
+    (NP (PRP$ Its) (NN recession) 
+      (, ,)
+      (CC or) 
+      (NP (NN stagflation) )
+      (, ,) (NN forecast) )
+    (VBZ is) 
+    (VP (VBN based) 
+      (PP (IN on) 
+        (NP (DT the) (NN calculation) 
+          (SBAR (IN that) 
+            (S 
+              (SBAR (IN after) 
+                (S 
+                  (NP (-NONE- *) )
+                  (VP (VBG growing) 
+                    (PP (IN at) 
+                      (NP (DT a) (CD 14) (NN %) (JJ annual) (NN rate) )))))
+              (, ,) 
+              (S 
+                (NP (DT the) (NN WDB) )
+                (VBZ has) (IN since) 
+                (VP (VBN come) 
+                  (PP (TO to) 
+                    (NP (DT a) (NN standstill) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Goldman) (NNP Sachs) )
+    (VP (VBD snapped) (RP back) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (NNP WDB) )
+          (VP (VBZ is) (RB not) 
+            (NP (DT an) (JJ accurate) (JJ predictive) (NN tool) )
+            (SBAR (IN because) 
+              (S 
+                (NP (NN dollar) (NNS reserves) 
+                  (PP (IN in) 
+                    (NP (JJ central) (NNS banks) )))
+                (VBP do) (RB not) 
+                (VP (VB dictate) 
+                  (SBAR 
+                    (WHADVP (WRB how) 
+                      (NP (JJ much) (NN money) ))
+                    (S (RB there) 
+                      (VP (VBZ is) 
+                        (PP (IN in) 
+                          (NP (DT the) (NN world) ))))))))))))
+    (. .) ))
+( (S 
+    (S (`` ``) 
+      (NP (DT The) (NNP Bundesbank) )
+      (MD might) 
+      (VP (VB be) 
+        (VP (RB rather) (VBN surprised) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB be) 
+              (VP (VBN told) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP (NN dollar) (NNS purchases) 
+                      (CC and)
+                      (NNS sales) )
+                    (VP (VBD were) 
+                      (NP (PRP$ their) (JJ only) (NN instrument) 
+                        (PP (IN for) 
+                          (NP (JJ monetary) (NN policy) )))))))))))
+      ('' '') )
+    (SINV 
+      (VP (VBD observed) )
+      (NP (NNP Goldman) (NNP Sachs) ))
+    (. .) ))
+( (S (`` ``) (RB Instead) 
+    (, ,)
+    (S 
+      (NP (DT the) (NN supply) 
+        (PP (IN of) 
+          (NP (NN money) ))
+        (PP (IN in) 
+          (NP (JJ foreign) (NNS countries) )))
+      (X 
+        (X (MD can) 
+          (VP (VB be) ))
+        (X 
+          (-LRB- -LRB-)
+          
+          (CC and)
+          (VBZ is) 
+          (-RRB- -RRB-)
+          ))
+      (VP 
+        (VP (VBN expanded) )
+        (CC and) 
+        (VP (VBN contracted) 
+          (PP (IN through) 
+            (NP (JJ open-market) (NNS operations) ))
+          (SBAR (RB just) (IN as) 
+            (S 
+              (NP (-NONE- T) )
+              (VP (VBZ is) 
+                (NP (DT the) (NN case) )
+                (PP (IN in) 
+                  (NP (DT the) (NNP United) (NNPS States) ))))))))
+    (. .) ))
+( (S 
+    (NP 
+      (ADJP (JJ Foreign) (JJ central) )
+      (NNS banks) )
+    (VP 
+      (VP (VBP buy) )
+      (CC or) 
+      (VP (VBP sell) 
+        (NP (NN government) (NNS securities) ))
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP 
+          (VP (VB add) )
+          (CC or) 
+          (VP (VB drain) )
+          (NP (NNS reserves) )
+          (PP (IN from) 
+            (NP (DT the) (NN banking) (NN system) )))))
+    (. .) ))
+( (S ('' '') 
+    (S 
+      (NP (NNP BMC) )
+      (VP (VBD replied) 
+        (, ,)
+        (S 
+          (INTJ (UH yes) )
+          (, ,) (CC but) 
+          (S 
+            (S 
+              (PP (IN in) 
+                (NP (DT any) (JJ monetary) (NN system) ))
+              (S 
+                (NP (EX there) )
+                (VP (VBZ is) 
+                  (NP 
+                    (NP (CD one) (`` ``) (JJ final) (NN asset) )
+                    (SBAR 
+                      (WHPP (IN in) 
+                        (WHNP (WDT which) ))
+                      (S 
+                        (NP (DT all) (NNS forms) 
+                          (PP (IN of) 
+                            (NP (NN credit) )))
+                        (VP (VBP are) (RB ultimately) 
+                          (ADJP (JJ payable) ))))
+                    ('' '') ))))
+            (CC and) 
+            (S (NN today) 
+              (S 
+                (NP (DT that) (JJ final) (NN asset) )
+                (VP (VBZ is) 
+                  (NP (DT the) (NNP U.S.) (NN dollar) ))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR 
+      (WHNP (WDT Whatever) (NN track) (NN record) )
+      (S 
+        (NP (NNP BMC) )
+        (VP (VBZ is) 
+          (ADJP (JJ able) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB achieve) 
+                (NP (-NONE- T) )))))))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (DT any) (NN debate) )
+        (SBAR-1 (-NONE- *pseudo-attach*) ))
+      (VP (VBZ is) 
+        (ADJP (JJ welcome) )))
+    (SBAR-1 (IN that) 
+      (S 
+        (NP (-NONE- T) )
+        (VP (VBZ focuses) 
+          (PP (IN on) 
+            (NP (DT the) (NNP U.S.) (NN dollar) 
+              (PP (IN as) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (NN world) )
+                    (POS 's) (JJ primary) (NN instrument) 
+                    (PP (IN for) 
+                      (NP 
+                        (NP (NN trade) )
+                        (CC and) 
+                        (NP (NN investment) )
+                        (PP (IN among) 
+                          (NP (NNS nations) )))))
+                  (CC and) 
+                  (NP 
+                    (NP (DT the) 
+                      (ADJP (JJ dominant) (JJ foreign) )
+                      (NN currency) )
+                    (VP (VBN held) 
+                      (PP (IN by) 
+                        (NP (JJ central) (NNS banks) )))))))))))
+    (. .) ))
+( (S 
+    (PP (IN Over) 
+      (NP (DT the) 
+        (ADJP (JJ past) )
+        (CD 20) (NNS years) )
+      (CC or) (RB so) )
+    (, ,) 
+    (S 
+      (NP (DT the) (NN dollar) )
+      (VBZ has) 
+      (VP (VBN followed) 
+        (NP (DT an) (JJ erratic) (NN course) )))
+    (. .) ))
+( (S 
+    (NP (PRP$ Its) (NNS periods) 
+      (PP (IN of) 
+        (NP (NN weakness) 
+          (ADJP (JJ relative) 
+            (PP (TO to) 
+              (NP (JJ other) (NNS currencies) ))))))
+    (VP (VBP correlate) 
+      (PP (IN with) 
+        (NP (NNS rises) 
+          (PP (IN in) 
+            (NP (NNS prices) ))
+          (PP (IN in) 
+            (NP (DT the) (NNP U.S.) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNS Mercantilists) )
+    (VP (VBP argue) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT a) (JJ weak) (NN currency) )
+          (VP (VBZ is) 
+            (NP (DT a) (JJ good) (NN thing) )
+            (SBAR (IN because) 
+              (S 
+                (NP (PRP it) )
+                (VP (VBZ makes) 
+                  (NP 
+                    (NP (DT a) (NN nation) )
+                    (POS 's) (NNS products) )
+                  (ADJP (RBR more) (JJ competitive) ))))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (DT that) (JJ cherished) (NN notion) )
+      (MD may) 
+      (VP (VB have) 
+        (VP (VBN influenced) 
+          (NP (NNP Mr.) (NNP Lawson) )
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB peg) 
+              (NP (DT the) (NN pound) )
+              (ADJP (RB too) (JJ low) )))
+          (, ,) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG causing) 
+              (NP (NNP Britain) )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB import) 
+                  (NP (DT all) 
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP Europe) )
+                        (POS 's) (JJ inflationary) (NNS pressures) ))))))))))
+    (. .) ))
+( (S 
+    (NP (DT A) (JJ weak) (NN currency) )
+    (VP (VBZ creates) 
+      (NP (NNS bargains) )
+      (PP (IN for) 
+        (NP (JJ foreign) (NNS buyers) ))
+      (, ,) 
+      (S (RB sometimes) 
+        (NP (-NONE- *) )
+        (VP 
+          (VP (VBG pushing) 
+            (NP (NN demand) )
+            (PP (IN beyond) 
+              (NP 
+                (NP (DT a) (NN nation) )
+                (POS 's) (JJ productive) (NN capacity) )))
+          (CC and) 
+          (VP (VBG forcing) 
+            (NP (NNS prices) )
+            (RB upward) ))))
+    (. .) ))
+( (S 
+    (NP (NNP Criticisms) 
+      (PP (IN of) 
+        (NP (DT the) (NNP U.S.) (NNP Treasury) ))
+      (PP (IN for) 
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG agreeing) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB participate) 
+                (PP (IN in) 
+                  (NP (DT an) (JJ international) (NN effort) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (TO to) 
+                      (VP (VB drive) (RP down) 
+                        (NP (DT the) (NN dollar) )))
+                    (NP (JJ last) (NN month) )))))))))
+    (VBP are) 
+    (VP (VBN based) 
+      (PP (IN on) 
+        (NP (DT that) (NN danger) )))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP U.S.) )
+    (, ,) 
+    (PP (IN because) 
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN dollar) )
+          (POS 's) (NN world) (NN role) )))
+    (, ,) (RB also) (VBZ has) 
+    (VP (VBN exported) 
+      (NP (NN inflation) )
+      (PP (IN at) 
+        (NP (NNS times) )))
+    (. .) ))
+( (S 
+    (SBAR 
+      (WHADVP (WRB When) )
+      (S 
+        (NP 
+          (ADJP (JJ other) (JJ central) )
+          (NNS banks) )
+        (VP 
+          (VP (VBP become) 
+            (ADJP (JJ concerned) 
+              (PP (IN about) 
+                (NP (DT a) (VBG falling) (NN dollar) ))))
+          (CC and) 
+          (VP (VB try) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB support) 
+                (NP (PRP it) )
+                (PP (IN by) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (VP (VBG buying) 
+                      (NP (NNS dollars) )
+                      (PP (IN with) 
+                        (NP (PRP$ their) (JJ own) (NNS currencies) )))))))))))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (MD can) 
+      (VP (VB inflate) 
+        (NP (DT the) (NN supply) 
+          (PP (IN of) 
+            (NP (PRP$ their) (JJ own) (NNS currencies) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP U.S.) (JJ monetary) (NNS policies) )
+    (RB ultimately) (MD will) 
+    (VP (VB determine) 
+      (SBAR (IN whether) 
+        (S 
+          (NP (JJ other) (NNS nations) )
+          (VP (VBP are) 
+            (ADJP (JJ willing) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB accept) 
+                  (NP 
+                    (ADJP (JJ American) (JJ economic) )
+                    (NN hegemony) ))))))))
+    (. .) ))
+( (S 
+    (NP (PRP$ Their) (NNS challenges) 
+      (PP (TO to) 
+        (NP (DT that) (NN hegemony) )))
+    (VP (VBP are) (RB probably) 
+      (NP (DT a) (JJ good) (NN thing) ))
+    (. .) ))
+( (S 
+    (PP (IN Because) 
+      (PP (IN of) 
+        (NP 
+          (NP (NNP America) )
+          (POS 's) (JJ international) (NNS responsibilities) )))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (VP (VBZ is) 
+        (ADJP (RBR less) (JJ free) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB engage) 
+              (PP (IN in) 
+                (NP (JJ beggar-thy-neighbor) (NNS tactics) ))
+              (, ,) 
+              (PP (IN through) 
+                (NP 
+                  (NP (NN protectionism) )
+                  (CC or) 
+                  (NP (NNS attempts) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (TO to) 
+                      (VP (VB manipulate) 
+                        (NP (NN currency) (NNS relationships) )
+                        (PP (TO to) 
+                          (NP (PRP$ its) (JJ own) (NN advantage) ))))))))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NNP U.S.) (NNP Congress) 
+      (CC and)
+      (NN administration) )
+    (VP (VBP need) 
+      (NP (JJ frequent) (NNS reminders) 
+        (PP (IN of) 
+          (NP (DT that) (NN responsibility) ))))
+    (. .) ))
+( (S 
+    (NP (PRP They) )
+    (RB also) 
+    (VP (VBP need) 
+      (NP (NNS reminders) 
+        (SBAR (IN that) 
+          (S 
+            (SBAR (IN if) 
+              (S 
+                (NP (PRP they) )
+                (VP (VBP shoulder) 
+                  (NP (DT the) (NN burden) )
+                  (RB well) )))
+            (, ,) 
+            (S 
+              (NP (DT the) (NNP U.S.) )
+              (MD can) 
+              (VP (VB exercise) 
+                (NP (JJ enormous) (NN power) )
+                (PP (IN on) 
+                  (NP (NN behalf) 
+                    (PP (IN of) 
+                      (NP (DT a) (JJ sound) (NN world) (NN economy) ))))
+                (, ,) 
+                (PP (IN with) 
+                  (NP (NNS benefits) 
+                    (PP (TO to) 
+                      (NP (DT all) ))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (JJS best) (NN test) 
+      (PP (IN of) 
+        (SBAR 
+          (WHADVP (WRB how) (RB well) )
+          (S 
+            (NP (DT that) (NN responsibility) )
+            (VBZ is) 
+            (VP (VBG being) 
+              (VP (VBN exercised) ))))))
+    (MD can) 
+    (VP (VB be) 
+      (VP (VBN found) (RB simply) 
+        (PP (IN in) 
+          (SBAR 
+            (WHADVP (WRB how) (RB much) )
+            (S 
+              (NP (DT the) (NN dollar) )
+              (VP (VBZ holds) 
+                (NP (PRP$ its) (NN value) )
+                (ADJP (JJ relative) 
+                  (PP (TO to) 
+                    (NP 
+                      (NP (NNS goods) )
+                      (CC and) 
+                      (NP (NNS services) ))))))))))
+    (. .) ))
+( (S (CC But) 
+    (PP (IN in) 
+      (NP (DT a) (JJ practical) (NN world) ))
+    (, ,) 
+    (S 
+      (NP (NN currency) (NNS relationships) )
+      (MD ca) (RB n't) (VB be) 
+      (VP (VBN ignored) (RB either) ))
+    (. .) ))
+( (S 
+    (SBAR 
+      (WHNP (WDT Whatever) (RB else) )
+      (S 
+        (NP (DT the) (NNP BMC) (NN model) )
+        (VP (VBZ accomplishes) 
+          (NP (-NONE- T) ))))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (VP (VBZ furthers) 
+        (NP (DT the) (NN discussion) 
+          (PP (IN of) 
+            (SBAR 
+              (WHADVP (WRB how) )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB achieve) 
+                  (NP (NN world) (JJ monetary) (NN order) ))))))))
+    (. .) ))
+( (S 
+    (VP (VBN Given) 
+      (NP (DT the) (JJ damaging) (NNS effects) 
+        (PP (IN of) 
+          (NP (JJ monetary) (NNS disorders) 
+            (PP (IN of) 
+              (NP (DT the) (NN past) ))))))
+    (, ,) 
+    (S 
+      (NP (DT that) )
+      (VP (VBZ is) 
+        (NP (NN something) )
+        (S (RB much) 
+          (NP (-NONE- *) )
+          (TO to) (VB be) 
+          (VP (VBN desired) ))))
+    (. .) ))
+( (S (RB Just) 
+    (NP (-NONE- *) )
+    (VP (VB ask) 
+      (NP (NNP Nigel) (NNP Lawson) ))
+    (. .) ))

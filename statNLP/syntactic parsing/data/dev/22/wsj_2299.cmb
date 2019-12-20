@@ -1,0 +1,950 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (-NONE- *) )
+    (VP (VB Take) 
+      (NP ($ $) (CD 10) )
+      (PP (IN out) 
+        (PP (IN of) 
+          (NP (PRP$ your) (NN wallet) )))))
+  (. .) )
+( (S 
+    (NP (DT That) )
+    (VP (VBZ 's) 
+      (SBAR 
+        (WHNP 
+          (WHADVP (WRB how) )
+          (JJ much) )
+        (S 
+          (NP (DT the) (NN collapse) 
+            (PP (IN of) 
+              (NP (NNP Lincoln) (NNP Savings) (CC &) (NNP Loan) )))
+          (MD will) 
+          (VP (VB cost) 
+            (NP 
+              (NP (PRP you) )
+              (CC and) 
+              (NP (DT every) 
+                (ADJP (JJ other) )
+                (NNP American) )))))))
+  (. .) )
+((S 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG Liquidating) 
+        (NP (DT the) 
+          (NP 
+            (NP (NNP Irvine) )
+            (, ,) 
+            (NP (NNP Calif.) )
+            (, ,) )
+          (NN thrift) )))
+    (MD will) 
+    (VP (VB drain) 
+      (NP (DT the) (JJ federal) (NN deposit) (NN insurance) (NN fund) )
+      (PP (IN by) 
+        (ADJP (JJR more) 
+          (PP (IN than) 
+            (NP ($ $) (CD 2.5) 
+              (NP (CD billion) ))))))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG making) 
+        (NP (PRP it) )
+        (NP (DT the) 
+          (ADJP (JJS largest) )
+          (NN thrift) (NN failure) 
+          (PP (IN in) 
+            (NP (NN history) ))))))
+  (. .) )
+( (S (RB Now) 
+    (, ,)
+    (RB finally) 
+    (, ,)
+    (S 
+      (NP (EX there) )
+      (MD may) 
+      (VP (VB be) 
+        (NP (DT an) (NN investigation) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB explore) 
+              (SBAR 
+                (WHADVP (WRB how) )
+                (S 
+                  (NP (CD five) (JJ senatorial) (NNS shills) )
+                  (VP (VBD helped) 
+                    (VP (VB perpetuate) 
+                      (NP (DT this) 
+                        (ADJP (JJ fiscal) (JJ black) )
+                        (NN hole) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (ADVP (RB Back) 
+      (PP (IN in) 
+        (NP (NNP June) )))
+    (, ,) 
+    (S 
+      (NP (PRP we) )
+      (VP (VBD recounted) 
+        (SBAR 
+          (WHADVP (WRB how) )
+          (S 
+            (NP 
+              (NP (CD five) (NNP U.S.) (NNP Senators) )
+              (: --) 
+              (NP 
+                (NP (NNP Alan) (NNP Cranston) 
+                  (PP (IN of) 
+                    (NP (NNP California) )))
+                (, ,) 
+                (NP 
+                  (NP (NNP Dennis) (NNP DeConcini) )
+                  (CC and) 
+                  (NP (NNP John) (NNP McCain) )
+                  (PP (IN of) 
+                    (NP (NNP Arizona) )))
+                (, ,) 
+                (NP (NNP John) (NNP Glenn) 
+                  (PP (IN of) 
+                    (NP (NNP Ohio) )))
+                (CC and) 
+                (NP (NNP Donald) (NNP Riegle) 
+                  (PP (IN of) 
+                    (NP (NNP Michigan) ))))
+              (: --) )
+            (VP (VBD intervened) 
+              (PP (IN with) 
+                (NP (NNS regulators) ))
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB ease) (RP up) 
+                  (PP (IN on) 
+                    (NP 
+                      (NP (NNP Lincoln) )
+                      (, ,) 
+                      (SBAR 
+                        (WHNP (WP$ whose) (JJ risk-fraught) (NNS loans) )
+                        (S 
+                          (NP (-NONE- T) )
+                          (VP (VBD were) 
+                            (ADJP (RBR more) (JJ worthy) 
+                              (PP (IN of) 
+                                (NP (DT a) (NN casino) ))
+                              (PP (IN than) 
+                                (NP (DT a) 
+                                  (ADJP (RB federally) (VBN insured) )
+                                  (NN thrift) ))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (ADJP (JJ Last) )
+      (NNP Friday) )
+    (, ,) 
+    (S 
+      (NP 
+        (NP (NNP Common) (NNP Cause) )
+        (, ,) 
+        (NP (DT a) (JJ political-reform) (NN lobby) )
+        (, ,) )
+      (VP (VBD asked) 
+        (PP (IN for) 
+          (NP (DT a) (NNP Senate) (NNP Ethics) (NNP Committee) (NN probe) 
+            (PP (IN of) 
+              (NP (DT the) (CD five) (NNS Senators) )))))))
+  (. .) )
+( (S 
+    (NP (PRP It) )
+    (VP (VBZ wants) 
+      (NP 
+        (NP (DT both) 
+          (NP (DT an) (JJ outside) (NN counsel) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB conduct) 
+                (NP (DT the) (NN probe) ))))
+          (CC and) 
+          (NP (DT a) 
+            (ADJP (JJ parallel) )
+            (NNP Justice) (NNP Department) (NN investigation) ))
+        (, ,) 
+        (NP 
+          (NP (NNS things) )
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP (PRP it) )
+              (VP (VBZ has) (RB not) (RB initially) 
+                (VP (VBD asked) 
+                  (PP (IN for) 
+                    (NP (-NONE- T) ))
+                  (PP (IN in) 
+                    (NP (JJ previous) (NNS ethics) (NNS cases) ))))))))))
+  (. .) )
+( (S (RB Perhaps) 
+    (S 
+      (NP (NNP Common) (NNP Cause) )
+      (VBZ has) 
+      (VP (VBN come) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB recognize) 
+            (SBAR (IN that) 
+              (S 
+                (NP (NNP Congress) )
+                (VP (VBZ is) (RB generally) 
+                  (ADJP (JJ incapable) 
+                    (PP (IN of) 
+                      (S 
+                        (NP (-NONE- *) )
+                        (VP (VBG investigating) 
+                          (NP (PRP itself) )))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Charles) (NNP Keating) (NNP Jr.) )
+      (, ,) 
+      (NP (DT the) (NN chairman) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP American) (NNP Continental) )
+            (, ,) 
+            (NP 
+              (NP (NNP Lincoln) )
+              (POS 's) (NN parent) (NN company) )
+            (, ,) ))))
+    (VP (VBD needed) 
+      (NP 
+        (NP (DT the) (NNS Senators) )
+        (POS ') (NN help) 
+        (PP (IN in) 
+          (NP (PRP$ his) (VBG running) (NN battle) 
+            (PP (IN with) 
+              (NP (JJ federal) (NNS regulators) )))))))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (VP (VBZ admits) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP he) )
+          (VP (VBD made) 
+            (NP (JJ large) (NNS contributions) )
+            (PP (TO to) 
+              (NP (DT each) 
+                (PP (IN of) 
+                  (NP (PRP them) )))))
+          (SBAR (IN so) 
+            (S 
+              (NP (PRP they) )
+              (MD would) 
+              (VP (`` ``) (VB take) (IN up) 
+                (NP (PRP$ my) (NN cause) )
+                (. .) ('' '') ))))))))
+( (S 
+    (PP (IN In) 
+      (NP (CD one) (NN case) ))
+    (, ,) 
+    (S 
+      (NP (CD 57) (NNP Keating) (NNS executives) )
+      (VP (VBD gave) 
+        (NP ($ $) (CD 66,100) )
+        (PP (TO to) 
+          (NP (NNP Senator) (NNP Riegle) ))
+        (PP (IN at) 
+          (NP (DT the) 
+            (ADJP (JJ same) )
+            (NNP March) (CD 1987) (NN fund-raiser) )))))
+  (. .) )
+( (S 
+    (NP (NNP Mr.) (NNP Riegle) )
+    (RBR later) 
+    (VP (VBD returned) 
+      (NP (DT the) (NN money) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (NNP April) (CD 1987) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NNS Senators) )
+      (, ,) 
+      (, ,)
+      (PP (VB absent) 
+        (NP (NNP Mr.) (NNP Riegle) ))
+      (, ,) 
+      (VP 
+        (VP (VBD asked) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB meet) 
+              (PP (IN with) 
+                (NP 
+                  (NP (NNP Ed) (NNP Gray) )
+                  (, ,) 
+                  (NP (RB then) (NN head) 
+                    (PP (IN of) 
+                      (NP (DT the) (NNP Federal) (NNP Home) (NNP Loan) (NNP Bank) (NNP Board) )))
+                  (, ,) )))))
+        (CC and) 
+        (VP (VBG according) 
+          (PP (TO to) 
+            (NP (NNP Mr.) (NNP Gray) )))
+        (, ,) 
+        (VP 
+          (VP (RB unsuccessfully) (VBD pressed) 
+            (NP (PRP him) )
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB drop) 
+                (NP 
+                  (NP (DT a) (JJ key) (NN regulation) )
+                  (ADJP (JJ detrimental) 
+                    (PP (TO to) 
+                      (NP (NNP Lincoln) )))))))
+          (: --) 
+          (NP (`` ``) (DT a) (JJ clear) (NN subversion) 
+            (PP (IN of) 
+              (NP (DT the) (JJ regulatory) (NN process) ))
+            (. .) ('' '') ))))))
+((S 
+    (S 
+      (NP (NNP Senator) (NNP McCain) )
+      (RB now) 
+      (VP (VBZ calls) 
+        (NP (DT the) (NN meeting) )
+        (ADJP (`` ``) (JJ improper) ('' '') )))
+    (CC and) 
+    (S 
+      (PP (IN after) 
+        (NP (JJ several) (JJ previous) (NNS denials) ))
+      (, ,) 
+      (S 
+        (NP (NNP Senator) (NNP Cranston) )
+        (RB now) 
+        (VP (VBZ admits) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP (DT the) (NN regulation) )
+              (RB probably) 
+              (VP (VBD came) (RP up) )))))))
+  (. .) )
+( (S 
+    (ADVP 
+      (NP (NNS Days) )
+      (RBR later) )
+    (, ,) 
+    (S 
+      (NP 
+        (NP (DT the) (CD four) (NNS senators) )
+        (: --) 
+        (VP (VBN joined) 
+          (PP (IN by) 
+            (NP (NNP Mr.) (NNP Riegle) )))
+        (: --) )
+      (VP (VBD met) 
+        (PP (IN with) 
+          (NP (JJ other) (NNS regulators) ))
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB press) 
+            (NP 
+              (NP (NNP Lincoln) )
+              (POS 's) (NN case) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (NNP Senators) (NNP Glenn) 
+        (, ,)
+        (NNP Riegle) 
+        (CC and)
+        (NNP McCain) )
+      (RB apparently) 
+      (VP (VBD stopped) 
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG doing) 
+            (NP (NNS favors) )
+            (PP (IN for) 
+              (NP (NNP Mr.) (NNP Keating) ))))
+        (PP (IN after) 
+          (NP (DT that) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP (NNP Senators) (NNP Cranston) 
+        (CC and)
+        (NNP DeConcini) )
+      (VP (VBD persisted) )
+      (, ,) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG intervening) 
+          (PP (IN on) 
+            (NP (NN behalf) 
+              (PP (IN of) 
+                (NP (NNP Lincoln) ))))
+          (PP (IN until) 
+            (PP (RB just) (IN before) 
+              (NP 
+                (NP (PRP$ its) (NN closure) )
+                (NP (DT this) (NN year) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (PRP It) )
+      (RB now) 
+      (VP (VBZ turns) (RP out) 
+        (SBAR (DT that) 
+          (S 
+            (NP 
+              (PP (IN at) 
+                (ADJP (JJS least) ))
+              (CD four) 
+              (PP (IN of) 
+                (NP (DT the) (CD five) (NNS Senators) )))
+            (MD may) 
+            (VP (VB have) 
+              (VP (VBN been) 
+                (ADJP (JJ indebted) 
+                  (PP (TO to) 
+                    (NP (NNP Mr.) (NNP Keating) ))
+                  (PP (RB far) (IN beyond) 
+                    (NP (JJ mere) (NN campaign) (NNS contributions) )))))))))
+    (: :) (: --) 
+    (S 
+      (NP (DT The) (NNP Arizona) (NNP Republic) )
+      (VP (VBZ reports) 
+        (SBAR (IN that) 
+          (S 
+            (NP (CD two) 
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Senator) (NNP DeConcini) )
+                  (POS 's) (JJ top) (NNS aides) )))
+            (VP (VBD received) 
+              (ADJP (JJR more) 
+                (PP (IN than) 
+                  (NP ($ $) (CD 50) (CD million) 
+                    (PP (IN in) 
+                      (NP (NN real-estate) (NNS loans) )))))
+              (PP (IN from) 
+                (NP (NNP Lincoln) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (: --) 
+    (S 
+      (NP (NNP Senator) (NNP McCain) )
+      (RB recently) 
+      (VP 
+        (VP (VBD reimbursed) 
+          (NP (NNP Mr.) (NNP Keating) )
+          (PP (IN for) 
+            (NP ($ $) (CD 13,400) 
+              (PP (IN in) 
+                (NP (RB previously) (JJ unreported) (NN airplane) (NNS trips) )))))
+        (, ,) 
+        (CC and)
+        (VP (VBD revealed) 
+          (SBAR (DT that) 
+            (S 
+              (NP (PRP$ his) (NN wife) 
+                (CC and)
+                (NN father-in-law) )
+              (VP (VBD invested) 
+                (NP ($ $) (CD 359,100) )
+                (PP (IN in) 
+                  (NP (DT a) (NNP Keating) (NN shopping-center) (NN partnership) ))
+                (PP (IN in) 
+                  (NP (CD 1986) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (: --) 
+    (S 
+      (NP (NNP Senator) (NNP Cranston) )
+      (VP (VBD solicited) 
+        (NP ($ $) (CD 850,000) 
+          (PP (IN in) 
+            (NP (NNS contributions) )))
+        (PP (IN from) 
+          (NP (NNP Mr.) (NNP Keating) ))
+        (PP (IN for) 
+          (NP 
+            (NP (CD three) (`` ``) (JJ nonpartisan) ('' '') (JJ voter-registration) (NNS groups) )
+            (, ,) 
+            (SBAR 
+              (WHNP (WDT which) )
+              (S 
+                (NP (DT some) (JJ former) (NNS employees) )
+                (RB now) 
+                (VP (VBP say) 
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP (-NONE- T) )
+                      (VP (VBD were) 
+                        (NP (NNS fronts) 
+                          (PP (IN for) 
+                            (NP (DT the) (NNP Democratic) (NNP Party) ))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (: --) 
+    (S 
+      (NP (NNP Senator) (NNP Glenn) )
+      (VP (VBD solicited) 
+        (NP ($ $) (CD 200,000) 
+          (PP (IN in) 
+            (NP (NNS contributions) )))
+        (PP (IN from) 
+          (NP (NNP Mr.) (NNP Keating) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT a) (JJ political) (NN committee) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (PRP he) )
+                (VP (VBN controlled) 
+                  (NP (-NONE- T) ))))
+            (SBAR (IN that) 
+              (S 
+                (NP (-NONE- T) )
+                (VP (VBD paid) 
+                  (NP (PRP him) )
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB travel) 
+                      (PP (IN around) 
+                        (NP (DT the) (NN country) ))))))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (DT Some) ($ $) (CD 43,000) )
+      (VBD was) 
+      (VP (VBN used) 
+        (PP (IN for) 
+          (NP (DT the) (NNP Glenn) (NNP Senate) (NN campaign) ))))
+    (: --) 
+    (NP (DT a) (JJ possible) (NN violation) 
+      (PP (IN of) 
+        (NP (JJ federal) (NN election) (NN law) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN lack) 
+      (PP (IN of) 
+        (NP (NN attention) 
+          (PP (TO to) 
+            (NP (DT the) (NNP Keating) (NN drama) )))))
+    (VP (VBZ is) 
+      (ADJP (JJ astonishing) )
+      (PP (IN in) 
+        (NP (NN light) 
+          (PP (IN of) 
+            (NP (DT the) (NN magnitude) 
+              (PP (IN of) 
+                (NP (DT the) (NN savings-and-loan) (NN disaster) ))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNP S&L) (NN bailout) )
+    (VP (VBZ promises) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB cost) 
+          (NP (DT the) (NNS taxpayers) )
+          (NP (DT some) ($ $) (CD 200) (CD billion) )
+          (, ,) 
+          (PP (IN with) 
+            (S 
+              (NP (NNP Lincoln) )
+              (VP (VBG accounting) 
+                (PP (IN for) 
+                  (NP ($ $) (CD 2.5) (CD billion) ))
+                (RB alone) )))))))
+  (. .) )
+( (S 
+    (PP (IN By) 
+      (NP (NN contrast) ))
+    (, ,) 
+    (S 
+      (NP (DT the) 
+        (ADJP (RB extensively) (VBN covered) )
+        (NNP HUD) (JJ political) (NNS scandals) )
+      (MD may) 
+      (VP (VB cost) 
+        (NP (DT the) (NNS taxpayers) )
+        (NP 
+          (NP ($ $) (CD 2.0) (CD billion) )
+          (, ,) 
+          (NP 
+            (NP (DT the) (NN centerpiece) )
+            (VP (VBG being) 
+              (NP 
+                (NP (DT a) ($ $) (CD 0.0003) (CD billion) (NN check) 
+                  (PP (TO to) 
+                    (NP (NNP James) (NNP Watt) )))
+                (, ,) 
+                (SBAR 
+                  (WHNP (DT the) (NN legality) 
+                    (WHPP (IN of) 
+                      (WHNP (WDT which) )))
+                  (S 
+                    (NP (-NONE- T) )
+                    (VP (VBZ seems) 
+                      (S 
+                        (NP (-NONE- *) )
+                        (TO to) 
+                        (VP (VB be) 
+                          (ADJP (JJ uncontested) )))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (RB Similarly) 
+    (, ,)
+    (S 
+      (NP (DT the) (NN spate) 
+        (PP (IN of) 
+          (NP (JJ dubious) (NNS prosecutions) 
+            (PP (IN in) 
+              (NP (NN finance) )))))
+      (VP (VBZ obscures) 
+        (NP (DT the) (NN seriousness) 
+          (PP (IN of) 
+            (NP (DT the) (NNS allegations) 
+              (PP (IN against) 
+                (NP 
+                  (NP (NNP Mr.) (NNP Keating) )
+                  (CC and) 
+                  (NP (PRP$ his) (NNS associates) )))))))))
+  (. .) )
+( (S 
+    (NP (DT This) )
+    (VP (VBZ is) (RB not) 
+      (NP (DT a) (NN matter) 
+        (PP (IN of) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG whispering) 
+              (NP (`` ``) (NN bunny) (. .) ('' '') ))))))))
+( (S 
+    (NP 
+      (NP (DT The) 
+        (ADJP (JJ 160-page) (JJ civil) )
+        (NN suit) )
+      (VP (VBN filed) 
+        (PP (IN against) 
+          (NP (NNP Mr.) (NNP Keating) ))
+        (NP (JJ last) (NN month) )
+        (PP (IN by) 
+          (NP 
+            (NP (DT the) (NNP Resolution) (NNP Trust) (NNP Corp.) )
+            (, ,) 
+            (NP (DT the) (NN vehicle) 
+              (PP (IN for) 
+                (NP (DT the) (NNP S&L) (NN bailout) )))
+            (, ,) ))))
+    (VP (VBZ traces) 
+      (NP (DT a) (JJ clear) (NN thread) )))
+  (. .) )
+( (S 
+    (NP (NN Money) )
+    (VBD was) 
+    (VP 
+      (VP (VBN taken) 
+        (PP (IN into) 
+          (NP (NNP Lincoln) ))
+        (, ,) 
+        (PP (IN for) 
+          (NP (NN example) ))
+        (PP (IN by) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG selling) 
+              (NP ($ $) (CD 250) (CD million) 
+                (PP (IN in) 
+                  (NP (JJ uninsured) (NNS debentures) )))
+              (PP (IN near) 
+                (NP (NN retirement) (NNS communities) )))))
+        (, ,) )
+      (CC and) 
+      (VP (RB allegedly) (VBN taken) 
+        (PP (IN out) 
+          (PP (IN of) 
+            (NP (DT the) (NN parent) (NN company) )))
+        (PP (IN by) 
+          (NP (NNS insiders) ))
+        (, ,) 
+        (PP (IN for) 
+          (NP (NN example) ))
+        (PP (IN by) 
+          (NP (DT the) (NN sale) 
+            (PP (IN of) 
+              (NP (PRP$ their) (JJ personal) (NN stock) ))
+            (PP (TO to) 
+              (NP 
+                (NP (DT the) (NN company) )
+                (POS 's) (NN employee) (NN stock) (NN ownership) (NN plan) )))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (DT The) (NN case) )
+      (VP (VBZ remains) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB be) 
+            (VP (VBN tested) 
+              (PP (IN in) 
+                (NP (NN court) )))))
+        (, ,) 
+        (PP (IN of) 
+          (NP (NN course) ))
+        (, ,) ))
+    (CC but) 
+    (S 
+      (SBAR (IN if) 
+        (S 
+          (NP (DT the) (NNS allegations) )
+          (VP (VBP hold) (RP up) )))
+      (S 
+        (NP (DT the) (NNS Senators) )
+        (VBD were) 
+        (VP (VBG defending) 
+          (NP (DT a) (JJ classic) (NN scam) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Common) (NNP Cause) )
+    (VP (VBZ is) (RB n't) 
+      (NP 
+        (NP (DT the) (JJ only) (NN body) )
+        (SBAR 
+          (WHNP (WDT that) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBZ thinks) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP 
+                    (NP (DT the) (NNP Keating) (CD Five) )
+                    (POS 's) (NNS interventions) )
+                  (VP (VBP deserve) 
+                    (NP (NN scrutiny) ))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNP House) (NNP Banking) (NNP Committee) )
+    (VBZ has) 
+    (VP (VBN voted) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB subpoena) 
+          (NP 
+            (NP (NNP Mr.) (NNP Keating) )
+            (CC and) 
+            (NP 
+              (ADJP (JJ top) (JJ federal) )
+              (NNS regulators) ))
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB testify) 
+              (PP (IN about) 
+                (NP (NNP Lincoln) ))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNS hearings) )
+    (X 
+      (VP (VBP begin) (NN tomorrow) )
+      (, ,) 
+      (CC and)
+      (X (MD will) 
+        (VP (VB focus) 
+          (PP (IN on) 
+            (SBAR 
+              (WHADVP (WRB why) )
+              (S 
+                (NP 
+                  (NP 
+                    (NP (NN thrift) (NN regulator) )
+                    (NP (NNP M.) (NNP Danny) (NNP Wall) ))
+                  (, ,) 
+                  (NP (DT a) 
+                    (ADJP (JJ former) )
+                    (NNP Senate) (NN staffer) )
+                  (, ,) )
+                (VP 
+                  (VP (VBD overruled) 
+                    (NP (NN staff) (NNS recommendations) 
+                      (S 
+                        (NP (-NONE- *) )
+                        (TO to) 
+                        (VP (VB close) 
+                          (NP (NNP Lincoln) )))))
+                  (CC and) 
+                  (VP (VBD transferred) 
+                    (NP (JJ regulatory) (NN oversight) 
+                      (PP (IN of) 
+                        (NP (NNP Lincoln) )))
+                    (PP (TO to) 
+                      (NP (NNP Washington) )))))))))))
+  (. .) )
+( (S 
+    (PP (IN Between) 
+      (NP 
+        (NP 
+          (NP (NNP April) 
+            (, ,)
+            (CD 1987) )
+          (, ,) 
+          (SBAR 
+            (WHADVP (WRB when) )
+            (S 
+              (NP (DT the) (CD five) (NNS senators) )
+              (VP (VBD intervened) )))
+          (, ,) )
+        (CC and) 
+        (NP 
+          (NP (NNP April) 
+            (, ,)
+            (CD 1988) )
+          (, ,) 
+          (SBAR 
+            (WHADVP (WRB when) )
+            (S 
+              (NP (NNP Lincoln) )
+              (VBD was) (RB finally) 
+              (VP (VBN closed) )))
+          (, ,) )))
+    (S 
+      (NP (DT the) (NNS losses) 
+        (PP (TO to) 
+          (NP (NNS taxpayers) )))
+      (VP (VBD grew) 
+        (PP (IN by) 
+          (NP (DT some) ($ $) (CD 1.5) (CD billion) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (PRP It) )
+    (VP (VBD was) 
+      (NP 
+        (NP 
+          (NP (NNP Common) (NNP Cause) )
+          (POS 's) (NN demand) 
+          (NP (JJ last) (NN year) )
+          (PP (IN for) 
+            (NP (DT a) (NNP House) (NNP Ethics) (NNP Committee) (NN probe) 
+              (PP (IN of) 
+                (NP (NNP Speaker) (NNP Jim) (NNP Wright) )))))
+        (SBAR 
+          (WHNP (WDT that) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBD prompted) 
+              (S 
+                (NP (DT the) (NN committee) )
+                (TO to) 
+                (VP (VB hire) 
+                  (NP (NNP Richard) (NNP Phelan) )
+                  (PP (IN as) 
+                    (NP (DT an) (JJ outside) (NN counsel) ))))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (NNP Mr.) (NNP Phelan) )
+      (VP (VBD found) 
+        (NP 
+          (SBAR (IN that) 
+            (S 
+              (NP (NNP Mr.) (NNP Wright) )
+              (VBD had) (RB improperly) 
+              (VP (VBN intervened) 
+                (PP (IN with) 
+                  (NP (JJ federal) (NNS regulators) ))
+                (PP (IN on) 
+                  (NP (NN behalf) 
+                    (PP (IN of) 
+                      (NP (NNS S&Ls) ))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP (DT the) (NNP Ethics) (NNP Committee) )
+      (VP (VBD disagreed) )
+      (, ,) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG saying) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (S 
+                (NP (JJ such) (NNS actions) )
+                (VP (VBD were) 
+                  (NP (DT an) (JJ integral) (NN part) 
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT a) (NNP Member) )
+                        (POS 's) (NN job) )))))
+              (CC and) 
+              (S 
+                (NP (PRP it) )
+                (MD could) (RB not) 
+                (VP (VB second-guess) 
+                  (NP (`` ``) (DT the) (NN technique) 
+                    (CC and)
+                    (NN personality) 
+                    (PP (IN of) 
+                      (NP (DT the) (NN legislator) ))
+                    (. .) ('' '') ))))))))))
+( (S 
+    (SBAR (IN If) 
+      (S 
+        (NP (DT the) (NNP Senate) (NNP Ethics) (NNP Committee) )
+        (VP (VBZ chooses) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB investigate) )))))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (MD will) 
+      (VP (VB be) 
+        (ADJP (JJ interesting) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB see) 
+              (SBAR (IN if) 
+                (S 
+                  (NP (PRP it) )
+                  (VP (VBZ reaches) 
+                    (NP (DT the) (JJ same) (NN conclusion) )
+                    (PP (IN in) 
+                      (NP (DT the) (NN case) 
+                        (PP (IN of) 
+                          (NP (DT the) (CD five) (NNS Senators) )))))))))))))
+  (. .) )

@@ -1,0 +1,270 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (JJ Spanish) (NN stock) (NN exchange) (NNS regulators) )
+      (VP (VBP plan) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB hand) 
+            (NP (NNP Drexel) (NNP Burnham) (NNP Lambert) (NNP Inc.) )
+            (NP (DT the) (JJ maximum) (NN fine) )
+            (PP (IN for) 
+              (NP (NNS irregularities) 
+                (PP (IN by) 
+                  (NP (PRP$ its) 
+                    (ADJP (JJ former) )
+                    (NNP Madrid) (NN unit) ))
+                (PP (IN in) 
+                  (NP (NN connection) 
+                    (PP (IN with) 
+                      (NP (JJ Spanish) (NN oil) (NN company) 
+                        (NP (NNP Repsol) (NNP S.A.) )
+                        (POS 's) (NN stock) (NN issue) ))))
+                (PP (IN in) 
+                  (NP (NNP May) ))))))))
+    (, ,) 
+    (S 
+      (NP (DT a) (JJ senior) (NN government) (NN official) )
+      (VP (VBD said) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Pedro) (NNP Perez) )
+      (, ,) 
+      (NP (NN secretary) (IN of) (NN state) 
+        (PP (IN for) 
+          (NP (JJ economic) (NNS affairs) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NNP National) (NNP Stock) (NNP Exchange) (NNP Commission) )
+          (VP (VBZ intends) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB propose) 
+                (NP (DT the) (JJ maximum) (NN penalty) )
+                (ADVP (IN because) 
+                  (SBAR 
+                    (WHPP (IN of) 
+                      (WHNP (WP what) ))
+                    (S 
+                      (NP (PRP he) )
+                      (VP (VBD called) 
+                        (NP (DT the) (`` ``) (RB decidedly) (JJ fraudulent) ('' '') (NN nature) 
+                          (PP (IN of) 
+                            (NP (DT the) (NNS operations) 
+                              (PP (IN under) 
+                                (NP (NN scrutiny) )))))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN Under) 
+      (NP (JJ Spanish) (NN stock) (NN market) (NNS rules) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN commission) )
+      (MD can) 
+      (VP (VB call) 
+        (PP (IN for) 
+          (NP (DT a) (NN fine) 
+            (ADJP (JJ equivalent) 
+              (PP (TO to) 
+                (NP (RB as) (JJ much) 
+                  (PP (IN as) 
+                    (NP 
+                      (NP (CD five) (NNS times) )
+                      (NP 
+                        (NP (DT the) (NNS profits) )
+                        (VP (VBN generated) )))))))))))
+    (. .) ))
+( (S 
+    (VP (VBN Based) 
+      (SBAR 
+        (WHPP (IN on) 
+          (WHNP (WP what) ))
+        (S 
+          (NP (NN Drexel) )
+          (VBZ has) 
+          (VP (VBD said) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (PRP$ its) (NN office) )
+                (VP (VBN made) 
+                  (PP (IN on) 
+                    (NP (DT the) (NN transaction) )))))))))
+    (, ,) 
+    (S 
+      (NP (DT the) (JJ maximum) (NN fine) )
+      (MD would) 
+      (VP (VB be) 
+        (NP 
+          (NP (CD 72.5) (CD million) (NNS pesatas) )
+          (NP 
+            (-LRB- -LRB-)
+            ($ $) (CD 621,624) 
+            (-RRB- -RRB-)
+            ))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S (CC But) 
+    (S 
+      (NP 
+        (NP (NNP Carlos) (NNP Croissier) )
+        (, ,) 
+        (NP (NN chairman) 
+          (PP (IN of) 
+            (NP (DT the) (NN commission) )))
+        (, ,) )
+      (NN yesterday) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT that) (NN figure) )
+            (VP (VBZ is) 
+              (ADJP (JJ incorrect) ))))))
+    (. .) ))
+( (S 
+    (NP (PRP He) )
+    (VP (VBD declined) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB say) 
+          (SBAR (IN if) 
+            (S 
+              (NP (DT the) (JJ actual) (NN fine) )
+              (MD will) 
+              (VP (VB be) 
+                (ADJP 
+                  (ADJP (JJR higher) )
+                  (CC or) 
+                  (ADJP (JJR lower) ))))))))
+    (. .) ))
+( (S 
+    (NP (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP he) )
+          (VBZ has) (RB n't) 
+          (VP (VBN submitted) 
+            (NP (DT a) (JJ formal) (NN proposal) )))))
+    (. .) ))
+( (S 
+    (PP (IN Under) 
+      (NP (JJ Spanish) (NN law) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN fine) )
+      (MD must) 
+      (VP (VB be) 
+        (VP 
+          (VP (VBN proposed) 
+            (PP (IN by) 
+              (NP (DT the) (NN commission) )))
+          (CC and) 
+          (VP (VBN approved) 
+            (PP (IN by) 
+              (NP (DT the) (NNP Economy) (NNP Ministry) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Drexel) )
+    (VP (VBD closed) 
+      (NP 
+        (NP (PRP$ its) (JJ Spanish) (NN unit) )
+        (, ,) 
+        (NP (NNP DBL) (NNP Capital) (NNP Markets) (NNP Espana) (NNP S.A.) )
+        (, ,) )
+      (PP (IN in) 
+        (NP (NNP July) )))
+    (PP (IN after) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG confirming) 
+          (SBAR (IN that) 
+            (S 
+              (NP (PRP it) )
+              (VBD had) 
+              (VP (VBN used) 
+                (NP (DT the) (NNS names) 
+                  (PP (IN of) 
+                    (NP (CD 400) (NNS individuals) ))))
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB buy) 
+                  (NP 
+                    (NP (NNP Repsol) (NNS shares) )
+                    (, ,) 
+                    (SBAR 
+                      (WHNP (WDT which) )
+                      (S 
+                        (NP (PRP it) )
+                        (RB then) 
+                        (VP (VB resold) 
+                          (NP (-NONE- T) )
+                          (PP (TO to) 
+                            (NP (JJ institutional) (NNS clients) ))
+                          (, ,) )
+                        (S 
+                          (NP (-NONE- *) )
+                          (VP (VBG circumventing) 
+                            (NP 
+                              (NP (NNS restrictions) )
+                              (VP (VBN designed) 
+                                (S 
+                                  (NP (-NONE- *) )
+                                  (TO to) 
+                                  (VP (VB make) 
+                                    (NP 
+                                      (NP (NNS shares) )
+                                      (ADJP (JJ available) 
+                                        (PP (TO to) 
+                                          (NP (JJ private) (NNS investors) ))))))))))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (NNP New) (NNP York) ))
+    (, ,) 
+    (S 
+      (NP (DT a) (NN spokesman) 
+        (PP (IN for) 
+          (NP (NNP Drexel) )))
+      (VP (VBD said) 
+        (, ,)
+        (S (`` ``) 
+          (S 
+            (NP (EX There) )
+            (VP (VBZ is) 
+              (NP (NN nothing) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB comment) (IN on) )))))
+          (: ;) 
+          (S 
+            (NP (NN nothing) )
+            (VBZ has) 
+            (VP (VBN been) 
+              (VP (VBN settled) (RB yet) ))))))
+    (. .) ))

@@ -1,0 +1,241 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Damon) (NNP Darlin) )
+    (VP (VBZ is) 
+      (NP (DT a) (JJ fine) (NN reporter) 
+        (PP (IN of) 
+          (NP (JJ serious) (NNS topics) )))))
+  (. .) )
+( (S 
+    (NP (-NONE- *) )
+    (VBP Do) (RB n't) 
+    (VP (VB waste) 
+      (NP (PRP$ his) (NNS talents) )
+      (PP (IN with) 
+        (NP 
+          (NP (JJ fatuous) (NNS assignments) )
+          (ADJP (JJ such) 
+            (PP (IN as) 
+              (NP (DT the) (NNP Sept.) (CD 20) (NN page-one) (NN article) 
+                (PP (IN about) 
+                  (NP (NN gift-giving) 
+                    (PP (IN in) 
+                      (NP (NNP Korea) )))))))))))
+  (. .) )
+( (S 
+    (NP (PRP You) )
+    (VP (VBD sunk) 
+      (PP (RB just) (IN about) 
+        (ADJP (RB as) (JJ low) 
+          (SBAR (IN as) 
+            (S 
+              (NP (NNP NBC) )
+              (VBD did) 
+              (PP (IN in) 
+                (NP (PRP$ its) (NN reporting) 
+                  (PP (IN on) 
+                    (NP (JJ Korean) (NN life) ))))
+              (PP (IN during) 
+                (NP 
+                  (NP (JJ last) (NN year) )
+                  (POS 's) (NNPS Olympics) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP 
+        (NP (PRP You) )
+        (NP (NNS media) (NNS folks) ))
+      (VBP do) (RB n't) 
+      (VP (VB get) 
+        (NP (PRP it) )))
+    (, ,) 
+    (SQ (VBP do) 
+      (NP (PRP you) )
+      (. ?) )))
+( (S 
+    (PP (IN About) 
+      (NP (DT the) (JJ Big) (NN Picture) 
+        (PP (IN in) 
+          (NP (NNP Korea) ))))
+    (, ,) 
+    (S 
+      (NP (PRP I) )
+      (VP (VBP mean) )))
+  (. .) )
+( (S 
+    (NP (PRP$ Your) 
+      (INTJ (`` ``) (UH Tee) (UH Hee) ('' '') )
+      (NN treatment) 
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (RB dramatically) (JJ improved) (NN life) (NN style) )
+          (SBAR (IN that) 
+            (S 
+              (NP (DT the) (NNPS Koreans) )
+              (VBP have) 
+              (VP (VBN forged) 
+                (NP (-NONE- T) )
+                (, ,) 
+                (PP (RB particularly) (IN in) 
+                  (NP (DT the) 
+                    (ADJP (JJ past) )
+                    (CD 10) (NNS years) ))
+                (, ,) ))))))
+    (VBZ is) 
+    (VP (VBG insulting) 
+      (PP (TO to) 
+        (NP (DT the) (JJ strong) (NNS bonds) 
+          (PP (IN between) 
+            (NP (PRP$ our) (CD two) (NNS nations) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (`` Non-``) (NNP Saturday) (NNP Night) (NNP Live) ('' '') (NNS journalists) )
+    (MD might) 
+    (VP (VB have) 
+      (VP (VBN analyzed) 
+        (SBAR (IN that) 
+          (SINV 
+            (VP (VBN embedded) 
+              (PP (IN in) 
+                (NP (DT the) (JJ commercial) (NN hype) 
+                  (PP (IN of) 
+                    (NP (DT the) (`` ``) (NNP Tae) (NNP Porum) ('' '') (NN gift-giving) (NN season) )))))
+            (VBZ is) 
+            (NP (DT an) (JJ immense) (NN compliment) 
+              (PP (TO to) 
+                (NP (JJ American) (NN assistance) 
+                  (PP (TO to) 
+                    (NP (NNP Korea) ))))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (DT Some) 
+        (PP (IN of) 
+          (NP (PRP us) )))
+      (, ,) 
+      (SBAR 
+        (WHNP (WP who) )
+        (S 
+          (NP (-NONE- T) )
+          (VP (VBD were) 
+            (NP (JJ personal) (CC or) (JJ official) (NNS participants) 
+              (PP (IN in) 
+                (NP 
+                  (NP (DT the) (NNS days) )
+                  (SBAR 
+                    (WHADVP (WRB when) )
+                    (S 
+                      (NP (DT the) (NNP U.S.) )
+                      (VP (VBD was) 
+                        (ADJP (JJ able) 
+                          (S 
+                            (NP (-NONE- *) )
+                            (TO to) 
+                            (VP (VB supply) 
+                              (NP (JJ needed) (NN material) 
+                                (CC and)
+                                (NN morale) (NNS boosts) )
+                              (PP (TO to) 
+                                (NP (DT a) (JJ destitute) (NN nation) ))))))))))))))
+      (, ,) )
+    (RB now) 
+    (VP (VBP rejoice) 
+      (SBAR (IN that) 
+        (S 
+          (NP 
+            (NP (DT the) (JJR better) (NN life) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (PRP we) )
+                (VP (VBD thought) 
+                  (NP (-NONE- T) )
+                  (ADJP (JJ possible) 
+                    (PP (IN for) 
+                      (NP (NNP Korea) )))))))
+          (VBZ has) 
+          (VP (VBN come) 
+            (PP (TO to) 
+              (NP (NN fruition) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT A) (JJ Korean) (NN farmer) )
+    (VP (VBD toiled) 
+      (PP (IN with) 
+        (NP (DT a) (JJ wooden) (NN plow) ))
+      (PP (IN in) 
+        (NP (PRP$ his) (NN field) ))
+      (PP (IN behind) 
+        (NP (DT a) (NN bullock) ))
+      (PP (IN in) 
+        (NP (CD 1964) ))))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (RB now) 
+    (VP (VBZ has) 
+      (NP 
+        (NP (DT a) (NN son) )
+        (SBAR 
+          (WHNP (WP who) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBZ sells) 
+              (NP 
+                (NP (PRP$ his) (NN nation) )
+                (POS 's) (NNS autos) 
+                (, ,)
+                (NNS computers) 
+                (CC and)
+                (DT a) (CD hundred) (JJ other) (NNS products) )
+              (PP (TO to) 
+                (NP (DT a) (VBG declining) (JJ American) (NN manufacturing-sector) (NN work) (NN force) ))))))))
+  (. .) )
+( (SQ 
+    (SBAR (IN If) 
+      (S 
+        (NP 
+          (NP (PRP we) )
+          (CC and) 
+          (NP (DT the) (NNPS Koreans) ))
+        (VP (VBP gaze) 
+          (PP (IN at) 
+            (NP (DT the) (JJ same) (JJ full) (NN harvest) (NN moon) ))
+          (PP (IN during) 
+            (NP (`` ``) (NNP Tae) (NNP Porum) ('' '') ))
+          (NP (NN today) ))))
+    (, ,) 
+    (SBARQ 
+      (WHNP (WDT which) (NN side) )
+      (SQ 
+        (NP (-NONE- T) )
+        (VP (VBZ has) 
+          (NP (JJ uneasy) (NNS visions) 
+            (PP (IN of) 
+              (NP (JJ future) (JJ bitter) (NNS harvests) )))))))
+  (. ?) )
+( END_OF_TEXT_UNIT )
+( (NP 
+    (NP (NNP J.) (NNP Richard) (NNP Overturf) )
+    (NP 
+      (NP (NNP Oceanside) )
+      (, ,) 
+      (NP (NNP Calif) )))
+  (. .) )
+( END_OF_TEXT_UNIT )

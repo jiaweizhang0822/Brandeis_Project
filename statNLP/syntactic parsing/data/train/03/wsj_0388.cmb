@@ -1,0 +1,221 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP First) (NNP Federal) (NNP Bancorp) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP 
+            (NP (NNP James) (NNP Clarkson) )
+            (, ,) 
+            (NP (PRP$ its) (NN chairman) 
+              (, ,)
+              (NN president) 
+              (CC and)
+              (JJ chief) (NN executive) (NN officer) )
+            (, ,) )
+          (VP (VBD retired) 
+            (ADJP (JJ effective) 
+              (NP (NN yesterday) ))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NN company) )
+    (RB also) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP$ its) (NN board) )
+          (VP (RB recently) (VBD instituted) 
+            (NP (DT a) (NN review) 
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ internal) (NNS policies) 
+                    (CC and)
+                    (NNS procedures) )
+                  (, ,) 
+                  (VP (VBG including) 
+                    (NP 
+                      (NP (NNS activities) )
+                      (VP (VBN conducted) 
+                        (PP (IN by) 
+                          (NP (NNP Mr.) (NNP Clarkson) ))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP First) (NNP Federal) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP 
+            (NP (NNP Mr.) (NNP Clarkson) )
+            (, ,) 
+            (ADJP 
+              (NP (CD 65) (NNS years) )
+              (JJ old) )
+            (, ,) )
+          (VBZ is) 
+          (VP (`` ``) (RB fully) (VBG cooperating) 
+            (PP (IN in) 
+              (NP (DT the) (VBG continuing) (NN review) ))
+            (. .) ('' '') ))))))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S (`` ``) 
+      (NP (NN None) 
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNS activities) )
+            (VP (VBG being) 
+              (VP (VBN reviewed) )))))
+      (VP (VBZ has) 
+        (NP (DT any) (JJ adverse) (NN effect) 
+          (PP (IN on) 
+            (NP (DT the) (JJ financial) (NN condition) 
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN bank) )
+                  (CC or) 
+                  (NP (PRP$ its) (NNS depositors) )))))))
+      (, ,) ('' '') )
+    (S 
+      (NP 
+        (NP 
+          (NP (NNP First) (NNP Federal) (NNP Savings) (NNP Bank) (CC &) (NNP Trust) )
+          (POS 's) (NN president) )
+        (, ,) 
+        (NP (NNP Leo) (NNP D.) (NNP Ottoni) )
+        (, ,) )
+      (VP (VBD said) ))
+    (. .) ))
+( (S 
+    (NP (NNP First) (NNP Federal) (NNP Savings) )
+    (VP (VBZ is) 
+      (NP (DT a) (NN subsidiary) 
+        (PP (IN of) 
+          (NP (NNP First) (NNP Federal) (NNP Bancorp) ))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN company) )
+    (VP 
+      (VP (VBD declined) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB disclose) 
+            (NP (JJ further) (NNS details) ))))
+      (, ,) (CC but) 
+      (VP (VBD said) 
+        (SBAR 
+          (SBAR (IN that) 
+            (S 
+              (NP (DT the) (NN inquiry) )
+              (VBZ is) 
+              (VP (VBG continuing) )))
+          (CC and) 
+          (SBAR (IN that) 
+            (S 
+              (NP (PRP it) )
+              (VBD was) (RB n't) 
+              (VP (VBN forced) 
+                (PP (IN by) 
+                  (NP (VBG banking) (NNS regulators) ))))))))
+    (. .) ))
+( (S 
+    (NP (NNP First) (NNP Federal) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT no) (JJ further) (NNS announcements) )
+          (VBP are) 
+          (VP (VBN expected) )
+          (SBAR (IN before) 
+            (S 
+              (NP (DT the) (NN review) )
+              (VBZ is) 
+              (VP (VBN finished) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP First) (NNP Federal) )
+    (VP 
+      (VP (VBD named) 
+        (NP 
+          (NP (NNP Mr.) (NNP Ottoni) )
+          (NP 
+            (NP (NN president) )
+            (CC and) 
+            (NP (JJ chief) (NN executive) )))
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB succeed) 
+            (NP (NNP Mr.) (NNP Clarkson) ))))
+      (CC and) 
+      (VP (VBD elected) 
+        (NP (PRP him) )
+        (PP (IN as) 
+          (NP (DT a) (NN director) ))))
+    (. .) ))
+( (S 
+    (S 
+      (NP (DT The) (NN post) 
+        (PP (IN of) 
+          (NP (NN chairman) )))
+      (MD will) 
+      (VP (VB remain) 
+        (ADJP (JJ vacant) )
+        (RB indefinitely) ))
+    (, ,) 
+    (S 
+      (NP (DT a) (NN company) (NN spokesman) )
+      (VP (VBD said) ))
+    (. .) ))
+( (S 
+    (NP (RBR Earlier) (DT this) (NN month) )
+    (S 
+      (NP 
+        (NP (NNP Mr.) (NNP Ottoni) )
+        (, ,) 
+        (NP (CD 64) )
+        (, ,) )
+      (VBD was) 
+      (VP (VBN named) 
+        (NP 
+          (ADJP (VBG acting) )
+          (NN president) 
+          (CC and)
+          (JJ chief) (NN executive) 
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (VBG holding) (NN company) )
+              (CC and) 
+              (NP (DT the) (NNS savings) 
+                (NP (NN bank) (NN unit) )))))))
+    (. .) ))
+( (S (RB Previously) 
+    (S 
+      (NP (PRP he) )
+      (VBD had) 
+      (VP (VBN been) 
+        (NP (JJ senior) (NN vice) (NN president) )
+        (PP (IN in) 
+          (NP (NN charge) 
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NNS savings) (NN bank) )
+                (POS 's) (NN trust) (NN division) ))))))
+    (. .) ))

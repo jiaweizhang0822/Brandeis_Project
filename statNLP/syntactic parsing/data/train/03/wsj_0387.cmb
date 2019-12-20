@@ -1,0 +1,1167 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (PRP It) )
+    (VP (VBD was) 
+      (NP 
+        (NP (DT a) (NN parent) )
+        (POS 's) (JJ ultimate) (NN nightmare) ))
+    (. .) ))
+( (S 
+    (SBAR (IN As) 
+      (S 
+        (NP (DT the) (JJ crippled) (NN jet) )
+        (VP (VBD prepared) 
+          (PP (IN for) 
+            (NP (DT an) (NN emergency) (NN landing) )))))
+    (, ,) 
+    (S 
+      (NP (NNP Sylvia) (NNP Tsao) )
+      (VP 
+        (VP (VBD wrapped) 
+          (NP 
+            (NP (PRP her) (JJ 23-month-old) (NN son) )
+            (, ,) 
+            (NP (NNP Evan) )
+            (, ,) )
+          (PP (IN in) 
+            (NP (NNS blankets) )))
+        (CC and) 
+        (, ,)
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG following) 
+            (NP (NNS cabin-crew) (NNS orders) )))
+        (, ,) 
+        (VP (VBD placed) 
+          (NP (PRP him) )
+          (PP (IN on) 
+            (NP (DT the) (NN floor) )))))
+    (. .) ))
+( (S 
+    (NP (PRP She) )
+    (VP (VBD held) 
+      (NP (PRP him) )
+      (RP down) (RB tightly) 
+      (, ,)
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG trying) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB protect) 
+              (NP (PRP him) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S (`` ``) (RB Suddenly) 
+      (, ,)
+      (S 
+        (NP (DT the) (NN world) )
+        (VP (VBD seemed) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB end) ))))
+      (, ,) ('' '') )
+    (S 
+      (NP (PRP she) )
+      (VP (VBD told) 
+        (NP (NNS investigators) )
+        (RB later) ))
+    (. .) ))
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG Crashing) 
+        (PP (IN into) 
+          (NP (DT a) (NN cornfield) ))))
+    (, ,) 
+    (S 
+      (S 
+        (NP 
+          (NP (NNP United) (NNP Airlines) )
+          (POS ') (NN Flight) (CD 232) )
+        (VP (VBD flipped) (RP over) ))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP (PRP she) )
+        (VP (VBD lost) 
+          (NP (PRP$ her) (NN grip) 
+            (PP (IN on) 
+              (NP (PRP$ her) (NN son) ))))))
+    (. .) ))
+( (S 
+    (S (`` ``) 
+      (NP (PRP I) )
+      (VP (VBD saw) 
+        (PP (IN for) 
+          (NP (DT an) 
+            (ADJP (JJ instant) )))
+        (NP 
+          (NP 
+            (NP (PRP$ my) (NN son) )
+            (POS 's) (NN body) )
+          (VP 
+            (VP (VBG floating) )
+            (CC and) 
+            (VP (VBG flying) )
+            ('' '') 
+            (PP (IN toward) 
+              (NP (DT the) (NN back) 
+                (PP (IN of) 
+                  (NP (DT the) (NN plane) ))))))))
+    (, ,) 
+    (S 
+      (NP (NNP Ms.) (NNP Tsao) )
+      (VP (VBD recalled) ))
+    (. .) ))
+( (S 
+    (SBAR 
+      (WHADVP (WRB When) )
+      (S 
+        (NP (DT the) (NN plane) )
+        (VP (VBD stopped) 
+          (VP (VBG moving) ))))
+    (, ,) 
+    (S 
+      (NP (PRP she) )
+      (VP (RB frantically) (VBD tried) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB find) 
+            (NP (PRP him) )))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (NNP Evan) )
+      (VP (VBD died) 
+        (PP (IN of) 
+          (NP (NN smoke) (NN inhalation) ))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP July) )
+      (POS 's) (NNP Sioux) (NNP City) (NN crash) )
+    (VBZ has) 
+    (VP (VBN fueled) 
+      (NP (DT an) (RB emotionally) (JJ charged) (NN debate) ))
+    (. .) ))
+( (S 
+    (NP 
+      (NP 
+        (NP (NN Safety) (NNS advocates) )
+        (CC and) 
+        (NP (NNS members) 
+          (PP (IN of) 
+            (NP (NNP Congress) ))))
+      (, ,) 
+      (VP (VBG calling) 
+        (NP 
+          (NP (NNS babies) )
+          (NP (`` ``) (DT the) (JJ neglected) (NN population) 
+            (, ,)
+            ('' '') ))))
+    (VBP are) 
+    (VP (VBG stepping) (RP up) 
+      (NP (DT a) (NN campaign) 
+        (PP (IN for) 
+          (NP (DT the) (JJ mandatory) (NN use) 
+            (PP (IN of) 
+              (NP (JJ infant) (NN safety) (NNS seats) ))
+            (PP (IN on) 
+              (NP (DT all) (NNS flights) ))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (DT the) (NNP Federal) (NNP Aviation) (NNP Administration) )
+      (VP (VBZ is) 
+        (ADJP (JJ reluctant) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB require) 
+              (NP (JJ separate) (NNS seats) )
+              (PP (IN for) 
+                (NP (NNS babies) )))))
+        (ADVP (IN because) 
+          (PP (IN of) 
+            (NP (DT the) (JJ added) (NN cost) 
+              (PP (IN for) 
+                (NP 
+                  (VP (VBG traveling) )
+                  (NNS parents) )))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (DT Some) (NNP FAA) (NNS officials) )
+      (VP (VBP note) 
+        (SBAR (IN that) 
+          (S 
+            (NP (JJ few) (NNS infants) )
+            (VBP have) 
+            (VP (VBN been) 
+              (VP (VBN killed) 
+                (PP (IN in) 
+                  (NP (NN plane) (NNS crashes) ))))))))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG raising) 
+        (NP (DT the) (NN question) 
+          (PP (IN of) 
+            (SBAR (IN whether) 
+              (S 
+                (NP (NN safety) (NNS seats) )
+                (RB really) (VBP are) 
+                (VP (VBN needed) )))))))
+    (. .) ))
+( (S 
+    (NP 
+      (NP (DT A) (CD 1981) (NNP Harvard) (NNP Medical) (NNP School) (NN study) )
+      (SBAR 
+        (WHNP (WDT that) )
+        (S 
+          (NP (-NONE- T) )
+          (VP (VBD scrutinized) 
+            (NP (NNS accidents) 
+              (PP (IN in) 
+                (NP (DT the) (JJ late) (NNS 1970s) )))))))
+    (S 
+      (VP (VBD concluded) 
+        (SBAR (IN that) 
+          (S 
+            (NP (RB perhaps) (CD three) (NNS babies) )
+            (MD would) 
+            (VP (VB have) 
+              (VP (VBN been) 
+                (VP (VBN saved) 
+                  (PP (IN in) 
+                    (NP (DT a) (JJ five-year) (NN period) ))
+                  (SBAR (IN if) 
+                    (S 
+                      (NP (NN safety-seat) (NN use) )
+                      (VBD had) 
+                      (VP (VBN been) 
+                        (VP (VBN required) )))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP National) (NNP Transportation) (NNP Safety) (NNP Board) )
+    (MD will) 
+    (VP (VB take) 
+      (NP (DT a) (JJ close) (NN look) 
+        (PP (IN at) 
+          (NP (DT the) (NN issue) ))))
+    (PP (IN during) 
+      (NP (CD four) (NNS days) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNS hearings) )
+            (SBAR 
+              (WHNP (WDT that) )
+              (S 
+                (NP (-NONE- T) )
+                (VP (VBP begin) (NN today) 
+                  (PP (IN on) 
+                    (NP 
+                      (NP (DT the) 
+                        (ADJP (JJR broader) )
+                        (NN issue) )
+                      (SBAR 
+                        (WHPP (IN of) 
+                          (WHNP (WP what) ))
+                        (S 
+                          (NP (-NONE- T) )
+                          (VP (VBD caused) 
+                            (NP 
+                              (NP (DT the) (NN crash) )
+                              (SBAR 
+                                (WHNP (WDT that) )
+                                (S 
+                                  (NP (-NONE- T) )
+                                  (VP (VBD killed) 
+                                    (NP (CD 112) (NNS people) )))))))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S (`` ``) 
+      (NP 
+        (NP 
+          (NP (NNS Infants) )
+          (POS ') 
+          (, ,)
+          (NP (NNS toddlers) )
+          (POS ') 
+          (CC and)
+          (NP (JJ young) (NNS children) )
+          (POS 's) )
+        (NN safety) )
+      (MD should) (RB no) (RBR longer) 
+      (VP (VB be) 
+        (VP (VBN ignored) 
+          (SBAR (IN as) (IN if) 
+            (S 
+              (NP (PRP they) )
+              (VBP do) (RB n't) 
+              (VP (VB count) )))))
+      (, ,) ('' '') )
+    (S 
+      (NP (NNP Mrs.) (NNP Tsao) )
+      (VP (VBD wrote) 
+        (PP (TO to) 
+          (NP (DT the) (NN board) ))
+        (PP (IN in) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG advocating) 
+              (NP (NN use) 
+                (PP (IN of) 
+                  (NP (DT the) (NN safety) (NNS seats) ))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT All) (CD 50) (NNS states) )
+    (VP (VBP require) 
+      (SBAR (IN that) 
+        (S 
+          (NP (JJ small) (NNS children) )
+          (VB be) 
+          (VP (VBN strapped) 
+            (PP (IN into) 
+              (NP (NN safety) (NNS seats) 
+                (PP (IN in) 
+                  (NP (NNS cars) ))))))))
+    (. .) ))
+( (S 
+    (PP (IN On) 
+      (NP (NNS planes) ))
+    (, ,) 
+    (S 
+      (NP (NNP FAA) (NNS rules) )
+      (VP (VBP dictate) 
+        (SBAR (IN that) 
+          (S 
+            (NP 
+              (NP (NNS children) )
+              (X 
+                (ADJP 
+                  (NP (CD two) (NNS years) )
+                  (JJ old) )
+                (CC and) (RB over) ))
+            (X 
+              (VP (VB have) 
+                (NP (PRP$ their) (JJ own) (NNS tickets) ))
+              (CC and) 
+              (X (VB be) 
+                (VP (VBN strapped) 
+                  (PP (IN into) 
+                    (NP (JJ regular) (NNS seats) ))))
+              (, ,) 
+              (SBAR (RB just) (IN as) 
+                (S 
+                  (NP (NNS adults) )
+                  (VP (VBP are) 
+                    (NP (-NONE- T) )))))))))
+    (. .) ))
+( (S 
+    (NP (NNS Babies) 
+      (PP (IN under) 
+        (NP (CD two) )))
+    (MD may) 
+    (VP 
+      (VP (VB sit) 
+        (PP (IN on) 
+          (NP (NNS laps) )))
+      (CC and) 
+      (VP (VB fly) )
+      (PP (IN for) 
+        (ADJP (RB free) )))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (PRP it) )
+      (VP (VBZ is) 
+        (ADJP (RB almost) (JJ impossible) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB keep) 
+              (VP (VB hold) 
+                (PP (IN of) 
+                  (NP (DT a) (NN baby) ))
+                (PP 
+                  (PP (IN during) 
+                    (NP (DT an) (NN air) (NN crash) ))
+                  (, ,) (CC or) 
+                  (PP (RB even) (IN in) 
+                    (NP (JJ severe) (NN turbulence) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN During) 
+      (NP (DT the) (NNP Sioux) (NNP City) (NN crash) ))
+    (, ,) 
+    (S 
+      (NP (NNP Lori) (NNP Michaelson) 
+        (PP (IN of) 
+          (NP (NNP Cincinnati) )))
+      (VP (VBD lost) 
+        (NP (PRP$ her) (NN grip) 
+          (PP (IN on) 
+            (NP (PRP$ her) (NN baby) )))
+        (SBAR (IN as) 
+          (S 
+            (NP (DT the) (NN plane) )
+            (VP 
+              (VP (VBD lurched) )
+              (CC and) 
+              (VP (VBD tipped) (RP over) ))))))
+    (. .) ))
+( (S 
+    (NP (DT Another) (NN passenger) )
+    (VP 
+      (VP (VBD heard) 
+        (NP 
+          (ADJP (JJ one-year-old) )
+          (NP (NNP Sabrina) )
+          (POS 's) (NN cry) ))
+      (CC and) 
+      (VP (VBD pulled) 
+        (NP (PRP her) )
+        (PP (IN from) 
+          (NP (DT an) (JJ overhead) (NN luggage) (NN compartment) ))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (DT The) (NNP FAA) )
+      (VP (VBZ encourages) 
+        (NP (DT the) (NN use) 
+          (PP (IN of) 
+            (NP (NN safety) (NNS seats) )))))
+    (, ,) (CC but) 
+    (S 
+      (S 
+        (PP (IN in) 
+          (NP (DT the) 
+            (ADJP (JJ past) )))
+        (S 
+          (NP (JJ many) (NNS parents) )
+          (VBP have) 
+          (VP (VBN run) 
+            (PP (IN into) 
+              (NP (NNS problems) )))
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG trying) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB use) 
+                  (NP (PRP them) )
+                  (, ,) )
+                (SBAR (RB even) 
+                  (WHADVP (WRB when) )
+                  (S 
+                    (NP (DT the) (NN plane) )
+                    (VP (VBD was) 
+                      (ADJP (RB only) (JJ half-full) )))))))))
+      (CC or) 
+      (S 
+        (NP (PRP they) )
+        (VBD had) 
+        (VP (VBN bought) 
+          (NP (DT an) (JJ extra) (NN ticket) )
+          (PP (RB especially) (IN for) 
+            (NP (DT the) (NN baby) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR 
+      (WHADVP (WRB When) 
+        (S 
+          (NP 
+            (NP (NNP Vanessa) (NNP Merton) )
+            (, ,) 
+            (NP (DT an) (JJ associate) (NN dean) 
+              (PP (IN at) 
+                (NP (NNP Pace) (NNP University) (NNP School) 
+                  (PP (IN of) 
+                    (NP (NNP Law) )))))
+            (, ,) )
+          (VP (VBD decided) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB take) 
+                (NP (PRP$ her) (JJ young) (NN son) )
+                (PP (TO to) 
+                  (NP (NNP Europe) ))))
+            (NP (JJ last) (NN spring) )))))
+    (, ,) 
+    (S 
+      (NP (PRP she) )
+      (VP (VBD called) 
+        (NP (CD four) (NNS carriers) )
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB ask) 
+            (PP (IN about) 
+              (NP (PRP$ their) (NNS policies) 
+                (PP (IN on) 
+                  (NP (NN car) (NNS seats) ))))))))
+    (. .) ))
+( (S 
+    (S (`` ``) 
+      (NP (DT The) (NNS people) )
+      (VP (VBD acted) 
+        (PP (IN like) 
+          (S 
+            (NP (PRP I) )
+            (VBD was) 
+            (VP (VBG transporting) 
+              (NP (NN heroin) )))))
+      (, ,) ('' '') )
+    (S 
+      (NP (PRP she) )
+      (VP (VBZ says) ))
+    (. .) ))
+( (S 
+    (NP (CD One) (NN reservation) (NN agent) )
+    (VP (VBD told) 
+      (NP (PRP her) )
+      (: --) (RB incorrectly) (: --) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (NN airline) )
+          (VP (VBD barred) 
+            (NP (DT the) (NN use) 
+              (PP (IN of) 
+                (NP (DT the) (NNS seats) ))
+              (PP (IN on) 
+                (NP (NNS flights) )))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN After) 
+      (NP (DT the) (NNP Sioux) (NNP City) (NN crash) ))
+    (, ,) 
+    (S 
+      (NP (NNP Lori) (NNP Michaelson) )
+      (VP (VBD bought) 
+        (NP (DT a) (NN car) (NN seat) )
+        (PP (IN for) 
+          (NP (PRP$ her) (NN daughter) ))
+        (PP (IN for) 
+          (NP (DT the) (NN flight) (RB home) 
+            (PP (TO to) 
+              (NP (NNS Cincinnati) ))))))
+    (. .) ))
+( (S (CC But) 
+    (PP (IN on) 
+      (NP (CD one) (NN leg) 
+        (PP (IN of) 
+          (NP (DT the) (NN trip) ))))
+    (, ,) 
+    (S 
+      (NP (PRP she) )
+      (VBD was) 
+      (VP (VBN ordered) 
+        (PP (IN by) 
+          (NP (DT a) (NN flight) (NN attendant) ))
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP 
+            (VP (VB take) 
+              (NP (NN Sabrina) )
+              (PP (IN out) 
+                (PP (IN of) 
+                  (NP (DT the) (NN seat) ))))
+            (CC and) 
+            (VP (VB hold) 
+              (NP (PRP her) )
+              (PP (IN during) 
+                (NP 
+                  (NP 
+                    (NP (NN takeoff) )
+                    (CC and) 
+                    (NP (NN landing) ))
+                  (: --) 
+                  (NP (DT the) (RBS most) (JJ dangerous) (NNS parts) 
+                    (PP (IN of) 
+                      (NP (DT any) (NN flight) ))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (NNS Airlines) )
+      (VP (VBP say) 
+        (SBAR (IN that) 
+          (S 
+            (NP (JJ such) (NNS mistakes) )
+            (VBP are) 
+            (VP (VBG decreasing) 
+              (PP (IN in) 
+                (NP (DT the) (NN aftermath) 
+                  (PP (IN of) 
+                    (NP (NNP Sioux) (NNP City) )))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP (NNS proponents) 
+        (PP (IN of) 
+          (NP (DT the) (NN safety) (NNS devices) )))
+      (VP (VBP say) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP they) )
+            (RB still) 
+            (VP (VBP get) 
+              (NP (NNS complaints) )
+              (PP (IN from) 
+                (NP (NNS parents) )))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S (`` ``) 
+      (NP (NNS People) )
+      (VBP are) 
+      (VP (VBN told) 
+        (X 
+          (X 
+            (NP (CD one) (NN thing) )
+            (PP (IN on) 
+              (NP (DT the) (NN phone) )))
+          (, ,) 
+          (X 
+            (NP (DT another) )
+            (PP (IN at) 
+              (NP (NN check) (RP in) )))
+          (, ,) 
+          (X 
+            (NP (DT another) )
+            (PP (IN at) 
+              (NP (DT the) (NN gate) )))
+          (, ,) 
+          (CC and)
+          (X 
+            (NP (DT another) )
+            (PP (IN on) 
+              (NP (DT the) (NN plane) )))))
+      (, ,) ('' '') )
+    (SINV 
+      (VP (VBZ says) )
+      (NP 
+        (NP (NNP Stephanie) (NNP Tombrello) )
+        (, ,) 
+        (NP (JJ executive) (NN director) 
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNP Los) (NNP Angeles) (NNP Area) (NNP Child) (NNP Passenger) (NNP Safety) (NNP Association) )
+              (, ,) 
+              (SBAR 
+                (WHNP (WDT which) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VP (VBD petitioned) 
+                    (NP (DT the) (NNP FAA) )
+                    (PP (IN in) 
+                      (NP (NNP June) ))
+                    (PP (IN for) 
+                      (NP (JJ mandatory) (NN use) 
+                        (PP (IN of) 
+                          (NP (JJ child-safety) (NNS seats) ))))))))))))
+    (. .) ))
+( (S 
+    (NP 
+      (NP (DT The) (NNP Association) 
+        (PP (IN of) 
+          (NP (NNP Flight) (NNPS Attendants) )))
+      (, ,) 
+      (NP 
+        (NP (DT the) (JJ main) (NN flight) (NNS attendants) )
+        (POS ') (NN union) )
+      (, ,) )
+    (VBZ is) 
+    (VP (RB strongly) (VBG backing) 
+      (NP (DT that) (NN request) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP FAA) )
+    (VP (VBZ argues) 
+      (SBAR (IN that) 
+        (S 
+          (NP 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG requiring) 
+                (NP (NN safety) (NNS seats) )
+                (PP (IN for) 
+                  (NP (DT all) (NNS babies) )))))
+          (MD might) 
+          (VP 
+            (VP (RB actually) (VB diminish) )
+            (, ,) 
+            (VP (RB not) (VB enhance) )
+            (, ,) 
+            (NP (NN safety) )))))
+    (. .) ))
+( (S 
+    (PP (IN As) 
+      (NP (NN part) 
+        (PP (IN of) 
+          (NP (PDT such) (DT a) (NN rule) ))))
+    (, ,) 
+    (S 
+      (NP (NNS officials) )
+      (VP (VBP say) ))
+    (, ,) 
+    (S 
+      (NP (NNS parents) )
+      (MD would) (RB probably) 
+      (VP (VB be) 
+        (VP (VBN required) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB buy) 
+              (NP (DT an) (JJ extra) (NN ticket) )
+              (PP (IN for) 
+                (NP (DT the) (NN baby) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP (DT The) (JJ increased) (NN cost) 
+        (PP (IN of) 
+          (NP (VBG flying) )))
+      (MD would) (RB inevitably) 
+      (VP (VB encourage) 
+        (NP (DT some) (NNS families) )
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB drive) 
+            (PP (RB rather) (IN than) 
+              (VP (VB fly) ))))))
+    (, ,) 
+    (S 
+      (NP (PRP they) )
+      (VP (VBP say) ))
+    (. .) ))
+( (S 
+    (NP (JJ Commercial) (NNS airlines) )
+    (VP (VBP have) 
+      (NP 
+        (NP (DT the) (JJS lowest) (NN accident) (NN rate) 
+          (PP (IN of) 
+            (NP (DT all) (NN transportation) (NNS modes) )))
+        (: --) 
+        (ADJP (RB much) (JJR lower) 
+          (PP (IN than) 
+            (NP (NNS cars) )
+            (, ,) 
+            (PP (IN for) 
+              (NP (NN example) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Anthony) (NNP Broderick) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NNP FAA) )
+        (POS 's) (JJ acting) (NN executive) (NN director) 
+        (PP (IN for) 
+          (NP (JJ regulatory) (NNS standards) 
+            (CC and)
+            (NN compliance) )))
+      (, ,) )
+    (VP (VBZ contends) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (JJ current) (NN rule) )
+          (VP (VBZ is) 
+            (NP (DT the) 
+              (ADJP (JJS best) )
+              (NN approach) )
+            (SBAR (IN because) 
+              (S 
+                (NP (PRP it) )
+                (VP (VBZ allows) 
+                  (NP (NNS parents) )
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB make) 
+                      (NP (PRP$ their) (JJ own) (NN decision) 
+                        (PP (IN on) 
+                          (SBAR (IN whether) 
+                            (S 
+                              (NP (-NONE- *) )
+                              (TO to) 
+                              (VP (VB use) 
+                                (NP (DT a) (NN safety) (NN seat) )))))))))))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (PRP he) )
+      (VP (VBZ admits) 
+        (SBAR (IN that) 
+          (S 
+            (NP (DT the) (NN agency) )
+            (VP (VBZ is) 
+              (PP (IN in) 
+                (NP (`` ``) (DT a) (RB very) (JJ uncomfortable) (NN position) (. .) ('' '') )))))))))
+( (S 
+    (NP (PRP He) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN agency) )
+          (RB soon) (MD will) 
+          (VP (VB propose) 
+            (SBAR (IN that) 
+              (S 
+                (NP (NNS airlines) )
+                (VB be) 
+                (VP (VBN prohibited) 
+                  (PP (IN from) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (VP (VBG denying) 
+                        (NP (DT the) (NN use) 
+                          (PP (IN of) 
+                            (NP (NN safety) (NNS seats) )))))))))))))
+    (. .) ))
+( (S 
+    (-LRB- -LRB-)
+    (NP 
+      (ADJP (JJS Most) )
+      (NNS airlines) )
+    (VBP do) (RB n't) 
+    (VP (VB prohibit) 
+      (NP (PRP$ their) (NN use) ))
+    (. .) 
+    (-RRB- -RRB-)
+    ))
+( (S 
+    (NP (PRP He) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN agency) )
+          (RB also) (MD will) 
+          (VP (VB seek) 
+            (NP (JJ public) (NN comment) 
+              (PP (IN on) 
+                (SBAR (IN whether) 
+                  (S 
+                    (NP (DT the) (NNS seats) )
+                    (MD should) 
+                    (VP (VB be) 
+                      (VP (VBN required) ))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Walter) (NNP Coleman) )
+      (, ,) 
+      (NP (NN vice) (NN president) 
+        (PP (IN of) 
+          (NP (NNS operations) 
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (NNP Air) (NNP Transport) (NNP Association) )
+                (, ,) 
+                (NP (DT the) (NN trade) (NN group) 
+                  (PP (IN for) 
+                    (NP (DT the) (JJ major) (NNS airlines) ))))))))
+      (, ,) )
+    (VP 
+      (VP (VBZ describes) 
+        (NP (DT the) (NN call) 
+          (PP (IN for) 
+            (NP (NN safety) (NNS seats) )))
+        (PP (IN as) 
+          (ADJP (`` ``) (JJ legitimate) ('' '') )))
+      (CC and) 
+      (VP (VBZ says) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT the) (NN group) )
+            (VBZ is) 
+            (VP (VBG studying) 
+              (NP (DT the) (NN issue) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S (CC But) (RB privately) 
+    (S 
+      (NP (DT some) (NN airline) (NNS officials) )
+      (VP (VBP fear) 
+        (SBAR (IN that) 
+          (S 
+            (SBAR (IN if) 
+              (S 
+                (NP (NNS parents) )
+                (MD must) 
+                (VP (VB buy) 
+                  (NP (JJ extra) (NNS tickets) )
+                  (PP (IN for) 
+                    (NP (NNS babies) )))))
+            (, ,) 
+            (S 
+              (NP (JJ whole) (NNS families) )
+              (MD will) 
+              (VP (VB stop) 
+                (NP (VBG flying) )))))))
+    (. .) ))
+( (S 
+    (NP (NNS Others) )
+    (VP (VBP worry) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (NNP FAA) )
+          (MD might) 
+          (VP (VB write) 
+            (NP 
+              (NP (DT a) (NN rule) )
+              (VP (VBG forcing) 
+                (NP (NNS airlines) )
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB pick) (IN up) 
+                    (NP (NN part) 
+                      (PP (IN of) 
+                        (NP (DT the) (NN tab) 
+                          (PP (IN for) 
+                            (NP (JJ increased) (NN infant) (NN safety) )))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S (RB Generally) 
+    (, ,)
+    (S 
+      (NP (NNS airlines) )
+      (VP (VBP say) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP they) )
+            (X 
+              (VP (VBP welcome) 
+                (NP (DT the) (NN use) 
+                  (PP (IN of) 
+                    (NP (DT a) (JJ government-approved) (NN safety) (NN seat) ))))
+              (CC and) 
+              (X (MD will) (RB even) 
+                (VP (VB allow) 
+                  (NP (DT the) (NN restraint) )
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB take) (RP up) 
+                      (NP (DT a) (JJ regular) (NN seat) )
+                      (PP (IN for) 
+                        (ADJP (JJ free) ))))))
+              (SBAR (IN if) 
+                (S 
+                  (NP (DT the) (NN flight) )
+                  (VBZ is) (RB n't) 
+                  (VP (VBN crowded) ))))))))
+    (. .) ))
+( (S 
+    (-LRB- -LRB-)
+    (NP 
+      (NP 
+        (ADJP (JJS Most) )
+        (NN car) (NNS seats) )
+      (VP (VBN made) 
+        (PP (IN in) 
+          (NP (JJ recent) (NNS years) ))))
+    (X 
+      (X (VBP are) 
+        (VP (VBN certified) 
+          (PP (IN for) 
+            (NP (NN use) 
+              (PP (IN on) 
+                (NP (NN aircraft) ))))))
+      (CC and) 
+      (X (VBP are) (RB so) 
+        (VP (VBN marked) )))
+    (. .) 
+    (-RRB- -RRB-)
+    ))
+( (S (CC But) 
+    (S 
+      (NP (NN space) )
+      (MD can) (RB only) (VB be) 
+      (VP (VBN guaranteed) )
+      (SBAR (IN if) 
+        (S 
+          (NP (DT a) (NN ticket) )
+          (VBZ is) 
+          (VP (VBN purchased) ))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR 
+      (WHNP (WP What) )
+      (S 
+        (NP (DT the) (NN industry) )
+        (VP (RB really) (VBZ wants) )))
+    (VP (VBZ is) 
+      (NP (DT some) (NN kind) 
+        (PP (IN of) 
+          (NP 
+            (NP (NN device) )
+            (SBAR 
+              (WHNP (WDT that) )
+              (S 
+                (NP (-NONE- T) )
+                (MD would) 
+                (VP (VB protect) 
+                  (NP (NNS babies) )
+                  (PP (IN without) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (VP (VBG taking) (RP up) 
+                        (NP (DT an) (JJ extra) (NN seat) )))))))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (DT no) (NN one) )
+      (VBZ has) 
+      (VP (VBN come) 
+        (PP (RP up) 
+          (PP (IN with) 
+            (NP 
+              (NP (NN anything) )
+              (SBAR 
+                (WHNP (WDT that) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VP (VBZ is) 
+                    (ADJP (JJR safer) 
+                      (PP (IN in) 
+                        (NP (DT a) (NN crash) ))
+                      (PP (IN than) 
+                        (NP (DT the) (JJ current) (NN practice) 
+                          (PP (IN of) 
+                            (S 
+                              (NP (-NONE- *) )
+                              (VP 
+                                (VP (VBG bundling) 
+                                  (NP (NNS babies) )
+                                  (RP up) )
+                                (CC and) 
+                                (VP (VBG trying) 
+                                  (S 
+                                    (NP (-NONE- *) )
+                                    (TO to) 
+                                    (VP (VB pin) 
+                                      (NP (PRP them) )
+                                      (PP (TO to) 
+                                        (NP (DT the) (NN floor) )))))))))))))))))))
+    (. .) ))
+( (S 
+    (NP (NNS Parents) )
+    (VBP are) 
+    (VP (VBN advised) 
+      (PP (IN against) 
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG holding) 
+            (NP (DT the) (NNS infants) ))))
+      (, ,) 
+      (PP (IN for) 
+        (NP (NN fear) 
+          (SBAR (IN that) 
+            (S 
+              (PP (IN in) 
+                (NP (DT an) (NN accident) ))
+              (S 
+                (NP (DT the) (NNS babies) )
+                (MD could) 
+                (VP (VB be) 
+                  (VP (VBN crushed) 
+                    (PP (IN by) 
+                      (NP 
+                        (NP (DT the) (NN adult) )
+                        (POS 's) (NN weight) ))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNS Proponents) 
+      (PP (IN of) 
+        (NP (NN safety) (NNS seats) )))
+    (VBP are) 
+    (VP (VBG turning) (RP up) 
+      (NP (DT the) (NN heat) )
+      (PP (IN on) 
+        (NP (DT the) (NNP FAA) )))
+    (. .) ))
+( (S 
+    (NP (NN Yesterday) )
+    (, ,) 
+    (S 
+      (NP 
+        (NP (NNP Rep.) (NNP James) (NNP Lightfoot) )
+        (, ,) 
+        (NP (DT an) (NNP Iowa) (NNP Republican) )
+        (, ,) )
+      (VP (VBD sent) 
+        (NP (NNP FAA) (NNP Administrator) (NNP James) (NNP Busey) )
+        (NP 
+          (NP (DT a) (NN letter) )
+          (VP (VBN signed) 
+            (PP (IN by) 
+              (NP (CD 56) (NNP House) (NNS members) )))
+          (VP (VBG urging) 
+            (NP (DT the) (NN agency) )
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB require) 
+                (NP (JJ infant) (NN safety) (NNS seats) )))))))
+    (. .) ))
+( (S 
+    (SBAR (IN If) 
+      (S 
+        (NP (DT the) (NNP FAA) )
+        (VP (VBZ refuses) )))
+    (, ,) 
+    (S 
+      (NP (NNP Rep.) (NNP Lightfoot) )
+      (VP (VBZ says) ))
+    (, ,) 
+    (S 
+      (NP (PRP he) )
+      (MD will) 
+      (VP (VB push) 
+        (NP (NN legislation) )
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB require) 
+            (NP (DT the) (NN change) )))))
+    (. .) ))

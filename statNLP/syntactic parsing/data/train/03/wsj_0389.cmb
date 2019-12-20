@@ -1,0 +1,136 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Ardent) (NNP Computer) (NNP Corp.) )
+      (CC and) 
+      (NP (NNP Stellar) (NNP Computer) (NNP Inc.) ))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP they) )
+          (VP (VBD completed) 
+            (NP 
+              (NP (DT the) (NN merger) )
+              (SBAR 
+                (WHNP (IN that) )
+                (S 
+                  (NP (DT the) 
+                    (ADJP (RB closely) (VBN held) )
+                    (NNS companies) )
+                  (VP (VBD announced) 
+                    (NP (-NONE- T) )
+                    (NP (NNP Aug.) (CD 30) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (DT The) (JJ new) (NN company) )
+      (, ,) 
+      (VP (VBN called) 
+        (NP (NNP Stardent) (NNP Computer) (NNP Inc.) ))
+      (, ,) )
+    (RB also) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD named) 
+            (NP 
+              (NP (NNP John) (NNP William) (NNP Poduska) )
+              (, ,) 
+              (NP (JJ former) (NN chairman) 
+                (CC and)
+                (JJ chief) (NN executive) 
+                (PP (IN of) 
+                  (NP (NNP Stellar) )))
+              (, ,) )
+            (PP (TO to) 
+              (NP (DT the) (NNS posts) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (NN president) )
+                    (CC and) 
+                    (NP (JJ chief) (NN executive) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Allen) (NNP H.) (NNP Michels) )
+      (, ,) 
+      (NP 
+        (NP (NNP Ardent) )
+        (POS 's) (JJ former) (NN president) 
+        (CC and)
+        (JJ chief) (NN executive) )
+      (, ,) )
+    (VBD was) 
+    (VP (VBN named) 
+      (NP (NN chairman) 
+        (PP (IN of) 
+          (NP (DT the) (JJ new) (NN company) ))))
+    (. .) ))
+( (S 
+    (NP (DT The) (CD two) (NNS men) )
+    (VBD had) 
+    (VP (VBN been) 
+      (VP (VBG serving) 
+        (PP (IN as) 
+          (NP 
+            (NP (NNS co-chairmen) )
+            (CC and) 
+            (NP 
+              (ADJP (JJ co-chief) (JJ executive) )
+              (NNS officers) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Stardent) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (MD would) 
+          (VP (VB combine) 
+            (NP 
+              (NP (PRP$ its) (CD two) (NN product) (NNS lines) )
+              (: --) 
+              (NP (DT both) (JJ high-performance) (NNS graphics) (NNS computers) )
+              (: --) )
+            (PP (IN by) 
+              (NP (DT the) (CD 1991) (JJ first) (NN quarter) ))))))
+    (. .) ))
+( (S 
+    (NP (NNP Stardent) )
+    (X 
+      (X (MD will) 
+        (VP (VB be) 
+          (VP (VBN based) 
+            (PP (IN in) 
+              (NP 
+                (NP (NNP Newton) )
+                (, ,) 
+                (NP (NNP Mass.) )
+                (, ,) )))))
+      (CC but) 
+      (X (MD will) 
+        (VP (VB maintain) 
+          (NP (PRP$ its) (NNS operations) 
+            (PP (IN in) 
+              (NP 
+                (NP (NNP Sunnyvale) )
+                (, ,) 
+                (NP (NNP Calif) (. .) )))))))))

@@ -1,0 +1,765 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Martha) (NNP O.) (NNP Hesse) )
+      (, ,) 
+      (NP (NN chairman) 
+        (PP (IN of) 
+          (NP (DT the) (NNP Federal) (NNP Energy) (NNP Regulatory) (NNP Commission) ))
+        (PP (IN since) 
+          (NP (CD 1986) )))
+      (, ,) )
+    (VBD was) 
+    (VP (VBN named) 
+      (NP (JJ senior) (NN vice) (NN president) 
+        (PP (IN for) 
+          (NP (JJ corporate) (NNS affairs) )))
+      (, ,) 
+      (ADJP (JJ effective) 
+        (NP (IN about) (DT the) (NN beginning) 
+          (PP (IN of) 
+            (NP (JJ next) (NN year) ))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN banking) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP$ her) (NNS duties) )
+          (MD will) 
+          (VP (VB include) 
+            (NP (JJ corporate) (NN advertising) 
+              (CC and)
+              (NN investor) (NNS relations) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Cleveland) (NNP Museum) 
+      (PP (IN of) 
+        (NP (NNP Art) )))
+    (: :) 
+    (NP (`` ``) 
+      (NP (JJ American) (NNS Cities) )
+      (: :) 
+      (NP 
+        (NP (DT The) (NN Artist) )
+        (POS 's) (NN View) )
+      ('' '') )
+    (: --) 
+    (S 
+      (NP 
+        (NP (RB Nearly) (CD 50) (NNS prints) 
+          (, ,)
+          (NNS drawings) 
+          (, ,)
+          (NNS paintings) 
+          (CC and)
+          (NNS photographs) )
+        (VP (VBG dating) 
+          (PP 
+            (PP (IN from) 
+              (NP (DT the) (NNS 1850s) ))
+            (PP (TO to) 
+              (NP (DT the) (NN present) )))))
+      (VP (VBP explore) 
+        (SBAR 
+          (WHADVP (WRB how) )
+          (S 
+            (NP (JJ different) (NNS artists) )
+            (VBP have) 
+            (VP (VBN interpreted) 
+              (NP (DT the) (JJ urban) (NN scene) )))))))
+  (. .) )
+( (SINV 
+    (VP (VBN Included) )
+    (VBP are) 
+    (NP 
+      (NP 
+        (NP (NNP Joseph) (NNP Pennell) )
+        (POS 's) (NNS lithographs) 
+        (PP (IN of) 
+          (NP (NNP New) (NNP York) (NNP City) 
+            (PP (IN in) 
+              (NP (DT the) (NNS 1900s) )))))
+      (: ;) 
+      (NP (CD six) (JJ black-and-white) (NNS photos) 
+        (PP (IN of) 
+          (NP (NNP Cleveland) (NN steel) (NNS mills) ))
+        (PP (IN by) 
+          (NP (NNP Margaret) (NNP Bourke-White) )))
+      (: ;) 
+      (CC and)
+      (NP 
+        (NP (NNP Wayne) (NNP Thiebaud) )
+        (POS 's) (JJ contemporary) (NNS views) 
+        (PP (IN of) 
+          (NP (NNP San) (NNP Francisco) )))))
+  (. .) )
+( (NP (CD 11150) (NNP East) (NNP Boulevard) )
+  (. .) )
+( (PP (IN Through) 
+    (NP (NNP Jan.) (CD 7) ))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (NP 
+    (NP 
+      (NP (NNP Pennsylvania) (NNP Academy) 
+        (PP (IN of) 
+          (NP (DT the) (NNPS Fine) (NNPS Arts) )))
+      (, ,) 
+      (NP (NNP Philadelphia) ))
+    (: :) 
+    (NP (`` ``) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG Making) 
+          (NP (PRP$ Their) (NN Mark) )))
+      (: :) 
+      (S 
+        (NP (NNS Women) (NNS Artists) )
+        (VP (VBP Move) 
+          (PP (IN Into) 
+            (NP (DT the) (NN Mainstream) ))
+          (NP (CD 1970-85) )))
+      ('' '') )
+    (: --) 
+    (NP 
+      (NP (JJR More) 
+        (PP (IN than) 
+          (NP (CD 160) (NNS works) 
+            (PP (IN by) 
+              (NP (NNS painters) 
+                (, ,)
+                (NNS sculptors) 
+                (CC and)
+                (NNS photographers) )))))
+      (, ,) 
+      (ADVP (RB as) (RB well) 
+        (PP (IN as) 
+          (NP (NNS tapes) 
+            (CC and)
+            (NN documentation) 
+            (PP (IN by) 
+              (NP (CD 33) (NN video) 
+                (CC and)
+                (NN performance) (NNS artists) )))))))
+  (. .) )
+( (X 
+    (PP (IN Among) 
+      (NP 
+        (NP (DT the) (NN artist) )
+        (VP (VBN represented) )))
+    (: :) 
+    (NP 
+      (NP (NNP Laurie) (NNP Anderson) )
+      (, ,) 
+      (NP (NNP Alice) (NNP Aycock) )
+      (, ,) 
+      (NP (NNP Nancy) (NNP Graves) )
+      (CC and) 
+      (NP (NNP Elizabeth) (NNP Murray) )))
+  (. .) )
+( (NP 
+    (NP (NNP Broad) 
+      (CC and)
+      (NNP Cherry) (NNP Streets) )
+    (, ,) 
+    (NP (NNP Oct.) (NNP 20Dec) (. .) (CD 31) ))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Metropolitan) (NNP Museum) )
+      (, ,) 
+      (NP (NNP New) (NNP York) ))
+    (: :) 
+    (S 
+      (NP (`` ``) 
+        (NP (NN Gold) 
+          (PP (IN of) 
+            (NP (NNP Africa) )))
+        (: :) 
+        (NP (DT The) (NNP Barbier-Mueller) (NNP Collection) )
+        ('' '') )
+      (VP (NNS showcases) 
+        (NP 
+          (NP (DT a) (NN king) )
+          (POS 's) (NN ransom) 
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (ADJP (JJ West) (JJ African) )
+                (NNS artifacts) )
+              (VP (VBN culled) 
+                (PP (IN from) 
+                  (NP (DT a) (JJ renowned) (JJ Swiss) (NN collection) )))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (CD 130) (NNS objects) 
+      (PP (IN on) 
+        (NP (NN display) )))
+    (VP (NN range) 
+      (PP 
+        (PP (IN from) 
+          (NP (DT a) (JJ whimsical) (NN bestiary) 
+            (PP (IN of) 
+              (NP (JJ gilded) (NN sword) (NNS ornaments) ))))
+        (PP (TO to) 
+          (NP (DT the) (JJ dazzling) (NN raiment) 
+            (PP (IN of) 
+              (NP (JJ Ghanaian) (NNS rulers) )))))))
+  (. .) )
+( (NP 
+    (NP 
+      (ADJP (JJ 82nd) )
+      (NNP St.) )
+    (CC and) 
+    (NP (NNP Fifth) (NNP Ave) ))
+  (. .) )
+( (PP (IN Through) 
+    (NP (NNP March) (CD 11) ))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP 
+        (NP (NNP Cavin-Morris) (NNP Gallery) )
+        (, ,) 
+        (NP (NNP New) (NNP York) ))
+      (: :) 
+      (NP (`` ``) (NNP Gregory) (NNP Van) (NNP Maanen) ('' '') ))
+    (: --) 
+    (S 
+      (ADJP (JJ Many) 
+        (PP (IN of) 
+          (NP (DT the) 
+            (ADJP (JJ forceful) 
+              (, ,)
+              (RB heavily) (JJ symbolic) )
+            (NNS images) 
+            (PP (IN of) 
+              (NP (DT this) (JJ self-taught) (NN artist) )))))
+      (X 
+        (X (VBD were) 
+          (VP (RB partly) (VBN inspired) 
+            (PP (IN by) 
+              (NP (PRP$ his) (NN service) 
+                (PP (IN in) 
+                  (NP (NNP Vietnam) ))))))
+        (, ,) 
+        (CC and)
+        (VP (VBP carry) 
+          (NP 
+            (NP (NNS titles) )
+            (ADJP (JJ such) 
+              (PP (IN as) 
+                (NP 
+                  (NP (`` ``) (NN Death) 
+                    (PP (IN in) 
+                      (NP (NN Flight) ))
+                    ('' '') )
+                  (CC and) 
+                  (S (`` ``) 
+                    (NP (NNS Germans) )
+                    (VBP Are) 
+                    (VP (VBN Born) 
+                      (PP (IN With) 
+                        (NP (NN Helmet) (JJ Shaped) (NNS Skulls) )))))))))))
+    (. .) ('' '') ))
+( (NP 
+    (NP (CD 100) (NNP Hudson) (NNP St.) )
+    (, ,) 
+    (NP (NNP Oct.) (NNP 19-Nov) (. .) (CD 25) ))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Joffrey) (NNP Ballet) )
+    (: :) 
+    (S 
+      (NP 
+        (NP (DT The) (NN company) )
+        (POS 's) 
+        (ADJP (JJ six-week) )
+        (NNP Manhattan) (NN season) )
+      (VP (VBZ features) 
+        (NP 
+          (NP (DT a) (NN pair) 
+            (PP (IN of) 
+              (NP (NNS premieres) )))
+          (: --) 
+          (NP (`` ``) 
+            (NP (FW Les) (FW Noces) )
+            (, ,) ('' '') 
+            (NP 
+              (NP (NNP Bronislava) (NNP Nijinska) )
+              (POS 's) (JJ celebrated) (CD 1923) (NN collaboration) 
+              (PP (IN with) 
+                (NP (NNP Stravinsky) ))))
+          (: ;) 
+          (CC and)
+          (NP (`` ``) 
+            (NP (DT The) (NNS Pantages) 
+              (CC and)
+              (DT the) (NN Palace) (NN Present) (JJ TWO-A-DAY) )
+            (, ,) ('' '') 
+            (NP 
+              (NP (JJ artistic) (NN director) (NNP Gerald) (NNP Arpino) )
+              (POS 's) (NN salute) 
+              (PP (TO to) 
+                (NP (NN vaudeville) ))))))))
+  (. .) )
+( (S 
+    (NP (JJ Other) (NNS highlights) )
+    (VP (VBP include) 
+      (NP 
+        (NP (DT the) (NN revival) 
+          (PP (IN of) 
+            (NP (`` ``) 
+              (NP (NN Trinity) )
+              (, ,) ('' '') 
+              (NP 
+                (NP (NNP Mr.) (NNP Arpino) )
+                (POS 's) (JJ rock-scored) (NN salute) 
+                (PP (TO to) 
+                  (NP (DT the) (NNS Sixties) ))))))
+        (, ,) 
+        (CC and)
+        
+        (, ,)
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG beginning) 
+            (NP (NNP Nov.) (CD 24) )))
+        (, ,) 
+        (NP 
+          (NP (DT the) (JJ late) (NNP Robert) (NNP Joffrey) )
+          (POS 's) (NN version) 
+          (PP (IN of) 
+            (NP (`` ``) (DT The) (NN Nutcracker) )))))
+    (. .) ('' '') ))
+( (NP 
+    (NP 
+      (NP (NNP City) (NNP Center) )
+      (, ,) 
+      (NP (CD 131) (NNP West) (NNP 55th) (NNP St.) )
+      (, ,) )
+    (NP (NNP Oct.) (NNP 24-Dec) (. .) (CD 2) ))
+  (. .) )
+((NP 
+    (-LRB- -LRB-)
+    (CD 212) 
+    (-RRB- -RRB-)
+    (CD 581-7907) )
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP San) (NNP Diego) (NNP Opera) )
+    (VP (VBZ opens) 
+      (NP (PRP$ its) (JJ 25th) (NN season) )
+      (PP (IN with) 
+        (NP 
+          (NP 
+            (NP (NNP Mussorgsky) )
+            (POS 's) (`` ``) (NNP Boris) (NNP Godunov) 
+            (, ,)
+            ('' '') )
+          (VP (VBG featuring) 
+            (NP 
+              (NP (CD five) (VBG leading) (NNS singers) )
+              (CC and) 
+              (NP (DT a) (NN conductor) )
+              (PP (IN from) 
+                (NP (DT the) (NNP Soviet) (NNP Union) ))))))))
+  (. .) )
+( 
+  (-LRB- -LRB-)
+  (S 
+    (NP (DT The) (NN opera) )
+    (RB also) 
+    (VP (VBZ opens) 
+      (NP 
+        (NP (DT the) (NNP San) (NNP Diego) (NNPS Arts) (NNP Festival) )
+        (: :) 
+        (NP (NNS Treasures) 
+          (PP (IN of) 
+            (NP (DT the) (NNP Soviet) (NNP Union) ))))))
+  (. .) 
+  (-RRB- -RRB-)
+  )
+( (S 
+    (S 
+      (NP (NN Bass) (NNP Alexander) (NNP Morozov) 
+        (PP (IN of) 
+          (NP (DT the) (NNP Leningrad) (NNP Kirov) (NNP Opera) )))
+      (VP (VBZ sings) 
+        (NP (DT the) (NN title) (NN role) )))
+    (: ;) 
+    (S 
+      (NP (NN mezzo) (NN soprano) (NNP Irina) (NNP Bogacheva) )
+      (VP (VBZ is) 
+        (NP (DT the) (VBG scheming) (JJ Polish) (NN princess) (NNP Marina) ))))
+  (. .) )
+( (NP 
+    (NP (NNP Civic) (NNP Theatre) )
+    (, ,) 
+    (NP (CD 3rdand) (NNP B) (NNPS Streets) ))
+  (. .) )
+( (NP (NNP Oct.) (CD 21) 
+    (, ,)
+    (CD 24) 
+    (, ,)
+    (CD 27) 
+    (, ,)
+    (CD 29) 
+    (CC and)
+    (CD 31) )
+  (. .) )
+((NP 
+    (-LRB- -LRB-)
+    (CD 619) 
+    (-RRB- -RRB-)
+    (CD 236-6510) )
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NN Bel) (NN canto) (NN tenor) (NNP Raul) (NNP Gimenez) )
+    (VP (VBZ makes) 
+      (NP (PRP$ his) (NNP U.S.) (NN recital) (NN debut) )
+      (PP (IN at) 
+        (NP 
+          (NP (NNP Alice) (NNP Tully) (NNP Hall) )
+          (, ,) 
+          (-LRB- -LRB-)
+          (NP 
+            (NP (NNP Lincoln) (NNP Center) )
+            (, ,) 
+            (NP (JJ 65th) 
+              (CC and)
+              (NNP Broadway) ))
+          (-RRB- -RRB-) ))
+      (, ,) 
+      (NP (NNP Oct.) (CD 24) )))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (RB then) 
+    (VP (VBZ heads) 
+      (PP (IN for) 
+        (NP (DT the) (NNP Lone) (NNP Star) (NNP State) )))
+    (S 
+      (NP (-NONE- *) )
+      (TO to) 
+      (VP (VB make) 
+        (NP (PRP$ his) (NNP U.S.) (NN opera) (NN debut) )
+        (PP (IN at) 
+          (NP (DT the) (NNP Dallas) (NNP Opera) ))
+        (PP (IN in) (`` ``) 
+          (NP (NNP Don) (NNP Pasquale) ))))
+    (. .) ('' '') ))
+( (NP (NNP Dec.) (CD 7) 
+    (, ,)
+    (CD 10) 
+    (, ,)
+    (CD 13) 
+    (CC and)
+    (CD 16) )
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (X 
+    (X 
+      (NP 
+        (NP (NNP Jeff) (NNP Beck) )
+        (CC and) 
+        (NP (NNP Stevie) (NNP Ray) (NNP Vaughan) ))
+      (: :) 
+      (S 
+        (PP (IN For) 
+          (NP (JJ many) (NN rock) (NNS fans) ))
+        (, ,) 
+        (S 
+          (NP (DT this) (JJ double) (NN bill) 
+            (PP (IN of) 
+              (NP 
+                (NP 
+                  (NP (DT the) (RB rarely) (JJ seen) (JJ British) (NN legend) )
+                  (NP (NNP Beck) ))
+                (CC and) 
+                (NP (NNP Texas) (NN tornado) (NNP Vaughan) ))))
+          (MD will) 
+          (VP (VB spell) 
+            (NP (NN guitar) (NN heaven) )))))
+    (: :) 
+    (NP 
+      (NP 
+        (NP 
+          (NP (NNS Minneapolis) )
+          (-LRB- -LRB-) 
+          (NP (NNP Northrop) (NNP Memorial) (NNP Auditorium) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Oct.) (CD 25) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Milwaukee) )
+          (-LRB- -LRB-) 
+          (NP (NNP Mecca) (NNP Auditorium) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Oct.) (CD 27) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Chicago) )
+          (-LRB- -LRB-) 
+          (NP (NNP UIC) (NNP Pavillion) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Oct.) (CD 28) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP St.) (NNP Louis) )
+          (-LRB- -LRB-) 
+          (NP (NNP Fox) (NNP Theatre) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Oct.) (CD 29) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Columbus) 
+            (, ,)
+            (NNP Ohio) )
+          (-LRB- -LRB-) 
+          (NP (NNP Ohio) (NNP Theatre) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Oct.) (CD 31) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Toronto) )
+          (-LRB- -LRB-) 
+          (NP (NNP Sky) (NNP Dome) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 2) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Detroit) )
+          (-LRB- -LRB-) 
+          (NP (NNP Cobo) (NNP Arena) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 3) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Pittsburgh) 
+            (-LRB- -LRB-)
+            )
+          (NP (NNP Palumbo) (NNP Center) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 4) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NNP Landover) )
+            (, ,) 
+            (NP (NNP Md) (. .) ))
+          (-LRB- -LRB-) 
+          (NP (NNP Capitol) (NNP Centre) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 6) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Philadelphia) )
+          (-LRB- -LRB-) 
+          (NP (NNP Spectrum) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 7) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NNP Worcester) )
+            (, ,) 
+            (NP (NNP Mass) (. .) ))
+          (-LRB- -LRB-) 
+          (NP (NNP Centrum) )
+          (-RRB- -RRB-) 
+          (, ,)
+          )
+        (NP (NNP Nov.) (CD 8) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Manhattan) )
+          (-LRB- -LRB-) 
+          (NP (NNP Madison) (NNP Square) (NNP Garden) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 11) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Cleveland) )
+          (-LRB- -LRB-) 
+          (NP (NNP Public) (NNP Hall) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 14) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NNP Dayton) )
+            (, ,) 
+            (NP (NNP Ohio) ))
+          (-LRB- -LRB-) 
+          (NP (NNP Hara) (NNP Arena) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 15) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NNP Louisville) )
+            (, ,) 
+            (NP (NNP Ky) (. .) ))
+          (-LRB- -LRB-) 
+          (NP (NNP Louisville) (NNPS Gardens) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 16) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NNP Birmingham) )
+            (, ,) 
+            (NP (NNP Ala) (. .) ))
+          (-LRB- -LRB-) 
+          (NP (NNP Boutwell) (NNP Auditorium) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 18) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Atlanta) )
+          (-LRB- -LRB-) 
+          (NP (NNP Omni) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 19) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Miami) )
+          (-LRB- -LRB-) 
+          (NP (NNP The) (NNP Arena) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 21) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Tampa) )
+          (-LRB- -LRB-) 
+          (NP (NNP Sundome) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 22) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Houston) )
+          (-LRB- -LRB-) 
+          (NP (NNP Sam) (NNP Houston) (NNP Arena) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 24) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Dallas) )
+          (-LRB- -LRB-) 
+          (NP (NNP State) (NNP Fair) (NNP Coliseum) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 25) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Austin) )
+          (-LRB- -LRB-) 
+          (NP (NNP Frank) (NNP Irwin) (NNP Center) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 26) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NNP Albuquerque) )
+            (, ,) 
+            (NP (NNP N.M) (. .) ))
+          (-LRB- -LRB-) 
+          (NP (NNP Tingley) (NNP Arena) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 28) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Denver) )
+          (-LRB- -LRB-) 
+          (NP (NNP McNichols) (NNP Arena) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Nov.) (CD 29) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP (NNP Los) (NNP Angeles) )
+          (-LRB- -LRB-) 
+          (NP (NNPS Sports) (NNP Arena) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Dec.) (CD 1) ))
+      (: ;) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NNP Oakland) )
+            (, ,) 
+            (NP (NNP Calif) (. .) ))
+          (-LRB- -LRB-) 
+          (NP (NNP Oakland) (NNP Coliseum) )
+          (-RRB- -RRB-) )
+        (, ,) 
+        (NP (NNP Dec.) (CD 3) )))
+    (. .) ))

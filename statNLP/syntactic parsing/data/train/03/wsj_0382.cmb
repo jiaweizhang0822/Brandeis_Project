@@ -1,0 +1,102 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP British) (NNP Petroleum) (NNP PLC) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP$ its) (NNP North) (NNP Sea) (NNP Ravenspurn) (NNP South) (JJ natural) (NN gas) (NN field) )
+          (VBZ has) 
+          (VP (VBN entered) 
+            (NP (NN production) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP 
+            (NP (NNP Ravenspurn) (`` ``) (NNP A) 
+              (, ,)
+              ('' '') )
+            (NP (DT the) 
+              (ADJP (JJ first) 
+                (PP (IN of) 
+                  (NP (CD three) (JJ unmanned) (NN wellhead) (NNS platforms) ))))
+            (, ,) )
+          (VP (VBD started) 
+            (NP (NN production) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP (DT The) (CD two) (NNS others) )
+      (MD will) 
+      (VP (VB be) 
+        (VP (VBN brought) 
+          (PP (IN into) 
+            (NP (NN production) )))
+        (PP (IN over) 
+          (NP (DT the) (JJ next) (NN year) ))))
+    (, ,) 
+    (S 
+      (NP (NNP BP) )
+      (VP (VBD added) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (JJ Initial) (NN production) 
+      (PP (IN from) 
+        (NP (DT the) (NN field) )))
+    (MD will) 
+    (VP (VB be) 
+      (NP (CD 70) (CD million) (JJ cubic) (NNS feet) 
+        (PP (IN per) 
+          (NP (NN day) ))))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG rising) 
+        (PP (TO to) 
+          (NP (CD 200) (CD million) (JJ cubic) (NNS feet) 
+            (PP (IN per) 
+              (NP (NN day) ))))
+        (PP (IN by) 
+          (NP (CD 1991) ))))
+    (. .) ))
+( (S 
+    (NP (NNP BP) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN field) )
+          (VP (VBD had) 
+            (NP 
+              (NP (NNS reserves) 
+                (PP (IN of) 
+                  (NP (CD 635) (CD billion) (JJ cubic) (NNS feet) )))
+              (CC and) 
+              (NP (DT an) (JJ estimated) (NN production) (NN life) 
+                (PP (IN of) 
+                  (NP (CD 20) (NNS years) ))))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NN field) )
+    (VBZ is) 
+    (VP (CD 100) (NN %) (VBN licensed) 
+      (PP (TO to) 
+        (NP (NNP BP) )))
+    (. .) ))

@@ -1,0 +1,652 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN Despite) 
+      (NP 
+        (NP (NN turmoil) )
+        (VP (VBN created) 
+          (PP (IN by) 
+            (NP 
+              (NP (DT a) (JJ costly) (NN S&L) (NN bailout) )
+              (CC and) 
+              (NP (DT the) (VBG growing) (NN realization) 
+                (SBAR (IN that) 
+                  (S 
+                    (NP (DT a) (NN government) (NN guarantee) )
+                    (MD may) 
+                    (VP (VB become) 
+                      (NP (DT a) (NN taxpayer) (NN liability) ))))))))))
+    (, ,) 
+    (S 
+      (NP (DT some) (NNS members) 
+        (PP (IN of) 
+          (NP (NNP Congress) )))
+      (VP (VBP are) 
+        (ADJP (JJ insistent) 
+          (PP (IN on) 
+            (NP 
+              (S 
+                (NP (-NONE- *) )
+                (VP (VBG using) 
+                  (NP (NN tax) (NNS dollars) )
+                  (PP (IN as) 
+                    (NP (NN collateral) 
+                      (PP (IN for) 
+                        (NP (JJ risky) 
+                          (CC and)
+                          (JJ unnecessary) (JJ government-backed) (NNS deals) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT This) )
+    (VP (VBZ appears) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB be) 
+          (NP (DT the) (NN case) )
+          (PP (IN with) 
+            (NP 
+              (NP (DT the) (NNP Federal) (NNP Housing) (NNP Administration) )
+              (POS 's) (NN mortgage) (NN guarantee) (NN program) ))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (DT A) (NN program) )
+      (VP (VBD created) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB assist) 
+            (NP 
+              (ADJP (JJ low) (: -) 
+                (PP (TO to) 
+                  (NP (JJ moderate-income) )))
+              (NNS people) )))))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (MD may) (RB soon) 
+      (VP (VB be) 
+        (VP (VBN expanded) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB accommodate) 
+              (NP (JJ much) (JJR higher) (NN loan) (NNS amounts) 
+                (PP (IN for) 
+                  (NP (JJ well-to-do) (NN home) (NNS purchasers) )))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNP FHA) )
+    (RB now) 
+    (VP (VBZ holds) 
+      (NP (DT a) (CD 50) (NN %) (NN share) 
+        (PP (IN of) 
+          (NP (DT the) (NN mortgage) (NN insurance) (NN market) ))))
+    (, ,) 
+    (SBAR (IN while) 
+      (S 
+        (NP (NN mismanagement) )
+        (VP (VBZ prevails) 
+          (PP (IN throughout) 
+            (NP (DT the) (NN agency) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP General) (NNP Accounting) (NNP Office) )
+    (VBZ has) (RB just) 
+    (VP (VBN completed) 
+      (NP 
+        (NP (DT an) (NNP FHA) (JJ financial) (NN audit) )
+        (VP (VBG showing) 
+          (NP (DT a) (NN loss) 
+            (PP (IN of) 
+              (NP ($ $) (CD 4.2) (CD billion) ))
+            (PP (IN for) 
+              (NP 
+                (ADJP (JJ fiscal) )
+                (CD 1988) )))))))
+  (. .) )
+( (S 
+    (NP (JJ Significant) (NNS losses) )
+    (VBP are) (RB also) 
+    (VP (VBN expected) 
+      (PP (IN for) 
+        (NP 
+          (NP (DT the) (JJ fiscal) (NN year) )
+          (VP (RB just) (VBN ended) )))))
+  (. .) )
+( (S 
+    (NP (NNP Congress) )
+    (MD should) (RB not) 
+    (VP (VB consider) 
+      (NP (DT any) (NN expansion) 
+        (PP (IN of) 
+          (NP (NNP FHA) ))))
+    (PP (IN until) 
+      (S 
+        (NP (DT a) (JJ comprehensive) 
+          (, ,)
+          (JJ proven) (NN plan) 
+          (PP (IN for) 
+            (NP (NNP FHA) (NN solvency) 
+              (CC and)
+              (NN reform) )))
+        (VBZ is) 
+        (VP (VBN established) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG Ignoring) 
+        (NP (DT the) (NNP FHA) (NNS losses) )))
+    (, ,) 
+    (S 
+      (NP (DT a) (JJ few) 
+        (PP (IN of) 
+          (NP (PRP$ my) (NNS colleagues) )))
+      (VBP have) 
+      (VP (VBN pushed) 
+        (PP (IN for) 
+          (NP (NN expansion) 
+            (PP (IN of) 
+              (NP (NNP FHA) (NN mortgage) (NNS guarantees) ))
+            (PP (IN by) 
+              (NP 
+                (S 
+                  (NP (-NONE- *) )
+                  (VP (VBG including) 
+                    (NP (JJR wealthier) (NN home) (NNS purchasers) )
+                    (PP (IN in) 
+                      (NP (DT the) (NN program) )))))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP 
+        (NP (DT The) (NNP National) (NNP Affordable) (NNP Housing) (NNP Act) )
+        (-LRB- -LRB-) 
+        (NP (NNP Cranston-D'Amato) )
+        (-RRB- -RRB-) )
+      (, ,) 
+      (VP (VBN introduced) 
+        (NP 
+          (ADVP (RB earlier) )
+          (DT this) (NN year) ))
+      (, ,) )
+    (VP 
+      (VP (VBZ erases) 
+        (NP (DT the) (JJ current) (NN mortgage) (NN guarantee) (NN ceiling) 
+          (PP (IN of) 
+            (NP ($ $) (CD 101,250) ))))
+      (CC and) 
+      (VP (VBZ places) 
+        (NP (DT a) (`` ``) (JJ floating) (NN cap) ('' '') )
+        (PP (IN at) 
+          (NP (CD 95) (NN %) 
+            (PP (IN of) 
+              (NP (DT the) (JJ median) (NN home) (NN price) 
+                (PP (IN in) 
+                  (NP 
+                    (ADJP (JJR higher-cost) )
+                    (NNS areas) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR (IN While) 
+      (S 
+        (NP (PRP it) )
+        (VP (VBZ increases) 
+          (NP (NNP FHA) (NN loan-guarantee) (NNS amounts) ))))
+    (, ,) 
+    (S 
+      (NP (DT this) (NN bill) )
+      (RB also) 
+      (VP (VBZ calls) 
+        (PP (IN for) 
+          (NP (DT the) (NN reduction) 
+            (PP (IN of) 
+              (NP (NN down-payment) (NNS requirements) )))))))
+  (. .) )
+( (S 
+    (NP (NN Legislation) 
+      (PP (IN of) 
+        (NP (DT this) (NN nature) )))
+    (MD can) 
+    (VP (VB be) 
+      (VP (VBN likened) 
+        (PP (TO to) 
+          (NP 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG fueling) 
+                (NP 
+                  (NP (DT a) (JJ runaway) (NN locomotive) )
+                  (VP (VBN headed) 
+                    (PP (IN in) 
+                      (NP (DT the) (JJ wrong) (NN direction) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (NNS Studies) )
+      (RB consistently) 
+      (VP (VBP show) 
+        (SBAR-1 (-NONE- *pseudo-attach*) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP (DT the) (NNP GAO) )
+      (VBZ has) 
+      (VP (VBN admitted) 
+        (SBAR-1 (-NONE- *pseudo-attach*) )))
+    (, ,) 
+    (SBAR-1 (IN that) 
+      (S 
+        (NP 
+          (S 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG increasing) 
+                (NP (JJ loan-to-value) (NNS ratios) )))
+            (: --) 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG making) 
+                (NP (JJR higher) (NNS loans) )
+                (PP (IN without) 
+                  (NP (JJR higher) (NN down-payment) (NNS requirements) ))))
+            (: --) ))
+        (VP (VBZ increases) 
+          (NP (DT the) (NN risk) 
+            (PP (IN of) 
+              (NP (NN default) )))))))
+  (. .) )
+( (S 
+    (NP (NNS Taxpayers) )
+    (MD will) 
+    (VP (VB be) 
+      (VP (VBN saddled) 
+        (PP (IN with) 
+          (NP (DT a) (JJ tremendous) (JJ financial) (NN burden) ))))
+    (SBAR (IN if) 
+      (S 
+        (NP (DT these) (JJ fundamental) (NNS data) )
+        (VBP are) (RB not) 
+        (VP (VBN heeded) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (RB Recently) 
+    (, ,)
+    (S 
+      (NP (DT a) (NNP Senate) (NNPS Appropriations) (NN bill) )
+      (RB similarly) 
+      (VP 
+        (VP (VBD removed) 
+          (NP (DT the) 
+            (ADJP (JJ current) )
+            (NNP FHA) (NN mortgage) (NN guarantee) (NN ceiling) ))
+        (CC and) 
+        (VP (VBD increased) 
+          (NP (PRP it) )
+          (PP (TO to) 
+            (NP (CD 95) (NN %) 
+              (PP (IN of) 
+                (NP (DT the) (JJ median) (NN home) (NN price) 
+                  (PP (IN in) 
+                    (NP 
+                      (ADJP (JJR higher-cost) )
+                      (NNS areas) ))))))))))
+  (. .) )
+( (S 
+    (NP (DT This) (NN provision) )
+    (MD would) 
+    (VP (VB have) 
+      (VP (RB nearly) (VBN doubled) 
+        (NP (NNP FHA) (NN loan) (NN exposure) 
+          (PP (IN in) 
+            (NP 
+              (NP (VBG skyrocketing) (NNS markets) )
+              (SBAR 
+                (WHADVP (WRB where) )
+                (S 
+                  (NP (JJ median) (NN home) (NNS prices) )
+                  (MD can) 
+                  (VP (VB range) 
+                    (PP (TO to) 
+                      (NP ($ $) (CD 200,000) (CC or) 
+                        (ADJP (JJR more) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (X 
+      (PP (IN Out) 
+        (PP (IN of) 
+          (NP (NN concern) 
+            (PP (IN for) 
+              (NP (DT the) (RB potentially) (JJ damaging) (NNS effects) 
+                (PP (IN of) 
+                  (NP (DT this) (NN proposal) )))))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP (-NONE- *) )
+        (VP (RB still) (VBG awaiting) 
+          (NP (DT the) (NNP GAO) (NN report) 
+            (PP (IN on) 
+              (NP (NNP FHA) (NNS losses) ))))))
+    (, ,) 
+    (S 
+      (NP (PRP I) )
+      (VP (VBD suggested) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT the) (NNP Senate) )
+            (VP (RB instead) (VB work) 
+              (PP (IN on) 
+                (NP (NNS ways) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP 
+                      (VP (VB eliminate) 
+                        (NP-2 (-NONE- *pseudo-attach*) ))
+                      (CC or) 
+                      (VP (RB substantially) (VB curtail) 
+                        (NP-2 (-NONE- *pseudo-attach*) ))
+                      (NP-2 (DT this) (JJ vast) (NN loan-guarantee) (NN expansion) )))))))))))
+  (. .) )
+( (S 
+    (PP (IN After) 
+      (NP 
+        (NP (JJ several) (NNS hours) 
+          (PP (IN of) 
+            (NP (NN floor) (NN debate) )))
+        (CC and) 
+        (NP (CD three) (NN roll-call) (NNS votes) )))
+    (, ,) 
+    (S 
+      (NP (PRP we) )
+      (VP (VBD reached) 
+        (NP (DT a) (NN compromise) ))
+      (, ,) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG placing) 
+          (NP (DT the) (NNP FHA) (NN loan-guarantee) (NN ceiling) )
+          (PP (IN at) 
+            (NP ($ $) (CD 124,875) ))))))
+  (. .) )
+( (S 
+    (SBAR (IN Although) 
+      (S 
+        (NP (PRP$ my) (NN desire) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB retain) 
+              (NP (DT the) (JJ present) (NN ceiling) ))))
+        (VBD was) 
+        (VP (VBN exceeded) 
+          (PP (IN by) 
+            (NP ($ $) (CD 23,625) )))))
+    (, ,) 
+    (S 
+      (NP (DT a) (JJ firm) (NN limit) 
+        (PP (IN on) 
+          (NP (NN loan) (NNS guarantees) )))
+      (VBD did) 
+      (VP (VB provide) 
+        (NP (DT some) (NN consolation) )
+        (PP (IN in) 
+          (NP (DT the) (NN face) 
+            (PP (IN of) 
+              (NP 
+                (S 
+                  (NP (-NONE- *) )
+                  (VP (VBG allowing) 
+                    (S 
+                      (NP (DT a) (JJ haphazard) (JJ floating) (NN cap) )
+                      (TO to) 
+                      (VP (VB remain) 
+                        (PP (IN in) 
+                          (NP (DT the) (NN bill) )))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S (RB Not) (RB only) 
+    (SINV (VBZ is) 
+      (NP (JJ such) (DT an) (NNP FHA) (NN expansion) )
+      (ADJP (JJ risky) ))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (VP (VBZ is) (RB also) 
+        (NP (DT a) (JJ direct) (NN government) (NN intrusion) 
+          (PP (IN into) 
+            (NP 
+              (NP (DT a) (NN market) )
+              (VP (RB already) (VBN served) 
+                (PP (IN by) 
+                  (NP (JJ private) (NN mortgage) (NNS insurers) )))))))))
+  (. .) )
+( (S 
+    (NP (JJ Private) (NN mortgage) (NNS insurers) )
+    (RB also) 
+    (VP (VBP happen) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB be) 
+          (ADJP (JJ solvent) )))))
+  (. .) )
+( (S (RB Yes) 
+    (, ,)
+    (S 
+      (NP (PRP they) )
+      (VP (VBP have) 
+        (NP 
+          (ADJP (JJR higher) )
+          (NN down-payment) (NNS requirements) ))))
+  (. .) )
+( (S (CC But) 
+    (NP 
+      (NP (NNS people) )
+      (SBAR 
+        (WHNP (WP who) )
+        (S 
+          (NP (-NONE- T) )
+          (MD can) 
+          (VP (VB afford) 
+            (NP (NNS payments) 
+              (PP (IN on) 
+                (NP (DT a) ($ $) (CD 200,000) (NN home) )))))))
+    (MD should) 
+    (VP (VB be) 
+      (VP (VBN expected) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB put) 
+            (NP 
+              (ADJP (JJR more) )
+              (NN money) )
+            (RP down) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (PRP It) 
+      (S-1 (-NONE- *pseudo-attach*) ))
+    (MD would) 
+    (VP (VB be) 
+      (ADJP (JJ difficult) ))
+    (S-1 
+      (NP (-NONE- *) )
+      (TO to) 
+      (VP (VB explain) 
+        (PP (TO to) 
+          (NP (JJ average) (JJ American) (NNS workers) ))
+        (SBAR (IN that) 
+          (S 
+            (NP (PRP$ their) (NN tax) (NNS dollars) )
+            (VBD were) 
+            (VP (VBG being) 
+              (VP (VBN used) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB guarantee) 
+                    (NP (NNS mortgages) 
+                      (PP (IN on) 
+                        (NP ($ $) (CD 200,000) (NNS homes) ))))))))))))
+  (. .) )
+( (SQ 
+    (SBAR (IN If) 
+      (S 
+        (NP (DT an) (NNP FHA) (NN expansion) )
+        (VP (VBZ is) 
+          (NP (JJ such) (DT a) (JJ great) (NN idea) ))))
+    (, ,) 
+    (SBARQ 
+      (WHADVP (WRB why) (RB not) )
+      (SQ 
+        (VP (VB have) 
+          (S 
+            (NP (DT the) (JJ federal) (NN government) )
+            (VP (VB guarantee) 
+              (NP (DT all) (NN home) (NNS mortgages) )))))))
+  (. ?) )
+( (S 
+    (NP (NNP Congress) )
+    (MD can) (RB not) 
+    (VP (VB expect) 
+      (S 
+        (NP (NNS taxpayers) )
+        (TO to) 
+        (VP (VB continue) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG bearing) 
+              (NP (DT the) (NN burden) 
+                (PP (IN of) 
+                  (NP (JJ well-intended) (NN government) (NNS guarantees) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR 
+      (WHADVP (WRB When) )
+      (S 
+        (NP (NNP Congress) )
+        (VP (VBD increased) 
+          (NP (JJ federal) (NN deposit) (NN insurance) )
+          (PP (TO to) 
+            (NP ($ $) (CD 100,000) ))
+          (PP (IN from) 
+            (NP ($ $) (CD 40,000) )))))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (VP (VBD seemed) 
+        (PP (IN like) 
+          (NP (DT a) (JJ good) (NN idea) )))))
+  (. .) )
+( (S 
+    (NP (PRP It) )
+    (VP (VBD gave) 
+      (NP (DT the) (NN appearance) 
+        (PP (IN of) 
+          (NP (DT a) 
+            (ADJP (RBR more) (JJ stable) )
+            (JJ financial) (NN industry) )))))
+  (. .) )
+( (S 
+    (NP (PRP It) 
+      (S-2 (-NONE- *pseudo-attach*) ))
+    (VP (VBD was) 
+      (ADJP (JJ easy) ))
+    (S-2 
+      (NP (-NONE- *) )
+      (TO to) 
+      (VP (VB extend) 
+        (NP (DT a) (NN government) (NN guarantee) )
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB cover) 
+            (NP (JJ apparent) (NNS problems) ))))))
+  (. .) )
+((S (CC But) 
+    (NP 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG postponing) 
+          (NP (NNS problems) ))))
+    (RB soon) 
+    (VP (VBD gave) 
+      (NP (NN way) )
+      (PP (TO to) 
+        (NP (DT a) (JJ nightmarish) (NN taxpayer) (NN bailout) 
+          (PP (TO to) 
+            (NP (DT the) (NN tune) 
+              (PP (IN of) 
+                (NP (IN over) ($ $) (CD 200) (CD billion) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S 
+    (NP 
+      (NP (DT The) (NNS problems) )
+      (VP (VBG surrounding) 
+        (NP (DT the) (NNP FHA) )))
+    (MD must) 
+    (VP (VB be) 
+      (VP (VBN addressed) )))
+  (. .) )
+( (S 
+    (NP (JJ Significant) (NNS reforms) )
+    (MD must) 
+    (VP (VB be) 
+      (VP (VBN made) )))
+  (. .) )
+( (S 
+    (NP (DT The) (JJ high-risk) (NN venture) 
+      (PP (IN of) 
+        (NP 
+          (S 
+            (NP (-NONE- *) )
+            (VP (RB unnecessarily) (VBG expanding) 
+              (NP (NNP FHA) (NN mortgage) (NNS guarantees) )
+              (PP (IN without) 
+                (NP (NN reform) )))))))
+    (VP (VBZ is) 
+      (ADJP (JJ ludicrous) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S 
+    (NP 
+      (NP (NNP Sen.) (NNP Nickles) )
+      (-LRB- -LRB-) 
+      (NP 
+        (NP (NNP R.) )
+        (, ,) 
+        (NP (NNP Okla) (. .) ))
+      (-RRB- -RRB-) )
+    (VP (VBZ sits) 
+      (PP (IN on) 
+        (NP (DT the) (NNPS Appropriations) 
+          (CC and)
+          (NNP Budget) (NNS committees) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )

@@ -1,0 +1,33 @@
+
+ 
+ 
+ 
+
+(S (NP (NP (NNP Michael) (NNP B.) (NNP Jager))
+       (, ,)
+       (NP (DT a) (NN construction) (NN industry) (NN consultant))
+       (, ,))
+   (VBD was)
+   (VP (VBN elected)
+       
+       (NP (DT a) (NN director)
+           (PP (IN of)
+               (NP (NP (DT this) (JJ natural) (NN gas) (NN utility))
+                   (CC and)
+                   (NP (NP (PRP$ its) (NNS savings) (CC and) (NN loan) (NN subsidiary))
+                       (, ,)
+                       (NP (NNP PriMerit) (NNP Bank)))))))
+   (. .))
+ 
+
+(S
+   (NP (PRP He))
+   (VP (VBZ succeeds)
+       (NP (NP (NNP Edward) (NNP M.) (NNP Berol))
+           (, ,)
+           (SBAR
+                 (WHNP (WP who))
+                 (S (NP (-NONE- T))
+                    (VP (VBD retired))))))
+   (. .))
+ 

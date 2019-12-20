@@ -1,0 +1,112 @@
+
+ 
+ 
+ 
+
+(S (NP (NP (NNP New) (NNP Hampshire) (NNP Yankee) (NNP Co.))
+       (, ,)
+       (NP (NN operator)
+           (PP (IN of)
+               (NP (NP (NP (DT the) (NNP Seabrook))
+                       (, ,)
+                       (NP (NNP N.H.)))
+                   (, ,)
+                   (NP (JJ nuclear) (NN power) (NN facility)))))
+       (, ,))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (DT the) (NNP Nuclear) (NNP Regulatory) (NNP Commission))
+                (VP (VBD fined)
+                    (NP (PRP it)
+                        (NP ($ $) (CD 50,000)))
+                    (PP (IN in)
+                        (NP (NN connection)
+                            (PP (IN with)
+                                (NP (JJ improper) (NNS procedures)
+                                    (PP (IN in)
+                                        (NP (VP (VBG shutting)
+                                                (RP down)
+                                                (NP (DT the) (NN plant))
+                                                (PP (IN during)
+                                                    (NP (JJ low-power) (NN testing)))
+                                                (ADVP (JJ last)
+                                                      (NP (NNP June))))))))))))))
+   (. .))
+ 
+ 
+
+(S (NP (NP (NNP Edward) (NN A.)
+           (NNP Brown))
+       (, ,)
+       (NP (NN president)
+           (PP (IN of)
+               (NP (NNP New) (NNP Hampshire) (NNP Yankee))))
+       (, ,))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (PRP it))
+                (VP (VP (VBZ accepts)
+                        (NP (DT the) (NN decision)))
+                    (CC and)
+                    (MD will)
+                    (VP (VB pay)
+                        (NP (DT the) (NN fine)))))))
+   (. .))
+ 
+
+(S
+   (NP (PRP He))
+   (VP (VBD noted)
+       (NP (SBAR (IN that)
+                 (S (NP (DT the) (NNP NRC))
+                    (VP (VP (VBD called)
+                            (NP (NP (DT the) (NN event))
+                                (NP (DT an)
+                                    (`` ``)
+                                    (NN aberration)
+                                    ('' ''))))
+                        (CC and)
+                        (RB never)
+                        (VP (VBD questioned)
+                            (NP (DT the) (NN safety)
+                                (PP (IN of)
+                                    (NP (DT the) (NN plant))))))))))
+   (. .))
+ 
+ 
+
+(S (PP (IN In)
+       (NP (NNP June)))
+   (, ,)
+   (S
+      (NP
+          (NP (DT the) (NN plant))
+          (POS 's)
+          (NP (NP (NP (NN No.) (CD 2))
+                  (NP (NN executive)))
+              (, ,)
+              (NP (NNP George) (NNP Thomas))
+              (, ,)))
+      (VBD was)
+      (VP (VBN fired)
+          (PP (IN because)
+              (PP (IN of)
+                  (NP (JJ improper) (NN control-room) (NNS procedures)
+                      (PP (IN at)
+                          (NP (DT the) (NN plant)))
+                      (PP (IN before)
+                          (NP (DT the) (NN shutdown))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP New) (NNP Hampshire) (NNP Yankee))
+   (VP (VBZ is)
+       (ADJP (JJ 35.6%-owned)
+             (PP (IN by)
+                 (NP (NNP Public) (NNP Service) (NNP Co.)
+                     (PP (IN of)
+                         (NP (NNP New) (NNP Hampshire)))))))
+   (. .))
+ 

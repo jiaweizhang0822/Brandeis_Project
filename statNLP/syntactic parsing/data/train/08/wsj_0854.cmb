@@ -1,0 +1,188 @@
+
+ 
+ 
+ 
+
+(S (NP (NP (NNP Ford) (NNP Motor) (NNP Co.) (NNP Ltd.))
+       (, ,)
+       (NP (DT the) (NNP U.K.) (NN unit)
+           (PP (IN of)
+               (NP (NNP Ford) (NNP Motor) (NNP Co.))))
+       (, ,))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (PRP it))
+                (VP (VBD offered)
+                    (NP (PRP$ its) (JJ hourly) (NNS workers))
+                    (NP (DT a) (CD 15) (NN %) (NN raise)
+                        (PP (IN in)
+                            (NP (NNS wages))))
+                    (PP (IN over)
+                        (NP (CD two) (NNS years)))
+                    (PP (IN as)
+                        (NP (DT a) (JJ first) (NN offer)
+                            (PP (IN in)
+                                (NP (NN contract) (NNS talks)))))))))
+   (. .))
+ 
+ 
+
+(S (NP (DT A) (NNP Ford) (NN spokesman))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (CD 33,000) (JJ manual) (NNS workers)
+                    (PP (IN at)
+                        (NP
+                            (NP (DT the) (NN company))
+                            (POS 's) (CD 21) (NNS plants)
+                            (PP (IN in)
+                                (NP (DT the) (NNP U.K.))))))
+                (VB have) (VBN been)
+                (VP (VBN offered)
+                    (NP (NP (CD 8) (NN %)
+                            (PP (IN in)
+                                (NP (DT the) (JJ first) (NN year))))
+                        (CC and)
+                        (NP (CD 7) (NN %)
+                            (PP (IN in)
+                                (NP (DT the) (JJ second) (NN year)))))))))
+   (. .))
+ 
+ 
+
+(S (CC But)
+   (S
+      (NP (NP (NNP Charlie) (NNP Whelan))
+          (, ,)
+          (NP (DT an) (NN official)
+              (PP (IN of)
+                  (NP (DT the) (NNP Amalgamated) (NNP Engineering) (NNP Union))))
+          (, ,))
+      (VP (VBD said)
+          (SBAR (-NONE- 0)
+                (S (NP (DT the) (NN offer))
+                   (VBD was)
+                   (VP (VBN rejected)
+                       
+                       (PP (IN by)
+                           (NP (NN union) (NNS leaders)))
+                       (PP (IN as)
+                           (ADJP (`` ``)
+                                 (RB totally)
+                                 (JJ unacceptable)
+                                 (. .)
+                                 ('' '')
+                                 ))))))))
+ 
+
+(S
+   (NP (DT The) (NNP Ford) (NN wage) (NN settlement))
+   (MD will) (VB be)
+   (VP (VBN watched)
+       (RB closely)
+       (PP (IN as)
+           (NP (DT a) (NN barometer)
+               (PP (IN of)
+                   (NP (NN wage) (NN inflation)))
+               (PP (IN in)
+                   (NP (DT the) (NNP U.K))))))
+   (. .))
+ 
+
+(S (S
+      (NP (DT The)
+          (ADJP (JJ annual) (JJ underlying) (JJ average))
+          (NN increase)
+          (PP (IN in)
+              (NP (NNS wages))))
+      (VBZ is)
+      (RB currently)
+      (VP (VBG running)
+          (PP (IN at)
+              (NP (RB about)
+                  (CD 8.75) (NN %)))))
+   (, ,)
+   (CC and)
+   (X (NP (JJ overall) (NN inflation))
+      (PP (IN at)
+          (NP (RB about)
+              (CD 7.6) (NN %))))
+   (. .))
+ 
+
+(S
+   (NP (NNP Prime) (NNP Minister) (NNP Margaret) (NNP Thatcher))
+   (VP (VBD urged)
+       (NP (NNS companies))
+       (RB not)
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB give)
+              (RP in)
+              (PP (TO to)
+                  (NP (NP (NNS demands))
+                      (SBAR (WDT that)
+                            (S (NP (-NONE- T))
+                               (MD would)
+                               (VP (VB aggravate)
+                                   (NP (NN inflation))))))))))
+   (. .))
+ 
+ 
+
+(S (NP (NN Union) (NNS leaders))
+   (ADVP (RBR earlier)
+         (NP (DT this) (NN month)))
+   (VP (VBD lodged)
+       (NP (DT a) (NN claim))
+       (PP (IN for)
+           (NP (NP (DT a)
+                   (`` ``)
+                   (JJ significant)
+                   ('' '')
+                   (NN raise))
+               (, ,)
+               (VP (VBN aimed)
+                   (PP (IN at)
+                       (NP (VP (VBG bringing)
+                               (NP
+                                   (NP (NNP Ford))
+                                   (POS 's) (JJ hourly) (NNS wages))
+                               (PP (IN in)
+                                   (NP (NN line)
+                                       (PP (IN with)
+                                           (NP
+                                               (NP (DT the) (NN motor) (NN company))
+                                               (POS 's) (JJ European) (NNS plants))))))))))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (NNS unions))
+   (VBP have)
+   (RB n't)
+   (VP (VBN made)
+       (NP (DT a) (NN counter-demand))
+       (PP (TO to)
+           (NP (NNP Ford))))
+   (. .))
+ 
+
+(S
+   (NP (PRP They))
+   (RB recently)
+   (VP (VBD rejected)
+       (NP (NP
+               (NP (NNP Vauxhall) (NNP Motors) (NNP Ltd.))
+               (POS 's) (NN offer)
+               (PP (IN of)
+                   (NP (DT a) (CD 9.1) (NN %)
+                       (NN raise))))
+           (, ,)
+           (VP (VBN made)
+               (PP (IN as)
+                   (NP (NN part)
+                       (PP (IN of)
+                           (NP (DT a) (JJ two-year) (NN package))))))))
+   (. .))
+ 

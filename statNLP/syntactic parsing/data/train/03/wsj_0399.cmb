@@ -1,0 +1,59 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Dillard) (NNP Department) (NNPS Stores) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NNS stockholders) 
+            (PP (IN at) 
+              (NP (DT a) (JJ special) (NN meeting) )))
+          (VP (VBD approved) 
+            (NP (DT an) (NN amendment) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB increase) 
+                  (NP (DT the) (JJ authorized) (NNS shares) 
+                    (PP (IN of) 
+                      (NP (PRP$ its) (NNP Class) (NNP A) 
+                        (CC and)
+                        (NNP Class) (NNP B) (JJ common) (NN stock) ))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (DT The) (NN company) )
+      (VP (VBD said) 
+        (SBAR (IN that) 
+          (S 
+            (NP (JJ authorized) (NNP Class) (NNP A) (JJ common) (NNS shares) )
+            (MD will) 
+            (VP (VB increase) 
+              (PP (TO to) 
+                (NP (CD 144.5) (CD million) ))
+              (PP (IN from) 
+                (NP (CD 76.8) (CD million) )))))))
+    (CC and) 
+    (S 
+      (NP (DT the) (JJ authorized) (NNP Class) (NNP B) (JJ common) )
+      (MD will) 
+      (VP (VB increase) 
+        (PP (TO to) 
+          (NP (CD 5.5) (CD million) ))
+        (PP (IN from) 
+          (NP (CD 3.2) (CD million) (NNS shares) ))))
+    (. .) ))

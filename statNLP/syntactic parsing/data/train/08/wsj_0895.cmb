@@ -1,0 +1,58 @@
+
+ 
+ 
+ 
+
+(S
+   (NP (NNP PPG) (NNP Industries) (NNP Inc.))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (PRP it))
+                (MD will)
+                (VP (VB expand)
+                    (NP (NN production))
+                    (PP (IN at)
+                        (NP (PRP$ its)
+                            (NP (NP (NP (NNP Barberton))
+                                    (, ,)
+                                    (NP (NNP Ohio))
+                                    (, ,))
+                                (NP (NN chemical) (NN plant)))))
+                    (S (NP (-NONE- *))
+                       (TO to)
+                       (VP (VB increase)
+                           (NP (JJ total) (NN capacity))
+                           (PP (IN by)
+                               (NP (CD 50) (NN %)))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP PPG))
+   (VP (VP (VBD termed)
+           (NP (DT the) (NN expansion))
+           (NP (DT a)
+               (`` ``)
+               (JJ multimillion-dollar) (NN project)
+               (, ,)
+               ('' '')))
+       (CC but)
+       (VBD did)
+       (RB n't)
+       (VP (VB give)
+           (NP (NNS details))))
+   (. .))
+ 
+ 
+
+(S (NP (DT The) (NN plant))
+   (VP (VBZ makes)
+       (NP (NP (NNS plastics))
+           (VP (VBN used)
+               (PP (IN for)
+                   (NP (NNS lenses)
+                       (PP (IN in)
+                           (NP (NN sunglasses) (CC and) (NN safety) (NNS glasses))))))))
+   (. .))
+ 

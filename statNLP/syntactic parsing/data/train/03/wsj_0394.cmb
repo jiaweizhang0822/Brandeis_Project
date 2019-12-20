@@ -1,0 +1,47 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP ALLWASTE) (NNP Inc.) )
+    (VP (VBD declared) 
+      (NP 
+        (NP (DT a) (JJ 2-for-1) (NN stock) (NN split) )
+        (, ,) 
+        (ADJP (JJ payable) 
+          (NP (NNP Dec.) (CD 1) )
+          (, ,) 
+          (PP (TO to) 
+            (NP 
+              (NP (NN stock) 
+                (PP (IN of) 
+                  (NP (NN record) )))
+              (NP (NNP Nov.) (CD 15) ))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NNP Stafford) 
+      (, ,)
+      (JJ Texas-based) (NN company) )
+    (MD will) 
+    (VP (VB issue) 
+      (NP (CD one) (JJ additional) (NN share) 
+        (PP (IN of) 
+          (NP (JJ common) (NN stock) )))
+      (PP (IN for) 
+        (NP (DT each) 
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (CD 14.8) (CD million) (NNS shares) )
+              (ADJP (JJ outstanding) ))))))
+    (. .) ))

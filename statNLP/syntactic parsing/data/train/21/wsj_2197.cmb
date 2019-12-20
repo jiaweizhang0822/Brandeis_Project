@@ -1,0 +1,60 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Robert) (NNP D.) (NNP Paster) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 49) (NNS years) )
+        (JJ old) )
+      (, ,) 
+      (NP (NN vice) (NN president) 
+        (CC and)
+        (NN Space) (NN Shuttle) (JJ Main) (NN Engine) (NN program) (NN manager) )
+      (, ,) )
+    (VBD was) 
+    (VP (VBN named) 
+      (NP (NN president) 
+        (PP (IN of) 
+          (NP (DT the) (NNP Rocketdyne) (NN division) 
+            (PP (IN of) 
+              (NP (DT this) (NN aerospace) (NN concern) ))))))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG succeeding) 
+        (NP 
+          (NP (NNP Richard) (NNP Schwartz) )
+          (, ,) 
+          (SBAR 
+            (WHNP (WP who) )
+            (S 
+              (NP (-NONE- T) )
+              (VP (VBD resigned) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB become) 
+                    (NP (NN president) 
+                      (PP (IN of) 
+                        (NP 
+                          (NP (NNP Hercules) (NNP Aerospace) (NNP Co.) )
+                          (, ,) 
+                          (NP 
+                            (NP (NNP Wilmington) )
+                            (, ,) 
+                            (NP (NNP Del) ))))))))))))))
+  (. .) )

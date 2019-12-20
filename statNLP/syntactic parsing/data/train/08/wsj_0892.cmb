@@ -1,0 +1,87 @@
+
+ 
+ 
+ 
+
+(S
+   (NP (NP (NNS Companies))
+       (VP (VBN listed)
+           (RB below)))
+   (VP (VBD reported)
+       (NP (JJ quarterly) (NN profit))
+       (ADJP (RB substantially)
+             (JJ different)
+             (PP (IN from)
+                 (NP (DT the) (NN average)
+                     (PP (IN of)
+                         (NP
+                             (NP (NNS analysts))
+                             (POS ') (NNS estimates)))))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (NNS companies))
+   (VBP are)
+   (VP (VP (VBN followed)
+           
+           (PP (IN by)
+               (PP (IN at)
+                   (NP
+                       (ADJP (JJS least))
+                       (CD three) (NNS analysts)))))
+       (, ,)
+       (CC and)
+       (VP (VBD had)
+           (NP (DT a)
+               (ADJP (JJ minimum) (JJ five-cent))
+               (NN change))
+           (PP (IN in)
+               (NP (NP (JJ actual) (NNS earnings))
+                   (PP (IN per)
+                       (NP (NN share)))))))
+   (. .))
+ 
+
+(S (NP (NP (JJ Estimated) (CC and) (JJ actual) (NNS results))
+       (VP (VBG involving)
+           (NP (NNS losses))))
+   (VBP are)
+   (VP (VBN omitted)
+       )
+   (. .))
+ 
+ 
+
+(S (S (NP (DT The) (NN percent) (NN difference))
+      (VP (VBZ compares)
+          (NP (JJ actual) (NN profit))
+          (PP (IN with)
+              (NP (DT the) (JJ 30-day) (NN estimate)))))
+   (SBAR (WHADVP (WRB where))
+         (S
+            (NP (PP (IN at)
+                    (NP
+                        (ADJP (JJS least))
+                        (CD three) (NNS analysts))))
+            (VP (VBP have)
+                (NP (NP (NNS issues))
+                    (NNS forecasts))
+                (PP (IN in)
+                    (NP (DT the)
+                        (ADJP (JJ past))
+                        (CD 30) (NNS days))))))
+   (. .))
+ 
+
+(S (RB Otherwise)
+   (, ,)
+   (S (NP (JJ actual) (NN profit))
+      (VBZ is)
+      (VP (VBN compared)
+          
+          (PP (IN with)
+              (NP (DT the) (JJ 300-day) (NN estimate)))))
+   (. .))
+ 
+ 

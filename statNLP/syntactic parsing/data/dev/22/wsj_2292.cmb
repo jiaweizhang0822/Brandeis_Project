@@ -1,0 +1,320 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Vitro) (NNP S.A.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD signed) 
+            (NP (DT a) (JJ definitive) (NN agreement) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB acquire) 
+                  (NP (NNP Anchor) (NNP Glass) (NNP Container) (NNP Corp.) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP 
+                        (NP ($ $) (CD 21.25) )
+                        (NP (DT a) (NN share) ))
+                      (, ,) (CC or) 
+                      (NP ($ $) (CD 265) (CD million) )
+                      (, ,) ))
+                  (PP (IN in) 
+                    (NP (DT the) 
+                      (ADJP (JJS largest) )
+                      (NN takeover) 
+                      (PP (IN of) 
+                        (NP (DT an) (JJ American) (NN company) ))
+                      (PP (IN by) 
+                        (NP (DT a) (JJ Mexican) (NN concern) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Anchor) )
+    (VP (VBD was) 
+      (ADJP (RB relatively) (JJ unaffected) 
+        (PP (IN by) 
+          (NP 
+            (NP (NNP Friday) )
+            (POS 's) (NN market) (NN plunge) ))))
+    (, ,) 
+    (SBAR (RB perhaps) (IN because) 
+      (S 
+        (NP (NNP Vitro) )
+        (VBD was) 
+        (VP (VBG bidding) 
+          (PP (IN for) 
+            (NP (DT the) (NN company) ))))))
+  (. .) )
+( (S 
+    (PP (IN In) 
+      (NP (JJ composite) (NN trading) 
+        (PP (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )))
+      (, ,) )
+    (S 
+      (NP (NNP Anchor) )
+      (VP (VBD closed) 
+        (PP (IN at) 
+          (NP ($ $) (CD 18.375) ))
+        (, ,) 
+        (ADVP (RB down) 
+          (NP ($ $) (CD 1.375) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NN Yesterday) )
+      (POS 's) (NN announcement) 
+      (PP (IN of) 
+        (NP (DT the) (NN accord) )))
+    (VP (VBD culminated) 
+      (NP (DT a) 
+        (ADJP (JJ two-month) (JJ long) )
+        (NN battle) 
+        (PP (IN for) 
+          (NP (DT the) 
+            (NP 
+              (NP (NNP Tampa) )
+              (, ,) 
+              (NP (NNP Fla.) )
+              (, ,) )
+            (NN maker) 
+            (PP (IN of) 
+              (NP 
+                (NP (NNS bottles) )
+                (CC and) 
+                (NP (JJ other) (NN glass) (NNS containers) ))))))))
+  (. .) )
+( (S 
+    (NP (NNP Anchor) )
+    (X 
+      (X (VBD had) 
+        (VP (VBN been) 
+          (VP (VBG fighting) 
+            (NP 
+              (NP (NNP Vitro) )
+              (POS 's) 
+              (ADJP (JJR earlier) )
+              ($ $) (JJ 20-a-share) (NN tender) (NN offer) ))))
+      (CC and) 
+      (VP (VBD agreed) 
+        (PP (TO to) 
+          (NP (DT the) (VBN sweetened) (NN bid) ))
+        (SBAR (IN after) 
+          (S 
+            (NP (DT a) (JJ special) (NN committee) 
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Anchor) )
+                  (POS 's) (NN board) )))
+            (VP (VBD put) 
+              (NP (DT the) (NN company) )
+              (PP (IN on) 
+                (NP (DT the) (NN block) ))))))))
+  (. .) )
+( (S 
+    (NP (NNP Anchor) )
+    (VP (VBD said) (RB previously) 
+      (SBAR (IN that) 
+        (S 
+          (S 
+            (NP (PRP it) )
+            (VP (VBD held) 
+              (NP (NNS talks) )
+              (PP (IN with) 
+                (NP (JJ other) (NNS parties) ))))
+          (, ,) (CC but) 
+          (S 
+            (NP (DT no) (JJ other) (NNS bids) )
+            (VP (VBD emerged) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Vitro) )
+      (, ,) 
+      (SBAR 
+        (WHNP (WDT which) )
+        (S 
+          (NP (-NONE- T) )
+          (VP (RB already) (VBZ owns) 
+            (NP (CD 1,430,000) (NNP Anchor) (NNS shares) ))))
+      (, ,) )
+    (VP (VBD agreed) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB buy) 
+          (NP 
+            (NP (DT the) 
+              (ADJP (JJ remaining) )
+              (CD 12,470,000) (NNS shares) )
+            (ADJP (JJ outstanding) ))
+          (PP (IN through) 
+            (NP 
+              (NP (NNP THR) (NNP Corp.) )
+              (, ,) 
+              (NP (DT an) (JJ indirect) (NN subsidiary) 
+                (PP (IN of) 
+                  (NP (NNP Vitro) )))))))))
+  (. .) )
+( (S 
+    (NP (DT The) 
+      (NP 
+        (NP (NNP Monterrey) )
+        (, ,) 
+        (NP (NNP Mexico) )
+        (, ,) (NN conglomerate) ))
+    (RB also) 
+    (VP (VBD confirmed) 
+      (NP (DT a) (JJ previous) (NN announcement) 
+        (SBAR (IN that) 
+          (S 
+            (NP (PRP it) )
+            (MD would) 
+            (VP (VB acquire) 
+              (NP (RB closely) (VBN held) (NNP Latchford) (NNP Glass) (NNP Co.) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Huntington) (NNP Park) )
+                    (, ,) 
+                    (NP (NNP Calif.) )
+                    (, ,) )))
+              (PP (IN in) 
+                (NP 
+                  (NP (DT a) (JJ separate) (NN transaction) )
+                  (VP (VBN expected) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (TO to) 
+                      (VP (VB close) 
+                        (PP (IN at) 
+                          (NP (DT the) (JJ same) (NN time) 
+                            (PP (IN as) 
+                              (NP (DT the) (NN completion) 
+                                (PP (IN of) 
+                                  (NP (DT the) (NNP Anchor) (NN takeover) )))))))))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN purchase) (NN price) 
+      (PP (IN of) 
+        (NP (DT the) (NNP Latchford) (NN transaction) )))
+    (VBD was) (RB n't) 
+    (VP (VBD disclosed) ))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Vitro) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (S 
+            (NP (NNP Security) (NNP Pacific) (NNP National) (NNP Bank) )
+            (VP (VBD committed) 
+              (NP ($ $) (CD 139) (CD million) )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB finance) 
+                  (NP (DT the) (NN purchase) 
+                    (PP (IN of) 
+                      (NP (NNP Anchor) )))))))
+          (CC and) 
+          (S 
+            (NP (DT an) (NN affiliate) 
+              (PP (IN of) 
+                (NP (NNP Donaldson) 
+                  (, ,)
+                  (NNP Lufkin) (CC &) (NNP Jenrette) (NNP Securities) (NNP Corp.) )))
+            (VP (VBD committed) 
+              (NP ($ $) (CD 155) (CD million) )
+              (PP (IN in) 
+                (NP (DT a) (NN bridge) (NN loan) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB finance) 
+                      (NP (DT the) (NNP Anchor) 
+                        (CC and)
+                        (NNP Latchford) (NNS acquisitions) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Ernesto) (NNP Martens) (NNP R.) )
+      (, ,) 
+      (NP 
+        (NP (NNP Vitro) )
+        (POS 's) (JJ chief) (NN executive) (NN officer) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT the) (NN company) )
+            (VP (VBZ intends) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB keep) 
+                  (NP (NNP Anchor) )
+                  (VP (VBN based) 
+                    (PP (IN in) 
+                      (NP (NNP Tampa) ))))))))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP (DT the) (NN unit) )
+            (MD would) 
+            (VP (VB be) 
+              (VP (VBN run) (RB independently) 
+                (PP (IN by) 
+                  (NP (NNP U.S.) (NNS managers) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Martens) )
+    (VP (VBD called) 
+      (NP (DT the) (NN takeover) )
+      (NP (DT a) (`` ``) 
+        (ADJP (JJ unique) (JJ strategic) )
+        (NN opportunity) ('' '') 
+        (SBAR (IN for) 
+          (S 
+            (NP (NNP Vitro) )
+            (TO to) 
+            (VP (VB become) 
+              (NP (`` ``) (DT a) (NN world) (NN player) ('' '') 
+                (PP (IN in) 
+                  (NP (DT the) (JJ glass-container) (NN industry) )))))))))
+  (. .) )
+( (S 
+    (PP (IN Among) 
+      (NP (JJ other) (NNS things) ))
+    (, ,) 
+    (S 
+      (NP (NNP Vitro) )
+      (VP (VBZ makes) 
+        (NP 
+          (NP (NN glass) (NNS containers) )
+          (, ,) 
+          (NP (JJ flat) (NN glass) )
+          (CC and) 
+          (NP (JJ glass-making) (NN machinery) )))))
+  (. .) )

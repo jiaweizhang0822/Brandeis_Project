@@ -1,0 +1,751 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (PRP I) )
+    (MD would) 
+    (VP (VB like) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB respond) 
+          (PP (TO to) 
+            (NP 
+              (NP 
+                (NP (NNP Jude) (NNP Wanniski) )
+                (POS 's) (NNP Oct.) (CD 19) (NN editorial-page) (NN article) )
+              (, ,) 
+              (S (`` ``) 
+                (NP 
+                  (NP (NNP Bradley) )
+                  (POS 's) (NN Team) )
+                (VP (VBD Gave) 
+                  (NP (DT the) (NN Market) )
+                  (NP (PRP$ Its) (NN Drubbing) ))
+                (, ,) ('' '') ))))))
+    (PP (IN as) 
+      (NP 
+        (NP (DT a) (JJ nonpartisan) (NN portfolio) (NN manager) )
+        (SBAR 
+          (WHNP (WP who) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBZ is) 
+              (ADJP (RB hardly) (JJ amused) 
+                (PP (IN by) 
+                  (NP (DT this) (JJ overzealous) (NN emphasis) 
+                    (PP (IN on) 
+                      (NP (DT the) (NNP Senate) (VBZ 's) (NN maneuvering) 
+                        (PP (IN on) 
+                          (NP (NN capital) (NNS gains) ))
+                        (PP (IN as) 
+                          (NP (DT the) (JJ prime) (NN reason) 
+                            (PP (IN for) 
+                              (NP 
+                                (NP (DT the) (NN market) )
+                                (POS 's) (NN slide) 
+                                (PP (IN on) 
+                                  (NP (NNP Oct.) (CD 13) ))))))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN fact) ))
+    (, ,) 
+    (S 
+      (NP (EX there) )
+      (VP (VBP are) 
+        (NP (JJ several) (NNS reasons) 
+          (PP 
+            (PP (IN for) 
+              (NP (DT an) (NN end) 
+                (PP (TO to) 
+                  (NP (DT the) (NN bull) (NN market) ))))
+            (CC and) 
+            (PP (IN for) 
+              (NP (DT this) (JJ particular) (JJ 190-point) (NN slam-dunk) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S (RB First) 
+    (, ,)
+    (S 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG addressing) 
+          (NP (DT the) (NNP Oct.) (CD 13) (NN market) (NN break) )))
+      (, ,) 
+      (S 
+        (NP (DT this) )
+        (VP (VBD was) (RB certainly) 
+          (ADJP (JJR more) 
+            (PP (IN of) 
+              (NP 
+                (NP (DT a) (JJ technical) (NN gyration) )
+                (CC and) 
+                (NP (DT a) (JJ local) (NN jungle) (NN exercise) )))
+            (, ,) 
+            (PP (IN than) 
+              (NP (DT an) (NN investor) (NN reaction) 
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (NN day) )
+                    (POS 's) (JJ political) (NNS events) 
+                    (PP (IN in) 
+                      (NP (NNP Washington) ))))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VB Look) 
+        (PP 
+          (PP (RB not) (TO to) 
+            (NP (DT the) (NNS managers) 
+              (PP (IN of) 
+                (NP (JJ taxable) (NN investment) (NNS funds) ))
+              (PP (IN as) 
+                (NP (DT the) (NN source) 
+                  (PP (IN of) 
+                    (NP (NN selling) ))
+                  (NP (RB late) (DT that) (NN afternoon) )))))
+          (, ,) (CC but) 
+          (PP (RB rather) (TO to) 
+            (NP (JJ several) 
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (DT the) (JJ usual) (NNS suspects) )
+                    (NP 
+                      (-LRB- -LRB-)
+                      (`` ``) (NN investment) ('' '') (NNS banks) 
+                      (CC and)
+                      (NNS institutions) 
+                      (-RRB- -RRB-)
+                      ))
+                  (VP (VBN geared) (RP up) 
+                    (PP (IN with) 
+                      (NP 
+                        (NP (JJ imperfect) (NN trading) (NNS programs) )
+                        (SBAR 
+                          (WHNP (WDT that) )
+                          (S 
+                            (NP (-NONE- T) )
+                            (VP (VBP accelerate) 
+                              (NP 
+                                (NP (NN market) (NN deterioration) )
+                                (, ,) 
+                                (VP (RB once) (VBN begun) )))))))))))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NN catalyst) 
+      (PP (IN for) 
+        (NP (DT this) (NN decline) )))
+    (VP (VBD was) 
+      (, ,)
+      (RB indeed) 
+      (, ,)
+      (NP 
+        (NP (DT the) (NN breakdown) 
+          (PP (IN of) 
+            (NP (DT the) (NNP United) (NNP Airlines) (NN transaction) )))
+        (CC and) 
+        (NP (PRP$ its) (JJ resultant) (JJ pre-margin) (NN call) (NN liquidation) 
+          (PP (IN of) 
+            (NP (JJ various) (NNS holdings) ))
+          (PP (IN by) 
+            (NP 
+              (NP (NNS arbitragers) )
+              (CC and) 
+              (NP (JJ other) (NNS traders) ))))))
+    (. .) ))
+( (S 
+    (NP (PRP I) )
+    (MD can) 
+    (VP (VB assure) 
+      (NP (NNP Mr.) (NNP Wanniski) )
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (NN market) )
+          (VP (VBZ is) (RB not) 
+            (ADJP (RB as) (RB politically) (JJ motivated) 
+              (SBAR (IN as) 
+                (S 
+                  (NP (PRP he) )
+                  (VP (VBZ is) 
+                    (NP (-NONE- T) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN With) 
+      (NP (NN regard) 
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (NN bull) (NN market) )
+            (POS 's) (JJ sad) (NN demise) ))))
+    (, ,) 
+    (S 
+      (NP (DT this) )
+      (MD can) 
+      (VP (VB be) 
+        (VP (VBN attributed) 
+          (PP (TO to) 
+            (NP (JJ several) (NNS factors) )))))
+    (: :) ))
+( (NP 
+    (LS (LS 1) (. .) )
+    (NP (NN Overextension) 
+      (PP (IN of) 
+        (NP (NN credit) )))
+    (. .) ))
+( (NP (DT The) (NN realization) 
+    (SBAR (IN that) 
+      (S 
+        (NP (NN interest) (NNS rates) )
+        (MD will) 
+        (VP (VB be) 
+          (ADJP (JJ firm) )
+          (ADVP (RB due) 
+            (PP (TO to) 
+              (NP 
+                (NP (JJ excessive) (NN demand) 
+                  (PP (IN for) 
+                    (NP (NN credit) ))
+                  (PP (IN on) 
+                    (NP (DT the) (NN part) 
+                      (PP (IN of) 
+                        (NP (DT the) (JJ federal) (NN government) )))))
+                (VP 
+                  (-LRB- -LRB-)
+                  (VBG including) 
+                  (NP 
+                    (NP (JJ off-balance) (NN sheet) (NNS requirements) )
+                    (-RRB- -RRB-) 
+                    (CC and)
+                    (NP (JJ leveraged) (NN buyout) (JJ related) (NNS transactions) )))))))))
+    (. .) ))
+( (NP 
+    (NP 
+      (NP (DT The) (JJ latter) (NN credit) (NNS demands) )
+      (VP (RB no) (RBR longer) (VBN supported) 
+        (PP (TO to) 
+          (NP (DT the) (JJ same) (NN degree) ))
+        (PP (IN by) 
+          (NP (DT the) (NN market) ))))
+    (NP 
+      (-LRB- -LRB-)
+      (NP 
+        (NP (NNS suppliers) )
+        (, ,) 
+        (NP 
+          (NP 
+            (NP (NNP Michael) (NNP Milken) )
+            (CC and) 
+            (NP (DT the) (NNS S&Ls) )))
+        (, ,) )
+      (VP (VBG being) 
+        (ADJP (RB noticeably) (JJ absent) ))
+      (-RRB- -RRB-) )
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (NP 
+    (LS (LS 2) (. .) )
+    (NP (NN Perception) 
+      (PP (IN of) 
+        (NP (JJ future) (NN deterioration) 
+          (PP (IN of) 
+            (NP (JJ corporate) (NNS profits) )))))
+    (. .) ))
+( (S 
+    (NP (DT This) )
+    (VBD was) 
+    (VP (VBN exemplified) 
+      (PP (IN by) 
+        (NP 
+          (NP (NNP IBM) )
+          (POS 's) (JJ recent) (NNS announcements) )))
+    (. .) ))
+( (S 
+    (NP (NN One) )
+    (MD can) 
+    (VP (VB magnify) 
+      (NP (DT this) (NN problem) )
+      (NP (CD 10) (NNS times) )
+      (PP (IN for) 
+        (NP 
+          (NP (RB highly) (JJ leveraged) (NNS companies) )
+          (SBAR 
+            (SBAR 
+              (WHNP (WP$ whose) (NNS revenues) )
+              (S 
+                (NP (-NONE- T) )
+                (VBP are) 
+                (VP (VBG slowing) )))
+            (CC and) 
+            (SBAR 
+              (WHADVP (WRB where) )
+              (S 
+                (NP (NN interest) (NNS rates) )
+                (VP (VBP are) (RB no) (RB longer) 
+                  (ADJP (JJ accommodative) 
+                    (, ,)
+                    (PP (IN in) 
+                      (NP (JJ bifurcated) (NN credit) (NNS markets) ))))))))))
+    (. .) ))
+( (LS (LS 3) (. .) ))
+( (NP 
+    (NP 
+      (NP (DT A) (NN dollar) )
+      (SBAR 
+        (WHNP (WDT that) )
+        (S 
+          (NP (-NONE- T) )
+          (MD will) 
+          (VP (VB slide) 
+            (PP (IN into) 
+              (NP (NN year) (NN end) ))
+            (: --) 
+            (ADVP (RB due) 
+              (PP (TO to) 
+                (NP 
+                  (NP (JJ international) (NN interest-rate) (NNS differentials) )
+                  (CC and) 
+                  (NP (DT the) 
+                    (ADJP (JJ choreographed) )
+                    (NN trading) (NNS techniques) 
+                    (PP (IN of) 
+                      (NP (JJ certain) (NN oil) (NNS importers) ))))))
+            (: --) ))))
+    (SBAR 
+      (WHNP (WDT which) )
+      (S 
+        (NP (-NONE- T) )
+        (VBZ does) (RB not) 
+        (VP (VB inspire) 
+          (NP (NN foreign-investor) (NN interest) ))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (NP 
+    (LS (LS 4) (. .) )
+    (NP 
+      (NP (NN Inflation) )
+      (SBAR 
+        (WHNP (WDT that) )
+        (S 
+          (NP (-NONE- T) )
+          (MD will) 
+          (VP (VB be) 
+            (ADJP (JJ stable) 
+              (PP (IN for) 
+                (NP (DT the) (NN time) (JJ being) )))
+            (, ,) 
+            (PP (IN despite) 
+              (NP (DT the) (VBG rising) (NN cost) 
+                (PP (IN of) 
+                  (NP (VBN imported) (NNS goods) ))))
+            (, ,) 
+            (ADVP (IN because) 
+              (PP (IN of) 
+                (NP 
+                  (NP 
+                    (NP (VBG rising) (JJ domestic) (NNS inventories) )
+                    (NP 
+                      (-LRB- -LRB-)
+                      (NP (NN housing) )
+                      (, ,) 
+                      (NP (NN divestiture) (NNS candidates) )
+                      (, ,) 
+                      (NP (NNS commodities) )
+                      (, ,) (FW etc) (. .) 
+                      (-RRB- -RRB-)
+                      ))
+                  (VP (VBG requiring) 
+                    (NP (NN liquidation) )))))))))
+    (. .) ))
+( (NP 
+    (NP (JJ Modest) (NN inflation\/deflation) )
+    (VP (VBG adding) 
+      (PP (TO to) 
+        (NP (DT the) (NN attractiveness) 
+          (PP (IN of) 
+            (NP (NNS bonds) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (NP 
+    (LS (LS 5) (. .) )
+    (S 
+      (NP (DT The) (NN honeymoon) )
+      (VP (VBZ is) (RB over) 
+        (PP (IN for) 
+          (NP (JJ poor) (NNP George) )))
+      (. .) )))
+( (S 
+    (PP (IN In) 
+      (NP (DT the) (JJ past) (NN week) ))
+    (S 
+      (NP (DT this) )
+      (VBD was) 
+      (VP (VBN highlighted) 
+        (PP (IN by) 
+          (NP 
+            (VP (VBG continuing) )
+            (NN fallout) 
+            (PP (IN on) 
+              (NP 
+                (NP 
+                  (NP (NNP Panama) )
+                  (CC and) 
+                  (NP (NN abortion) (NNS rights) ))
+                (, ,) (RB as) (RB well) (IN as) 
+                (NP (NN capital) (NNS gains) )))))))
+    (. .) ))
+( (S 
+    (NP (JJ Anticipated) (JJ poor) (NNS results) 
+      (PP (IN for) 
+        (NP (NNPS Republicans) ))
+      (PP (IN at) 
+        (NP (DT the) (NNS polls) 
+          (PP (IN in) 
+            (NP (NNP November) )))))
+    (VBP have) 
+    (VP (VBN added) 
+      (PP (TO to) 
+        (NP (NN investor) (NN ennui) )))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (NN sum) ))
+    (, ,) 
+    (S 
+      (NP (EX there) )
+      (VP (VBP are) 
+        (NP 
+          (ADJP 
+            (ADJP (JJ technical) )
+            (, ,) 
+            (ADJP (JJ economic) )
+            (, ,) 
+            (ADJP (JJ political) )
+            (CC and) 
+            (ADJP (JJ psychological) ))
+          (NNS reasons) 
+          (PP (IN for) 
+            (NP 
+              (NP (DT the) (NN market) )
+              (POS 's) (JJ recent) (NN drubbing) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP (NNP Mr.) (NNP Wanniski) )
+      (MD can) 
+      (VP (`` ``) (RB cheerfully) (VB inform) ('' '') 
+        (NP 
+          (NP (NNP Mr.) (NNP Bradley) )
+          (CC and) 
+          (NP (DT the) (NN rest) 
+            (PP (IN of) 
+              (NP (PRP us) ))))
+        (PP (IN of) 
+          (NP (PRP$ his) (NNS notions) 
+            (PP (IN as) 
+              (PP (TO to) 
+                (NP 
+                  (NP (DT the) (NN party) )
+                  (POS 's) (NN end) )))))))
+    (, ,) (CC but) 
+    (S 
+      (NP (PRP$ his) (NN energy) 
+        (CC and)
+        (NN intellect) )
+      (MD would) 
+      (VP (VB be) 
+        (VP (RBR better) (VBN used) 
+          (PP (IN in) 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG focusing) 
+                (PP (IN on) 
+                  (NP 
+                    (NP (NNS measures) )
+                    (SBAR 
+                      (WHNP (WDT that) )
+                      (S 
+                        (NP (-NONE- T) )
+                        (MD will) 
+                        (VP (VB ensure) 
+                          (NP (PRP$ our) (JJ long-term) (NN success) 
+                            (PP (IN as) 
+                              (NP 
+                                (NP (NNS leaders) )
+                                (CC and) 
+                                (NP (NNS capitalists) )))))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (NP (NNP E.F.) (NNP Drake) ))
+( END_OF_TEXT_UNIT )
+( (NP 
+    (NP (NNP Franconia) )
+    (, ,) 
+    (NP (NNP N.H) )
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Wanniski) )
+    (MD might) 
+    (VP (VB seem) 
+      (ADJP (JJ simplistic) )
+      (PP (TO to) 
+        (NP (DT some) )))
+    (SBAR 
+      (WHADVP (WRB when) )
+      (S 
+        (NP (PRP he) )
+        (VP (VBZ blames) 
+          (NP (DT the) (NNP Oct.) (CD 13) (NN market) (NN crashlet) )
+          (PP (IN on) 
+            (NP (JJ Democratic) (NN obstructionism) 
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN president) )
+                  (POS 's) (NNS capital-gains) (NN proposal) )))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (PRP it) )
+      (VP (VBZ 's) 
+        (ADJP (RB quite) (JJ true) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP (NNP Wall) (NNP Street) )
+              (VP (VBZ responds) (RB dramatically) 
+                (PP (TO to) 
+                  (NP (NNS changes) 
+                    (PP (IN in) 
+                      (NP 
+                        (NP (DT the) (NNS capital-gains) (NN rate) )
+                        (, ,) 
+                        (NP (RB especially) (NN growth) (NNS stocks) )))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (JJ great) (NNP Growth) (NNP Bull) (NNP Market) )
+    (VP (VBD began) 
+      (PP (IN in) 
+        (NP 
+          (NP (NNP June) (CD 1978) )
+          (SBAR (RB just) 
+            (WHADVP (WRB when) )
+            (S 
+              (NP (DT the) 
+                (ADJP (JJ late) )
+                (NP (NNP Rep.) (NNP William) (NNP Steiger) )
+                (POS 's) (NN proposal) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB cut) 
+                    (NP (DT the) (NNS capital-gains) (NN tax) )
+                    (PP (TO to) 
+                      (NP (CD 25) (NN %) ))
+                    (PP (IN from) 
+                      (NP (RB almost) (CD 50) (NN %) )))))
+              (VP (VBD began) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB gather) 
+                    (NP (NN majority) (NN support) )
+                    (PP (IN in) 
+                      (NP (NNP Congress) ))))))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NN bull) (NN market) 
+      (PP (IN in) 
+        (NP (NN growth) (NNS stocks) )))
+    (VP (VBD halted) )
+    (SBAR 
+      (WHADVP (WRB when) )
+      (S 
+        (NP (DT the) (NN rate) )
+        (VBD was) 
+        (VP (VBN hiked) 
+          (PP (TO to) 
+            (NP (CD 28) (NN %) ))
+          (PP (IN from) 
+            (NP (CD 20) (NN %) ))
+          (ADJP (JJ effective) 
+            (NP (NNP January) (CD 1987) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP 
+        (NP (DT The) (NNP Dow) )
+        (CC and) 
+        (NP (JJ other) (NNS averages) ))
+      (VP (VBD continued) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB advance) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP (JJ growth-stock) (NNS multiples) )
+      (VP (VBD suffered) 
+        (NP (NN sclerosis) )
+        (PP (IN from) 
+          (NP (DT that) (NN point) ))
+        (PP (IN until) 
+          (NP 
+            (NP (DT this) (NN summer) )
+            (, ,) 
+            (SBAR 
+              (WHADVP (WRB when) )
+              (S 
+                (NP (DT the) (NN market) )
+                (VP (VBD began) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB realize) 
+                      (SBAR (-NONE- 0) 
+                        (S 
+                          (NP (DT the) (NN rate) )
+                          (MD might) (RB indeed) 
+                          (VP (VB be) 
+                            (VP (VBN lowered) )))))))))))))
+    (. .) ))
+( (S 
+    (NP (PDT All) (DT the) (NNS indexes) )
+    (VP (VBD surged) 
+      (SBAR 
+        (WHADVP (WRB when) )
+        (S 
+          (NP (DT a) 
+            (ADJP (JJR lower) )
+            (NN rate) )
+          (VP (VBD passed) 
+            (NP (DT the) (NN House) )))))
+    (. .) ))
+( (S 
+    (S 
+      (NP (DT The) (NNP UAL) (NN financing) (NN reverse) )
+      (VP (VBD shocked) 
+        (NP (DT the) (NN market) )))
+    (, ,) (CC but) 
+    (S 
+      (NP (DT the) (NN prospect) 
+        (PP (IN of) 
+          (NP 
+            (NP (NN capital) (NNS gains) )
+            (VP (RB not) (VBG fulfilling) 
+              (NP 
+                (NP (DT the) (NN market) )
+                (POS 's) (NNS hopes) )))))
+      (VP (VBD was) (RB also) 
+        (NP (DT an) (JJ important) (NN factor) )))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (NP (NNP Richard) (NNP Gilder) (NNP Jr) (. .) ))
+( END_OF_TEXT_UNIT )
+( (NP (NNP New) (NNP York) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Mr.) (NNP Wanniski) )
+      (VBZ 's) (NN opportuning) 
+      (PP (IN of) 
+        (NP (DT the) (JJ recent) (NN stock) (NN drubbing) ))
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB castigate) 
+          (NP (NNP Sen.) (NNP Bill) (NNP Bradley) )
+          (PP (IN for) 
+            (NP (PRP$ his) (NN opposition) 
+              (PP (TO to) 
+                (NP (DT a) (NNS capital-gains) (NN tax) (NN cut) )))))))
+    (VP (VBZ contains) 
+      (NP (DT some) (JJ clever) (CC but) (JJ faulty) (NN reasoning) ))
+    (. .) ))
+( (SINV 
+    (SBAR (IN If) 
+      (NP 
+        (NP (NNP Mr.) (NNP Wanniski) )
+        (POS 's) (NN theory) 
+        (SBAR-2 (-NONE- *pseudo-attach*) ))
+      (VP (VBZ is) 
+        (ADJP (JJ right) )))
+    (, ,) 
+    (SBAR-2 (IN that) 
+      (S 
+        (NP (DT a) (NN tax) (NN cut) )
+        (VP (VBZ increases) 
+          (NP (DT the) (NN value) 
+            (PP (IN of) 
+              (NP 
+                (NP (NN capital) (NNS assets) )
+                (VP (VBN held) 
+                  (PP (IN by) 
+                    (NP (NNS owners) )))))))))
+    (, ,) 
+    (SINV (MD would) (RB n't) 
+      (NP (DT that) (NN increase) )
+      (RB also) 
+      (VP (VB represent) 
+        (NP (DT a) 
+          (ADJP 
+            (ADJP (RB rather) (JJ dramatic) )
+            (CC and) 
+            (ADJP (RB totally) (JJ unjustified) ))
+          (NN inflation) 
+          (PP (IN of) 
+            (NP (DT those) (NNS values) )))))
+    (. ?) ))
+( (S 
+    (VP (VBG According) 
+      (PP (TO to) 
+        (NP (PRP$ his) (NNS figures) )))
+    (, ,) 
+    (S 
+      (NP (NN asset) (NNS values) )
+      (MD would) 
+      (VP (VB be) 
+        (VP (VBN pumped) 
+          (ADVP (RP up) 
+            (NP (DT some) ($ $) (CD 50) (CD billion) )
+            (RB overnight) 
+            (PP (IN with) 
+              (NP (DT the) (NN passage) 
+                (PP (IN of) 
+                  (NP (DT the) (NN cut) ))))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP (DT This) )
+      (VP (VBZ is) 
+        (NP (`` ``) (JJ real) (NN money) 
+          (, ,)
+          ('' '') )))
+    (S 
+      (NP (NNP Mr.) (NNP Wanniski) )
+      (VP (VBZ says) ))
+    (. .) ))
+( (S 
+    (NP (PRP I) )
+    (VP (VBP say) 
+      (, ,)
+      (NP (JJ real) (NN trouble) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (NP (NNP Robert) (NNP S.) (NNP Giolito) ))
+( END_OF_TEXT_UNIT )

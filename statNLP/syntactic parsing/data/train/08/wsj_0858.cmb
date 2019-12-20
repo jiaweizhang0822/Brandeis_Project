@@ -1,0 +1,979 @@
+
+ 
+ 
+ 
+
+(S
+   (NP (NNS CONFRONTATIONS))
+   (VP (VBZ LOOM)
+       (PP (IN between)
+           (NP (NP (NNP Bush))
+               (CC and)
+               (NP (NNPS Democrats))))
+       (PP (IN in)
+           (NP (NNP Congress))))
+   (. .))
+ 
+ 
+
+(S (S (NP (DT The) (JJ early) (NN bipartisanship))
+      (VP (VBZ dissipates)))
+   (SBAR (IN as)
+         (S (S (NP (NNS issues))
+               (VP (VBP become)
+                   (ADJP (RBR more)
+                         (ADJP (JJ contentious)))))
+            (CC and)
+            (S (NP (DT the) (NNPS Democrats))
+               (VP (VBP find)
+                   (NP (PRP$ their) (NN voice))))))
+   (. .))
+ 
+
+(S (S
+      (NP (PRP They))
+      (VP (VBP begin)
+          (S (NP (-NONE- *))
+             (TO to)
+             (VP (VB blame)
+                 (NP
+                     (NP (NNP Bush))
+                     (POS 's) (NN insistence)
+                     (PP (IN on)
+                         (NP (DT a) (NNS capital-gains)
+                             (NN cut))))
+                 (PP (IN for)
+                     (NP (DT the) (NN disarray)
+                         (PP (IN in)
+                             (NP (DT the) (NN budget) (NN process)))))))))
+   (: ;)
+   (S (NP (CD one) (NNP White) (NNP House) (NN aide))
+      (VP (VBZ sees)
+          (S (NP (DT a)
+                 (`` ``)
+                 (NN train) (NN wreck)
+                 ('' ''))
+             (VP (VBG coming)))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (NNPS Democrats))
+   (RB also)
+   (RB increasingly)
+   (VP (VBP lash)
+       (NP (NNP Bush))
+       (PP (IN for)
+           (NP (NN timidity)
+               (PP (IN on)
+                   (NP (NNP Eastern) (NNP Europe))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP White) (NNP House) (NNS advisers))
+   (VP (VP (RB formally)
+           (VBP threaten)
+           (NP (NNS vetoes)
+               (PP (IN of)
+                   (NP (DT the) (NN foreign-aid) (CC and) (NN child-care) (NNS bills)))))
+       (CC and)
+       (VP (RB informally)
+           (VBP discuss)
+           (NP (DT a) (JJ possible) (NN veto)
+               (PP (IN of)
+                   (NP (DT the) (NN defense) (NN bill))))))
+   (. .))
+ 
+
+(S (S
+      (NP (NN Child) (NN care))
+      (MD could)
+      (VP (VB be)
+          (NP (DT an)
+              (ADJP (RB especially)
+                    (X (JJ tough)))
+              (NN fight))))
+   (: ;)
+   (S (PP (IN after)
+          (NP
+              (NP (NNP Bush))
+              (POS 's) (NN veto)
+              (PP (IN of)
+                  (NP (NN abortion) (NN funding)
+                      (PP (IN for)
+                          (NP (NN rape) (CC and) (NN incest) (NNS victims)))))))
+      (, ,)
+      (S (NP (JJ anti-abortion) (NNS lawmakers))
+         (VP (VBP feel)
+             (NP (JJ extra) (NN pressure))
+             (S (NP (-NONE- *))
+                (TO to)
+                (VP (VB show)
+                    (NP (NN attention))
+                    (PP (TO to)
+                        (NP
+                            (NP (NNS women))
+                            (POS 's) (NNS concerns))))))))
+   (. .))
+ 
+ 
+
+(S (S
+      (NP (NNP Bush))
+      (RB still)
+      (VP (VBZ tries)
+          (NP (DT a) (JJ personal) (NN touch))))
+   (: ;)
+   (S (NP (PRP he))
+      (VP (VP (NNS golfs)
+              (PP (IN with)
+                  (NP (NP (NP (NNP Ways))
+                          (CC and)
+                          (NP (NNP Means) (NNP Chairman)))
+                      (NP (NNP Rostenkowski)))))
+          (CC and)
+          (VP (VBZ meets)
+              (RB privately)
+              (PP (IN with)
+                  (NP (NNP Senate) (NNPS Democrats))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (DT A)
+       (`` ``)
+       (JJ MUST-SIGN)
+       ('' '')
+       (NN BILL))
+   (VP (VBZ becomes)
+       (NP (DT a) (NN magnet))
+       (PP (IN for)
+           (NP (JJ controversial) (NNS proposals))))
+   (. .))
+ 
+ 
+
+(S (S (S (NP (TO To))
+         (VP (VB avoid)
+             (NP (VP (VBG missing)
+                     (NP (NNP Social) (NNP Security) (NNS payments))))))
+      (, ,)
+      (S (NP (DT the) (NN government))
+         (MD must)
+         (VP (VB get)
+             (NP (DT a) (NN raise))
+             (PP (IN in)
+                 (NP (PRP$ its) (NN borrowing) (NN limit)))
+             (PP (IN by)
+                 (NP (NNP Nov.) (CD 8))))))
+   (: ;)
+   (S (NP (DT the) (NN necessity)
+          (PP (IN of)
+              (NP (DT the) (NN measure))))
+      (VP (VBZ attracts)
+          (NP (JJ numerous) (NNS attempts)
+              (PP (IN at)
+                  (NP (VP (VBG adding)
+                          (NP (JJ unrelated) (NNS measures))
+                          (PP (TO to)
+                              (NP (PRP it)))))))))
+   (. .))
+ 
+
+(S (S
+      (NP (NNPS Republicans))
+      (MD will)
+      (VP (VB try)
+          (S (NP (-NONE- *))
+             (TO to)
+             (VP (VB offer)
+                 (NP (DT the) (NNS capital-gains)
+                     (NN cut))
+                 (PP (IN in)
+                     (NP (DT the) (NNP Senate)))))))
+   (: ;)
+   (S (S (NP (DT the) (NNPS Democrats))
+         (RB probably)
+         (VP (VBP have)
+             (NP (DT the) (NNS votes))
+             (S (NP (-NONE- *))
+                (TO to)
+                (VP (VB block)
+                    (NP (PRP it))))))
+      (, ,)
+      (SBAR (IN though)
+            (S (NP (DT some))
+               (VP (NN fear)
+                   (NP (NN brinksmanship)
+                       (PP (IN on)
+                           (NP (DT the) (NN bill))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP
+       (ADJP (JJ Other) (JJ likely))
+       (NNS candidates)
+       (PP (IN for)
+           (NP (NNS riders))))
+   (VP (VBP include)
+       (NP (NP (NN revision)
+               (PP (IN of)
+                   (NP (DT the) (NNP Gramm-Rudman) (NN law))))
+           (, ,)
+           (NP (NN repeal)
+               (PP (IN of)
+                   (NP (NN catastrophic-illness) (NN insurance))))
+           (, ,)
+           (NP (NN child) (NN care))
+           (CC and)
+           (NP (NP (JJ other) (NNS measures))
+               (SBAR (WDT that)
+                     (S (NP (-NONE- T))
+                        (VBD were)
+                        (VP (VBN stripped)
+                            
+                            (PP (RP off)
+                                (NP (DT the)
+                                    (ADJP (JJ recent) (JJ budget-reconciliation))
+                                    (NN bill)))))))))
+   (. .))
+ 
+
+(S
+   (NP (JJ Democratic) (NNS leaders))
+   (MD will)
+   (VP (VB try)
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB keep)
+              (NP (PRP them))
+              (RB off))))
+   (, ,)
+   (VP (VBG fearing)
+       (SBAR (IN that)
+             (S (NP (VP (VBG allowing)
+                        (NP (DT any)
+                            (PP (IN of)
+                                (NP (PRP them))))))
+                (MD would)
+                (VP (VB weaken)
+                    (NP (PRP$ their) (NN argument)
+                        (PP (IN against)
+                            (NP (NN capital) (NNS gains))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP BUSH))
+   (VP (VBZ TURNS)
+       (NP (DT the)
+           (ADJP (JJ failed))
+           (NNP Panama) (NN coup))
+       (PP (TO to)
+           (NP (PRP$ his) (NN advantage)))
+       (, ,)
+       (PP (IN at)
+           (ADJP (JJS least)
+                 (PP (IN for)
+                     (RB now)))))
+   (. .))
+ 
+ 
+
+(S (S
+      (NP (PRP$ His) (NNS complaints)
+          (PP (IN about)
+              (NP (JJ secret) (NNS restrictions)
+                  (PP (IN on)
+                      (NP (JJ anti-Noriega) (NNS plots))))))
+      (VP (VBD put)
+          (NP (NNP Congress))
+          (PP (IN on)
+              (NP (DT the) (NN defensive)))))
+   (, ,)
+   (RB even)
+   (SBAR (IN though)
+         (S (NP (DT the) (NNS curbs))
+            (VBD did)
+            (RB n't)
+            (VP (VB play)
+                (NP (DT a) (NN role))
+                (PP (IN in)
+                    (NP
+                        (NP (DT the) (NN coup))
+                        (POS 's) (NN collapse))))))
+   (. .))
+ 
+
+(S (S (NP (NP (NNP Senate) (NN intelligence) (NNS chiefs))
+          (NP (NP (NNP Boren))
+              (CC and)
+              (NP (NNP Cohen))))
+      (VP (VBP agree)
+          (PP (IN with)
+              (NP (DT the) (NNP White) (NNP House)))
+          (S (NP (-NONE- *))
+             (TO to)
+             (VP (VB loosen)
+                 (NP (DT the) (NNS rules))))))
+   (: ;)
+   (S (S (NP (NNP CIA) (NNS agents))
+         (VP (VBP stand)
+             (S (NP (-NONE- *))
+                (TO to)
+                (VP (VB gain)
+                    (NP (JJ broad) (NN leeway))
+                    (S (NP (-NONE- *))
+                       (TO to)
+                       (VP (VB work)
+                           (PP (IN with)
+                               (NP (NNS rebels)))))))))
+      (, ,)
+      (RB even)
+      (SBAR (IN if)
+            (S (NP (DT a) (NN coup))
+               (MD might)
+               (VP (VB endanger)
+                   (NP
+                       (NP (NNP Noriega))
+                       (POS 's) (NN life))))))
+   (. .))
+ 
+ 
+
+(NP (NP (DT The) (JJ next) (NN step))
+    (: :)
+    (NP (DT a)
+        (ADJP (JJ new) (JJ covert))
+        (NN plan)
+        (PP (IN for)
+            (NP (VP (VBG unseating)
+                    (NP (DT the) (NN dictator))))))
+    (. .))
+ 
+
+(S
+   (NP (CD One) (NN possibility))
+   (VP (VBZ is)
+       (NP (ADJP (RBR more)
+                 (JJ active))
+           (JJ American)
+           (NP (NN recruitment)
+               (PP (IN of)
+                   (NP (NP (NNS rebels))
+                       (SBAR (WHNP (WP who))
+                             (S (NP (-NONE- T))
+                                (MD would)
+                                (VP (VB agree)
+                                    (S (NP (-NONE- *))
+                                       (TO to)
+                                       (VP (VP (NN hand)
+                                               (NP (NNP Noriega))
+                                               (PP (TO to)
+                                                   (NP (DT the) (NNP U.S.))))
+                                           (CC and)
+                                           (VP (VB install)
+                                               (NP (DT the) (VBN elected) (NNS leaders)
+                                                   (SBAR (-NONE- 0)
+                                                         (S
+                                                            (NP (PRP he))
+                                                            (VP (VBD rebuffed))))))))))))))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (JJ last) (NN coup) (NNS plotters))
+   (VP (VBD refused)
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB do)
+              (NP (DT either)))))
+   (. .))
+ 
+ 
+
+(S (CC But)
+   (S (NP
+          (NP (NNP Bush))
+          (POS 's) (NN handling)
+          (PP (IN of)
+              (NP (DT the) (JJ previous) (NN attempt))))
+      (VP (VBZ hobbles)
+          (NP (JJ future) (NNS efforts))))
+   (. .))
+ 
+
+(S (S
+      (NP (NNP Noriega))
+      (VBZ has)
+      (VP (VBN purged)
+          (NP (JJ potential) (NNS enemies))))
+   (, ,)
+   (CC and)
+   (S (NP (NNS doubts))
+      (VP (VBP grow)
+          (PP (IN about)
+              (NP (NNP U.S.) (NN resolve)))))
+   (. .))
+ 
+ 
+
+(S
+   (NP
+       (NP (NNS LAWMAKERS))
+       (POS ') (NN PATIENCE))
+   (VP (VBZ wears)
+       (ADJP (JJ thin))
+       (PP (IN over)
+           (NP
+               (NP (DT the) (NNP CFTC))
+               (POS 's) (JJ slow) (NN pace)
+               (PP (IN of)
+                   (NP (NN reform)))))
+       (PP (IN after)
+           (NP (NP (DT the)
+                   (`` ``)
+                   (NN sting)
+                   ('' '')
+                   (NN operation))
+               (SBAR (WDT that)
+                     (S (NP (-NONE- T))
+                        (VP (VBD led)
+                            (PP (TO to)
+                                (NP (DT the) (NN spring) (NNS indictments)
+                                    (PP (IN of)
+                                        (NP (CD 46) (NNS traders)))))
+                            (PP (IN at)
+                                (NP (CD two) (NNP Chicago) (NNS exchanges)))))))))
+   (. .))
+ 
+
+(S
+   (NP (JJ Incredulous) (NNS senators))
+   (VP (VBP grill)
+       (NP (NNP Chairman) (NNP Wendy) (NNP Gramm))
+       (PP (IN about)
+           (NP (DT the) (NN fact)
+               (SBAR (IN that)
+                     (S (NP (CD 11)
+                            (PP (IN of)
+                                (NP (DT the) (NNS traders))))
+                        (VBP are)
+                        (RB still)
+                        (VP (VBG handling)
+                            (NP (NN customer) (NNS accounts))))))))
+   (. .))
+ 
+
+(S (NP (NNP Nebraska) (NNP Sen.) (NNP Kerrey))
+   (VP (VBZ asks)
+       (NP (PRP her))
+       (: :)
+       (SQ (`` ``)
+           (VBP Do)
+           (S (NP (PRP you))
+              (VP (VB work)
+                  (RB full-time)
+                  (PP (IN at)
+                      (NP (DT this) (NN job)))))
+           (. ?)
+           ('' '')
+           )))
+ 
+
+(S
+   (NP (DT THE) (NNP PENTAGON))
+   (VP (VBZ BALKS)
+       (PP (IN at)
+           (NP
+               (NP (NNP Darman))
+               (POS 's) (NN budget) (NN strategy)
+               (PP (IN of)
+                   (NP (VP (VBG threatening)
+                           (S (NP (-NONE- *))
+                              (TO to)
+                              (VP (VB make)
+                                  (NP (DT the)
+                                      (ADJP (JJ automatic))
+                                      (NNP Gramm-Rudman) (NNS cuts))
+                                  (ADJP (JJ permanent))))))))))
+   (. .))
+ 
+
+(S
+   (NP (NNP Pentagon) (NN brass))
+   (VP (VBP worry)
+       (SBAR (-NONE- 0)
+             (S (NP (PRP it))
+                (MD could)
+                (VP (VB mean)
+                    (NP (JJ sharp) (NNS cutbacks))
+                    (PP (IN in)
+                        (NP (NP (NN training))
+                            (, ,)
+                            (NP (NN acquisition)
+                                (PP (IN of))
+                                (NP (JJ spare) (NNS parts)))
+                            (CC and)
+                            (NP (NNS weapons) (NN development))))))))
+   (. .))
+ 
+
+((? (`` ``))
+ (?
+    (S (NP (DT The) (NN impact))
+       (?
+          (PP (IN for)
+              (NP (PRP us))))
+       (MD could)
+       (VP (VB be)
+           (? (RB appreciably))
+           (ADJP (JJR worse)))))
+ (?
+    (PP (IN than)
+        (NP (NNP OMB))))
+ (?
+    (S (VBZ has)
+       (VP (VBN admitted))))
+ (?
+    (PP (IN in)
+        (NP (PRP$ its) (NN maneuvering))))
+ (?
+    (PP (IN with)
+        (NP (NNP Congress))))
+ (? (, ,))
+ (? ('' ''))
+ (S
+    (VP (VBZ says)
+        (NP (DT a) (NNP Pentagon) (NN budget) (NN aide))))
+ (? (. .)))
+ 
+ 
+
+((?
+    (NP (JJ NEW) (NN ALLY)))
+ (? (: :))
+ (?
+    (NP (NNP Attorney) (NNP General) (NNP Thornburgh)))
+ (? (, ,))
+ (? (RB back))
+ (?
+    (PP (IN from)
+        (NP (DT the) (NNP U.S.S.R.))))
+ (? (, ,))
+ (S
+    (VP (VBZ reports)
+        (NP (SBAR (IN that)
+                  (S (NP (DT the) (NNPS Soviets))
+                     (VBP are)
+                     (? (RB now))
+                     (VP (VBG providing)
+                         (NP (NN assistance) (CC and) (NN intelligence))))))))
+ (?
+    (PP (TO to)
+        (NP (DT the) (NNP U.S.))))
+ (?
+    (PP (IN on)
+        (NP (JJ international) (NN drug) (NN trafficking))))
+ (? (. .)))
+ 
+
+((?
+    (PP (IN In)
+        (NP (NN exchange))))
+ (? (, ,))
+ (S (NP (DT the) (NNP U.S.) (NNP Drug) (NNP Enforcement) (NNP Administration))
+    (VBZ is)
+    (VP (VBG training)
+        (NP (JJ several) (JJ Soviet) (NNS agents))))
+ (?
+    (PP (IN in)
+        (NP (NN drug) (NN enforcement))))
+ (? (. .)))
+ 
+ 
+
+((?
+    (S (NP (JJ ORGAN-TRANSPLANT) (NNS DOCTORS))
+       (VP (VBP worry))))
+ (?
+    (PP (IN at)
+        (NP (NNP HHS))))
+ (S
+    (VP (VBZ moves)))
+ (?
+    (S (NP (-NONE- *))
+       (TO to)
+       (VP (VB assert)
+           (NP (NN control)))))
+ (?
+    (PP (IN over)
+        (NP (DT the) (NN transplant) (NN system))))
+ (? (, ,))
+ (? (RB currently))
+ (?
+    (VP (VBN overseen)))
+ (?
+    (PP (IN by)
+        (NP (DT a) (JJ nonprofit) (NN group))))
+ (?
+    (PP (IN under)
+        (NP (JJ federal) (NN contract))))
+ (? (. .)))
+ 
+
+((S
+    (NP (DT The) (NN department))
+    (VP (VBZ decides)))
+ (?
+    (S (NP (-NONE- *))
+       (TO to)
+       (VP (VB impose)
+           (NP (DT a) (JJ 10-step) (NN review)))))
+ (?
+    (PP (IN on)
+        (NP (JJ new) (NN transplant) (NNS policies))))
+ (? (. .)))
+ 
+
+((?
+    (NP (NNP Dr.) (NNP Robert) (NNP Corry)))
+ (? (, ,))
+ (?
+    (SBARQ
+           (WHNP (WP who))
+           (S (NP (-NONE- T))
+              (VP (VBZ heads)
+                  (NP (DT the) (JJ nonprofit) (NN group))))))
+ (? (, ,))
+ (S
+    (VP (VBZ says)
+        (SBAR (-NONE- 0)
+              (S (NP (DT the) (NN move))
+                 (MD will)
+                 (? (`` ``))
+                 (VP (VB stifle)
+                     (NP (JJ innovative) (NNS changes)))))))
+ (? ('' ''))
+ (? (CC and))
+ (?
+    (S
+       (VP (VB slow)
+           (NP (JJ medical) (NN progress)))))
+ (? (: ;))
+ (?
+    (S (NP (PRP he))
+       (VP (VBZ hopes))))
+ (?
+    (S (NP (-NONE- *))
+       (TO to)
+       (VP (VB negotiate)
+           (NP (DT a) (NN compromise)))))
+ (? (. .)))
+ 
+ 
+
+((S
+    (NP (NN ABORTION) (NNS POLITICS))
+    (VP (VBP shape)))
+ (?
+    (ADJP (JJ legal)))
+ (?
+    (PP (IN as)))
+ (? (RB well))
+ (?
+    (PP (IN as)
+        (NP (JJ electoral) (NNS agendas))))
+ (? (. .)))
+ 
+ 
+
+((?
+    (NP (NNP Illinois) (NNP Attorney) (NNP General) (NNP Neil) (NNP Hartigan)))
+ (? (, ,))
+ (?
+    (SBARQ
+           (WHNP (WP$ whose) (JJ gubernatorial) (NN campaign))
+           (S (NP (-NONE- T))
+              (VP (VBZ is)
+                  (PP (IN under)
+                      (NP (NN pressure)))))))
+ (?
+    (PP (IN from)
+        (NP (JJ pro-choice) (NNS forces))))
+ (? (, ,))
+ (S
+    (VP (VBZ pursues)
+        (NP (DT a) (NN settlement)
+            (PP (IN of)
+                (NP (DT the)
+                    (ADJP (JJ current))
+                    (NNP Supreme) (NNP Court) (NN case))))))
+ (?
+    (VP (VBG challenging)
+        (NP
+            (NP (DT the) (NN state))
+            (POS 's) (JJ tough) (NNS restrictions))))
+ (?
+    (PP (IN on)
+        (NP (NN abortion) (NNS clinics))))
+ (? (. .)))
+ 
+
+((S
+    (NP (NN Agreement))
+    (MD would)
+    (? (RB sharply))
+    (VP (VB reduce)
+        (NP (DT the) (NNS stakes))))
+ (?
+    (PP (IN in)
+        (NP (DT the) (NN court))))
+ )
+ 
+
+((?
+    (NP (DT this) (NN term)))
+ (? (: ;))
+ (NP (DT the) (CD two))
+ (?
+    (VP (VBG remaining)
+        (SBAR (-NONE- 0)
+              (S (NP (NNS cases))
+                 (VBP do)
+                 (? (RB n't))
+                 (? (RB as))
+                 (? (RB directly))
+                 (VP (VB challenge)
+                     (NP (NNP Roe)))))))
+ (?
+    (PP (IN vs.)
+        (NP (NNP Wade))))
+ (? (. .)))
+ 
+ 
+
+((S
+    (NP
+        (NP (NNP Pennsylvania))
+        (POS 's) (JJ new) (NN abortion) (NN law))
+    (? (RB almost))
+    (? (RB certainly))
+    (MD will)
+    (VP (VB provide)
+        (NP (DT a) (NNP Supreme) (NNP Court) (NN test))))
+ (? (, ,))
+ (? (CC but))
+ (? (RB probably))
+ (? (RB not))
+ (?
+    (PP (IN until)
+        (NP (JJ next) (NN year))))
+ (? (. .)))
+ 
+
+((?
+    (NP (NNS Abortion-rights)))
+ (SBAR (-NONE- 0)
+       (S (NP (NNS activists))
+          (VP (VBP plan)
+              (NP (DT a) (JJ new) (NN series)
+                  (PP (IN of)
+                      (NP (JJ major) (NNS marches)))))))
+ (?
+    (PP (IN next)
+        (NP (NN month))))
+ (? (, ,))
+ (? (CC but))
+ (?
+    (S (NP (PRP$ their)
+           (ADJP (JJS biggest))
+           (NN boost))
+       (MD would)
+       (VP (VB come)
+           (NP (-NONE- T)))))
+ (?
+    (PP (IN with)
+        (NP (DT a) (JJ gubernatorial) (NN victory))))
+ (?
+    (PP (IN in)
+        (NP (NNP Virginia))))
+ (? (, ,))
+ (?
+    (SBAR
+          (WHADVP (WRB where))
+          (S (NP (JJ black) (NN nominee)))))
+ (?
+    (SBAR (-NONE- 0)
+          (S (NP (NNP Wilder))
+             (VBZ is)
+             (VP (VBG riding)
+                 (NP (DT the) (JJ pro-choice) (NN issue))))))
+ (? (RB hard))
+ (? (. .)))
+ 
+ 
+
+((?
+    (NP (DT The) (NNP National) (NNP Abortion) (NNP Rights) (NNP Action) (NNP League)))
+ (? (, ,))
+ (? (RB already))
+ (?
+    (VP (VBG running)
+        (NP (NNS ads))))
+ (?
+    (PP (IN for)
+        (NP (NNP Wilder))))
+ (? (, ,))
+ (S
+    (VP (VBZ hits)
+        (NP (DT the) (NNS airwaves))))
+ (? (NN today))
+ (?
+    (PP (IN for)
+        (NP (NNP New) (NNP Jersey))))
+ (?
+    (NP (JJ Democratic) (NN candidate)))
+ (?
+    (NP (NNP Florio)))
+ (? (. .)))
+ 
+ 
+
+((?
+    (NP (JJ MINOR) (NNS MEMOS)))
+ (? (: :))
+ (?
+    (PP (IN Among)
+        (NP (NNS documents))))
+ (?
+    (PP (IN in)
+        (NP (DT the) (NNP HUD) (NN scandal))))
+ (? (: :))
+ (?
+    (NP (DT a)
+        (ADJP (JJ handwritten))
+        (CD 1987) (NN letter)))
+ (?
+    (PP (IN from)
+        (NP (JJ presidential) (NN son))))
+ (?
+    (NP (NNP Jeb) (NNP Bush)))
+ (?
+    (PP (TO to)
+        (NP (NNP Deborah) (NNP Dean))))
+ (? (, ,))
+ (?
+    (NP (DT a) (JJ central) (NN figure)))
+ (?
+    (PP (IN in)
+        (NP (DT the) (NN scandal))))
+ (? (, ,))
+ (?
+    (VP (VBG wishing)
+        (NP (PRP her))))
+ (? (`` ``))
+ (?
+    (NP (DT every) (NN success)))
+ (?
+    (PP (IN in)
+        (NP (VP (VBG trying)))))
+ (S (NP (-NONE- *))
+    (TO to)
+    (VP (VB clean)))
+ (?
+    (PP (RP up)
+        (NP
+            (NP (DT the) (JJ federal) (NN government))
+            (POS 's) (NN act))))
+ (? (. .)))
+ 
+
+(''
+      (? (. .)))
+ 
+
+(.)
+ 
+
+(.)
+ 
+
+((S
+    (NP (NNP GOP) (NNP Rep.) (NNP Bentley))
+    (VP (VBZ writes)
+        (NP (NN business) (NNS PACs))))
+ (?
+    (ADJP (JJ promising)))
+ (?
+    (S (NP (-NONE- *))
+       (TO to)
+       (? (`` ``))
+       (VP (VB lead)
+           (NP (DT the) (NN battle)))))
+ (? ('' ''))
+ (?
+    (PP (IN against)
+        (NP
+            (NP (NNP President) (NNP Bush))
+            (POS 's) (NN proposal))))
+ (?
+    (S (NP (-NONE- *))
+       (TO to)
+       (VP (VB abolish)
+           (NP (PRP them)))))
+ (? (: --))
+ (? (CC and))
+ (?
+    (VP (VBG asking)))
+ (?
+    (PP (IN for)
+        (NP (NN money))))
+ (?
+    (PP (IN for)
+        (NP (PRP$ her) (CD 1990) (NN campaign))))
+ (? (. .)))
+ 
+
+(.)
+ 
+
+(.)
+ 
+
+(.)
+ 
+
+((?
+    (NP
+        (NP (NNP Sen.) (NNP Mitchell))
+        (POS 's) (NN advice)))
+ (?
+    (PP (TO to)
+        (NP (VP (VBG visiting)
+                (NP (NNP Supreme) (NNP Soviet) (NNS members))))))
+ (?
+    (VP (VBG drawing)))
+ (?
+    (PP (RP up)
+        (NP (NNS rules))))
+ (?
+    (PP (IN for)
+        (NP (PRP$ their) (NN legislature))))
+ (? (: :))
+ (? (`` ``))
+ (?
+    (S
+       (VP (VB Do))))
+ (? (RB n't))
+ (S
+    (VP (VB copy)
+        (NP (PRP ours))))
+ (? (. .)))
+ 

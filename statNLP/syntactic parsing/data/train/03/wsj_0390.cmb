@@ -1,0 +1,214 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Toyota) (NNP Motor) (NNP Corp.) )
+    (VP (VBD predicted) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP$ its) (JJ annual) (NNS imports) )
+          (MD will) 
+          (VP 
+            (ADVP (RBR more) (IN than) )
+            (VB double) 
+            (PP (IN by) 
+              (NP (CD 1992) )))
+          (, ,) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG growing) 
+              (PP (IN by) 
+                (NP (CD 250) (NN %) ))
+              (PP (IN over) 
+                (NP (DT the) 
+                  (ADJP (JJ next) )
+                  (CD three) (NNS years) ))
+              (PP (TO to) 
+                (NP 
+                  (NP (RB about) (CD 300) (CD billion) (NNS yen) )
+                  (NP 
+                    (-LRB- -LRB-)
+                    ($ $) (CD 2.12) (CD billion) 
+                    (-RRB- -RRB-)
+                    ))))
+            (SBAR (IN as) 
+              (S 
+                (NP 
+                  (NP (DT the) (NN company) )
+                  (POS 's) (JJ overseas) (NN manufacturing) (NNS operations) )
+                (VP (VBP reach) 
+                  (NP (JJ full) (NN speed) ))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (JJ projected) (NNS imports) )
+    (VP (VBP comprise) 
+      (NP (NN importation) 
+        (PP (TO to) 
+          (NP 
+            (NP (NNP Japan) )
+            (CC and) 
+            (NP (JJ other) (NNS nations) )))
+        (PP (IN of) 
+          (NP 
+            (NP (NNS vehicles) )
+            (VP (VBN produced) 
+              (PP (IN at) 
+                (NP 
+                  (NP (DT the) (NN company) )
+                  (POS 's) (JJ major) (JJ foreign) (NN manufacturing) (NNS bases) )))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Toyota) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP$ its) (NN import) (NN program) )
+          (MD will) 
+          (VP (RB specifically) (VB entail) 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG importing) 
+                (NP (JJ right-hand) (NN drive) (NNS vehicles) )
+                (PP (IN from) 
+                  (NP (PRP$ its) 
+                    (NP 
+                      (NP (NNP Georgetown) )
+                      (, ,) 
+                      (NP (NNP Ky.) )
+                      (, ,) )
+                    (NNP U.S.) (NN plant) ))))))))
+    (. .) ))
+( (S 
+    (S (`` ``) 
+      (NP (DT An) (JJ ultimate) (NN target) 
+        (PP (IN of) 
+          (NP (CD 40,000) (NNS units) (RB annually) )))
+      (VBZ has) 
+      (VP (VBN been) 
+        (VP (VBN set) 
+          (PP (IN for) 
+            (NP (DT a) 
+              (ADJP (JJ still-to-be-named) )
+              (NN model) ))))
+      (, ,) ('' '') )
+    (S 
+      (NP (NNP Toyota) )
+      (VP (VBD said) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Toyota) )
+    (MD will) (RB also) 
+    (VP (VB begin) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG importing) 
+          (NP 
+            (NP (NNS engines) )
+            (VP (VBN produced) 
+              (PP (IN at) 
+                (NP 
+                  (NP (DT the) (NNP Kentucky) (NN plant) )
+                  (POS 's) (JJ new) (NN powertrain) (NN operation) )))))))
+    (. .) ))
+( (S 
+    (S 
+      (NP (JJ Annual) (NN volume) )
+      (X 
+        (X (VBZ is) 
+          (VP (VBN expected) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB reach) 
+                (NP (CD 100,000) (NNS units) )))))
+        (CC and) 
+        (X (MD will) 
+          (VP (VB result) 
+            (PP (IN in) 
+              (NP 
+                (NP (JJ additional) (NN production) )
+                (CC and) 
+                (NP (JJ new) (NN employment) (NNS opportunities) )))))))
+    (, ,) 
+    (S 
+      (NP (NNP Toyota) )
+      (VP (VBD said) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (PRP It) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NNS exports) 
+            (PP (IN of) 
+              (NP 
+                (ADJP (JJ U.S.-made) )
+                (NNPS Camrys) ))
+            (PP (TO to) 
+              (NP (NNP Taiwan) )))
+          (MD will) 
+          (VP (VB rise) 
+            (PP (TO to) 
+              (NP 
+                (NP (CD 10,000) )
+                (NP (DT a) (NN year) )))
+            (PP (IN by) 
+              (NP (CD 1992) ))
+            (PP (IN from) 
+              (NP (DT a) (CD 1989) (NN level) 
+                (PP (IN of) 
+                  (NP (CD 4,000) (NNS units) ))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Toyota) )
+    (RB also) 
+    (VP (VBD announced) 
+      (NP (DT a) (NN number) 
+        (PP (IN of) 
+          (NP (JJ major) (JJ overseas) (NNS purchases) ))))
+    (. .) ))
+( (S 
+    (NP (PRP They) )
+    (VP (VBP include) 
+      (NP 
+        (NP (NNS plans) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB buy) 
+              (NP (CD 200) (NNS vehicles) )
+              (PP (IN from) 
+                (NP (NNP U.S.) 
+                  (CC and)
+                  (JJ European) (NN auto) (NNS makers) ))
+              (PP (IN for) 
+                (NP 
+                  (NP (NNP Toyota) )
+                  (POS 's) (NNP Rent-A-Lease) (NN division) 
+                  (PP (IN in) 
+                    (NP (NNP Japan) )))))))
+        (CC and) 
+        (NP (NNS plans) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB purchase) 
+              (NP (DT a) (NNP Cray) (NNP Y-MP8-232) (NN supercomputer) ))))))
+    (. .) ))

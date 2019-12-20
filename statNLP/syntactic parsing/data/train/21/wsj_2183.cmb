@@ -1,0 +1,352 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP 
+        (NP (NN Insurance-industry) (NN consultant) (NNP Benjamin) (NNP Zycher) )
+        (POS 's) (NN attack) 
+        (PP (IN on) 
+          (NP 
+            (NP (NN Proposition) (CD 103) )
+            (, ,) 
+            (NP 
+              (NP (DT the) (NN landmark) (NN insurance-reform) (NN initiative) )
+              (VP (VBN approved) 
+                (PP (IN by) 
+                  (NP (NNPS Californians) ))
+                (NP 
+                  (ADJP (JJ last) )
+                  (NNP November) ))))))
+      (-LRB- -LRB-) 
+      (NP (`` ``) 
+        (NP (NN Insurance) (NN Fraud) 
+          (, ,)
+          (NNP California) (NN Style) )
+        (, ,) ('' '') 
+        (NP (NNP Oct.) (CD 9) ))
+      (-RRB- -RRB-) )
+    (VP (VBZ is) 
+      (PP 
+        (NP (JJ much) )
+        (IN like) 
+        (NP 
+          (NP (DT the) (NN industry) )
+          (POS 's) (JJ unsuccessful) ($ $) (CD 80) (CD million) (NN campaign) 
+          (PP (IN against) 
+            (NP (DT the) (NN measure) ))))
+      (: :) 
+      (ADJP (JJ distorted) 
+        (CC and)
+        (RB often) (JJ dishonest) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NN Prop) (CD 103) )
+    (VP (VBZ eliminates) 
+      (NP 
+        (NP (JJ many) (NNS barriers) 
+          (PP (TO to) 
+            (NP (NN competition) 
+              (PP (IN in) 
+                (NP (DT the) (NN industry) )))))
+        (, ,) 
+        (VP (VBG including) 
+          (NP 
+            (NP (DT the) (NNS insurers) )
+            (POS ') (JJ unjustified) (NN exemption) 
+            (PP (IN from) 
+              (NP (DT the) (JJ antitrust) (NNS laws) )))))))
+  (. .) )
+( (S 
+    (NP (NNS Insurers) )
+    (VBP are) 
+    (VP (VBN permitted) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB share) 
+          (NP (DT some) (NNS historical-claims) (NNS data) ))))
+    (PP (IN in) 
+      (NP (IN order) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB enhance) 
+            (NP (DT the) (NN competitiveness) 
+              (PP (IN of) 
+                (NP (JJ small) (NNS companies) ))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (NNP Mr.) (NNP Zycher) )
+      (VP (VBZ says) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT the) (NN industry) )
+            (VBZ does) (RB n't) 
+            (VP (VB need) 
+              (NP (DT the) (NN exemption) ))))))
+    (: ;) 
+    (S 
+      (SBAR (IN if) 
+        (S 
+          (NP (DT that) )
+          (VP (VBZ 's) (RB so) )))
+      (, ,) 
+      (SBARQ 
+        (WHADVP (WRB why) )
+        (SQ (VBP do) 
+          (NP (PRP$ its) (NNS lobbyists) )
+          (VP 
+            (ADVP (RB so) (RB bitterly) )
+            (VB oppose) 
+            (NP (NN state) 
+              (CC and)
+              (JJ federal) (NNS efforts) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB eliminate) 
+                  (NP (PRP it) ))))))))
+    (. ?) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Zycher) )
+    (RB also) 
+    (VP (VBZ criticizes) 
+      (NP 
+        (NP (CD 103) )
+        (POS 's) (NN requirement) 
+        (SBAR (IN that) 
+          (S 
+            (NP (NN auto-insurance) (NNS rates) )
+            (VB be) 
+            (VP (VBN based) (RB primarily) 
+              (PP 
+                (PP (IN on) 
+                  (NP 
+                    (NP (DT a) (NN motorist) )
+                    (POS 's) (NN safety) (NN record) 
+                    (CC and)
+                    (NN driving) (NNS habits) ))
+                (PP (RB rather) (IN than) 
+                  (PP (IN upon) 
+                    (NP (NN zip) (NN code) ))))))))))
+  (. .) )
+( (S 
+    (NP (NN Proposition) (CD 103) )
+    (X 
+      (X (VBZ does) (RB not) 
+        (VP (VB prohibit) 
+          (NP (DT any) (NN use) 
+            (PP (IN of) 
+              (NP (NN territorial) (NN rating) )))))
+      (, ,) (CC but) 
+      (VP (VBZ requires) 
+        (S 
+          (NP (NNS insurers) )
+          (TO to) 
+          (VP (VB justify) 
+            (NP (PRP it) )
+            (RB scientifically) )))))
+  (. .) )
+( (S 
+    (ADVP (RB So) (RB far) )
+    (, ,) 
+    (S 
+      (NP (PRP they) )
+      (VBP 've) 
+      (VP (VBN been) 
+        (ADJP (JJ unable) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB do) (RB so) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (RBS most) (JJ controversial) (NN provision) 
+      (PP (IN of) 
+        (NP (CD 103) )))
+    (VP (VBZ requires) 
+      (NP (DT a) (CD 20) (NN %) (NN rollback) 
+        (PP (IN in) 
+          (NP (DT all) (NN auto) 
+            (, ,)
+            (NN home) 
+            (CC and)
+            (NN business) (NN liability) (NNS premiums) ))))
+    (S 
+      (NP (-NONE- *) )
+      (TO to) 
+      (VP (VB offset) 
+        (NP 
+          (NP (JJ excessive) (NNS rates) )
+          (: --) 
+          (NP (DT the) (NN product) 
+            (PP (IN of) 
+              (NP (NNS years) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ lax) (NN regulation) )
+                    (CC and) 
+                    (NP (NN insulation) 
+                      (PP (IN from) 
+                        (NP (NN competition) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Zycher) )
+    (VP (VBZ quotes) 
+      (NP (PRP me) )
+      (PP (IN as) 
+        (NP 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG saying) 
+              (NP 
+                (NP 
+                  (NP (NN something) )
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP (PRP I) )
+                      (RB never) 
+                      (VP (VBD said) 
+                        (NP (-NONE- T) )))))
+                (: --) 
+                (SBAR (IN that) 
+                  (S 
+                    (S 
+                      (NP (DT the) (CD 20) (NN %) (NN figure) )
+                      (VP (VBD was) 
+                        (ADJP (JJ arbitrary) )))
+                    (CC and) 
+                    (X (RB hence) 
+                      (NP (DT the) (NN rollback) )
+                      (ADJP (JJ unjustified) )))))))))))
+  (. .) )
+( (S 
+    (PP (IN In) 
+      (NP (NN fact) ))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (RB simply) (VBG using) 
+        (NP (DT the) (NNS insurers) (JJ own) (JJ self-serving) (NN profitability) (NNS standards) )))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (DT the) (NNP California) (NNP Insurance) (NNP Commissioner) )
+        (: --) 
+        (NP (DT an) (NN opponent) 
+          (PP (IN of) 
+            (NP (CD 103) )))
+        (: --) )
+      (VBZ has) (RB already) 
+      (VP (VBN called) 
+        (PP (IN for) 
+          (NP (JJR more) 
+            (PP (IN than) 
+              (NP ($ $) (CD 800) (CD million) 
+                (PP (IN in) 
+                  (NP (NNS rollbacks) )))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNS Hearings) )
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB begin) 
+          (NP (DT this) (NN month) ))))
+    (MD will) 
+    (VP (VB allow) 
+      (S 
+        (NP (PRP us) )
+        (TO to) 
+        (VP (VB introduce) 
+          (NP 
+            (NP (NN evidence) 
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN industry) )
+                  (POS 's) (JJ inflated) (NNS reserves) 
+                  (, ,)
+                  (JJ excess) (NN surplus) 
+                  (, ,)
+                  (JJ gross) (NN waste) 
+                  (CC and)
+                  (NN inefficiency) )))
+            (SBAR 
+              (WHNP (WDT that) )
+              (S 
+                (NP (-NONE- T) )
+                (MD will) 
+                (VP (VB justify) 
+                  (NP (JJR more) 
+                    (PP (IN than) 
+                      (NP (DT a) (CD 20) (NN %) (NN rollback) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NN Insurance-reform) (NNS efforts) )
+    (VP (VBP are) 
+      (PP (IN under) 
+        (NP (NN way) ))
+      (PP (IN in) 
+        (NP (CD 35) (NNS states) ))))
+  (. .) )
+( (S 
+    (PP (IN Like) 
+      (NP (NNP Mr.) (NNP Zycher) ))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (DT the) (NN industry) )
+        (POS 's) (NN response) )
+      (VP (VBZ is) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB make) 
+            (NP (NN war) )
+            (PP (IN against) 
+              (NP (DT the) (NNS reformers) )))))))
+  (. .) )
+( (S (CC But) 
+    (SBAR (IN until) 
+      (S 
+        (NP (DT the) (NN industry) )
+        (VP (VBZ acknowledges) 
+          (NP (DT the) (NN reality) 
+            (SBAR (DT that) 
+              (S 
+                (NP (NN reform) )
+                (VP (VBZ is) 
+                  (ADJP (JJ necessary) ))))))))
+    (, ,) 
+    (S 
+      (NP (PRP it) )
+      (MD will) 
+      (VP (VB remain) 
+        (NP (PRP$ its) (JJ own) (JJS worst) (NN enemy) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (NP 
+    (NP (NNP Harvey) (NNP Rosenfield) )
+    (NP (NN Voter) (NN Revolt) )))
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )

@@ -1,0 +1,605 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP 
+        (NP (NNP Mitsubishi) (NNP Estate) (NNP Co.) )
+        (, ,) 
+        (NP (DT a) (JJ major) (NN developer) 
+          (CC and)
+          (NN property) (NN owner) 
+          (PP (IN in) 
+            (NP (NNP Japan) )))
+        (, ,) )
+      (VBZ has) 
+      (VP (VBN agreed) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB pay) 
+            (NP ($ $) (CD 846) (CD million) )
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB acquire) 
+                (NP (DT a) (CD 51) (NN %) (NN stake) 
+                  (PP (IN in) 
+                    (NP (NNP Rockefeller) (NNP Group) (NNP Inc.) )))))))))
+    (, ,) 
+    (S 
+      (NP (NNP Rockefeller) (NNS officials) )
+      (VP (VBD said) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Rockefeller) (NNP Group) )
+    (VP (VBZ owns) 
+      (NP (DT the) 
+        (ADJP (JJ 22-acre) 
+          (, ,)
+          (JJ 19-building) )
+        (NNP Rockefeller) (NNP Center) 
+        (PP (IN in) 
+          (NP (JJ midtown) (NNP Manhattan) ))))
+    (. .) ))
+( (S 
+    (NP (NNP Mitsubishi) )
+    (VP 
+      (VP (VBZ is) 
+        (NP (DT a) (NN partner) 
+          (PP (IN in) 
+            (NP 
+              (NP (NNP Citicorp) (NNP Plaza) 
+                (PP (IN in) 
+                  (NP (NNP Los) (NNP Angeles) )))
+              (CC and) 
+              (NP (NNP Pacwest) (NNP Center) 
+                (PP (IN in) 
+                  (NP 
+                    (NP (NNP Portland) )
+                    (, ,) 
+                    (NP (NNP Ore.) )
+                    (, ,) )))))))
+      (CC and) 
+      (VP (VBZ owns) 
+        (ADJP (JJS most) 
+          (PP (IN of) 
+            (NP (DT the) (NN land) 
+              (PP (IN beneath) 
+                (NP 
+                  (NP 
+                    (NP (NNP Tokyo) )
+                    (POS 's) (NNP Marunouchi) (JJ central) (NN business) (NN district) )
+                  (, ,) 
+                  (VP (RB often) (VBN referred) 
+                    (PP (TO to) 
+                      (PP (IN as) 
+                        (NP (DT the) (NNP Rockefeller) (NNP Center) 
+                          (PP (IN of) 
+                            (NP (NNP Tokyo) )))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (CD 1985) ))
+    (, ,) 
+    (S 
+      (NP (NNP Rockefeller) (NNP Group) )
+      (VP (VBD sold) 
+        (NP (DT a) (NN mortgage) 
+          (PP (IN on) 
+            (NP (DT the) (NN core) 
+              (PP (IN of) 
+                (NP (NNP Rockefeller) (NNP Center) )))))
+        (PP (TO to) 
+          (NP (DT the) (NN public) ))
+        (PP (IN in) 
+          (NP (DT the) (NN form) 
+            (PP (IN of) 
+              (NP (DT a) (JJ real) (NN estate) (NN investment) (NN trust) ))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NN trust) )
+    (VP (VBZ has) 
+      (NP (DT an) (NN option) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB convert) 
+            (NP (PRP$ its) (NNS shares) )
+            (PP (TO to) 
+              (NP (DT a) (CD 71.5) (NN %) (NN equity) (NN stake) 
+                (PP (IN in) 
+                  (NP (DT the) (NN center) ))))
+            (PP (IN by) 
+              (NP (DT the) (NN year) (CD 2000) ))))))
+    (. .) ))
+( (S 
+    (NP (NNS Analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT a) (NN sale) 
+            (PP (IN of) 
+              (NP (NNP Rockefeller) (NNP Group) (NNS shares) )))
+          (MD should) (RB not) 
+          (VP (VB affect) 
+            (NP 
+              (NP (DT the) (NN trust) )
+              (POS 's) (NN value) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR (IN If) 
+      (S 
+        (NP (DT the) (NN trust) )
+        (VP (VBZ exercises) 
+          (NP (PRP$ its) (NN option) )
+          (PP (IN as) 
+            (VP (VBN expected) )))))
+    (, ,) 
+    (S 
+      (NP (NNS Mitsubishi) )
+      (MD will) 
+      (VP (VB gain) 
+        (NP (RB only) (DT a) (NN minority) (NN stake) 
+          (PP (IN in) 
+            (NP (DT the) (RBS most) (JJ prestigious) (NN section) 
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN center) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP (WDT which) )
+                    (S 
+                      (NP (-NONE- T) )
+                      (VBD was) 
+                      (VP (VBN built) 
+                        (PP (IN during) 
+                          (NP (DT the) (NNP Great) (NNP Depression) ))))))))))))
+    (. .) ))
+( (S 
+    (PP (IN Among) 
+      (NP 
+        (NP (DT the) (NNP Rockefeller) (NNP Group) (NNS holdings) )
+        (VP (RB not) (VBN encumbered) 
+          (PP (IN by) 
+            (NP (DT the) (NN trust) )))))
+    (VP (VBP are) 
+      (NP 
+        (NP (DT the) (NNP Time) (CC &) (NNP Life) (NN building) )
+        (, ,) 
+        (NP (DT a) (NN majority) (NN stake) 
+          (PP (IN in) 
+            (NP (DT the) (NNP McGraw-Hill) (NN building) )))
+        (, ,) 
+        (NP (DT a) (JJ prime) (NN development) (NN site) 
+          (PP (IN on) 
+            (NP 
+              (NP (DT the) (NNP Manhattan) )
+              (POS 's) (NNP West) (NNP Side) )))
+        (CC and) 
+        (NP (JJ certain) (NN development) (NNS rights) )))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNS Sources) )
+      (ADJP (JJ familiar) 
+        (PP (IN with) 
+          (NP (DT the) (NN transaction) ))))
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNS officials) 
+            (PP (IN at) 
+              (NP (DT some) (NNP Rockefeller) (NNS units) )))
+          (VP (VBP are) 
+            (ADJP (JJ unhappy) 
+              (PP (IN with) 
+                (NP (DT the) (NN deal) )))))))
+    (. .) ))
+( (S 
+    (NP (NNP Managers) 
+      (PP (IN of) 
+        (NP 
+          (NP 
+            (NP (NNP Rockefeller) )
+            (POS 's) (NNP Cushman) (CC &) (NNP Wakefield) (NNP Inc.) )
+          (, ,) 
+          (NP (DT a) (JJ national) (JJ real) (NN estate) (NN brokerage) )
+          (, ,) )))
+    (VBP have) (RB reportedly) 
+    (VP (VBN structured) 
+      (NP 
+        (NP (DT a) (NN company) (NN buy-out) (NN plan) )
+        (SBAR 
+          (WHNP (WDT which) )
+          (S 
+            (NP (-NONE- T) )
+            (VBD was) 
+            (VP (VBN rejected) 
+              (PP (IN by) 
+                (NP (PRP$ its) (NN parent) )))))))
+    (. .) ))
+( (S 
+    (NP (NNP Cushman) (NNP President) (NNP Arthur) (NNP J.) (NNP Mirante) (NNP II) )
+    (VP (VBD had) 
+      (NP (DT no) (NN comment) 
+        (PP (IN on) 
+          (NP (NNS reports) 
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (NN buy-out) (NN effort) )
+                (CC or) 
+                (NP (DT the) (NNP Mitsubishi) (NN acquisition) )))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (DT the) (NNS sources) )
+      (VP (VBP say) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (NNP Rockefeller) )
+            (VBD was) 
+            (VP (VBG seeking) 
+              (NP 
+                (NP (IN at) (JJS least) ($ $) (CD 200) (CD million) )
+                (X-1 (-NONE- *pseudo-attach*) )
+                (NP-2 (-NONE- *pseudo-attach*) ))
+              (PP (IN for) 
+                (NP (DT the) (JJ real) (NN estate) (NNS services) (NN firm) ))
+              (X-1 
+                (, ,)
+                )
+              (NP-2 
+                (NP (DT a) (NN price) )
+                (SBAR 
+                  (WHNP (WDT that) )
+                  (S 
+                    (NP (-NONE- T) )
+                    (MD would) 
+                    (VP (VB make) 
+                      (NP (DT a) (NN buy-out) 
+                        (ADJP (JJ impractical) 
+                          (PP (IN for) 
+                            (NP (DT the) (NNS managers) )))))))))))))
+    (. .) ))
+( (S 
+    (NP 
+      (NP (NNP Cushman) )
+      (POS 's) (NN management) )
+    (VBZ is) 
+    (VP (VBN made) 
+      (PP (RP up) 
+        (PP (IN of) 
+          (NP 
+            (NP (JJ top) (NNS brokers) )
+            (SBAR 
+              (SBAR 
+                (WHNP (WP who) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VBP are) 
+                  (VP (VBN considered) 
+                    (NP 
+                      (NP (DT the) (NN firm) )
+                      (POS 's) (JJ major) (NN asset) ))))
+              (CC and) 
+              (SBAR 
+                (WHNP (WP$ whose) (NN cooperation) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VBZ is) 
+                  (VP (VBN regarded) 
+                    (PP (IN as) 
+                      (ADJP (JJ vital) 
+                        (PP (TO to) 
+                          (NP (PRP$ its) (NN success) ))))))))))))
+    (. .) ))
+( (S 
+    (NP (NNS Sources) )
+    (VP (VBP estimate) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP Cushman) )
+          (MD will) 
+          (VP (VB have) 
+            (NP (CD 1989) (NN revenue) 
+              (PP (IN of) 
+                (NP 
+                  (ADJP (JJR more) 
+                    (PP (IN than) 
+                      (NP ($ $) (CD 275) (CD million) ))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Rockefeller) (NNP Group) )
+    (VP (VBD said) 
+      (PP (IN in) 
+        (NP (NNP September) ))
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (MD would) 
+          (VP (VB seek) 
+            (NP (NNS investors) )
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB purchase) 
+                (NP (RB as) (JJ much) 
+                  (PP (IN as) 
+                    (NP (CD 80) (NN %) 
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (NN firm) )
+                          (, ,) 
+                          (NP (DT a) (VBG holding) (NN company) 
+                            (PP (IN for) 
+                              (NP (NNP Rockefeller) (NN family) (NNS interests) ))))))))))))))
+    (. .) ))
+( (S 
+    (NP (NNP Mitsubishi) )
+    (VBZ has) 
+    (VP (VBN agreed) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB acquire) 
+          (NP (CD 627,000) (NNS shares) 
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Rockefeller) (JJ common) (NN stock) )
+                (VP (VBN held) 
+                  (PP (IN by) 
+                    (NP 
+                      (NP (NNS trusts) )
+                      (VP (VBN established) 
+                        (PP (IN by) 
+                          (NP (NNP John) (NNP D.) (NNP Rockefeller) ))
+                        (PP (IN in) 
+                          (NP (CD 1934) ))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (SBAR 
+        (WHADVP (WRB When) )
+        (S 
+          (NP (NNS people) )
+          (VP (`` ``) (VBP understand) 
+            (NP (DT the) (NNS resources) 
+              (PP (IN of) 
+                (NP (NNP Mitsubishi) )))))
+        (S 
+          (NP (PRP they) )
+          (MD 'll) 
+          (VP (VB see) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (PRP it) )
+                (VP (VBZ represents) 
+                  (NP (DT an) (JJ exciting) (NN future) 
+                    (PP (IN for) 
+                      (NP (DT the) (NN company) ))))))))
+        (, ,) ('' '') ))
+    (SINV 
+      (VP (VBD said) )
+      (NP 
+        (NP (NNP Richard) (NN A.) (NNP Voell) )
+        (, ,) 
+        (NP (NN president) 
+          (PP (IN of) 
+            (NP (NNP Rockefeller) (NNP Group) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP William) (NNP G.) (NNP Bowen) )
+      (, ,) 
+      (NP (NN chairman) 
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN committee) )
+            (SBAR 
+              (WHNP (WDT that) )
+              (S 
+                (NP (-NONE- T) )
+                (VP (VBZ oversees) 
+                  (NP (DT the) (NN family) (NNS trusts) )))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN deal) )
+          (VP (VBZ meets) 
+            (NP 
+              (NP (DT the) (NN committee) )
+              (POS 's) (NN objective) 
+              (PP (IN of) 
+                (NP (NN diversification) 
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN family) )
+                      (POS 's) (NNS assets) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP David) (NNP Rockefeller) )
+      (, ,) 
+      (NP (NN chairman) 
+        (PP (IN of) 
+          (NP (NNP Rockefeller) (NNP Group) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN company) )
+          (VP (VBD talked) 
+            (PP (IN with) 
+              (NP (JJ many) (JJ potential) (NNS investors) 
+                (PP (IN in) 
+                  (NP 
+                    (NP (NNP Japan) )
+                    (, ,) 
+                    (NP (DT the) (NNP United) (NNPS States) )
+                    (CC and) 
+                    (NP (NNP Europe) )))))))))
+    (. .) ))
+( (S (CC But) 
+    (S 
+      (NP (NNP Mr.) (NNP Rockefeller) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP he) )
+            (VP (VBZ has) 
+              (NP (DT a) (JJ 20-year) (NN association) )
+              (PP (IN with) 
+                (NP (NNP Mitsubishi) ))
+              (PP (IN from) 
+                (NP (PRP$ his) (NNS days) 
+                  (PP (IN as) 
+                    (NP (NN chairman) 
+                      (PP (IN of) 
+                        (NP (NNP Chase) (NNP Manhattan) (NNP Corp) )))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Koyata) (NNP Hosokawa) )
+      (, ,) 
+      (NP (JJ executive) (NN vice) (NN president) 
+        (PP (IN of) 
+          (NP (NNS Mitsubishi) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN company) )
+          (VBZ has) 
+          (VP (VBN spent) 
+            (NP (NNS years) )
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG studying) 
+                (NP (DT the) (NNP U.S.) (JJ real) (NN estate) (NN market) )))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNS Sources) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP Rockefeller) (NNP Group) )
+          (VBD had) 
+          (VP (VBN distributed) 
+            (NP (DT a) (`` ``) (NN fact) (NN book) ('' '') )
+            (PP (TO to) 
+              (NP 
+                (NP (JJ international) (JJ real) (NN estate) (NNS investors) )
+                (VP (VBG including) 
+                  (NP 
+                    (NP (NNP Mitsui) (NNP Real) (NNP Estate) (NNP Development) (NNP Co.) 
+                      (PP (IN of) 
+                        (NP (NNP Japan) )))
+                    (CC and) 
+                    (NP 
+                      (NP (NNP Canada) )
+                      (POS 's) (NNP Olympia) (CC &) (NNP York) (NNP Developments) (NNP Ltd) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN Before) 
+      (NP (NN yesterday) (POS 's) (NN announcement) ))
+    (, ,) 
+    (S 
+      (NP (JJ many) (NNS observers) )
+      (VP (VBD wondered) 
+        (SBAR (IN whether) 
+          (S 
+            (NP (DT a) (JJ Japanese) (NN buyer) )
+            (MD would) 
+            (VP (VB be) 
+              (ADJP (JJ willing) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB acquire) 
+                    (NP (DT a) (NN piece) 
+                      (PP (IN of) 
+                        (NP (JJ such) 
+                          (ADJP (JJ high-profile) )
+                          (JJ American) (JJ real) (NN estate) )))))))))))
+    (. .) ))
+( (S 
+    (NP (PRP It) 
+      (SBAR-1 (-NONE- *pseudo-attach*) ))
+    (VBZ is) 
+    (VP (VBN understood) )
+    (SBAR-1 (IN that) 
+      (S 
+        (NP (JJ Japanese) (NNS buyers) )
+        (VP (VBD shied) 
+          (PP (IN from) 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG bidding) 
+                (PP (IN on) 
+                  (NP (DT the) 
+                    (ADJP (JJ 110-story) )
+                    (NNP Sears) (NNP Tower) 
+                    (PP (IN in) 
+                      (NP (NNP Chicago) ))))))))))
+    (SBAR (IN because) 
+      (S 
+        (NP 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG purchasing) 
+              (NP 
+                (NP (DT the) (NN world) )
+                (POS 's) 
+                (ADJP (JJS tallest) )
+                (NN building) ))))
+        (MD might) 
+        (VP (VB stir) 
+          (NP (JJ anti-Japanese) (NNS sentiments) )
+          (PP (IN in) 
+            (NP (DT the) (NNP U.S.) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Rockefeller) (NNP Group) )
+      (POS 's) (NN management) (NN unit) )
+    (MD will) 
+    (VP (VB continue) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB manage) 
+          (NP 
+            (NP (NNP Rockefeller) (NNP Center) )
+            (, ,) 
+            (S 
+              (NP (DT a) (NN stipulation) )
+              (VP (VBD insisted) (IN upon) 
+                (PP (IN by) 
+                  (NP (NNP Rockefeller) (NNP Group) ))))))))
+    (. .) ))

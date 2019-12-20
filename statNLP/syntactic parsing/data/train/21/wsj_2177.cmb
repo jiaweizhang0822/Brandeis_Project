@@ -1,0 +1,1305 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNS bulls) )
+    (VP (VBP are) (RB back) 
+      (PP (IN in) 
+        (NP (DT the) (NN art-auction) (NN china) (NNS shops) )))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG predicting) 
+        (NP 
+          (NP (JJR higher) (NNS prices) )
+          (CC and) 
+          (NP (JJR higher) (NN volume) )
+          (PP (IN than) 
+            (NP (RB ever) (RB before) ))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP 
+        (NP 
+          (NP (NNP Christie) )
+          (POS 's) )
+        (CC and) 
+        (NP 
+          (NP (NNP Sotheby) )
+          (POS 's) ))
+      (, ,) 
+      (NP (DT the) (CD two) (JJ major) (NNP New) (NNP York) (NNS houses) )
+      (, ,) )
+    (VP (VBP are) 
+      (PP (IN about) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB offer) 
+            (NP (DT a) (JJ large) (NN number) 
+              (PP (IN of) 
+                (NP (NN impressionist) 
+                  (CC and)
+                  (JJ modern) (NNS paintings) )))
+            (PP (IN at) 
+              (NP 
+                (NP (NNS estimates) )
+                (ADJP (JJ unheard) (IN of) 
+                  (ADVP 
+                    (NP (RB even) (CD five) (NNS years) )
+                    (RB ago) )))))))))
+  (. .) )
+( (S 
+    (NP (PRP They) )
+    (VBP are) 
+    (VP (VBG betting) 
+      (SBAR (DT that) 
+        (S 
+          (NP (NN demand) 
+            (PP (IN for) 
+              (NP (DT these) (NNS pictures) )))
+          (MD will) 
+          (VP (VB be) 
+            (ADJP (RB so) (JJ strong) 
+              (SBAR (IN that) 
+                (S 
+                  (S 
+                    (NP (DT the) (NN market) )
+                    (MD will) 
+                    (VP (VB swallow) 
+                      (NP 
+                        (NP (NN everything) )
+                        (SBAR 
+                          (WHNP (WDT that) )
+                          (S 
+                            (NP (-NONE- T) )
+                            (VBZ is) 
+                            (VP (VBN thrown) 
+                              (PP (IN at) 
+                                (NP (PRP it) ))))))))
+                  (CC and) 
+                  (S 
+                    (NP (NNS prices) )
+                    (RB still) (MD will) 
+                    (VP (VB rise) (: --) 
+                      (NP (DT a) (NN lot) )))))))))))
+  (. .) )
+( (S 
+    (SBAR (IN As) 
+      (S 
+        (NP (NN art) (NN dealer) (NNP Richard) (NNP Feigen) )
+        (VP (VBZ sees) 
+          (NP (PRP it) ))))
+    (, ,) (`` ``) 
+    (S 
+      (NP (EX There) )
+      (VP (VBZ is) 
+        (S 
+          (NP (JJ unlimited) (NN money) )
+          (VP (VBG trying) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB absorb) 
+                (NP (PRP itself) )
+                (PP (IN in) 
+                  (NP (NN art) ))))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (-NONE- *) )
+    (VP (VB Step) 
+      (NP (RB right) (DT this) (NN way) )))
+  (. .) )
+( (S 
+    (NP (JJR More) 
+      (PP (IN than) 
+        (NP ($ $) (CD 600) (CD million) 
+          (PP (IN of) 
+            (NP (NN impressionist) 
+              (CC and)
+              (JJ modern) (NNS paintings) )))))
+    (VP (VBP are) 
+      (PP (IN about) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB hit) 
+            (NP (DT the) (NNP New) (NNP York) (NN auction) (NN block) )))))
+    (: --) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (RB far) (VBG outstripping) 
+        (NP 
+          (NP (NNP May) )
+          (POS 's) (JJ four-day) ($ $) (CD 400) (CD million) (NN bonanza) ))))
+  (. .) )
+( (S 
+    (NP (DT This) (NN season) )
+    (S 
+      (NP 
+        (NP (NNP Lorinda) (FW de) (NNP Roulet) )
+        (-LRB- -LRB-) 
+        (NP (NN sister) 
+          (PP (IN of) 
+            (NP 
+              (NP (NNP John) (NNP Whitney) (NNP Payson) )
+              (, ,) 
+              (SBAR 
+                (WHPP (IN for) 
+                  (WHNP (WP whom) ))
+                (S 
+                  (NP (`` ``) (NNS Irises) ('' '') 
+                    (PP (IN by) 
+                      (NP (NNP Vincent) (NNP van) (NNP Gogh) )))
+                  (VBD was) 
+                  (VP (VBN sold) 
+                    (PP (IN for) 
+                      (NP ($ $) (CD 53.9) (CD million) ))
+                    (PP (IN in) 
+                      (NP (NNP November) 
+                        (PP (IN of) 
+                          (NP (CD 1987) ))))
+                    (, ,) 
+                    (PP (TO to) 
+                      (NP 
+                        (NP (DT the) (NNP Australian) (NNP Alan) (NNP Bond) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP (WP who) )
+                          (S (RB still) 
+                            (NP (-NONE- T) )
+                            (VBZ has) (RB n't) 
+                            (VP (VBN taken) 
+                              (NP (NN possession) ))
+                            (SBAR (IN because) 
+                              (S 
+                                (NP (PRP he) )
+                                (VBZ has) (RB n't) (RB yet) 
+                                (VP (VBN paid) (RP off) 
+                                  (NP 
+                                    (NP (DT the) (NN loan) )
+                                    (SBAR (-NONE- 0) 
+                                      (S 
+                                        (NP 
+                                          (NP (NNP Sotheby) )
+                                          (POS 's) 
+                                          (VP (VBN offered) 
+                                            (NP (PRP him) )
+                                            (PP (IN at) 
+                                              (NP (DT the) (NN sale) ))))))))))))))))))))
+        (-RRB- -RRB-) )
+      (VBZ has) 
+      (VP (VBN consigned) 
+        (NP (DT another) (NN biggie) )
+        (PP (TO to) 
+          (NP 
+            (NP (NNP Sotheby) )
+            (POS 's) )))))
+  (. .) )
+((S 
+    (NP (`` ``) (FW Au) (FW Lapin) (FW Agile) ('' '') )
+    (VP (VBZ is) 
+      (NP 
+        (NP (DT a) (CD 1905) (NNP Rose) (NNP Period) (NNP Picasso) )
+        (VP (VBG being) 
+          (VP (VBN billed) 
+            (PP (IN as) (`` ``) 
+              (NP 
+                (NP (DT the) (RBS most) (JJ important) (JJ 20th-century) (NN picture) )
+                (S (RB ever) 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB come) (RB up) 
+                    (PP (IN for) 
+                      (NP (NN auction) ))))))))))
+    (. .) ('' '') ))
+((S 
+    (S 
+      (NP (PRP It) )
+      (MD may) 
+      (VP (VB sell) 
+        (PP (IN for) 
+          (NP (JJR more) 
+            (PP (IN than) 
+              (NP (DT any) (JJ previous) (NNP Picasso) ))))))
+    (: --) 
+    (S 
+      (NP (DT the) (NN record) )
+      (VP (VBZ is) 
+        (NP 
+          (NP ($ $) (CD 47.85) (CD million) )
+          (VP (VBN set) 
+            (PP (IN in) 
+              (NP (NNP May) ))
+            (PP (IN for) (`` ``) 
+              (NP 
+                (NP (NN Self) (NN Portrait) )
+                (: :) 
+                (NP (NNP Yo) (NNP Picasso) )))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Sotheby) )
+      (POS 's) )
+    (RB also) 
+    (VP 
+      (VP (VBZ weighs) (RB in) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (NP (DT the) (NNP John) (NNP T.) (NNP Dorrance) (NNP Jr.) (NN collection) 
+                (PP (IN of) 
+                  (NP (NNS impressionists) )))
+              (S-1 (-NONE- *pseudo-attach*) )
+              (PP (IN at) 
+                (NP (DT an) (VBN estimated) ($ $) (CD 100) (NNS million-plus) ))
+              (S-1 
+                (-LRB- -LRB-)
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB be) 
+                  (VP (VBN offered) ))
+                (NP (NN tomorrow) )
+                (-RRB- -RRB-) ))
+            (CC and) 
+            (NP 
+              (NP (DT a) (JJ juicy) (NN assortment) 
+                (PP (IN of) 
+                  (NP (NNS paintings) 
+                    (PP (IN from) 
+                      (NP (JJ other) (NNS sources) )))))
+              (, ,) 
+              (SBAR 
+                (NP (JJR more) 
+                  (PP (IN than) 
+                    (NP (CD 35) 
+                      (WHPP (IN of) 
+                        (WHNP (WDT which) )))))
+                (S 
+                  (NP (-NONE- T) )
+                  (VBP are) 
+                  (VP (VBN expected) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (TO to) 
+                      (VP (VB sell) 
+                        (PP (IN in) 
+                          (NP (NNP November) ))
+                        (PP (IN for) 
+                          (NP 
+                            (NP 
+                              (PP (IN at) 
+                                (ADJP (JJS least) ))
+                              ($ $) (CD 1) (CD million) )
+                            (NP (DT each) ))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Christie) )
+      (POS 's) )
+    (VBZ has) 
+    (VP (VBN snagged) 
+      (NP 
+        (NP 
+          (NP (DT the) (CD 15) (NN impressionist) 
+            (CC and)
+            (JJ modern) (NNS paintings) )
+          (VP (VBG being) 
+            (VP (VBN pruned) 
+              (PP (IN from) 
+                (NP 
+                  (NP (NNP Paul) (NNP Mellon) )
+                  (POS 's) (JJ vast) (NN collection) )))))
+        (, ,) 
+        (VP (VBG including) 
+          (NP 
+            (NP 
+              (NP (DT the) (JJ probable) ($ $) (CD 30) (NN million-plus) (`` ``) 
+                (NP 
+                  (NP (NN Rue) (NN Mosnier) )
+                  (, ,) 
+                  (NP (NNP Paris) )
+                  (, ,) 
+                  (VP (VBN Decorated) 
+                    (PP (IN With) 
+                      (NP (NNS Flags) ))
+                    (PP (IN on) 
+                      (NP (NNP June) (CD 30) 
+                        (, ,)
+                        (CD 1878) ))))
+                ('' '') 
+                (PP (IN by) 
+                  (NP (NNP Edouard) (NNP Manet) )))
+              (-LRB- -LRB-) 
+              (VP (VBN purchased) 
+                (PP (IN by) 
+                  (NP (NNP Mellon) ))
+                (PP (IN at) 
+                  (NP (DT the) (NNP Jacob) (NNP Goldschmidt) (NN sale) 
+                    (PP (IN in) 
+                      (NP (NNP London) ))
+                    (PP (IN in) 
+                      (NP (CD 1958) ))))
+                (PP (IN for) 
+                  (NP ($ $) (CD 316,400) )))
+              (-RRB- -RRB-) )
+            (CC and) 
+            (NP 
+              (NP (DT a) (NNP van) (NNP Gogh) )
+              (, ,) (`` ``) 
+              (NP 
+                (NP (NN Trunk) 
+                  (PP (IN of) 
+                    (NP (DT an) (JJ Old) (NN Yew) (NN Tree) )))
+                (, ,) 
+                (NP (NN Arles) ))
+              (, ,) ('' '') 
+              (VP (VBN estimated) 
+                (PP (IN at) 
+                  (NP ($ $) (CD 25) (NN million-plus) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (JJ Other) (JJ one-owner) (NNS collections) )
+    (VP (VBP include) 
+      (NP 
+        (NP 
+          (NP 
+            (NP (NNP Billy) (NNP Wilder) )
+            (POS 's) (RBR more) (JJ modest) (CC but) (JJ choice) (NNS offerings) )
+          (, ,) 
+          (CC and)
+          (NP (DT the) (NNP George) (NNP N.) (NNP Richard) (NN collection) ))
+        (: --) 
+        (VP (VBN piled) 
+          (PP (IN on) 
+            (NP (NN top) 
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Christie) )
+                  (POS 's) (VBN estimated) ($ $) 
+                  (NP (CD 150) (CD million) (: --) ($ $) (CD 200) (CD million) 
+                    (PP (IN of) 
+                      (NP (JJ other) (NN impressionist) (NNS goodies) )))))))))))
+  (. .) )
+( (S 
+    (NP (PDT All) (DT these) )
+    (MD will) 
+    (VP (VB go) 
+      (PP (IN under) 
+        (NP (DT the) (NN hammer) ))
+      (PP (IN on) 
+        (NP (NNP Nov.) (CD 13) 
+          (CC and)
+          (CD 14) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (`` ``) 
+    (S 
+      (NP (DT A) (JJ strong) (NN art) (NN market) )
+      (VBZ is) 
+      (VP (VBG bringing) (RP out) 
+        (NP 
+          (NP (NNS paintings) )
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP (PRP I) )
+              (RB never) 
+              (VP (VBD expected) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB see) 
+                    (NP (-NONE- T) )
+                    (PP (IN on) 
+                      (NP (DT the) (NN market) ))))))))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBZ says) )
+      (NP 
+        (NP (NNP David) (NNP Nash) )
+        (, ,) 
+        (NP (NN director) 
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Sotheby) )
+              (POS 's) (JJ Fine) (NNS Arts) (NN Division) ))))))
+  (. .) )
+( (S 
+    (NP (DT Some) (NN museum) (NNS directors) )
+    (VP (RB never) (VBD expected) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB see) 
+          (NP (PRP them) )
+          (RB there) ))
+      (RB either) ))
+  (. .) )
+( (S (CC But) 
+    (SBAR (IN since) 
+      (S 
+        (NP (DT the) (CD 1986) (NN tax) (NNS laws) )
+        (VP 
+          (VP (RB drastically) (VBD reduced) 
+            (NP (NNS deductions) 
+              (PP (IN for) 
+                (NP (DT the) (NN donation) 
+                  (PP (IN of) 
+                    (NP (VBN appreciated) (NN property) ))))))
+          (CC and) 
+          (VP (VBD reduced) 
+            (NP (JJ overall) (NN tax) (NNS rates) )
+            (-LRB- -LRB-) 
+            (S 
+              (NP (-NONE- *) )
+              (VP (RB thereby) (VBG making) 
+                (NP (NNS deductions) )
+                (ADJP (RBR less) (JJ significant) )))
+            (-RRB- -RRB-) ))))
+    (, ,) 
+    (S 
+      (NP (JJ charitable) (NNS donations) 
+        (PP (TO to) 
+          (NP (NNS museums) )))
+      (, ,) 
+      (SBAR 
+        (WHADVP (WRB when) )
+        (S 
+          (NP (NN anyone) )
+          (VP (VBZ makes) 
+            (NP (PRP them) ))))
+      (, ,) 
+      (VP (VBP are) 
+        (ADJP (RB very) (JJ charitable) )
+        (RB indeed) )))
+  (. .) )
+( (S (CC And) 
+    (VP (VBN given) 
+      (NP 
+        (NP (DT the) (JJ seductive) (NNS prices) )
+        (VP (VBD held) (RB out) 
+          (PP (IN by) 
+            (NP (DT the) (NN auction) (NNS houses) )))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN urge) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB sell) )))
+      (X (MD can) (: --) 
+        (CC and)
+        (RB apparently) (VBZ has) (: --) 
+        (VP (VB become) 
+          (ADJP (JJ irresistible) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN Of) 
+      (NP (DT the) (JJ current) (NN group) 
+        (PP (IN of) 
+          (NP (NNS paintings) ))))
+    (, ,) 
+    (S 
+      (NP (PRP it) 
+        (S-1 (-NONE- *pseudo-attach*) ))
+      (VP (VBZ 's) 
+        (ADJP (JJ hard) ))
+      (S-1 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB say) 
+          (SBAR 
+            (WHNP (WDT which) )
+            (, ,) 
+            (S 
+              (PP (IN in) 
+                (NP (DT the) (NNS days) 
+                  (PP (IN before) 
+                    (NP (NN tax) (NN reform) ))))
+              (, ,) 
+              (S 
+                (NP (-NONE- T) )
+                (MD might) 
+                (VP (VB have) 
+                  (VP (VBN been) 
+                    (VP (VBN donated) 
+                      (PP (RB instead) (IN of) 
+                        (VP (VBN sold) ))))))))))))
+  (. .) )
+( (S 
+    (NP (DT No) (NN museum) (NN director) )
+    (MD will) 
+    (VP (VB risk) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG offending) 
+          (NP (JJ potential) (NNS patrons) )
+          (PP (IN by) 
+            (NP 
+              (S 
+                (NP (-NONE- *) )
+                (VP (RB publicly) (VBG airing) 
+                  (NP (JJ disappointed) (NNS hopes) )))))))))
+  (. .) )
+( (S 
+    (NP (NNP Philadelphia) (NNP Museum) (NN head) 
+      (NP (NNP Anne) (NNP d'Harnoncourt) ))
+    (VP (VBZ insists) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR (RB even) (IN though) 
+            (S 
+              (NP (NNP John) (NNP Dorrance) )
+              (MD may) 
+              (VP (VB have) 
+                (VP (VBN been) 
+                  (NP (DT the) (NN chairman) 
+                    (PP (IN of) 
+                      (NP (PRP$ her) (NN Board) 
+                        (PP (IN of) 
+                          (NP (NNS Trustees) )))))))))
+          (, ,) (`` ``) 
+          (S 
+            (NP (PRP We) )
+            (VBD were) (RB n't) 
+            (VP (VBG expecting) 
+              (NP 
+                (NP (DT the) (NNS pictures) )
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP (PRP we) )
+                    (VBD did) (RB n't) 
+                    (VP (VB get) 
+                      (NP (-NONE- T) ))))))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (SBAR (IN Although) 
+        (S 
+          (NP 
+            (NP (NNP Sotheby) )
+            (POS 's) )
+          (VP (VBZ points) (RB out) 
+            (SBAR (IN that) 
+              (S 
+                (NP (PRP it) )
+                (VP (VBZ is) 
+                  (NP 
+                    (NP (`` ``) (DT an) (JJ international) (NN organization) ('' '') )
+                    (VP (RB not) (RB specifically) (VBN concerned) 
+                      (PP (IN with) 
+                        (NP (JJ potential) (NNS losses) 
+                          (PP (TO to) 
+                            (NP (JJ American) (NNS museums) ))))))))))))
+      (, ,) 
+      (S 
+        (NP (NNS others) )
+        (VP (VBP are) 
+          (PP (IN up) 
+            (PP (IN in) 
+              (NP (NNS arms) ))))))
+    (: :) 
+    (S (`` ``) 
+      (S 
+        (NP (NNS Donations) )
+        (VBP have) (RB always) 
+        (VP (VBN been) 
+          (NP (DT the) (JJ main) (NN source) 
+            (PP (IN of) 
+              (NP (VBN increased) (NN museum) (NNS collections) )))))
+      (, ,) ('' '') 
+      (SINV 
+        (VP (VBZ says) )
+        (NP 
+          (NP (NNP Edward) (NNP H.) (NNP Able) (NNP Jr.) )
+          (, ,) 
+          (NP (NN executive) (NN director) 
+            (PP (IN of) 
+              (NP (DT the) (NNP American) (NNP Association) 
+                (PP (IN of) 
+                  (NP (NNPS Museums) )))))))))
+  (. .) )
+( (`` ``) 
+  (S (RB Now) 
+    (S 
+      (NP (EX there) )
+      (VP (VBZ is) 
+        (NP (DT a) (NN hemorrhaging) 
+          (PP (IN of) 
+            (NP 
+              (NP (DT this) (NN country) )
+              (POS 's) (NN patrimony) ))))))
+  (. .) ('' '') )
+( (S 
+    (VP (VBG According) 
+      (PP (TO to) 
+        (NP 
+          (NP (DT a) (NN study) )
+          (VP (VBN conducted) 
+            (PP (IN by) 
+              (NP (DT the) (NNP Association) 
+                (PP (IN of) 
+                  (NP (NNP Art) (NNP Museum) (NNPS Directors) ))))))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN drop) 
+        (PP (IN in) 
+          (NP (DT the) (NN dollar) (NN value) 
+            (PP (IN of) 
+              (NP (VBN donated) (NNS works) 
+                (PP (IN of) 
+                  (NP (NN art) ))))))
+        (PP (IN since) 
+          (NP (CD 1986) )))
+      (VP (VBZ is) 
+        (NP (JJR more) 
+          (PP (IN than) 
+            (NP (CD 50) (NN %) ))))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (NP (DT This) )
+      (VP (VBZ is) 
+        (NP (RB just) (DT the) (NN tip) 
+          (PP (IN of) 
+            (NP (DT the) (NN iceberg) ))))
+      (, ,) 
+      (SBAR (IN because) 
+        (S 
+          (NP (DT no) (JJ major) (NN collector) )
+          (VBZ has) 
+          (VP (VBN died) (RB recently) ))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBZ says) )
+      (NP 
+        (NP (NNP Christopher) (NNP Burge) )
+        (, ,) 
+        (NP (NN president) 
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Christie) )
+              (POS 's) (NNP America) ))))))
+  (. .) )
+( (`` ``) 
+  (S 
+    (NP (DT The) (JJ next) (CD 10) (NNS years) )
+    (VBP are) 
+    (VP (VBG going) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB be) 
+          (NP (DT a) (NN wasteland) )
+          (PP (IN for) 
+            (NP (JJ American) (NNS museums) ))))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+((PP (CC But) (RB not) (IN for) 
+    (NP (NN auction) (NNS houses) ))
+  (. .) )
+( (S 
+    (NP (PRP$ Their) (NNS sales) )
+    (VBP have) 
+    (VP (VBN turned) 
+      (PP (IN into) 
+        (NP (NN theater) 
+          (PP (IN for) 
+            (NP (DT a) (NN world) (NN audience) ))))))
+  (. .) )
+( (S 
+    (PP (RB Even) (IN before) 
+      (NP (DT the) (NNS sales) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN hoopla) )
+      (VP (VBZ is) 
+        (PP (RB well) (IN under) 
+          (NP (NN way) )))))
+  (. .) )
+( (S 
+    (NP (JJ Major) (NNS attractions) )
+    (VP (VBP have) 
+      (NP (JJ out-of-town) (NNS tryouts) )))
+  (. .) )
+( (S 
+    (S 
+      (NP (`` ``) 
+        (NP (FW Au) (FW Lapin) (FW Agile) )
+        (, ,) ('' '') 
+        (NP (DT some) 
+          (PP (IN of) 
+            (NP (DT the) (NNP Mellon) (NNS paintings) )))
+        (, ,) 
+        (CC and)
+        (NP (NNS others) ))
+      (VP (VBD went) 
+        (PP (IN around) 
+          (NP (DT the) (NN world) ))
+        (PP (IN on) 
+          (NP (DT a) (NN series) 
+            (PP (IN of) 
+              (NP (JJ whistle-stop) (NN exhibition) (NNS tours) ))))))
+    (: ;) 
+    (S 
+      (NP 
+        (NP (NNP Billy) (NNP Wilder) )
+        (POS 's) (NNS pictures) )
+      (VP (VBD went) 
+        (PP (TO to) 
+          (NP (DT a) (NN party) 
+            (PP (IN at) 
+              (NP (DT the) (NNP Beverly) (NNPS Hills) (NNP Hotel) ))))))
+    (: ;) 
+    (CC and)
+    (S 
+      (NP (DT the) (NNP Dorrance) (NNS paintings) )
+      (VP (VBD hung) 
+        (PP (IN for) 
+          (NP (CD five) (NNS days) ))
+        (PP (IN in) 
+          (NP (DT the) (NNP Philadelphia) (NNP Museum) 
+            (PP (IN of) 
+              (NP (NNP Art) )))))))
+  (. .) )
+( 
+  (-LRB- -LRB-)
+  (S 
+    (S 
+      (NP (RB Even) 
+        (NP (NNP Sotheby) )
+        (POS 's) (NNP PR) (NN department) )
+      (MD could) (RB n't) 
+      (VP (VB have) 
+        (VP (VBD pulled) 
+          (NP (IN that) (NN one) )
+          (RP off) )))
+    (: ;) 
+    (S 
+      (NP 
+        (NP (NNP Dorrance) )
+        (POS 's) (NNS executors) )
+      (VP (`` ``) (VBD requested) ('' '') 
+        (NP (PRP it) ))))
+  (. .) 
+  (-RRB- -RRB-)
+  )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN At) 
+      (ADJP (JJ last) ))
+    (, ,) (RB however) 
+    (, ,)
+    (S 
+      (S 
+        (NP (DT the) (NN warmup) )
+        (VBZ is) 
+        (VP (VBN done) ))
+      (CC and) 
+      (S 
+        (NP (DT the) (NN action) )
+        (VP (VBZ is) 
+          (PP (IN about) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB begin) )))))))
+  (. .) )
+((S (CC And) 
+    (NP (PRP it) )
+    (MD will) (RB soon) 
+    (VP (VB be) 
+      (ADJP (JJ clear) 
+        (SBAR (IN whether) 
+          (S 
+            (NP (JJ enough) (NNS people) )
+            (MD will) 
+            (VP (VB be) 
+              (VP (VBG raising) 
+                (NP (DT those) (JJ little) (NN bidding) (NNS paddles) )
+                (, ,) 
+                (X 
+                  (NP (DT no) (NN matter) )
+                  (WHNP (WP what) (DT the) (NN cost) )))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (DT The) (JJ weak) (NN dollar) )
+      (VP (VBZ makes) 
+        (NP (PRP$ our) (NN market) )
+        (NP (DT a) (NN playground) 
+          (PP (IN for) 
+            (NP (JJ foreign) (NNS bidders) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP (PRP$ our) (JJ sorry) (NN balance) 
+        (PP (IN of) 
+          (NP (NN trade) )))
+      (VBZ has) 
+      (VP (VBN given) 
+        (NP (PRP them) (NN plenty) 
+          (PP (IN of) 
+            (NP (NNS dollars) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB play) 
+                  (PP (IN with) 
+                    (NP (-NONE- T) ))))))))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (PP (IN In) 
+        (NP (JJ many) (NNS ways) ))
+      (S 
+        (NP 
+          (NP (DT the) (NNPS Japanese) )
+          (: --) 
+          (NP (RB particularly) (JJ Japanese) (NNS corporations) )
+          (: --) )
+        (VP (VBP dictate) 
+          (NP (NN art) (NN price) (NNS levels) ))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBZ says) )
+      (NP (NNP Susan) (NNP Seidel) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP William) (NNP Beadleston) )
+            (, ,) 
+            (NP (DT a) (NNP New) (NNP York) (JJ private) (NN dealing) (NN concern) ))))))
+  (. .) )
+( (`` ``) 
+  (S 
+    (NP (PRP They) )
+    (VP (VBP are) 
+      (ADJP (JJ willing) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB pay) 
+            (NP (RB almost) (NN anything) ))))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (X (CC But) 
+    (WHADVP (WRB why) )
+    (NP (NN art) ))
+  (. ?) )
+( (SQ (VBP Are) 
+    (NP (PRP we) )
+    (VP (VBG talking) 
+      (NP (JJ pure) (JJ aesthetic) (NN appreciation) )
+      (RB here) ))
+  (. ?) )
+( (S 
+    (PP (IN For) 
+      (NP (JJ many) (NNS buyers) ))
+    (, ,) 
+    (S 
+      (NP (WDT that) )
+      (RB still) 
+      (VP (VBZ is) 
+        (NP (JJ major) (NN motivation) ))))
+  (. .) )
+((S (CC But) 
+    (S 
+      (NP (DT the) (NNS stakes) )
+      (VP (VBP are) (RB now) 
+        (ADJP (RB very) (JJ high) )))
+    (CC and) 
+    (S 
+      (PP (IN for) 
+        (NP (PRP$ your) ($ $) (CD 40) (CD million) ))
+      (S 
+        (NP (PRP you) )
+        (MD can) 
+        (VP (VB buy) 
+          (NP 
+            (NP (RB only) (DT the) 
+              (ADJP (JJS best) )
+              (WHPP (IN of) 
+                (SBAR 
+                  (WHNP (WP what) )
+                  (S 
+                    (NP (-NONE- T) )
+                    (VP (VBZ is) 
+                      (ADJP (JJ available) ))))))
+            (: --) 
+            (SBAR 
+              (WHNP (WDT which) )
+              (S 
+                (NP (-NONE- T) )
+                (MD may) (RB not) 
+                (VP (VB be) 
+                  (NP 
+                    (NP (DT the) 
+                      (ADJP (JJS best) ))
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP (EX there) )
+                        (VP (VBZ is) 
+                          (NP (-NONE- T) )))))))))))))
+  (. .) )
+( (S (CC But) 
+    (PP (IN at) 
+      (ADJP (JJS least) ))
+    (S 
+      (NP (DT the) (NN auction) (NN process) )
+      (VP (VBZ illustrates) 
+        (ADVP (RB so) (RB beautifully) )
+        (SBAR (IN that) 
+          (S 
+            (NP (NN everybody) 
+              (ADJP (JJ else) ))
+            (VP (VBD wanted) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB have) 
+                  (NP (PRP it) )))
+              (RB too) ))))))
+  (. .) )
+( (S 
+    (PP (IN For) 
+      (NP (DT some) ))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (DT the) (JJ social) (NN status) )
+        (SBAR 
+          (WHNP (WDT that) )
+          (S 
+            (NP (-NONE- T) )
+            (MD can) 
+            (VP (VB be) 
+              (VP (VBN acquired) 
+                (PP (IN in) 
+                  (NP (DT this) (NN way) )))))))
+      (VP (VBZ is) 
+        (NP (DT the) (NN point) 
+          (PP (IN of) 
+            (NP (DT the) (NN game) ))))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (S 
+        (NP (PRP They) )
+        (VP (VBP buy) 
+          (NP (DT the) (NN co-op) )))
+      (, ,) 
+      (S 
+        (NP (PRP they) )
+        (VP (VBP buy) 
+          (NP (DT the) (NNS cars) ))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBZ says) )
+      (NP (NNP Ms.) (NNP Seidel) )))
+  (. .) )
+( (`` ``) 
+  (S (RB Then) 
+    (S 
+      (NP (PRP they) )
+      (VP (VBP buy) 
+        (NP 
+          (NP (`` `) (NN brand) (NNS names) (POS ') 
+            (PP (JJ like) 
+              (NP (NN Picasso) ))))
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB put) 
+            (PP (IN on) 
+              (NP (DT the) (NN wall) )))))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S (CC But) 
+    (PP (IN at) 
+      (NP (DT these) (NN price) (NNS levels) ))
+    (, ,) 
+    (S 
+      (NP (NN confidence) 
+        (PP (IN in) 
+          (NP (DT the) (`` ``) (NN investment) ('' '') (NN potential) 
+            (PP (IN of) 
+              (NP (JJ major) (NNS paintings) )))))
+      (MD must) 
+      (VP (VB be) 
+        (VP (VBG playing) 
+          (NP (DT a) (NN part) 
+            (PP (IN in) 
+              (NP 
+                (S 
+                  (NP (-NONE- *) )
+                  (VP (VBG fueling) 
+                    (NP (DT the) (NN collecting) (NN frenzy) ))))))))))
+  (. .) )
+( (S 
+    (NP (JJ Big-bucks) (NNS buyers) )
+    (VP (VBP trust) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (NN market) )
+          (MD will) 
+          (VP (VB continue) 
+            (NP (PRP$ its) (JJ strong) (NN surge) ))))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (PP (IN In) 
+        (NP (NNP October) 
+          (PP (IN of) 
+            (NP (CD '87) ))))
+      (S 
+        (NP (NNS people) )
+        (VP (VBD saw) 
+          (SBAR (IN that) 
+            (S 
+              (S 
+                (NP (NN everything) (RB else) )
+                (VP (VBD went) (RB down) ))
+              (CC but) 
+              (S 
+                (NP (NN art) )
+                (VP (VBD went) (RB up) )))))))
+    (, ,) ('' '') 
+    (S 
+      (NP (NNP Desmond) (NNP Corcoran) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP London) )
+            (POS 's) (NNP Alex) (NNP Reid) (CC &) (NNP Lefevre) (NNP Ltd.) (NN gallery) )))
+      (VP (VBZ points) (RB out) )))
+  (. .) )
+( (S 
+    (S 
+      (PP (IN Since) 
+        (NP (RB then) ))
+      (, ,) 
+      (S 
+        (NP (DT the) (NN market) )
+        (VBZ has) 
+        (VP (VBN continued) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB rise) )))))
+    (, ,) (CC but) 
+    (S (RB now) 
+      (S 
+        (NP (DT the) (NN size) 
+          (PP (IN of) 
+            (NP (DT the) (NNS estimates) )))
+        (VP (VBZ seems) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB be) 
+              (VP (VBG making) 
+                (NP (DT some) (NNS people) )
+                (ADJP (JJ nervous) ))))))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (NP (PRP Zey) )
+      (VP (VBP are) 
+        (ADJP (JJ crazee) )))
+    ('' '') 
+    (SINV 
+      (VP (VBD shrieked) )
+      (NP 
+        (NP (CD one) (JJ French) (NN dealer) )
+        (, ,) 
+        (VP (VBG reeling) 
+          (PP (IN from) 
+            (NP (NN auction) (NN estimate) (NN sticker) (NN shock) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (PP (IN In) 
+        (NP (DT a) (JJR lower) (NN key) ))
+      (, ,) 
+      (S 
+        (NP (NNP Mr.) (NNP Corcoran) )
+        (VP 
+          (VP (VBZ finds) 
+            (NP 
+              (NP 
+                (NP (DT the) (NN world) )
+                (ADJP (`` ``) (JJ full) 
+                  (PP (IN of) 
+                    (NP (JJ strange) (NNS speculators) ))
+                  ('' '') ))
+              (CC and) 
+              (NP 
+                (NP (DT the) (NN auction) (NNS estimates) )
+                (ADJP (`` ``) (JJ incredible) ))))
+          (, ,) ('' '') 
+          (CC and)
+          (VP (VBZ suggests) 
+            (NP (DT the) (NNP Dorrance) (NN sale) )
+            (PP (IN as) 
+              (NP (DT a) (NN sort) 
+                (PP (IN of) 
+                  (NP (JJ early) (NN warning) (NN system) ))))))))
+    (: :) 
+    (S (`` ``) 
+      (S 
+        (NP (DT These) (NNS pictures) )
+        (VP (VBP are) (RB not) 
+          (NP (RB absolutely) (JJ top) (NN quality) )))
+      (, ,) ('' '') 
+      (S 
+        (NP (PRP he) )
+        (VP (VBZ says) ))))
+  (. .) )
+( (`` ``) 
+  (S (RB So) 
+    (SBAR (IN if) 
+      (S 
+        (NP (DT the) (NN market) )
+        (VP (VBZ absorbs) 
+          (NP (DT those) ))))
+    (, ,) 
+    (S 
+      (NP (WP what) )
+      (VP (VBZ comes) )
+      (ADVP 
+        (NP (CD three) (NNS weeks) )
+        (RB later) )
+      (MD will) 
+      (VP (VB do) 
+        (ADJP (RB just) (JJ fine) ))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR (IN If) 
+      (S 
+        (NP (DT all) )
+        (VP (VBZ goes) (RB well) )))
+    (, ,) 
+    (SBAR (IN if) 
+      (S 
+        (S 
+          (NP (DT the) (NNP Picasso) )
+          (VP (VBZ hits) 
+            (NP ($ $) (CD 75) (CD million) )))
+        (, ,) 
+        (CC and)
+        (S 
+          (NP 
+            (NP (NNP Mellon) )
+            (, ,) 
+            (NP (NNP Dorrance) )
+            (, ,) 
+            (NP (NNP Wilder) )
+            (CC and) 
+            (NP (DT the) (NN rest) ))
+          (VP (VBP get) 
+            (SBAR 
+              (WHNP (WP what) )
+              (S 
+                (NP (PRP they) )
+                (VP (VBD bargained) 
+                  (PP (IN for) 
+                    (NP (-NONE- T) )))))))))
+    (, ,) 
+    (S 
+      (NP (DT the) 
+        (ADJP (JJ uncomfortable) 
+          (, ,)
+          (JJ questioning) )
+        (NN buzz) 
+        (PP (IN in) 
+          (NP (DT the) (NN art) (NN marketplace) )))
+      (MD will) 
+      (VP (VB trail) (RB off) 
+        (PP (IN into) 
+          (NP (NNS sighs) 
+            (PP (IN of) 
+              (NP (NN relief) ))))
+        (, ,) 
+        (S (RB only) 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB begin) (RB anew) 
+            (ADJP (RB slightly) (RBR louder) 
+              (PP (IN than) 
+                (NP (RB before) ))))
+          (, ,) 
+          (SBAR (IN as) 
+            (S 
+              (NP (DT the) (NN cycle) )
+              (VP (VBZ starts) (RP over) 
+                (PP (IN in) 
+                  (NP (DT the) (NN spring) )))))))))
+  (. .) )
+( (S 
+    (ADVP (IN Because) 
+      (PP (IN for) 
+        (NP (DT some) )))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN art) (NN market) )
+      (VBZ has) 
+      (VP (VBN become) 
+        (NP (DT a) (NN sort) 
+          (PP (IN of) 
+            (NP 
+              (NP (JJ magic) (NN beanstalk) )
+              (VP (VBG rising) 
+                (PP (IN into) 
+                  (NP (DT the) (NNS clouds) ))
+                (PP (IN at) 
+                  (NP (DT a) (NN cartoon) (NN rate) 
+                    (PP (IN of) 
+                      (NP (NN speed) )))))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (NN Nobody) )
+      (VP (VBZ knows) 
+        (SBAR 
+          (WHNP (WP what) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBZ is) 
+              (PP (IN at) 
+                (NP (DT the) (NN top) )))))))
+    (, ,) (CC but) 
+    (S 
+      (NP (PRP they) )
+      (VBP are) 
+      (VP (VBG hoping) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP it) )
+            (VP (VBZ is) 
+              (ADVP (RB very) (RB far) (RB away) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Ms.) (NNP Berman) )
+    (VP (VBZ covers) 
+      (NP (DT the) (NN auction) (NN scene) )))
+  (. .) )

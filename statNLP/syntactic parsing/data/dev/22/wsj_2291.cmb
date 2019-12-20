@@ -1,0 +1,443 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Dallas) (NN investor) )
+      (NP 
+        (NP (NNP Harold) (NNP Simmons) )
+        (, ,) 
+        (SBAR 
+          (WHNP (WP who) )
+          (S 
+            (NP (-NONE- T) )
+            (X 
+              (X (VBZ has) 
+                (VP (VBN been) 
+                  (VP (VBG gobbling) (IN up) 
+                    (NP (NNP Lockheed) (NNP Corp.) (NNS shares) ))))
+              (CC and) 
+              (VP 
+                (ADVP 
+                  (NP (RB only) (CD two) (NNS months) )
+                  (RB ago) )
+                (VBD told) 
+                (NP (DT this) (NN newspaper) )
+                (SBAR (IN that) 
+                  (S 
+                    (NP (PRP he) )
+                    (VP (VBD was) 
+                      (PP (IN in) 
+                        (NP (DT the) (NN stock) ))
+                      (PP (IN for) 
+                        (NP (DT the) (JJ long) (NN term) )))))))))
+        (, ,) ))
+    (VP (RB now) (VBZ insists) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP he) )
+          (VP (VBZ wants) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB sell) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (DT an) (NN interview) )
+        (VP (VBD published) (NN yesterday) )
+        (PP (IN with) 
+          (NP (DT the) (NNP Los) (NNP Angeles) (NNP Daily) (NNP News) ))))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Simmons) )
+      (VP (VBD said) (: :) 
+        (S (`` ``) 
+          (NP (NNP Lockheed) )
+          (VP (VBZ is) (RB actually) 
+            (NP (RB just) (DT a) (NN decoy) ))))))
+  (. .) )
+( (S 
+    (NP (PRP I) )
+    (VP (VBP have) 
+      (NP (JJ several) (NNS decoys) )
+      (PP (IN out) (RB there) ))
+    (SBAR (IN because) 
+      (S 
+        (NP (EX there) )
+        (VP (VBZ 's) (RB really) 
+          (NP 
+            (NP (NN something) (RB else) )
+            (SBAR (IN that) 
+              (S 
+                (NP (PRP I) )
+                (VP (VBP want) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB slip) 
+                      (PP (RP up) 
+                        (PP (IN on) 
+                          (NP (-NONE- T) )))))))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (PRP You) )
+      (VBP 've) 
+      (VP (VBD got) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB put) (RB out) 
+            (NP (NN misinformation) )))))
+    (SBAR (IN if) 
+      (S 
+        (NP (PRP you) )
+        (RB really) 
+        (VP (VBP want) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB buy) 
+              (NP (NN something) )
+              (PP (IN for) 
+                (NP (DT a) (JJ fair) (NN price) ))))))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Mr.) (NNP Simmons) )
+      (, ,) 
+      (SBAR 
+        (WHNP (WP who) )
+        (S 
+          (NP (-NONE- T) )
+          (VP (VBZ holds) 
+            (NP 
+              (NP (CD 6.6) (CD million) (NNS shares) )
+              (, ,) (CC or) 
+              (NP (DT a) (CD 10.43) (NN %) (NN stake) )
+              (, ,) 
+              (PP (IN in) 
+                (NP (NNP Lockheed) ))
+              (, ,) )))))
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP (PRP he) )
+          (VP (VBZ is) (RB n't) 
+            (ADJP 
+              (PP (IN at) 
+                (NP (DT all) ))
+              (VBN interested) 
+              (PP (IN in) 
+                (S 
+                  (NP (-NONE- *) )
+                  (VP (VBG taking) (RP over) 
+                    (NP (DT the) 
+                      (NP 
+                        (NP (NNP Calabasas) )
+                        (, ,) 
+                        (NP (NNP Calif.) )
+                        (, ,) )
+                      (NN aerospace) (NN concern) ))))))))))
+  (. .) )
+( (S 
+    (ADVP (`` ``) (RB Not) 
+      (ADVP (RB now) )
+      (CC and) (RB not) 
+      (ADVP (RB ever) )
+      (, ,) ('' '') )
+    (S 
+      (NP (PRP he) )
+      (VP (VBD told) 
+        (NP (DT the) (NN newspaper) ))))
+  (. .) )
+( (`` ``) 
+  (S (RB Actually) 
+    (, ,)
+    (S 
+      (NP (PRP I) )
+      (VP (VBP wish) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP I) )
+            (VP (VB were) 
+              (PP (IN out) 
+                (PP (IN of) 
+                  (NP (NNP Lockheed) )))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN defense) (NN industry) )
+    (VP (VBZ seems) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB be) 
+          (VP (VBG getting) 
+            (ADJP (RBR more) (JJ uncertain) )
+            (NP (DT all) (DT the) (NN time) ))))))
+  (. .) )
+( (S (IN So) 
+    (S 
+      (NP (PRP I) )
+      (VP (VBP 'm) 
+        (NP (DT a) (NN seller) ))))
+  (. .) )
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VB Put) 
+        (NP (PRP it) )
+        (PP (IN in) 
+          (NP 
+            (ADJP (JJ big) (JJ black) )
+            (NNS letters) ))))
+    (CC and) 
+    (S 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VB underline) 
+          (NP (PRP it) )))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Lockheed) )
+      (POS 's) (NN share) (NN price) 
+      (PP (IN on) 
+        (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) )))
+    (VBZ has) 
+    (VP (VBN been) 
+      (VP (VBN propped) (RP up) 
+        (PP (IN in) 
+          (NP (JJ recent) (NNS weeks) ))
+        (, ,) 
+        (PP (IN despite) 
+          (NP (JJ disappointing) (NNS earnings) ))
+        (, ,) 
+        (PP (IN because) (IN of) 
+          (NP 
+            (NP (NNP Mr.) (NNP Simmons) )
+            (POS 's) (NN interest) 
+            (PP (IN in) 
+              (NP (DT the) (NN company) )))))))
+  (. .) )
+( (S 
+    (PP (IN In) 
+      (NP (JJ composite) (NN trading) 
+        (PP (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+    (, ,) 
+    (S 
+      (NP (NNP Lockheed) )
+      (VP (VBD slipped) 
+        (NP ($ $) (CD 1) )
+        (PP (IN in) 
+          (NP 
+            (NP (NNP Friday) )
+            (POS 's) (NN market) (NN slump) ))
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB close) 
+            (PP (IN at) 
+              (NP 
+                (NP ($ $) (CD 48) )
+                (NP (DT a) (NN share) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Michael) (NNP Lamb) )
+      (, ,) 
+      (SBAR 
+        (WHNP (WP who) )
+        (S 
+          (NP (-NONE- T) )
+          (VP (RB closely) (VBZ tracks) 
+            (NP 
+              (NP (NNP Mr.) (NNP Simmons) )
+              (POS 's) (NNS holdings) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT a) 
+                  (NP 
+                    (NP (NNP Kansas) (NNP City) )
+                    (, ,) 
+                    (NP (NNP Mo.) )
+                    (, ,) )
+                  (NN firm) )
+                (VP (VBD called) 
+                  (NP (NNP Wealth) (NNP Monitors) )))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP he) )
+          (VP (VBZ is) 
+            (ADJP (JJ skeptical) 
+              (PP (IN about) 
+                (NP (DT the) (VBN stated) (NN intention) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB sell) (RP off) 
+                      (NP (NNP Lockheed) (NNS shares) )))))))))))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (SBAR (IN while) 
+            (S 
+              (NP 
+                (NP (CD one) (NNP Simmons) 
+                  (ADJP (VBG holding) )
+                  (NN company) )
+                (, ,) 
+                (NP (NNP Valhi) (NNP Inc.) )
+                (, ,) )
+              (VBZ has) 
+              (VP (VBN sold) 
+                (NP (CD 272,000) (NNP Lockheed) (NNS shares) )
+                (PP (IN in) 
+                  (NP (JJ recent) (NNS months) )))))
+          (, ,) 
+          (S 
+            (NP (PRP$ his) (JJ other) (NNS companies) )
+            (VBP have) 
+            (VP (VBN bought) (RP up) 
+              (NP (CD 880,000) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (`` ``) 
+  (SQ (VBZ Does) 
+    (NP (DT that) )
+    (VP (VB sound) 
+      (PP (IN like) 
+        (NP (DT a) (NN seller) ))
+      (PP (TO to) 
+        (NP (PRP you) ))))
+  (. ?) ('' '') )
+((S 
+    (NP (NNP Mr.) (NNP Lamb) )
+    (VP (VBD said) (NN yesterday) ))
+  (. .) )
+( (`` ``) 
+  (S 
+    (NP (PRP It) )
+    (RB just) (VBZ does) (RB n't) 
+    (VP (VB make) 
+      (NP (DT any) (NN sense) )))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (NNP Mr.) (NNP Simmons) )
+      (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB elaborate) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP (NNP Lockheed) (NNS officials) )
+      (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB comment) 
+              (PP (IN on) 
+                (NP (DT the) (NNP Daily) (NNP News) (NN article) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S (CC But) 
+    (NP (NNP Mr.) (NNP Lamb) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (POS 's) 
+            (NP 
+              (NP (NNP Mr.) (NNP Simmons) )
+              (POS 's) (NN style) )
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB try) 
+                (CC and)
+                (VB leave) 
+                (S 
+                  (NP (NNP Wall) (NNP Street) )
+                  (VP (VBD befuddled) )))))))))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP Mr.) (NNP Simmons) )
+          (VP (VBZ knows) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (DT the) (NN arbitrage) (NN community) )
+                (`` ``) (MD can) 
+                (VP (VB be) 
+                  (NP (DT a) (NN detriment) )
+                  (PP (IN by) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (VP (VBG driving) 
+                        (NP (DT the) (NN share) (NN price) )
+                        (RB up) ))))
+                (. .) ('' '') ))))))))
+((S 
+    (NP (NNP Mr.) (NNP Lamb) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (SBAR (IN if) 
+            (S 
+              (NP (DT the) (NNS arbitrageurs) )
+              (VBP get) 
+              (VP (VBN confused) )))
+          (, ,) 
+          (S (RB maybe) 
+            (S 
+              (NP (PRP they) )
+              (MD 'll) 
+              (VP 
+                (VP (VB move) 
+                  (PP (IN out) 
+                    (PP (IN of) 
+                      (NP (DT the) (NN stock) ))))
+                (CC and) 
+                (VP (VB leave) 
+                  (ADJP (JJR more) )
+                  (SBAR (IN for) 
+                    (S 
+                      (NP (NNP Mr.) (NNP Simmons) )
+                      (TO to) 
+                      (VP (VB grab) )))))))))))
+  (. .) )

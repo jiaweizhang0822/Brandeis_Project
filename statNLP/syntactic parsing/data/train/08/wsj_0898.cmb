@@ -1,0 +1,53 @@
+
+ 
+ 
+ 
+
+(S
+   (NP (NNP TRW) (NNP Inc.))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (PRP it))
+                (VP (VBD increased)
+                    (NP (PRP$ its) (NN stock) (JJ buy-back) (NN program))
+                    (PP (TO to)
+                        (NP (CD four) (CD million) (JJ common) (NNS shares)))))))
+   (. .))
+ 
+ 
+
+(S (S
+      (NP
+          (NP (DT The) (NN company))
+          (POS 's) (NN buy-back))
+      (VBD was)
+      (VP (RB previously)
+          (VBN set)
+          
+          (PP (IN in)
+              (NP (CD 1987)))
+          (PP (IN at)
+              (NP (CD two) (CD million) (NNS shares)))))
+   (CC and)
+   (S (NP (NNP TRW))
+      (VBZ has)
+      (RB already)
+      (VP (VBN purchased)
+          (NP (CD 1.5) (CD million) (NNS shares))))
+   (. .))
+ 
+
+(S (NP (NP (DT The)
+           (ADJP (JJ automotive)
+                 (, ,)
+                 (JJ aerospace)
+                 (, ,)
+                 (JJ industrial) (CC and) (JJ electronic))
+           (NNS products))
+       (NN concern))
+   (VP (VBZ has)
+       (NP (RB about)
+           (CD 60) (CD million) (NNS shares)
+           (ADJP (JJ outstanding))))
+   (. .))
+ 

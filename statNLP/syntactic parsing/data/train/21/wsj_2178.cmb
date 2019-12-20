@@ -1,0 +1,80 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Motorola) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (MD will) 
+          (VP (VB sell) 
+            (NP (PRP$ its) (NNP Tegal) (NNP Corp.) (NN unit) )
+            (PP (TO to) 
+              (NP (DT a) (NNP Tegal) (NN management) (NN group) ))
+            (PP (IN for) 
+              (NP 
+                (NP (DT a) (NN sum) )
+                (SBAR 
+                  (WHNP (DT that) )
+                  (S 
+                    (NP (-NONE- T) )
+                    (VBD was) (RB n't) 
+                    (VP (VBN disclosed) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT A) (NN spokesman) 
+      (PP (IN for) 
+        (NP (DT the) (NN maker) 
+          (PP (IN of) 
+            (NP (JJ electronic) (NN equipment) 
+              (CC and)
+              (NNS semiconductors) )))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP Motorola) )
+          (VBZ does) (RB n't) 
+          (VP (VB expect) 
+            (NP (DT the) (NN transaction) )
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB have) 
+                (NP (DT a) (NN material) (NN impact) 
+                  (PP (IN on) 
+                    (NP (NNS earnings) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Tegal) )
+      (, ,) 
+      (NP (DT a) 
+        (NP 
+          (NP (NNP Petaluma) )
+          (, ,) 
+          (NP (NNP Calif.) )
+          (, ,) )
+        (NN supplier) 
+        (PP (TO to) 
+          (NP (DT the) (NN semiconductor) (NN industry) )))
+      (, ,) )
+    (VP (VBZ has) 
+      (NP (JJ annual) (NNS sales) 
+        (PP (IN of) 
+          (NP (IN about) ($ $) (CD 55) (CD million) )))))
+  (. .) )

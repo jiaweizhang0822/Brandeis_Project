@@ -1,0 +1,601 @@
+
+ 
+ 
+ 
+
+(S
+   (NP (DT THE) (NNP U.S.) (NN ECONOMY))
+   (VP (VBD GREW)
+       (PP (IN at)
+           (NP (DT a)
+               (ADJP (JJ moderate))
+               (CD 2.5) (NN %)
+               (JJ annual) (NN rate)))
+       (PP (IN in)
+           (NP (DT the) (JJ third) (NN quarter)))
+       (PP (IN despite)
+           (NP (DT the)
+               (ADJP (JJS worst))
+               (NN trade) (NN performance)
+               (PP (IN in)
+                   (NP (CD six) (NNS years))))))
+   (. .))
+ 
+
+(S (NP (NP (DT The) (NN expansion))
+       (, ,)
+       (VP (VBG matching)
+           (NP
+               (NP (DT the) (JJ second) (NN quarter))
+               (POS 's) (NN pace)))
+       (, ,))
+   (VBD was)
+   (VP (VBN fueled)
+       
+       (PP (IN by)
+           (NP (JJ strong) (NN consumer) (NN spending)
+               (, ,)
+               (RB especially)
+               (PP (IN for)
+                   (NP (NNS autos))))))
+   (. .))
+ 
+
+(S (CC But)
+   (S (NP (NNS analysts))
+      (VP (VBP expect)
+          (NP (NP (NNP GNP) (NN growth))
+              (S (NP (-NONE- *))
+                 (TO to)
+                 (VP (VB slow)
+                     (PP (IN in)
+                         (NP (DT the) (JJ current) (NN quarter))))))))
+   (. .))
+ 
+
+(S
+   (NP (DT An) (NN inflation) (NN gauge))
+   (VP (VBD slowed)
+       (PP (PP (TO to)
+               (NP (DT a) (CD 2.9) (NN %)
+                   (NN growth) (NN rate)))
+           (PP (IN from)
+               (NP (CD 5) (NN %))))
+       (NP (DT the) (JJ previous) (NN quarter)))
+   (. .))
+ 
+ 
+
+(S (NP (NP (DT The) (NNP Big) (CD Three) (NN car) (NNS makers))
+       (NP (DT all)))
+   (VP (VBD posted)
+       (NP (JJ quarterly) (NNS losses))
+       (PP (IN in)
+           (NP
+               (ADJP (JJ core) (JJ North) (JJ American))
+               (NN auto) (NNS operations)))
+       (PP (IN for)
+           (NP (DT the) (JJ first) (NN time)
+               (PP (IN since)
+                   (NP (CD 1982))))))
+   (. .))
+ 
+
+(S
+   (NP (NNS Expectations)
+       (PP (IN of)
+           (NP (JJ slow) (NNS sales) (CC and) (NN price) (NNS wars))))
+   (VBP are)
+   (VP (VBG dimming)
+       (NP (DT the) (NN outlook)
+           (PP (IN for)
+               (NP (DT the) (JJ current) (NN quarter)))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP GM))
+   (VBZ is)
+   (VP (VBG seeking)
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB buy)
+              (PP (IN up)
+                  (PP (TO to)
+                      (NP (CD 15) (NN %)
+                          (PP (IN of)
+                              (NP (NNP Jaguar)))))))))
+   (, ,)
+   (VP (VBG marking)
+       (NP (PRP$ its) (JJ first) (NN salvo))
+       (PP (IN in)
+           (NP (DT a) (VBG looming) (NN battle)
+               (PP (IN with)
+                   (NP (NNP Ford)))
+               (PP (IN for)
+                   (NP (NN control)
+                       (PP (IN of)
+                           (NP (DT the) (JJ British) (NN luxury) (NN car) (NN maker))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NN Stock) (NNS prices))
+   (VP (VBD tumbled)
+       (PP (IN amid)
+           (NP (VP (VBG growing))
+               (NN concern)
+               (PP (IN about)
+                   (NP (JJ corporate) (NNS earnings))))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (NNP Dow) (NNP Jones) (NNS industrials))
+   (VP (VBD closed)
+       (ADVP (RB off)
+             (NP (CD 39.55) (NNS points)))
+       (, ,)
+       (PP (IN at)
+           (NP (CD 2613.73))))
+   (. .))
+ 
+
+(S (S
+      (NP
+          (ADJP (JJS Most))
+          (NNS bonds))
+      (VP (VBD eased)))
+   (, ,)
+   (CC but)
+   (S (NP
+          (ADJP (JJ long-term))
+          (NNP Treasury) (NNS issues))
+      (VP (VBD edged)
+          (RB up)))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (NN dollar))
+   (RB also)
+   (VP (VBD gained))
+   (, ,)
+   (RB especially)
+   (PP (IN against)
+       (NP (DT the) (JJ British) (NN pound)))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP PaineWebber) (NNP Group))
+   (VP (VBD ordered)
+       (NP (DT a) (JJ major) (NN pullback)
+           (PP (IN from)
+               (NP (NN program) (NN trading))))
+       (PP (IN amid)
+           (NP (VP (VBG mounting))
+               (NN debate)
+               (PP (IN about)
+                   (NP (DT the) (NN practice)
+                       (PP (IN at)
+                           (NP (NNP Wall) (NNP Street) (NNS firms))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP&T AT*))
+   (VBD was)
+   (VP (VBN allowed)
+       
+       (PP (IN by)
+           (NP (DT the) (NNP FCC)))
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB continue)
+              (VP (VBG offering)
+                  (NP (JJ discount) (NN phone) (NNS services))
+                  (PP (TO to)
+                      (NP (NN big-business) (NNS clients)))))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (NN agency))
+   (RB also)
+   (VP (VBZ plans)
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB review)
+              (NP (PRP$ its) (NN regulation)
+                  (PP (IN of)
+                      (NP (DT the) (JJ long-distance) (NN market)))))))
+   (. .))
+ 
+ 
+
+(S (NP (NP (DT A) (NNS capital-gains))
+       (NN tax) (NN cut))
+   (VBZ has)
+   (VP (VBN stalled)
+       (PP (IN in)
+           (NP (DT the) (NNP Senate))))
+   (. .))
+ 
+
+(S
+   (NP (JJ Democratic) (NNS leaders))
+   (VBP have)
+   (VP (VP (VBN bottled)
+           (RP up)
+           (NP (DT the) (NN plan)))
+       (CC and)
+       (MD may)
+       (VP (VB be)
+           (ADJP (JJ able)
+                 (S (NP (-NONE- *))
+                    (TO to)
+                    (VP (VB prevent)
+                        (NP (DT a) (NN vote))
+                        (RB indefinitely))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP Treasury) (NNP Secretary) (NNP Brady))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (DT the) (NNP SEC))
+                (MD should) (VB be)
+                (VP (VBN given)
+                    
+                    (NP (NP (DT the) (NN authority))
+                        (S (NP (-NONE- *))
+                           (TO to)
+                           (VP (VB close)
+                               (NP (DT the) (NN stock) (NNS markets))
+                               (PP (IN in)
+                                   (NP (DT a) (NN crisis))))))))))
+   (. .))
+ 
+
+(S (RB Earlier)
+   (, ,)
+   (S (NP (NNP SEC) (NNP Chairman) (NNP Breeden))
+      (VP (VBD said)
+          (SBAR (-NONE- 0)
+                (S (S (NP (PRP he))
+                      (VBZ does)
+                      (RB n't)
+                      (VP (VB want)
+                          (NP (JJ such) (NN power))))
+                   (SBAR (IN because)
+                         (S (NP (PRP it))
+                            (MD could)
+                            (VP (VB end)
+                                (RP up)
+                                (VP (VBG disrupting)
+                                    (NP (DT the) (NNS markets))))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (JJ Regional) (NN thrift) (NNS regulators))
+   (VP (VBD claimed)
+       (NP (SBAR (IN that)
+                 (S (NP (NN phone) (NNS calls))
+                    (VBD were)
+                    (VP (VBN bugged)
+                        
+                        (PP (IN during)
+                            (NP (DT the) (NN examination)
+                                (PP (IN of)
+                                    (NP (NNP Lincoln) (NNP S&L))))))))
+           (CC and)
+           (SBAR (IN that)
+                 (S (S (NP (JJ federal) (NNS officials))
+                       (VP (VBD delayed)
+                           (NP
+                               (NP (NNP Lincoln))
+                               (POS 's) (NN seizure))))
+                    (SBAR (IN until)
+                          (S (NP (PRP it))
+                             (VBD had)
+                             (VP (VBN become)
+                                 (NP (DT the)
+                                     (ADJP (JJS costliest))
+                                     (NN thrift) (NN failure))
+                                 (RB ever))))))))
+   (. .))
+ 
+ 
+
+(S (S
+      (NP (NNP Federal) (NNP Express) (NNS pilots))
+      (VP (VBD voted)
+          (PP (IN against)
+              (NP (VP (VBG joining)
+                      (NP (DT a) (NN union)))))))
+   (, ,)
+   (NP (DT a) (JJ major) (NN victory)
+       (PP (IN for)
+           (NP (NNP Chairman) (NNP Frederick) (NNP Smith))))
+   (. .))
+ 
+ 
+
+(S
+   (NP
+       (NP (NNP Intel))
+       (POS 's)
+       (ADJP (JJS most) (JJ powerful))
+       (NN chip))
+   (VP (VBZ has)
+       (NP (NP (NNS flaws))
+           (SBAR (WDT that)
+                 (S (NP (-NONE- T))
+                    (MD could)
+                    (VP (VB delay)
+                        (NP
+                            (NP (JJ several) (NN computer) (NNS makers))
+                            (POS ') (NN marketing) (NNS efforts)))))))
+   (. .))
+ 
+
+(S (CC But)
+   (S (NP (DT the) (NNS bugs))
+      (VBP are)
+      (RB n't)
+      (VP (VBN expected)
+          
+          (S (NP (-NONE- *))
+             (TO to)
+             (VP (VB hurt)
+                 (NP (NP (NNP Intel))
+                     (CC and)
+                     (NP
+                         (ADJP (JJS most))
+                         (NN computer) (NNS manufacturers)))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP Bethlehem) (NNP Steel))
+   (VP (VBD agreed)
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB form)
+              (NP (DT a) (JJ joint) (NN venture)
+                  (PP (IN with)
+                      (NP (NP
+                              (NP (DT the) (NN world))
+                              (POS 's) (JJ second-biggest) (NN steelmaker))
+                          (, ,)
+                          (NP (NNP Usinor-Sacilor)
+                              (PP (IN of)
+                                  (NP (NNP France))))
+                          (, ,))))
+              (S (NP (-NONE- *))
+                 (TO to)
+                 (VP (VB modernize)
+                     (NP (NN part)
+                         (PP (IN of)
+                             (NP
+                                 (NP (NNP Bethlehem))
+                                 (POS 's)
+                                 (ADJP (JJ ailing))
+                                 (NNP BethForge) (NN division)))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (DT The) (NNP Treasury))
+   (MD will)
+   (VP (VB hold)
+       (NP (DT an) (JJ unscheduled) (NN auction)
+           (PP (IN of)
+               (NP (NNS securities))))
+       (PP (IN next)
+           (NP (NN week)))
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB raise)
+              (NP ($ $) (CD 17)
+                  (CD billion)))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (JJ unusual) (NN move))
+   (VBZ is)
+   (VP (VBN intended)
+       
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB buy)
+              (NP (NN time))
+              (PP (IN for)
+                  (NP (NP (NNP Congress))
+                      (S (NP (-NONE- *))
+                         (TO to)
+                         (VP (VB debate)
+                             (NP (DT a) (NN debt-limit) (NN increase)))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NP (JJ Private-sector) (NN union) (NNS contracts))
+       (VP (VBN signed)
+           (PP (IN in)
+               (NP (DT the) (JJ third) (NN quarter)))))
+   (VP (VBD granted)
+       (NP (DT an)
+           (ADJP (JJ average) (JJ annual))
+           (NN wage) (NN increase)
+           (PP (IN of)
+               (NP (CD 3) (NN %)))
+           (, ,)
+           (ADJP (RB slightly)
+                 (PP (PP (IN below)
+                         (NP (DT the) (JJ second-quarter) (NN rise)))
+                     (CC but)
+                     (RB still)
+                     (PP (IN above)
+                         (NP (JJ year-ago) (NNS levels)))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP Quantum) (NNP Chemical))
+   (VP (VBD suspended)
+       (NP (PRP$ its) (NN cash) (NN dividend)))
+   (PP (IN in)
+       (NP (NN favor)
+           (PP (IN of)
+               (NP (DT a) (NN stock) (NN payout)))))
+   (. .))
+ 
+
+(S
+   (NP (PRP It))
+   (RB also)
+   (VP (VBD posted)
+       (NP (DT a) (JJ quarterly) (NN loss)))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP Navigation) (NNP Mixte))
+   (VP (VBD rejected)
+       (PP (IN as)
+           (ADJP (RB too)
+                 (JJ low)))
+       (NP (DT a)
+           (NP ($ $) (CD 1.77)
+               (CD billion)
+               (NP (NN bid))
+               (PP (IN by)
+                   (NP (NP (NNS Paribas))
+                       (, ,)
+                       (SBAR
+                             (WHNP (WDT which))
+                             (S (NP (-NONE- T))
+                                (VBZ is)
+                                (VP (VBG seeking)
+                                    (S (NP (-NONE- *))
+                                       (TO to)
+                                       (VP (VB boost)
+                                           (NP (PRP$ its) (NN stake)
+                                               (PP (IN in)
+                                                   (NP (DT the) (JJ French) (NN conglomerate))))
+                                           (PP (TO to)
+                                               (NP (CD 66.7) (NN %)))))))))))))
+   (. .))
+ 
+ 
+
+(S (NP
+       (NP (NNP France))
+       (POS 's)
+       (NP (NNP Banque) (NNP Indosuez)))
+   (VP (VBD surprised)
+       (NP (NNP London) (NNS markets))
+       (PP (IN by)
+           (NP (VP (VBG moving)
+                   (S (NP (-NONE- *))
+                      (TO to)
+                      (VP (VB become)
+                          (NP (DT the) (JJ dominant) (NN shareholder)
+                              (PP (IN in)
+                                  (NP (NP (NN merchant) (NN bank))
+                                      (NP (NNP Morgan) (NNP Grenfell)))))))))))
+   (. .))
+ 
+ 
+
+(NP (NP (NNS Markets))
+    (: --))
+ 
+ 
+
+(NP (NP (NNS Stocks))
+    (: :)
+    (NP (NN Volume)
+        (NP (CD 175,240,000))
+        (NNS shares))
+    (. .))
+ 
+
+(NP (NP (NP (NNP Dow) (NNP Jones)
+            (VBZ industrials))
+        (NP (CD 2613.73))
+        (, ,)
+        (ADVP (RB off)
+              (NP (CD 39.55))))
+    (: ;)
+    (NP (NP (NN transportation) (CD 1205.19))
+        (, ,)
+        (ADVP (RB up)
+              (NP (CD 5.87))))
+    (: ;)
+    (NP (NP (NNS utilities) (CD 215.67))
+        (, ,)
+        (ADVP (RB off)
+              (NP (CD 0.82))))
+    (. .))
+ 
+ 
+
+(NP (NP (NNS Bonds))
+    (: :)
+    (NP (NP (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Treasury))
+            (NP (NN index)))
+        (NP (CD 3425.60))
+        (, ,)
+        (RB off)))
+ 
+ 
+
+(NP (NP (NNS Commodities))
+    (: :)
+    (NP (NP (NP (NNP Dow) (NNP Jones) (NNS futures))
+            (NP (NN index)))
+        (NP (CD 129.22))
+        (, ,)
+        (ADVP (RB off)
+              (NP (CD 0.26))))
+    (: ;)
+    (NP (NP (NN spot) (NN index))
+        (NP (CD 131.04))
+        (, ,)
+        (ADVP (RB up)
+              (CD 0.31)))
+    (. .))
+ 
+ 
+
+(NP (NP (NN Dollar))
+    (: :)
+    (NP (CD 142.10) (NN yen)
+        (, ,)
+        (ADVP (RB up)
+              (CD 0.58)
+              ))
+    (: ;)
+    (NP (CD 1.8400) (NNS marks)
+        (, ,)
+        (ADVP (RB up)
+              (CD 0.0047)))
+    (. .))
+ 

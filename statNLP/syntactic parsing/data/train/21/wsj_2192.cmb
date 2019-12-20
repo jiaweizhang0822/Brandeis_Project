@@ -1,0 +1,344 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Louisiana-Pacific) (NNP Corp.) )
+      (CC and) 
+      (NP (NNP Pope) (CC &) (NNP Talbot) (NNP Inc.) ))
+    (VP (VBD posted) 
+      (NP (JJ strong) (JJ third-quarter) (NN profit) (NNS gains) ))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG citing) 
+        (NP 
+          (NP (VBN continued) (JJ strong) (NN demand) )
+          (CC and) 
+          (NP (JJ firm) (NNS prices) 
+            (PP (IN in) 
+              (NP (DT the) (NNS forest-products) (NN business) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Louisiana-Pacific) )
+    (VP (VBD reported) 
+      (NP (DT a) (CD 40) (NN %) (NN increase) 
+        (PP (IN in) 
+          (NP (JJ net) (NN income) ))
+        (PP (TO to) 
+          (NP 
+            (NP ($ $) (CD 51.5) (CD million) )
+            (, ,) (CC or) 
+            (NP 
+              (NP ($ $) (CD 1.34) )
+              (NP (DT a) (NN share) ))
+            (, ,) ))
+        (PP (IN from) 
+          (NP 
+            (NP 
+              (NP ($ $) (CD 36.8) (CD million) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 97) (NNS cents) )
+                (NP (DT a) (NN share) )))
+            (, ,) 
+            (ADVP 
+              (NP (DT the) (NN year) )
+              (RB earlier) ))))))
+  (. .) )
+( (S 
+    (NP (NNS Sales) 
+      (PP (IN in) 
+        (NP (DT the) (NN period) )))
+    (VP (VBN increased) 
+      (NP (IN about) (CD 10) (NN %) )
+      (PP (TO to) 
+        (NP ($ $) (CD 510.1) (CD million) ))
+      (PP (IN from) 
+        (NP ($ $) (CD 462.9) (CD million) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Harry) (NN A.) (NNP Merlo) )
+      (, ,) 
+      (NP (NN chairman) 
+        (CC and)
+        (NN president) )
+      (, ,) )
+    (VP (VBN credited) 
+      (NP (JJ strong) (NN demand) 
+        (PP (IN for) 
+          (NP 
+            (NP (NN plywood) )
+            (CC and) 
+            (NP (JJ other) (NN building) (NNS products) ))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (DT The) (NN record) (NNS results) )
+      (VP (VBD came) 
+        (PP (IN despite) 
+          (NP (DT a) (NN decline) 
+            (PP (IN in) 
+              (NP (NN operating) (NNS results) 
+                (PP (IN for) 
+                  (NP 
+                    (NP (DT the) (NN company) )
+                    (POS 's) (NN pulp) (NN business) ))))))))
+    (, ,) 
+    (S 
+      (NP (PRP he) )
+      (VP (VBD added) )))
+  (. .) )
+( (S 
+    (NP (DT This) )
+    (VP (VBD was) 
+      (ADJP (JJ due) 
+        (PP (IN in) 
+          (NP (JJ large) (NN measure) ))
+        (PP (TO to) 
+          (NP (DT a) (JJ drought-related) (NN production) (NN curtailment) 
+            (PP (IN at) 
+              (NP (PRP$ its) 
+                (NP 
+                  (NP (NNP Ketchikan) )
+                  (, ,) 
+                  (NP (NNP Alaska) )
+                  (, ,) )
+                (NN pulp) (NN mill) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN company) )
+      (VP (VBD posted) 
+        (NP (DT a) (CD 34) (NN %) (NN gain) 
+          (PP (IN in) 
+            (NP (NN net) ))
+          (PP (TO to) 
+            (NP 
+              (NP ($ $) (CD 139.8) (CD million) )
+              (, ,) (CC or) 
+              (NP 
+                (NP ($ $) (CD 3.66) )
+                (NP (DT a) (NN share) ))
+              (, ,) ))
+          (PP (IN from) 
+            (NP 
+              (NP ($ $) (CD 104.1) (CD million) )
+              (, ,) (CC or) 
+              (NP 
+                (NP ($ $) (CD 2.73) )
+                (NP (DT a) (NN share) ))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD had) 
+            (NP (DT an) (CD 11) (NN %) (NNS sales) (NN increase) 
+              (PP (TO to) 
+                (NP ($ $) (CD 1.50) (CD billion) ))
+              (PP (IN from) 
+                (NP 
+                  (NP ($ $) (CD 1.35) (CD billion) )
+                  (ADVP 
+                    (NP (DT the) (NN year) )
+                    (RB earlier) )))))))))
+  (. .) )
+( 
+  (-LRB- -LRB-)
+  (S 
+    (NP 
+      (NP (DT The) (NN company) )
+      (POS 's) (CD 1988) (NNS results) )
+    (VBP do) (RB n't) 
+    (VP (VB include) 
+      (NP (DT a) (JJ non-recurring) (NN gain) 
+        (PP (IN on) 
+          (NP (DT the) (JJ final) (NN settlement) 
+            (PP (IN of) 
+              (NP (DT the) (NNP Redwood) (NNP National) (NNP Park) (NN condemnation) ))))
+        (PP (IN in) 
+          (NP 
+            (NP (CD 1988) )
+            (POS 's) (JJ first) (NN quarter) )))))
+  (. .) 
+  (-RRB- -RRB-)
+  )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Pope) (CC &) (NNP Talbot) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (JJ healthy) (NN demand) 
+            (CC and)
+            (NNS prices) )
+          (, ,) 
+          (PP (RB especially) (IN for) 
+            (NP (NN consumer) (NNS products) ))
+          (, ,) 
+          (VP (VBN led) 
+            (PP (TO to) 
+              (NP (DT a) (CD 55) (NN %) (NN increase) 
+                (PP (IN in) 
+                  (NP (JJ third-quarter) (NN net) ))
+                (PP (TO to) 
+                  (NP 
+                    (NP ($ $) (CD 13.2) (CD million) )
+                    (, ,) (CC or) 
+                    (NP 
+                      (NP ($ $) (CD 1.11) )
+                      (NP (DT a) (NN share) ))
+                    (, ,) ))
+                (PP (IN from) 
+                  (NP 
+                    (NP ($ $) (CD 8.5) (CD million) )
+                    (, ,) (CC or) 
+                    (NP 
+                      (NP (CD 71) (NNS cents) )
+                      (NP (DT a) (NN share) )))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (CD 1989) (NNS results) )
+    (VP (VBP include) 
+      (NP (DT a) (NN gain) 
+        (PP (IN of) 
+          (NP 
+            (NP ($ $) (CD 3.5) (CD million) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 29) (NNS cents) )
+              (NP (DT a) (NN share) ))
+            (, ,) ))
+        (PP (IN on) 
+          (NP (DT the) (NN sale) 
+            (PP (IN of) 
+              (NP (DT a) (NN sawmill) )))))))
+  (. .) )
+( (S 
+    (NP (NNS Sales) 
+      (PP (IN in) 
+        (NP (DT the) (NN quarter) )))
+    (VP (VBD rose) 
+      (NP (CD 20) (NN %) )
+      (PP (TO to) 
+        (NP ($ $) (CD 162.1) (CD million) ))
+      (PP (IN from) 
+        (NP ($ $) (CD 135.3) (CD million) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN For) 
+      (NP (DT the) (CD nine) (NNS months) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN company) )
+      (VP (VBD posted) 
+        (NP 
+          (NP (NN profit) 
+            (PP (IN of) 
+              (NP 
+                (NP ($ $) (CD 33.8) (CD million) )
+                (, ,) (CC or) 
+                (NP 
+                  (NP ($ $) (CD 2.86) )
+                  (NP (DT a) (NN share) ))
+                (, ,) )))
+          (VP (VBG including) 
+            (NP (DT the) (NN gain) 
+              (PP (IN on) 
+                (NP 
+                  (NP (DT the) (NN sawmill) )
+                  (POS 's) (NN sale) ))))))))
+  (. .) )
+( (S 
+    (NP (DT That) )
+    (VP (VBD was) 
+      (ADVP (RB up) 
+        (NP (CD 45) (NN %) )
+        (PP (IN from) 
+          (NP 
+            (NP 
+              (NP ($ $) (CD 23.3) (CD million) )
+              (, ,) (CC or) 
+              (NP 
+                (NP ($ $) (CD 1.95) )
+                (NP (DT a) (NN share) ))
+              (, ,) )
+            (ADVP 
+              (NP (DT the) (NN year) )
+              (RB earlier) ))))))
+  (. .) )
+( (S 
+    (NP (JJ Nine-month) (NNS sales) )
+    (VP (VBD grew) 
+      (NP (CD 26) (NN %) )
+      (PP (TO to) 
+        (NP ($ $) (CD 471.1) (CD million) ))
+      (PP (IN from) 
+        (NP ($ $) (CD 373) (CD million) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG Looking) (RB ahead) ))
+    (, ,) 
+    (S 
+      (NP (NNP Pope) (CC &) (NNP Talbot) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP it) )
+            (VP (VBZ expects) 
+              (NP (DT all) 
+                (PP (IN of) 
+                  (NP (CD 1989) )))
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB be) 
+                  (NP (DT a) (NN record) (NN year) )))))))))
+  (. .) )
+( (S 
+    (NP (NNP Louisiana-Pacific) )
+    (VP (VBD said) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (JJ fourth-quarter) (NN performance) )
+            (VBZ is) (RB usually) 
+            (VP (VBN hampered) 
+              (PP (IN by) 
+                (NP (JJ weather-related) (NN construction) (NNS slowdowns) )))))
+        (, ,) (CC but) 
+        (SBAR (IN that) 
+          (S 
+            (NP (`` ``) (JJ many) (JJ positive) (NNS factors) ('' '') )
+            (MD should) 
+            (VP (VB help) 
+              (NP 
+                (NP (DT the) (NN period) )
+                (POS 's) (NNS results) )))))))
+  (. .) )

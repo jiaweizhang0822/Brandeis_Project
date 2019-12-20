@@ -1,0 +1,159 @@
+
+ 
+ 
+ 
+
+(S (NP (NNP Braniff) (NNP Inc.))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (PRP it))
+                (VBZ has)
+                (VP (VBN retained)
+                    (NP (NNP Merrill) (NNP Lynch) (NNP Capital) (NNP Markets))
+                    (S (NP (-NONE- *))
+                       (TO to)
+                       (VP (VB advise)
+                           (NP (PRP it))
+                           (PP (IN on)
+                               (NP (NP (NNS alternatives))
+                                   (: --)
+                                   (VP (VBG including)
+                                       (NP (DT a) (JJ possible) (NN sale)))
+                                   (: --))))
+                       (SBAR (IN as)
+                             (S (NP (DT the) (JJ cash-strapped) (NN airline))
+                                (VP (VBZ maneuvers)
+                                    (PP (IN through)
+                                        (NP (NN bankruptcy-law) (NN court) (NNS proceedings)))))))))))
+   (. .))
+ 
+ 
+
+(S (NP (NP (DT The) (NN carrier))
+       (, ,)
+       (NP (DT a) (NN unit)
+           (PP (IN of)
+               (NP (NNP BIA-COR) (NNP Holding) (NNP Inc.))))
+       (, ,))
+   (VP (VBD sought)
+       (NP (NNP Chapter) (CD 11) (NN protection))
+       (NP (NP (NNP Sept.) (CD 28))
+           (, ,)
+           (NP (DT a) (NN day)
+               (SBAR (IN after)
+                     (S (NP (PRP it))
+                        (RB abruptly)
+                        (VP (VP (VBD canceled)
+                                (NP (NNS flights)))
+                            (CC and)
+                            (VP (VBD laid)
+                                (RP off)
+                                (NP (CD 2,800) (NNS employees)))))))))
+   (. .))
+ 
+
+(S (NP (NP (NNP Braniff))
+       (, ,)
+       (SBAR (WHNP (WDT which))
+             (S (NP (-NONE- T))
+                (VBD had)
+                (VP (VBN launched)
+                    (NP (JJ ambitious) (NN expansion) (NNS plans))
+                    (PP (IN over)
+                        (NP (DT the) (JJ past) (NN year))))))
+       (, ,))
+   (VP (VBD blamed)
+       (NP (PRP$ its) (NNS difficulties))
+       (PP (IN on)
+           (NP (DT the) (NN collapse)
+               (PP (IN of)
+                   (NP (JJ expected) (NN financing))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (PRP It))
+   (VP (VBD was)
+       (NP
+           (NP (NNP Braniff))
+           (POS 's) (JJ second) (NN bankruptcy-law) (NN filing)
+           (PP (IN in)
+               (NP (DT a) (NN decade)))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (NN carrier))
+   (VP (VBD sought)
+       (NP (NNP Chapter) (CD 11) (NN protection))
+       (PP (IN in)
+           (NP (CD 1982))))
+   (, ,)
+   (VP (VBG emerging)
+       (PP (IN with)
+           (NP (NP (NP (JJ new) (NNS owners))
+                   (: --)
+                   (NP (DT the) (NNP Pritzker) (NN family))
+                   (: --))
+               (SBAR
+                     (WHNP (WP who))
+                     (S (NP (-NONE- T))
+                        (VP (VBD sold)
+                            (NP (PRP it))
+                            (PP (IN in)
+                                (NP (CD 1988)))
+                            (PP (TO to)
+                                (NP (DT a) (NN group)
+                                    (PP (IN of)
+                                        (NP (JJ real) (NN estate) (NNS investors)))))))))))
+   (. .))
+ 
+ 
+
+(S (NP (DT A) (NN bankruptcy) (NN court)
+       (PP (IN in)
+           (NP (NP (NP (NNP Orlando))
+                   (, ,)
+                   (NP (NNP Fla.))
+                   (, ,))
+               (SBAR
+                     (WHADVP (WRB where))
+                     (S (NP (DT the) (NN case))
+                        (VBZ is) (VBG being)
+                        (VP (VBN heard)
+                            )))
+               (, ,))))
+   (VP (VBD approved)
+       (NP
+           (NP (NNP Braniff))
+           (POS 's) (NN request)
+           (S (NP (-NONE- *))
+              (TO to)
+              (VP (VB retain)
+                  (NP (NNP Merrill) (NNP Lynch))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NNP Braniff))
+   (RB currently)
+   (VP (VBZ operates)
+       (NP (CD 46) (JJ daily) (NNS flights))
+       (PP (TO to)
+           (NP (CD 11) (NNS cities))))
+   (. .))
+ 
+
+(S (PP (IN Before)
+       (NP (DT the) (NN filing)))
+   (, ,)
+   (S (NP (PRP it))
+      (VP (VBD flew)
+          (PP (TO to)
+              (ADJP (JJR more)
+                    (PP (IN than)
+                        (NP (CD 40) (NNS cities)))))))
+   (. .))
+ 

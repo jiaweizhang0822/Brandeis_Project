@@ -1,0 +1,1462 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP E.) (NNP Robert) (NNP Wallach) )
+      (, ,) 
+      (NP (JJ former) (JJ personal) (JJ legal) (NN adviser) 
+        (PP (TO to) 
+          (NP (NNP ex-Attorney) (NNP General) 
+            (NP (NNP Edwin) (NNP Meese) ))))
+      (, ,) )
+    (VBD was) 
+    (VP 
+      (VP (VBN sentenced) 
+        (PP (TO to) 
+          (NP (CD six) (NNS years) 
+            (PP (IN in) 
+              (NP (NN prison) )))))
+      (CC and) 
+      (VP (VBN fined) 
+        (NP ($ $) (CD 250,000) ))
+      (PP (IN for) 
+        (NP (PRP$ his) (NN role) 
+          (PP (IN in) 
+            (NP (DT the) (NNP Wedtech) (NNP Corp.) (NN scandal) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Mr.) (NNP Wallach) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 55) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VBD was) 
+    (VP (VBN convicted) 
+      (PP (IN in) 
+        (NP (NNP August) ))
+      (PP (IN of) 
+        (NP 
+          (NP (NN racketeering) )
+          (CC and) 
+          (NP 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG conspiring) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB commit) 
+                    (NP (NN fraud) ))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNS charges) )
+    (VP (VBD involved) 
+      (NP ($ $) (CD 425,000) 
+        (PP (IN in) 
+          (NP 
+            (NP (NNS payments) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (PRP he) )
+                (VP (VBD got) 
+                  (NP (-NONE- T) )
+                  (PP (IN from) 
+                    (NP (NNP Wedtech) ))
+                  (PP (IN in) 
+                    (NP (NN return) 
+                      (PP (IN for) 
+                        (NP 
+                          (S 
+                            (NP (-NONE- *) )
+                            (VP (VBG promising) 
+                              (S 
+                                (NP (-NONE- *) )
+                                (TO to) 
+                                (VP (VB use) 
+                                  (NP (PRP$ his) (NN influence) 
+                                    (PP (IN with) 
+                                      (NP 
+                                        (NP (NNP Mr.) (NNP Meese) )
+                                        (CC and) 
+                                        (NP (JJ other) (JJ federal) (NNS officials) ))))
+                                  (PP (IN on) 
+                                    (NP (NN behalf) 
+                                      (PP (IN of) 
+                                        (NP (DT the) (JJ now-defunct) (NN defense) (NN contractor) ))))))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR (IN Though) 
+      (S 
+        (NP 
+          (NP 
+            (NP (NNP Mr.) (NNP Wallach) )
+            (POS 's) (NN attorney) )
+          (, ,) 
+          (NP (NNP Gary) (NNP Naftalis) )
+          (, ,) )
+        (VP (VBD described) 
+          (NP (DT the) (NN defendant) )
+          (PP (IN as) 
+            (NP (`` ``) (DT a) (RB relatively) (JJ minor) (NN player) ('' '') 
+              (PP (IN in) 
+                (NP (DT the) (NNP Wedtech) (NN political-corruption) (NN case) )))))))
+    (, ,) 
+    (S 
+      (NP (NNP U.S.) (NNP District) (NNP Judge) 
+        (NP (NNP Richard) (NNP Owen) ))
+      (VP (RB strongly) (VBD disagreed) )))
+  (. .) )
+( (S 
+    (PP (IN At) 
+      (NP (DT the) (NN sentencing) 
+        (PP (IN in) 
+          (NP (JJ federal) (NN court) 
+            (PP (IN in) 
+              (NP (NNP New) (NNP York) ))))))
+    (, ,) 
+    (S 
+      (NP (NNP Judge) (NNP Owen) )
+      (VP (VBD told) 
+        (NP (NNP Mr.) (NNP Wallach) )
+        (: :) 
+        (S (`` ``) 
+          (NP (PRP You) )
+          (VP (VBD sold) 
+            (NP 
+              (NP (PRP$ your) (JJ federal) (NN office) )
+              (CC and) 
+              (NP (DT the) (NN integrity) 
+                (PP (IN of) 
+                  (NP (PRP$ your) (JJ federal) (NN office) ))))
+            (PP (IN for) 
+              (NP ($ $) (CD 300,000) )))
+          (PP (IN before) 
+            (S 
+              (NP (PRP you) )
+              (VP (RB even) (VBD got) 
+                (NP (DT the) (NN office) )))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (DT The) (NN money) )
+      (VBD was) (RB allegedly) 
+      (VP (VBN paid) 
+        (PP (TO to) 
+          (NP (NNP Mr.) (NNP Wallach) ))
+        (PP (IN in) 
+          (NP (NN anticipation) 
+            (PP (IN of) 
+              (NP (PRP$ his) 
+                (S 
+                  (NP (-NONE- *) )
+                  (VP (VBG being) 
+                    (VP (VBN appointed) 
+                      (PP (TO to) 
+                        (NP (DT a) (JJ top) (NN position) 
+                          (PP (IN in) 
+                            (NP (DT the) (NNP Justice) (NNP Department) )))))))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP (DT that) (NN appointment) )
+      (VBD was) (RB never) 
+      (VP (VBN made) )))
+  (. .) )
+( (S 
+    (S 
+      (NP 
+        (NP (NNP Wedtech) )
+        (, ,) 
+        (NP (DT a) (JJ minority-owned) (NN company) 
+          (PP (IN in) 
+            (NP 
+              (NP (NNP New) (NNP York) (NNP City) )
+              (POS 's) (NNP South) (NNP Bronx) )))
+        (, ,) )
+      (VP (VBD accounted) 
+        (PP (IN for) 
+          (NP (DT the) (NNS payments) ))
+        (PP (IN as) 
+          (NP (NN consulting) (NNS fees) )))
+      (, ,) 
+      (SBAR (IN though) 
+        (S 
+          (NP (DT no) (NNS services) )
+          (VBD were) (RB actually) 
+          (VP (VBN provided) ))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN government) )
+      (VP (VBD charged) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP 
+        (NP (NNP Mr.) (NNP Wallach) )
+        (POS 's) (NNS co-defendants) )
+      (, ,) 
+      (NP 
+        (NP (NNP W.) (NNP Franklyn) (NNP Chinn) )
+        (CC and) 
+        (NP (NNP R.) (NNP Kent) (NNP London) ))
+      (, ,) )
+    (VBD were) (RB also) 
+    (VP (VBN sentenced) ))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNP Mr.) (NNP Chinn) )
+      (, ,) 
+      (NP (RB formerly) (DT a) (JJ financial) (NN adviser) 
+        (PP (TO to) 
+          (NP (NNP Mr.) (NNP Meese) )))
+      (, ,) )
+    (VBD was) 
+    (VP 
+      (VP (VBN sentenced) 
+        (PP (TO to) 
+          (NP (CD three) (NNS years) )))
+      (CC and) 
+      (VP (VBN fined) 
+        (NP ($ $) (CD 100,000) ))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNP Mr.) (NNP London) )
+      (, ,) 
+      (SBAR 
+        (WHNP (WP who) )
+        (S 
+          (PP (IN along) 
+            (PP (IN with) 
+              (NP (NNP Mr.) (NNP Chinn) )))
+          (NP (-NONE- T) )
+          (VP (VBD worked) 
+            (PP (IN as) 
+              (NP (DT a) (JJ financial) (NN consultant) 
+                (PP (TO to) 
+                  (NP (NNP Wedtech) )))))))
+      (, ,) )
+    (VBD was) 
+    (VP 
+      (VP (VBN sentenced) 
+        (PP (TO to) 
+          (NP (CD five) (NNS years) )))
+      (CC and) 
+      (VP (VBN fined) 
+        (NP ($ $) (CD 250,000) ))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (DT The) (NNS defendants) )
+      (, ,) 
+      (SBAR 
+        (WHNP (WP who) )
+        (S 
+          (NP (-NONE- T) )
+          (VP (VBP remain) 
+            (ADJP (JJ free) 
+              (PP (IN on) 
+                (NP (NN bail) ))))
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG pending) 
+              (NP (PRP$ their) (NNS appeals) )))))
+      (, ,) )
+    (MD would) 
+    (VP (VB have) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB serve) 
+          (NP (DT a) 
+            (ADJP (JJ third) )
+            (PP (IN of) 
+              (NP (PRP$ their) (NNS sentences) ))))
+        (PP (IN before) 
+          (NP 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG being) 
+                (ADJP (NN eligible) 
+                  (PP (IN for) 
+                    (NP (NN parole) ))))))))))
+  (. .) )
+( (S 
+    (NP (NNS Lawyers) 
+      (PP (IN for) 
+        (NP (DT the) (CD three) (NNS defendants) )))
+    (VBP have) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP they) )
+          (VP (VBP plan) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB appeal) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN Before) 
+      (NP 
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG issuing) 
+            (NP (DT the) (NNS sentences) )))))
+    (, ,) 
+    (S 
+      (NP (NNP Judge) (NNP Owen) )
+      (VP (VBD criticized) 
+        (NP (NNP Mr.) (NNP Wallach) )
+        (PP (IN for) 
+          (NP (DT a) (NN host) 
+            (PP (IN of) 
+              (NP 
+                (NP (VBN alleged) (JJ ethical) 
+                  (CC and)
+                  (JJ legal) (NNS improprieties) )
+                (, ,) 
+                (SBAR 
+                  (SBAR 
+                    (WHNP (DT some) 
+                      (WHPP (IN of) 
+                        (WHNP (WDT which) )))
+                    (S 
+                      (NP (-NONE- T) )
+                      (VP (VBD had) 
+                        (NP (NN nothing) )
+                        (S 
+                          (NP (-NONE- *) )
+                          (TO to) 
+                          (VP (VB do) 
+                            (PP (IN with) 
+                              (NP (DT the) (NNP Wedtech) (NN case) )))))))
+                  (CC and) 
+                  (SBAR 
+                    (ADJP (JJS most) 
+                      (WHPP (IN of) 
+                        (WHNP (WDT which) )))
+                    (S 
+                      (NP (-NONE- T) )
+                      (VP (VBD involved) 
+                        (NP (NNP Mr.) (NNP Meese) ))))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN judge) )
+    (RB also) 
+    (VP (VBD suggested) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NNP Mr.) (NNP Wallach) )
+          (VP (VBD tried) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB influence) 
+                (NP (DT the) (NN jury) ))
+              (PP (IN in) 
+                (NP (NNP August) ))
+              (SBAR 
+                (WHADVP (WRB when) )
+                (S 
+                  (NP (DT the) (NN verdict) )
+                  (VBD was) 
+                  (VP (VBG being) 
+                    (VP (VBN read) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN About) 
+      (NP (RB halfway) 
+        (PP (IN through) 
+          (NP (DT the) (NN verdict) ))))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (NNP Mr.) (NNP London) )
+        (POS 's) (NN mother) )
+      (VP 
+        (VP (VBD had) 
+          (NP (DT a) (NN seizure) ))
+        (CC and) 
+        (VP (VBD collapsed) 
+          (PP (IN in) 
+            (NP (DT the) (JJ front) (NN row) 
+              (PP (IN of) 
+                (NP (DT the) (NN courtroom) ))))))))
+  (. .) )
+( (S 
+    (SBAR (IN As) 
+      (S 
+        (NP (NN court) (NNS officers) )
+        (VP (VBD sought) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB get) 
+              (NP (NN help) 
+                (PP (IN for) 
+                  (NP (DT the) (NN woman) ))))))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN judge) )
+      (VP (VBD said) ))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Wallach) )
+      (VP (`` ``) 
+        (VP (VBD charged) 
+          (PP (IN at) 
+            (NP (DT the) (NN jury) )))
+        (CC and) 
+        (VP (VBD screamed) 
+          (, ,)
+          (S (`` `) 
+            (NP (PRP You) )
+            (VP (VBP see) 
+              (SBAR 
+                (WHNP (WP what) )
+                (S 
+                  (NP (PRP you) )
+                  (VBP have) 
+                  (VP (VBN done) 
+                    (NP (-NONE- T) )))))))))
+    (. .) ('' ') ('' '') ))
+( (S 
+    (S 
+      (NP (DT The) (NN judge) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP he) )
+            (VBD did) (RB n't) 
+            (VP (VB understand) 
+              (SBAR 
+                (WHADVP (WRB why) )
+                (S 
+                  (NP 
+                    (NP (NNP Mr.) (NNP Wallach) )
+                    (, ,) 
+                    (NP (DT an) (JJ experienced) (NN trial) (NN lawyer) )
+                    (, ,) )
+                  (MD would) 
+                  (VP (VB commit) 
+                    (NP 
+                      (ADJP (JJ such) )
+                      (DT an) (NN outburst) )))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP (PRP he) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (NNP Mr.) (NNP Wallach) )
+            (MD may) 
+            (VP (VB have) 
+              (VP (VBN hoped) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP (DT the) (NN jury) )
+                    (MD would) 
+                    (VP (VB be) 
+                      (ADJP (JJ unable) 
+                        (S 
+                          (NP (-NONE- *) )
+                          (TO to) 
+                          (VP (VB continue) 
+                            (PP (IN with) 
+                              (NP (PRP$ its) (NN verdict) )))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN After) 
+      (NP (DT the) (NN sentencing) ))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Wallach) )
+      (VP (VBD blamed) 
+        (NP (PRP$ his) (NNP Wedtech) (NNS woes) )
+        (PP (IN on) 
+          (NP (PRP$ his) (JJ longtime) (NN friendship) 
+            (PP (IN with) 
+              (NP (NNP Mr.) (NNP Meese) )))))))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNS prosecutors) )
+          (`` ``) (VBD were) 
+          (VP (VBG looking) 
+            (PP (IN for) 
+              (NP (DT a) (NN man) 
+                (PP (IN between) 
+                  (NP 
+                    (NP (NNP Ed) (NNP Meese) )
+                    (CC and) 
+                    (NP (NNP Wedtech) ))))))))))
+  (: ...) (. .) )
+( (S 
+    (SBAR (IN If) 
+      (S 
+        (NP (PRP they) )
+        (MD could) 
+        (VP (VB have) 
+          (VP (VBN gotten) 
+            (NP (NNP Ed) (NNP Meese) )))))
+    (S 
+      (NP (WDT that) )
+      (MD would) 
+      (VP (VB have) 
+        (VP (VBN been) 
+          (NP (DT the) (NN fulfillment) 
+            (PP (IN of) 
+              (NP (DT the) (NNS dreams) )))))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNS defendants) )
+    (RB also) 
+    (VP (VBP face) 
+      (NP (JJ stiff) (NN forfeiture) (NNS penalties) ))
+    (SBAR (IN because) 
+      (S 
+        (NP (PRP they) )
+        (VBD were) 
+        (VP (VBN convicted) 
+          (PP (IN under) 
+            (NP (DT the) (NNP Racketeer) (NNP Influenced) 
+              (CC and)
+              (NNP Corrupt) (NNP Organizations) (NN law) ))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN judge) )
+    (VP (VBD ordered) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (NNS defendants) )
+          (VP (VB turn) (RP over) 
+            (NP 
+              (NP (PDT all) (DT the) (NN money) )
+              (VP (VBN earned) 
+                (PP (IN through) 
+                  (NP (DT the) (NN racketeering) (NN enterprise) )))))))))
+  (. .) )
+( (S 
+    (PP (IN For) 
+      (NP (NNP Mr.) (NNP Wallach) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN amount) )
+      (VP (VBZ is) 
+        (NP ($ $) (CD 425,000) ))))
+  (. .) )
+( (S 
+    (S 
+      (S 
+        (NP (NNP Mr.) (NNP London) )
+        (MD must) 
+        (VP (VB forfeit) 
+          (NP ($ $) (CD 99,000) )))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP (NNP Mr.) (NNP Chinn) )
+        (MD must) 
+        (VP (VB forfeit) 
+          (NP ($ $) (CD 20,000) ))))
+    (: ;) 
+    (S (RB together) 
+      (, ,)
+      (S 
+        (NP 
+          (NP (NNP Mr.) (NNP Chinn) )
+          (CC and) 
+          (NP (NNP Mr.) (NNP London) ))
+        (MD must) (RB jointly) 
+        (VP (VB forfeit) 
+          (NP (DT an) (JJ additional) ($ $) (CD 1.14) (CD million) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Naftalis) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP Mr.) (NNP Wallach) )
+          (VBD had) 
+          (VP (VBN been) 
+            (ADJP (`` ``) (RB financially) (JJ devastated) ('' '') 
+              (PP (IN by) 
+                (NP (DT the) (NNP Wedtech) (NN scandal) ))))))))
+  (. .) )
+( (S 
+    (VP (VBG According) 
+      (PP (TO to) 
+        (NP (DT a) (JJ corrected) (JJ pre-sentencing) (NN report) )))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Wallach) )
+      (RB currently) 
+      (VP (VBZ has) 
+        (NP (DT a) (JJ negative) (JJ net) (NN worth) 
+          (PP (IN of) 
+            (NP ($ $) (CD 273,000) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNPS TEAMSTERS) (NNS ELECTIONS) )
+    (MD will) 
+    (VP (VB be) 
+      (VP (VBN supervised) 
+        (PP (IN by) 
+          (NP (JJ court-appointed) (NN officer) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP U.S.) (NNP District) (NNP Judge) 
+      (NP (NNP David) (NNP Edelstein) 
+        (PP (IN of) 
+          (NP (NNP New) (NNP York) ))))
+    (VP (VBD ruled) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (NNS elections) (NN officer) )
+          (MD will) 
+          (VP (VB play) 
+            (NP (DT an) (JJ extensive) (NN role) )
+            (PP (IN in) 
+              (NP (DT all) (NNS phases) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NNP International) (NNP Brotherhood) 
+                      (PP (IN of) 
+                        (NP (NNPS Teamsters) )))
+                    (POS ') (CD 1991) (NN election) 
+                    (PP (IN of) 
+                      (NP (JJ top) (NN union) (NNS officials) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN government) )
+    (VP (VBD hailed) 
+      (NP (DT the) (NN ruling) )
+      (PP (IN as) 
+        (NP (DT a) (JJ major) (NN victory) 
+          (PP (IN in) 
+            (NP (PRP$ its) (NN quest) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB achieve) 
+                  (NP (JJ broad) (NNS reforms) )
+                  (PP (IN in) 
+                    (NP (DT the) (NN union) ))
+                  (, ,) 
+                  (NP (RB particularly) (DT the) (NN election) 
+                    (PP (IN of) 
+                      (NP (JJ top) (NNS officials) ))
+                    (PP (IN by) 
+                      (NP (DT the) (NN rank) 
+                        (CC and)
+                        (NN file) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S (CC But) 
+    (NP (NNPS Teamsters) (NN counsel) 
+      (NP (NNP James) (NNP Grady) ))
+    (VP (VBD claimed) 
+      (SBAR (IN that) 
+        (S 
+          (NP 
+            (NP (DT the) (NN power) )
+            (VP (VBN bestowed) 
+              (PP (IN upon) 
+                (NP (DT the) (JJ court-appointed) (NN officer) ))))
+          (VP (VBD was) 
+            (NP (DT a) (NN departure) 
+              (PP (IN from) 
+                (NP (DT the) (NNS terms) 
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (NP (DT the) (NN union) )
+                        (POS 's) (NN agreement) 
+                        (PP (IN with) 
+                          (NP (DT the) (NN government) )))
+                      (ADVP (RB earlier) 
+                        (NP (DT this) (NN year) ))))))))))))
+  (. .) )
+( (S 
+    (NP (NNP Mr.) (NNP Grady) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB fund) 
+                (NP 
+                  (NP (DT the) (NN type) 
+                    (PP (IN of) 
+                      (NP (NN supervision) )))
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP (NNP Judge) (NNP Edelstein) )
+                      (VP (VBD described) 
+                        (NP (-NONE- T) ))))))))
+          (MD would) 
+          (VP (VB cost) 
+            (NP (DT the) (NN union) )
+            (NP 
+              (PP (IN at) 
+                (ADJP (JJS least) ))
+              ($ $) (CD 3.5) (CD million) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (NNP March) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NNPS Teamsters) )
+      (VP (VBD agreed) 
+        (PP (TO to) 
+          (NP (DT a) (NN settlement) 
+            (PP (IN of) 
+              (NP 
+                (NP (JJ civil) (NN racketeering) (NNS charges) )
+                (VP (VBN brought) 
+                  (PP (IN by) 
+                    (NP 
+                      (NP (DT the) (NNP U.S.) (NN attorney) )
+                      (POS 's) (NN office) 
+                      (PP (IN in) 
+                        (NP (NNP Manhattan) ))))))))))))
+  (. .) )
+( (S 
+    (PP (IN In) 
+      (NP (PRP$ its) (NN suit) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN government) )
+      (VP (VBD claimed) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (JJ organized) (NN crime) (NNS figures) )
+            (VBD had) (RB routinely) 
+            (VP (VBN picked) 
+              (NP (JJ top) (NN union) (NNS officials) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN Under) 
+      (NP (DT the) (NN settlement) (NNS terms) ))
+    (, ,) 
+    (S 
+      (NP (NN union) (NNS leaders) )
+      (VP (VBD agreed) 
+        (SBAR (IN that) 
+          (S 
+            (NP (DT a) (JJ court-appointed) (NN administrator) 
+              (, ,)
+              (NN investigator) 
+              (CC and)
+              (NNS elections) (NN official) )
+            (MD would) 
+            (VP (VB oversee) 
+              (NP (NN union) (NNS activities) )
+              (PP (IN for) 
+                (NP (CD three) (NNS years) ))))))))
+  (. .) )
+( (S (RB Also) 
+    (, ,)
+    (S 
+      (NP (DT the) (NN union) )
+      (VP (VBD agreed) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB pay) 
+            (NP 
+              (NP (DT all) (NNS expenses) )
+              (VP (VBN related) 
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (NNS officers) )
+                    (POS ') (NN oversight) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (CC But) 
+    (PP (IN in) 
+      (NP 
+        (NP (PRP$ his) (JJ first) (NN progress) (NN report) )
+        (, ,) 
+        (VP (VBD filed) 
+          (ADVP 
+            (NP (CD two) (NNS weeks) )
+            (RB ago) ))))
+    (, ,) 
+    (S 
+      (NP (NNP Administrator) 
+        (NP (NNP Frederick) (NNP B.) (NNP Lacey) ))
+      (VP (VBD revealed) 
+        (NP (DT some) (NNS disagreements) 
+          (PP (IN over) 
+            (NP 
+              (NP (DT the) (NN scope) 
+                (PP (IN of) 
+                  (NP (JJ such) (NN oversight) )))
+              (, ,) 
+              (NP (DT the) (NN interpretation) 
+                (PP (IN of) 
+                  (NP (DT the) (NN settlement) )))
+              (, ,) 
+              (CC and)
+              (NP (JJ financial) (NN support) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN After) 
+      (NP 
+        (NP (DT the) (NN judge) )
+        (POS 's) (NN ruling) ))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Grady) )
+      (VP (VBD said) 
+        (, ,)
+        (S (`` ``) 
+          (S 
+            (NP (PRP We) )
+            (VP (VBD gave) (RB up) 
+              (NP (PRP$ our) (NN right) 
+                (PP (TO to) 
+                  (NP (DT a) (NN trial) )))
+              (PP (IN for) 
+                (NP (DT the) (NNS terms) 
+                  (PP (IN of) 
+                    (NP (DT the) 
+                      (-LRB- -LCB-)
+                      (NN agreement) 
+                      (-RRB- -RCB-)
+                      ))))))
+          (, ,) 
+          (CC and)
+          (S 
+            (NP (PRP we) )
+            (VP (VBP believe) 
+              (SBAR (IN that) 
+                (S 
+                  (NP 
+                    (NP (NN anything) )
+                    (SBAR 
+                      (WHNP (WDT that) )
+                      (S 
+                        (NP (-NONE- T) )
+                        (VP (VBZ modifies) 
+                          (NP (DT those) (NNS terms) )))))
+                  (VP (VBZ is) 
+                    (ADJP (RB completely) (JJ inappropriate) )))))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NN JUDGE'S) (NNS COMMENTS) 
+      (PP (IN on) 
+        (NP (JJ homosexual) (NN murder) (NNS victims) )))
+    (VBP are) 
+    (VP (VBN scrutinized) ))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (DT A) (JJ special) (NN master) )
+      (, ,) 
+      (VP (VBN appointed) 
+        (PP (IN by) 
+          (NP (DT the) (NNP Texas) (NNP Supreme) (NNP Court) )))
+      (, ,) )
+    (VP (VBD received) 
+      (NP (NN evidence) 
+        (NP (NN yesterday) )
+        (PP (IN about) 
+          (NP 
+            (NP (NNS comments) )
+            (VP (VBN made) 
+              (PP (IN by) 
+                (NP (NNP Dallas) (NNP District) (NNP Judge) 
+                  (NP (NNP Jack) (NNP Hampton) )))
+              (PP (IN in) 
+                (NP (DT the) (NN wake) 
+                  (PP (IN of) 
+                    (NP (DT a) (NN murder) (NN trial) 
+                      (PP (IN in) 
+                        (NP (NNP December) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Judge) (NNP Hampton) )
+    (VP (VBD sentenced) 
+      (NP (DT the) (JJ 18-year-old) (NN defendant) )
+      (PP (TO to) 
+        (NP (CD 30) (NNS years) 
+          (PP (IN in) 
+            (NP (NN state) (NN prison) ))))
+      (PP (IN for) 
+        (NP 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG killing) 
+              (NP (CD two) (JJ homosexual) (NNS men) )
+              (PP (IN in) 
+                (NP (DT a) (NN city) (NN park) ))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN judge) )
+    (VBD was) 
+    (VP (RB then) (VBN quoted) 
+      (PP (IN in) 
+        (NP (DT the) (NNP Dallas) (NNP Times) (NNP Herald) ))
+      (PP (IN as) 
+        (NP 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG referring) 
+              (PP (TO to) 
+                (NP (DT the) (NNS victims) ))
+              (PP (IN as) 
+                (NP (`` ``) (NNS queers) ('' '') ))))
+          (CC and) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG saying) (`` ``) 
+              (S 
+                (NP (DT these) (NNS guys) )
+                (MD would) (RB n't) (VB have) 
+                (VP (VBN been) 
+                  (VP (VBN killed) ))
+                (SBAR (IN if) 
+                  (S 
+                    (NP (PRP they) )
+                    (VBD had) (RB n't) 
+                    (VP (VBN been) 
+                      (VP 
+                        (VP (VBG cruising) 
+                          (NP (DT the) (NNS streets) ))
+                        (VP (VBG picking) (RP up) 
+                          (NP (JJ teen-age) (NNS boys) ))))))))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNS comments) )
+    (VP 
+      (VP (VBD touched) (RP off) 
+        (NP (DT a) (NN furor) )
+        (PP (IN in) 
+          (NP (DT the) (NNP Dallas) (JJ gay) (NN community) )))
+      (CC and) 
+      (VP (VBD prompted) 
+        (NP (JJ several) (NNS complaints) 
+          (PP (IN about) 
+            (NP (NNP Judge) (NNP Hampton) ))
+          (PP (TO to) 
+            (NP (DT the) (NNP State) (NNP Commission) 
+              (PP (IN on) 
+                (NP (NNP Judicial) (NNP Conduct) ))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (DT The) (NN commission) )
+      (, ,) 
+      (SBAR 
+        (WHNP (WDT which) )
+        (S 
+          (NP (-NONE- T) )
+          (MD could) 
+          (VP (VB remove) 
+            (NP (NNP Judge) (NNP Hampton) )
+            (PP (IN from) 
+              (NP (DT the) (NN bench) )))))
+      (, ,) )
+    (MD will) 
+    (VP (VB act) 
+      (PP (IN after) 
+        (NP 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG reviewing) 
+              (NP 
+                (NP (NNS findings) )
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB be) 
+                    (VP (VBN submitted) 
+                      (PP (IN within) 
+                        (NP (CD two) (NNS weeks) ))
+                      (PP (IN by) 
+                        (NP (JJ special) (NN master) (NNP Robert) (NNP R.) (NNP Murray) 
+                          (PP (IN of) 
+                            (NP (NNP San) (NNP Antonio) ))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN At) 
+      (NP (DT a) (NN hearing) ))
+    (NP (NN yesterday) )
+    (, ,) 
+    (S 
+      (NP 
+        (NP 
+          (NP (NNP Judge) (NNP Hampton) )
+          (POS 's) (NN defense) (NN team) )
+        (, ,) 
+        (SBAR 
+          (WHNP (WDT which) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBD included) 
+              (NP 
+                (NP (JJ former) (NNP Dallas) (NNP County) (NNP District) (NNP Attorney) 
+                  (NP (NNP Henry) (NNP Wade) ))
+                (CC and) 
+                (NP (JJ former) (NNP U.S.) (NNP Attorney) 
+                  (NP (NNP Jim) (NNP Rolfe) ))))))
+        (, ,) )
+      (VP (VBD accused) 
+        (NP (DT the) (NNP Times) (NNP Herald) (NN reporter) 
+          (PP (IN of) 
+            (NP 
+              (S 
+                (NP (-NONE- *) )
+                (VP (VBG misquoting) 
+                  (NP (DT the) (NN judge) )))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN defense) (NNS lawyers) )
+    (RB also) 
+    (VP (VBD argued) 
+      (SBAR (IN that) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD was) 
+            (ADJP (JJ appropriate) 
+              (PP (IN for) 
+                (NP (DT the) (NN judge) ))
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB consider) 
+                  (SBAR (IN whether) 
+                    (S 
+                      (NP (DT the) (NN murder) (NNS victims) )
+                      (VBD were) 
+                      (VP (VBG committing) 
+                        (NP (DT a) (NN crime) )
+                        (PP (IN at) 
+                          (NP 
+                            (NP (DT the) (NN time) )
+                            (SBAR (-NONE- 0) 
+                              (S 
+                                (NP (PRP they) )
+                                (VBD were) 
+                                (VP (VBN killed) ))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S (CC But) 
+    (NP 
+      (NP (NNP Bill) (NNP Hornung) )
+      (, ,) 
+      (NP (JJ general) (NN counsel) 
+        (PP (IN for) 
+          (NP (DT the) (NN judicial-conduct) (NN commission) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN defense) (NN team) )
+          (VBD was) 
+          (VP (VBG sidestepping) 
+            (NP 
+              (NP (DT the) (NN focus) 
+                (PP (IN of) 
+                  (NP (DT the) (NN inquiry) )))
+              (: --) 
+              (SBAR (IN whether) 
+                (S 
+                  (NP (NNP Judge) (NNP Hampton) )
+                  (VP (VBD violated) 
+                    (NP (JJ judicial) (NNS ethics) )
+                    (PP (IN by) 
+                      (NP 
+                        (S 
+                          (NP (-NONE- *) )
+                          (VP (VBG commenting) 
+                            (PP (TO to) 
+                              (NP (DT the) (NN public) )))
+                          (SBAR (IN while) 
+                            (S 
+                              (NP (DT a) (NN motion) 
+                                (PP (IN for) 
+                                  (NP (JJ new) (NN trial) )))
+                              (VBD was) 
+                              (VP (VBG pending) )))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S (`` ``) 
+    (S 
+      (NP 
+        (NP (DT The) (NN place) )
+        (SBAR 
+          (WHADVP (WRB where) )
+          (S 
+            (NP (DT a) (NN judge) )
+            (MD can) 
+            (VP (VB comment) 
+              (CC and)
+              (VB explain) 
+              (NP (PRP$ his) (NN rationale) 
+                (-LRB- -LCB-)
+                (PP (IN for) 
+                  (NP (NN sentencing) ))
+                (-RRB- -RCB-) )))))
+      (VP (VBZ is) 
+        (PP 
+          (PP (IN from) 
+            (NP (DT the) (NN bench) ))
+          (: ...) (RB not) 
+          (PP (IN in) 
+            (NP (DT the) (NN privacy) 
+              (PP (IN of) 
+                (NP (DT a) (JJ little) (JJ impromptu) (NN press) (NN conference) )))))))
+    (, ,) ('' '') 
+    (S 
+      (NP (NNP Mr.) (NNP Hornung) )
+      (VP (VBD said) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP SENATE) (NNP JUDICIARY) (NNP COMMITTEE) )
+    (VP (VBZ gets) 
+      (NP (NN legislation) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB limit) 
+            (NP (NN death-penalty) (NNS appeals) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S 
+    (NP 
+      (NP 
+        (NP (NNP Sen.) (NNP Joseph) (NNP Biden) )
+        (-LRB- -LRB-) 
+        (NP 
+          (NP (NNP D.) )
+          (, ,) 
+          (NP (NNP Del.) ))
+        (-RRB- -RRB-) )
+      (, ,) 
+      (NP (NN committee) (NN chairman) )
+      (, ,) )
+    (VP (VBD proposed) 
+      (NP 
+        (NP (NN legislation) )
+        (SBAR 
+          (WHNP (WDT that) )
+          (S 
+            (NP (-NONE- T) )
+            (MD would) 
+            (VP (VB carry) (RB out) 
+              (NP 
+                (NP (DT the) (NN streamlining) 
+                  (PP (IN of) 
+                    (NP (NN death-penalty) (NNS appeals) 
+                      (PP (IN in) 
+                        (NP (JJ federal) (NN court) )))))
+                (SBAR 
+                  (WHNP (WDT that) )
+                  (S 
+                    (NP (-NONE- T) )
+                    (VBD was) 
+                    (VP (VBN proposed) 
+                      (NP (JJ last) (NN month) )
+                      (PP (IN by) 
+                        (NP 
+                          (NP (DT a) (JJ special) (NN task) (NN force) )
+                          (VP (VBN appointed) 
+                            (PP (IN by) 
+                              (NP (NNP Chief) (NNP Justice) 
+                                (PP (IN of) 
+                                  (NP (DT the) (NNP U.S.) ))
+                                (NP (NNP William) (NNP Rehnquist) ))))))))))))))))
+  (. .) )
+( (S 
+    (NP (NNP Sen.) (NNP Biden) )
+    (VP (VBD proposed) 
+      (NP (DT the) (NN legislation) ))
+    (S 
+      (NP (-NONE- *) )
+      (TO to) 
+      (VP (VB comply) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (NP (DT a) (NN law) )
+              (VP (VBN passed) 
+                (NP (JJ last) (NN year) )))
+            (VP (VBG requiring) 
+              (S 
+                (NP (DT the) (NNP Senate) )
+                (TO to) 
+                (VP (VB expedite) 
+                  (NP (NN consideration) 
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNS proposals) )
+                        (VP (VBN made) 
+                          (PP (IN by) 
+                            (NP 
+                              (NP (DT the) (NN task) (NN force) )
+                              (, ,) 
+                              (VP (VBN led) 
+                                (PP (IN by) 
+                                  (NP (JJ retired) (NNP Supreme) (NNP Court) (NNP Justice) 
+                                    (NP (NNP Lewis) (NNP Powell) ))))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN task) (NN force) )
+    (VP (VBN proposed) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NNS states) )
+          (VP (VBP provide) 
+            (NP (NNS lawyers) )
+            (PP (TO to) 
+              (NP (NN death-row) (NNS inmates) ))
+            (PP (IN for) 
+              (NP 
+                (NP 
+                  (ADJP (JJ civil) 
+                    (, ,)
+                    (JJ post-conviction) )
+                  (NNS lawsuits) )
+                (, ,) 
+                (VP (VBN called) 
+                  (NP (NNS habeas) (NN corpus) (NNS cases) ))
+                (, ,) 
+                (SBAR 
+                  (WHPP (IN in) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP (PRP they) )
+                    (VP (VBP challenge) 
+                      (NP (DT the) (NN constitutionality) 
+                        (PP (IN of) 
+                          (NP (PRP$ their) (NNS convictions) )))))))))))))
+  (. .) )
+( (S 
+    (PP (IN In) 
+      (NP (NN exchange) ))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (DT the) (NN number) 
+          (PP (IN of) 
+            (NP (JJ such) (NNS lawsuits) )))
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT each) (NN inmate) )
+            (MD may) 
+            (VP (VB file) 
+              (NP (-NONE- T) )))))
+      (MD would) 
+      (VP (VB be) 
+        (VP (RB sharply) (VBN curtailed) ))
+      (, ,) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG allowing) 
+          (NP (NNS states) )
+          (NP (JJR greater) (NN certainty) 
+            (PP (IN of) 
+              (NP 
+                (S 
+                  (NP (-NONE- *) )
+                  (VP (VBG being) 
+                    (ADJP (JJ able) 
+                      (S 
+                        (NP (-NONE- *) )
+                        (TO to) 
+                        (VP (VB execute) 
+                          (NP (DT those) 
+                            (PP (IN on) 
+                              (NP (NN death) (NN row) )))))))))))))))
+  (. .) )
+( (S 
+    (SBAR 
+      (WHADVP (WRB When) )
+      (S 
+        (NP (NNP Chief) (NNP Justice) (NNP Rehnquist) )
+        (VP (VBD sent) 
+          (NP (DT the) (NN report) )
+          (PP (TO to) 
+            (NP (NNP Congress) )))))
+    (, ,) 
+    (S 
+      (NP (DT a) (NN majority) 
+        (PP (IN of) 
+          (NP (JJ federal) (NNS judges) 
+            (PP (IN on) 
+              (NP (DT the) (NN policy-making) (NNP Judicial) (NNP Conference) )))))
+      (VP (VBD complained) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP they) )
+            (VBD had) (RB n't) 
+            (VP (VBN been) 
+              (VP (VBN given) 
+                (NP (DT a) (NN chance) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB consider) 
+                      (NP (DT the) (NNS recommendations) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (DT The) (NN legislation) )
+      (VP (VBN introduced) 
+        (PP (IN by) 
+          (NP (NNP Sen.) (NNP Biden) ))))
+    (VP (VBZ adopts) 
+      (NP 
+        (NP (DT the) (JJ same) (NN approach) 
+          (PP (IN as) 
+            (NP (DT the) (NNP Powell) (NN report) )))
+        (: :) 
+        (X 
+          (NP (JJ state-provided) (NNS lawyers) )
+          (, ,) 
+          (PP (IN in) 
+            (NP (NN exchange) 
+              (PP (IN for) 
+                (NP 
+                  (S 
+                    (NP (-NONE- *) )
+                    (VP (VBG limiting) 
+                      (NP (NNS appeals) )))))))))))
+  (. .) )
+((S (CC But) 
+    (NP 
+      (NP (DT the) (NN senator) )
+      (POS 's) (NN bill) )
+    (VP (VBZ eases) 
+      (NP (DT a) (NN number) 
+        (PP (IN of) 
+          (NP (DT the) (NNS restrictions) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Leslie) (NNP Harris) )
+      (, ,) 
+      (NP (DT an) (NNP American) (NNP Civil) (NNPS Liberties) (NNP Union) (NN spokeswoman) ))
+    (VP 
+      (VP (VBD criticized) 
+        (NP (DT the) (NNP Powell) (NNS proposals) ))
+      (, ,) (CC but) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT the) (NNP Biden) (NN legislation) )
+            (VP (VBZ is) (`` ``) 
+              (NP (DT a) 
+                (ADJP (RBR more) (JJ moderate) 
+                  (, ,)
+                  (JJ thoughtful) )
+                (NN approach) ))
+            (, ,) ('' '') 
+            (SBAR (IN although) 
+              (S 
+                (NP (DT the) (NN group) )
+                (MD will) (RB likely) 
+                (VP (VB oppose) 
+                  (NP (PRP it) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP 
+        (NP (NNP APPLE) (NNP COMPUTER) (NNP Inc.) )
+        (POS 's) (JJ former) (JJ general) (NN counsel) )
+      (NNP John) (NNP P.) (NNP Karalis) )
+    (VP (VBD joined) 
+      (NP (DT the) 
+        (NP 
+          (NP (NNP Phoenix) )
+          (, ,) 
+          (NP (NNP Ariz.) )
+          (, ,) )
+        (NN law) (NN firm) 
+        (PP (IN of) 
+          (NP (NNP Brown) (CC &) (NNP Bain) )))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNP Mr.) (NNP Karalis) )
+      (, ,) 
+      (NP (CD 51) )
+      (, ,) )
+    (MD will) 
+    (VP (VB specialize) 
+      (PP (IN in) 
+        (NP 
+          (NP (JJ corporate) (NN law) )
+          (CC and) 
+          (NP (JJ international) (NN law) )))
+      (PP (IN at) 
+        (NP (DT the) (JJ 110-lawyer) (NN firm) ))))
+  (. .) )
+( (S 
+    (PP (IN Before) 
+      (NP 
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG joining) 
+            (NP (NNP Apple) )
+            (PP (IN in) 
+              (NP (CD 1986) ))))))
+    (, ,) 
+    (S 
+      (NP (PRP he) )
+      (VP (VBD served) 
+        (PP (IN as) 
+          (NP (JJ general) (NN counsel) ))
+        (PP (IN at) 
+          (NP (NNP Sperry) (NNP Corp) )))))
+  (. .) )

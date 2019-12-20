@@ -1,0 +1,126 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP U.S.) (NNP Export-Import) (NNP Bank) )
+    (VP (VBD cleared) 
+      (NP (DT a) ($ $) (CD 25) (CD million) (NN loan) 
+        (PP (TO to) 
+          (NP (DT a) (NN telephone) (NN company) 
+            (PP (IN in) 
+              (NP (NNP Chile) ))))
+        (PP (IN for) 
+          (NP (DT the) (NN purchase) 
+            (PP (IN of) 
+              (NP (JJ satellite) (NNS telecommunications) (NN network) (NN equipment) ))
+            (PP (IN from) 
+              (NP (NNP U.S.) (NNS suppliers) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP Export-Import) (NNP Bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP Cia.) (NNP de) (NNP Telefonos) 
+            (PP (IN de) 
+              (NP (NNP Chile) )))
+          (VBZ is) 
+          (VP (VBG buying) 
+            (NP (NN equipment) 
+              (CC and)
+              (NN project) (NN management) (NNS services) )
+            (PP (IN from) 
+              (NP (NNP Scientific-Atlanta) (NNP Inc.) 
+                (, ,)
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Norcross) )
+                    (, ,) 
+                    (NP (NNP Ga.) )))
+                (, ,) )))
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB extend) 
+              (NP (NN telephone) 
+                (CC and)
+                (NN data-transmission) (NNS services) )
+              (PP (IN between) 
+                (NP 
+                  (NP (NNP Santiago) )
+                  (CC and) 
+                  (NP 
+                    (ADJP (JJ other) (JJ Chilean) )
+                    (NNS cities) ))))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NN bank) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (JJ several) (JJ other) (NNP U.S.) (NNS companies) )
+          (RB also) (MD will) 
+          (VP (VB supply) 
+            (NP (JJ electronic) (NN equipment) )
+            (PP (IN for) 
+              (NP (DT this) (NN project) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (DT The) (NN loan) )
+      (, ,) 
+      (SBAR 
+        (WHNP (WDT which) )
+        (S 
+          (NP (-NONE- T) )
+          (VP (VBZ carries) 
+            (NP (DT a) (CD 9.65) (NN %) (JJ annual) (NN interest) (NN rate) ))))
+      (, ,) )
+    (VBD was) 
+    (VP (VBN approved) 
+      (SBAR (IN after) 
+        (S 
+          (NP (NNP Scientific-Atlanta) )
+          (VP (VBD won) 
+            (NP (DT a) ($ $) (CD 29.4) (CD million) (NN contract) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB supply) 
+                  (NP 
+                    (NP (NN equipment) )
+                    (CC and) 
+                    (NP (NNS services) ))
+                  (PP (IN for) 
+                    (NP (DT the) (NN project) 
+                      (PP (IN in) 
+                        (NP (NNP Chile) )))))))))))
+    (. .) ))
+( (S 
+    (VP (VBG According) 
+      (PP (TO to) 
+        (NP (NNP Export-Import) (NNP Bank) (NNS officials) )))
+    (, ,) 
+    (S 
+      (NP (JJ Japanese) 
+        (CC and)
+        (JJ French) (NNS companies) )
+      (RB also) 
+      (VP (VBD bid) 
+        (PP (IN for) 
+          (NP (DT the) (NN business) ))))
+    (. .) ))

@@ -1,0 +1,54 @@
+
+ 
+ 
+ 
+
+(S
+   (NP (NNP RENAISSANCE) (NNP INVESTMENT) (NNP MANAGEMENT) (NNP Inc.))
+   (VP (VP (VBZ has)
+           (NP (JJ standing) (NNS agreements))
+           (PP (IN with)
+               (NP (JJ several) (NN brokerage) (NNS firms)))
+           (S (NP (-NONE- *))
+              (TO to)
+              (VP (VB execute)
+                  (NP (JJ block) (NNS trades)))))
+       (, ,)
+       (CC and)
+       (VP (VBZ designates)
+           (NP (CD one)
+               (PP (IN of)
+                   (NP (DT those) (NNS firms))))
+           (RB as)
+           (NP (ADJP (JJ principal)))
+           (S (NP (-NONE- *))
+              (TO to)
+              (VP (VB handle)
+                  (NP (DT each)
+                      (PP (IN of)
+                          (NP (DT those) (NNS trades))))))))
+   (. .))
+ 
+
+(S
+   (NP
+       (NP (NN Yesterday))
+       (POS 's) (NN edition))
+   (RB incorrectly)
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (NNP Renaissance))
+                (VP (VBZ solicits)
+                    (NP (NN brokerage) (NNS firms))
+                    (PP (IN for)
+                        (NP (DT the)
+                            (ADJP (JJS best))
+                            (NN price)
+                            (S (NP (-NONE- *))
+                               (TO to)
+                               (VP (VB carry)
+                                   (RP out)
+                                   (NP (PRP$ its) (NNS trades))))))))))
+   (. .))
+ 
+ 

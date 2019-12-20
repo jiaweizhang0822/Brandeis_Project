@@ -1,0 +1,419 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (DT a) (NN sign) 
+        (PP (IN of) 
+          (NP (PRP$ its) (VBG continuing) (NNS problems) 
+            (PP (IN in) 
+              (NP (DT the) (NNP U.S.) (NN auto) (NN market) ))))))
+    (, ,) 
+    (S 
+      (NP (NNP General) (NNPS Motors) (NNP Corp.) )
+      (VP (VBD acknowledged) 
+        (SBAR (IN that) 
+          (S 
+            (NP (DT a) (JJ key) (NN midsized-car) (NN plant) )
+            (MD will) 
+            (VP (VB shut) (RB down) 
+              (PP (IN for) 
+                (NP (CD two) (NNS weeks) )))
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB cut) 
+                (NP (VBG bulging) (NNS inventories) 
+                  (PP (IN of) 
+                    (NP (NNP Pontiac) (NNP Grand) (NNP Prix) (NNS models) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (RB Meanwhile) 
+    (, ,)
+    (S 
+      (NP (NNP GM) (NNP Chairman) 
+        (NP (NNP Roger) (NNP B.) (NNP Smith) ))
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP it) )
+            (MD should) 
+            (VP (VB be) 
+              (NP (`` ``) (DT no) (NN surprise) ('' '') 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP (DT the) (NN auto) (NN maker) )
+                    (VBZ is) 
+                    (VP (VBG moving) 
+                      (S 
+                        (NP (-NONE- *) )
+                        (TO to) 
+                        (VP (VB close) (RB permanently) 
+                          (NP (JJR more) (JJ North) (JJ American) (NN assembly) (NNS plants) )))))))))))))
+  (. .) )
+( (S 
+    (PP (IN At) 
+      (NP (DT an) (NNP Economic) (NNP Club) 
+        (PP (IN of) 
+          (NP (NNP Detroit) ))
+        (NN luncheon) ))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Smith) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP 
+              (NP (NNS announcements) )
+              (NP (JJ last) (NN week) )
+              (SBAR 
+                (WHNP (WDT that) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VP (VBD indicated) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP 
+                          (PP (IN at) 
+                            (ADJP (JJS least) ))
+                          (CD three) 
+                          (CC and)
+                          (RB perhaps) (CD five) (JJR more) (NNP GM) (NNS plants) 
+                          (PP (IN in) 
+                            (NP 
+                              (NP (DT the) (NNP U.S.) )
+                              (CC and) 
+                              (NP (NNP Canada) ))))
+                        (MD may) 
+                        (VP (VB close) 
+                          (PP (IN by) 
+                            (NP (DT the) (JJ early) (NNS 1990s) )))))))))
+            (VP (VBP reflect) 
+              (NP (`` ``) (DT a) 
+                (ADJP (RB carefully) (JJ conceived) 
+                  (, ,)
+                  (JJ calculated) 
+                  (CC and)
+                  (JJ executed) (JJ strategic) )
+                (NN plan) ))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Smith) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP GM) )
+          (VBZ is) 
+          (VP (VBG looking) 
+            (PP (IN for) 
+              (NP (NNS ways) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB save) 
+                    (NP (DT some) 
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT the) (CD five) (JJR older) (NNS plants) )
+                          (VP (VBN targeted) 
+                            (NP (JJ last) (NN week) ))))))))))))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (NP (PRP I) )
+      (VP (VBP 'm) 
+        (VP (VBG hoping) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP (PRP we) )
+              (MD 'll) 
+              (VP (VB need) 
+                (NP (DT another) (NN plant) )
+                (PP (IN for) 
+                  (NP 
+                    (NP (DT the) (NNP APV) )
+                    (, ,) ('' '') 
+                    (NP 
+                      (NP (DT a) (JJ new) (JJ plastic-bodied) (NN minivan) )
+                      (VP (RB now) (VBG being) 
+                        (VP (VBN assembled) 
+                          (PP (IN at) 
+                            (NP (DT a) (JJ single) (NN plant) 
+                              (PP (IN in) 
+                                (NP 
+                                  (NP (NNP Tarrytown) )
+                                  (, ,) 
+                                  (NP (NNP N.Y.) ))))))))))))))))
+    (, ,) 
+    (S 
+      (NP (PRP he) )
+      (VP (VBD said) )))
+  (. .) )
+( (S (RB However) 
+    (, ,)
+    (S 
+      (NP (NNP Mr.) (NNP Smith) )
+      (VP (VBD said) 
+        (SBAR (IN that) 
+          (S 
+            (PP (IN as) 
+              (NP (DT a) (NN result) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT a) ($ $) (CD 70) (CD billion) (NN factory-modernization) (NN program) )
+                    (VP (VBN undertaken) 
+                      (PP (IN over) 
+                        (NP (DT the) (JJ last) (NN decade) )))))))
+            (, ,) 
+            (S (`` ``) 
+              (NP (PRP we) )
+              (MD can) 
+              (VP (VB produce) 
+                (ADJP (JJR more) 
+                  (PP (IN in) 
+                    (NP (DT the) (JJ new) (NNS plants) ))
+                  (PP (IN than) 
+                    (S 
+                      (NP (PRP we) )
+                      (MD could) 
+                      (PP (IN in) 
+                        (NP (DT the) (JJ old) (NNS plants) )))))))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+((S (CC But) 
+    (NP (NNP GM) )
+    (VBZ is) (RB also) 
+    (VP (VBG struggling) 
+      (PP (IN with) 
+        (NP 
+          (NP (DT a) (JJ steep) (NN decline) 
+            (PP (IN in) 
+              (NP (NNP U.S.) (NN car-market) (NN share) )))
+          (SBAR (IN that) 
+            (S 
+              (NP (-NONE- T) )
+              (VP (VBD was) (RB n't) 
+                (NP (NN part) 
+                  (PP (IN of) 
+                    (NP 
+                      (NP (DT the) (NN company) )
+                      (POS 's) (JJ strategic) (NNS plans) ))))
+              (SBAR 
+                (WHADVP (WRB when) )
+                (S 
+                  (NP (PRP it) )
+                  (VP (VBD began) 
+                    (NP (DT the) (NN modernization) (NN program) ))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (JJS latest) (NN evidence) 
+      (PP (IN of) 
+        (NP (DT that) )))
+    (VP (VBZ is) 
+      (NP (DT the) (NN decision) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB idle) 
+            (NP 
+              (NP (DT the) 
+                (NP 
+                  (NP (NNP Fairfax) )
+                  (, ,) 
+                  (NP (NNP Kan.) )
+                  (, ,) )
+                (NN plant) )
+              (SBAR 
+                (WHNP (WDT that) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VP (VBZ makes) 
+                    (NP (DT the) (NNP Grand) (NNP Prix) ))))))
+          (NP (JJR less) 
+            (PP (IN than) 
+              (NP (CD three) (NNS weeks) 
+                (PP (IN into) 
+                  (NP (DT the) (JJ new) (NN model) (NN year) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP Grand) (NNP Prix) )
+    (VP (VBZ is) 
+      (NP (CD one) 
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (NNP GM) )
+              (POS 's) (JJS newest) (NNS lines) 
+              (PP (IN of) 
+                (NP (NNS cars) )))
+            (, ,) 
+            (NP (DT the) (JJ so-called) (NN GM-10) (JJ midsized) (NNS cars) ))))))
+  (. .) )
+( (S 
+    (NP (DT This) (NN fall) )
+    (, ,) 
+    (S 
+      (NP (NNP GM) )
+      (VP (VBD introduced) 
+        (NP (DT the) (JJ first) (JJ four-door) (NNS versions) 
+          (PP (IN of) 
+            (NP (DT the) (NNS cars) ))))
+      (: --) 
+      (NP 
+        (NP (DT a) (NN move) )
+        (SBAR 
+          (WHNP (WDT that) )
+          (S 
+            (NP (-NONE- T) )
+            (VBD was) 
+            (VP (VBN supposed) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB spur) 
+                  (NP 
+                    (NP (NNS sales) 
+                      (PP (IN of) 
+                        (NP (DT the) (NNS models) )))
+                    (, ,) 
+                    (SBAR 
+                      (WHNP (WDT which) )
+                      (S 
+                        (NP (-NONE- T) )
+                        (VBP have) 
+                        (VP (VBN been) 
+                          (ADJP (JJ disappointing) )
+                          (ADVP (RB so) (RB far) )))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S (CC But) 
+    (NP (NNP GM) (NNS officials) )
+    (VP (VBD confirmed) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP they) )
+          (MD will) 
+          (VP (VB close) 
+            (NP (DT the) (NNP Fairfax) (NN plant) )
+            (PP (IN for) 
+              (NP (CD two) (NNS weeks) )))
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG beginning) 
+              (NP (NNP Oct.) (CD 30) )))
+          (ADVP (IN because) 
+            (PP (IN of) 
+              (NP (JJ slow) (NNS sales) )))
+          (, ,) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG bringing) 
+              (PP (TO to) 
+                (NP (CD 10) ))
+              (NP 
+                (NP (DT the) (NN number) 
+                  (PP (IN of) 
+                    (NP (NNS weeks) )))
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP (PRP it) )
+                    (MD will) 
+                    (VP (VB have) 
+                      (VP (VBN been) 
+                        (ADJP (JJ closed) )))
+                    (PP (IN since) 
+                      (NP 
+                        (ADJP (JJ early) )
+                        (NNP June) )))))))))))
+  (. .) )
+( (S 
+    (NP (NNP U.S.) (NN car) (NNS dealers) )
+    (VP (VBD had) 
+      (NP (DT a) (JJ 92-day) (NN supply) 
+        (PP (IN of) 
+          (NP (DT the) (NNS cars) )))
+      (PP (IN at) 
+        (NP (DT the) (NN end) 
+          (PP (IN of) 
+            (NP (NNP September) )))))
+    (, ,) 
+    (VP (VBG according) 
+      (PP (TO to) 
+        (NP 
+          (NP (NN industry) (NN trade) (NN publication) )
+          (NP (NNP Wards) (NNP Automotive) (NNPS Reports) )))))
+  (. .) )
+( (S 
+    (NP (DT That) )
+    (VP (VBZ 's) 
+      (NP (IN about) (CD 50) (NN %) 
+        (ADJP (JJR higher) 
+          (PP (IN than) 
+            (NP 
+              (NP (DT the) (JJ 60-to-65-day) (NN supply) )
+              (VP (VBN considered) 
+                (ADJP (JJ normal) )
+                (PP (IN in) 
+                  (NP (DT the) (NN industry) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NN Union) (NNS officials) 
+      (PP (IN at) 
+        (NP (DT the) (NNP Fairfax) (NN plant) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN company) )
+          (VBZ is) 
+          (VP (VBG studying) 
+            (NP (DT the) (NN feasibility) 
+              (PP (IN of) 
+                (NP 
+                  (S 
+                    (NP (-NONE- *) )
+                    (VP (VBG giving) 
+                      (NP (DT the) (NN plant) )
+                      (NP 
+                        (NP (DT another) (NN product) )
+                        (S 
+                          (NP (-NONE- *) )
+                          (TO to) 
+                          (VP (VB build) )))
+                      (, ,) 
+                      (ADJP (JJ contrary) 
+                        (PP (TO to) 
+                          (NP 
+                            (NP (NNP GM) )
+                            (POS 's) (JJ original) (NN plan) )))))))))))))
+  (. .) )
+( (S 
+    (NP (NN Company) (NNS officials) )
+    (VP (VBD declined) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB comment) 
+          (PP (IN on) 
+            (NP (DT this) (NN issue) )))))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG calling) 
+        (NP (DT the) (NN talk) )
+        (NP (`` ``) (NN speculation) ))))
+  (. .) )

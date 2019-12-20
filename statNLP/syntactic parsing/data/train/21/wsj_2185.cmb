@@ -1,0 +1,195 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP BRIDGEPORT) )
+      (, ,) 
+      (NP (NNP Conn.) ))
+    (: -) 
+    (S 
+      (NP 
+        (NP (NNP Christopher) (NNP Kimball) )
+        (, ,) 
+        (NP (NN founder) 
+          (, ,)
+          (NN president) 
+          (CC and)
+          (NN publisher) 
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Cook) )
+              (POS 's) (NN magazine) )))
+        (, ,) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP he) )
+            (VBZ is) 
+            (VP (VBG leaving) 
+              (NP (DT the) (NN magazine) ))
+            (PP (IN by) 
+              (NP (NN year) (NN end) ))
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB launch) 
+                (NP 
+                  (NP (DT a) (JJ new) (NNS men) )
+                  (POS 's) (NN consumer) (NN magazine) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (DT The) (JJ new) (NN magazine) )
+      (, ,) 
+      (SBAR 
+        (WHNP (WP$ whose) (NN name) )
+        (S 
+          (NP (NNP Mr.) (NNP Kimball) )
+          (MD wo) (RB n't) 
+          (VP (VB reveal) 
+            (NP (-NONE- T) ))))
+      (, ,) )
+    (MD will) 
+    (VP (VB be) 
+      (NP (DT a) (NN service) (NN magazine) )
+      (PP (`` ``) (IN at) 
+        (NP (PRP$ its) (NN core) )))
+    (, ,) ('' '') 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG covering) 
+        (NP 
+          (NP (NNS subjects) )
+          (ADJP (JJ such) 
+            (PP (IN as) 
+              (NP 
+                (NP (NN health) )
+                (, ,) 
+                (NP (NN clothing) )
+                (, ,) 
+                (NP (NN food) )
+                (, ,) 
+                (NP (NN travel) )
+                (CC and) 
+                (NP (NNS gifts) 
+                  (PP (IN for) 
+                    (NP (NNS women) ))))))))))
+  (. .) )
+( (S 
+    (NP (NNP Mr.) (NNP Kimball) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP he) )
+          (MD will) 
+          (VP (VB launch) 
+            (NP (DT the) (NN magazine) )
+            (PP (IN as) 
+              (NP (DT a) (JJ bi-monthly) ))
+            (PP (IN in) 
+              (NP (NNP September) (CD 1990) ))
+            (PP (IN with) 
+              (NP (CD 250,000) (NN circulation) )))))))
+  (. .) )
+( (S 
+    (NP (NNP Mr.) (NNP Kimball) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP he) )
+          (MD will) 
+          (VP (VB be) 
+            (NP (DT a) (NN partner) 
+              (PP (IN in) 
+                (NP (DT the) (NN magazine) )))
+            (PP (IN with) 
+              (NP 
+                (NP (DT an) (`` ``) (JJ experienced) ('' '') (NN editor) )
+                (, ,) 
+                (SBAR 
+                  (WHNP (WP$ whose) (NN name) )
+                  (S 
+                    (NP (-NONE- T) )
+                    (MD will) 
+                    (VP (VB be) 
+                      (VP (VBN revealed) (RB later) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (NNP Mr.) (NNP Kimball) )
+      (VP (VBD started) 
+        (NP 
+          (NP 
+            (NP (NNP Cook) )
+            (POS 's) )
+          (, ,) 
+          (NP (DT a) (JJ glossy) (NN epicurean) (NN magazine) )
+          (, ,) ))
+      (PP (IN in) 
+        (NP (CD 1979) )))
+    (CC and) 
+    (S 
+      (NP (PRP it) )
+      (VBD was) 
+      (VP (VBN purchased) 
+        (PP (IN in) 
+          (NP (CD 1983) ))
+        (PP (IN by) 
+          (NP (DT the) (NNP New) (NNP Yorker) (NNP Magazine) )))))
+  (. .) )
+( (S 
+    (NP 
+      (NP 
+        (NP (DT The) (NNP New) (NNP Yorker) )
+        (POS 's) (NN parent) )
+      (, ,) 
+      (NP (NNP Advance) (NNPS Publications) (NNP Inc.) )
+      (, ,) )
+    (VP (VBD sold) 
+      (NP (PRP it) )
+      (PP (TO to) 
+        (NP 
+          (NP (NNP Sweden) )
+          (POS 's) (NNP Bonnier) (NNP Magazine) (NNP Group) ))
+      (PP (IN in) 
+        (NP (CD 1986) ))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN magazine) )
+    (VBZ is) (RB now) 
+    (VP (VBN published) 
+      (PP (IN by) 
+        (NP 
+          (NP (NNP Pennington) (NNP Publishing) )
+          (, ,) 
+          (NP 
+            (NP (DT a) (NN subsidiary) 
+              (PP (IN of) 
+                (NP (NNP Bonnier) )))
+            (VP (VBN based) 
+              (PP (IN in) 
+                (NP 
+                  (NP (NNP Bridgeport) )
+                  (, ,) 
+                  (NP (NNP Conn) )))))))))
+  (. .) )
+( (S 
+    (NP (PRP It) )
+    (VP (VBZ has) 
+      (NP (CD 200,000) (NN circulation) )))
+  (. .) )

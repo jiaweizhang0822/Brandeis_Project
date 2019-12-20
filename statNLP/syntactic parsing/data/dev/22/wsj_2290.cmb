@@ -1,0 +1,54 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP John) (NNP W.) (NNP Day) )
+      (, ,) 
+      (NP 
+        (NP (NN president) 
+          (PP (IN of) 
+            (NP (NNP Allied-Signal) (NNP Automotive) )))
+        (CC and) 
+        (NP (JJ executive) (NN vice) (NN president) 
+          (PP (IN of) 
+            (NP (NNP Allied-Signal) (NNP Inc.) ))))
+      (, ,) )
+    (VBZ has) 
+    (VP (VBN been) 
+      (VP (VBN named) 
+        (PP (TO to) 
+          (NP (DT the) (NN board) 
+            (PP (IN of) 
+              (NP (DT this) (NN bank) (VBG holding) (NN company) )))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNP Mr.) (NNP Day) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 56) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBZ succeeds) 
+      (NP 
+        (NP (NNP J.) (NNP Mason) (NNP Reynolds) )
+        (, ,) 
+        (SBAR 
+          (WHNP (WP who) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBD retired) ))))))
+  (. .) )

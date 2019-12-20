@@ -1,0 +1,147 @@
+
+ 
+ 
+ 
+
+(S (S
+      (NP (NNP Fujitsu) (NNP Ltd.))
+      (VP (VBD posted)
+          (NP (DT a)
+              (ADJP (JJ modest))
+              (CD 6.7) (NN %)
+              (NN gain))
+          (PP (IN in)
+              (NP
+                  (ADJP (JJ unconsolidated) (JJ pretax))
+                  (NN profit)))
+          (PP (IN in)
+              (NP (DT the)
+                  (NP (NP (ADJP (JJ first))
+                          (NN half))
+                      (VP (VBN ended)
+                          (NP (NNP Sept.) (CD 30))))))))
+   (, ,)
+   (NP (DT the) (NN company))
+   (VP (VBD said))
+   (. .))
+ 
+ 
+
+(S (NP (JJ Pretax) (NN profit)
+       (PP (IN for)
+           (NP (DT the) (NNP Tokyo) (NN computer) (NN maker))))
+   (VP (VBD rose)
+       (PP (PP (TO to)
+               (NP (NP (CD 50.161) (CD trillion) (NN yen))
+                   (-LRB- -LRB-)
+                   (NP ($ $) (CD 354.4)
+                       (CD million))
+                   (-RRB- -RRB-)))
+           (PP (IN from)
+               (NP (CD 47.013) (CD trillion) (NN yen))))
+       (ADVP (NP (DT a) (NN year))
+             (RB ago)))
+   (. .))
+ 
+
+(S
+   (NP (JJ Net) (NN income))
+   (VP (VBD rose)
+       (NP (CD 18) (NN %))
+       (PP (PP (TO to)
+               (NP (NP (CD 28.461) (CD trillion) (NN yen))
+                   (, ,)
+                   (CC or)
+                   (NP (CD 15.87) (NN yen)
+                       (NP (DT a) (NN share)))))
+           (, ,)
+           (PP (IN from)
+               (NP (NP (CD 24.213) (CD trillion) (NN yen))
+                   (, ,)
+                   (CC or)
+                   (NP (CD 13.81) (NN yen)
+                       (NP (DT a) (NN share)))))))
+   (. .))
+ 
+ 
+
+(S (NP (DT The) (NN company))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (VP (VBG falling))
+                    (NNS sales)
+                    (PP (IN in)
+                        (NP (PRP$ its)
+                            (NP (NNS communications)
+                                (NN division)))))
+                (VP (VBP hurt)
+                    (NP (NNS results))))))
+   (. .))
+ 
+
+(S
+   (NP (NNS Sales)
+       (PP (IN from)
+           (NP (DT the) (NN division))))
+   (VP (VBD slipped)
+       (NP (CD 7.5) (NN %))
+       (PP (TO to)
+           (NP (CD 161.080) (CD trillion) (NN yen))))
+   (. .))
+ 
+
+(S
+   (NP (DT A) (NNP Fujitsu) (NN spokesman))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (DT the)
+                    (ADJP (JJR weaker))
+                    (NN performance))
+                (VP (VBD reflected)
+                    (NP (VP (VBG slipping))
+                        (NNS sales)
+                        (PP (TO to)
+                            (NP (NP (NNP Nippon)
+                                    (NP (NP (NNP Telegraph))
+                                        (CC &)
+                                        (NP (NNP Telephone)))
+                                    (NP (NNP Corp.)))
+                                (, ,)
+                                (NP
+                                    (NP (NNP Japan))
+                                    (POS 's) (JJ domestic) (NN telephone) (NN monopoly)))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (JJ Total) (NNS sales))
+   (VP (VBD rose)
+       (NP (CD 4.7) (NN %))
+       (PP (TO to)
+           (NP (CD 966.471) (CD trillion) (NN yen))))
+   (. .))
+ 
+ 
+
+(S (S
+      (NP (NNS Sales)
+          (PP (IN of)
+              (NP (JJ electrical) (NNS devices))))
+      (VP (VBD rose)
+          (NP (RB about)
+              (CD 19) (NN %))
+          (PP (TO to)
+              (NP (CD 147.874) (CD trillion) (NN yen)))))
+   (, ,)
+   (SBAR (IN while)
+         (S (NP (NNS sales)
+                (PP (IN in)
+                    (NP (DT the) (NN information) (NNS systems)
+                        (NN division))))
+            (VP (VBD gained)
+                (NP (CD 5.4) (NN %))
+                (PP (TO to)
+                    (NP (CD 657.517) (CD trillion) (NN yen))))))
+   (. .))
+ 

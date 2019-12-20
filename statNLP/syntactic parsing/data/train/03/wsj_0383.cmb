@@ -1,0 +1,94 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (JJ Raw-steel) (NN production) 
+        (PP (IN by) 
+          (NP 
+            (NP (DT the) (NN nation) )
+            (POS 's) (NNS mills) )))
+      (VP (VBD decreased) 
+        (NP (CD 3.4) (NN %) )
+        (NP (JJ last) (NN week) )
+        (PP (TO to) 
+          (NP (CD 1,754,000) (NNS tons) ))
+        (PP (IN from) 
+          (NP 
+            (NP (CD 1,816,000) (NNS tons) )
+            (NP (DT the) (JJ previous) (NN week) )))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NNP American) (NNP Iron) 
+        (CC and)
+        (NNP Steel) (NNP Institute) )
+      (VP (VBD said) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (JJ Last) (NN week) )
+      (POS 's) (NN output) )
+    (VP (VBD fell) 
+      (NP (CD 6.4) (NN %) )
+      (PP (IN from) 
+        (NP 
+          (NP (DT the) (CD 1,874,000) (NNS tons) )
+          (VP (VBN produced) 
+            (NP (DT a) (NN year) (RBR earlier) )))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN industry) )
+    (VP (VBD used) 
+      (NP (CD 78.8) (NN %) 
+        (PP (IN of) 
+          (NP (PRP$ its) (NN capability) )))
+      (NP (JJ last) (NN week) )
+      (, ,) 
+      (VP (VBN compared) 
+        (PP (IN with) 
+          (NP 
+            (NP 
+              (NP (CD 81.6) (NN %) )
+              (NP (DT the) (JJ previous) (NN week) ))
+            (CC and) 
+            (NP 
+              (NP (CD 87.4) (NN %) )
+              (NP (DT a) (NN year) (RB ago) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN capability) (NN utilization) (NN rate) )
+    (VP (VBZ is) 
+      (NP 
+        (NP (DT a) (NN calculation) )
+        (VP (VBN designed) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB indicate) 
+              (SBAR 
+                (WHPP (IN at) 
+                  (WHNP (WDT what) (NN percent) 
+                    (PP (IN of) 
+                      (NP (PRP$ its) (NN production) (NN capability) ))))
+                (S 
+                  (NP (DT the) (NN industry) )
+                  (VBZ is) 
+                  (VP (VBG operating) 
+                    (PP (IN in) 
+                      (NP (DT a) (JJ given) (NN week) ))))))))))
+    (. .) ))

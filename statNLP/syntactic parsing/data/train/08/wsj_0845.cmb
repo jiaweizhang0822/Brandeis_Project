@@ -1,0 +1,164 @@
+
+ 
+ 
+ 
+
+(S
+   (NP (NNP Arnold) (NNP C.) (NNP Pohs))
+   (VBD was)
+   (RB officially)
+   (VP (VBN named)
+       (NP (NP (NP (NN president))
+               (CC and)
+               (NP
+                   (ADJP (JJ chief) (JJ executive))
+                   (NN officer)))
+           (PP (IN of)
+               (NP (NP (NNP Cellular) (NNP Inc.))
+                   (, ,)
+                   (NP (DT a) (NN provider)
+                       (PP (IN of)
+                           (NP (NP (NN management))
+                               (, ,)
+                               (NP (NN financing))
+                               (CC and)
+                               (NP (NN operating) (NNS services))))
+                       (PP (TO to)
+                           (NP (NN cellular-telephone) (NNS systems))))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (NP (NNP Mr.) (NNP Pohs))
+       (, ,)
+       (RB previously)
+       (NP (JJ executive) (NN vice) (NN president) (CC and) (NN chief) (NN operating) (NN officer))
+       (, ,))
+   (VBD was)
+   (VP (VBN named)
+       (NP (NP (JJ interim) (NN president))
+           (CC and)
+           (NP
+               (ADJP (JJ chief) (JJ executive))
+               (NN officer)))
+       (PP (IN after)
+           (S (NP (NP (NNP David) (NNP M.) (NNP Harrold))
+                  (, ,)
+                  (NP (DT a) (NN company) (NN founder))
+                  (, ,))
+              (VP (VBD resigned)
+                  (PP (IN from)
+                      (NP (DT the) (NNS posts)))
+                  (PP (IN for)
+                      (NP (JJ personal) (NNS reasons)))
+                  (PP (IN in)
+                      (NP (NNP August)))))))
+   (. .))
+ 
+ 
+
+(S (NP (NNP Cellular))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (NP (NNP Robert) (NNP J.) (NNP Lunday) (NNP Jr.))
+                    (, ,)
+                    (NP (NP (PRP$ its) (NN chairman))
+                        (CC and)
+                        (NP (DT another) (NN founder)))
+                    (, ,))
+                (VP (VBD resigned)
+                    (PP (IN from)
+                        (NP
+                            (NP (DT the) (NN company))
+                            (POS 's) (NN board)))
+                    (S (NP (-NONE- *))
+                       (TO to)
+                       (VP (VB pursue)
+                           (NP (DT the) (NN sale)
+                               (PP (IN of)
+                                   (NP (NP (PRP$ his) (NN telephone) (NN company))
+                                       (, ,)
+                                       (NP (NNP Big) (NNP Sandy) (NNP Telecommunications) (NNP Inc)))))))))))
+   (. .))
+ 
+
+(S
+   (NP (DT A) (JJ new) (NN director))
+   (VBZ has)
+   (RB n't)
+   (VBN been)
+   (VP (VBN named)
+       
+       (S (NP (-NONE- *))
+          (TO to)
+          (VP (VB fill)
+              (NP (NP (DT that) (NN seat))
+                  (, ,)
+                  (SBAR
+                        (WHNP (WDT which))
+                        (S (NP (-NONE- T))
+                           (VP (VBZ expires)
+                               (PP (IN in)
+                                   (NP (CD 1992))))))))))
+   (. .))
+ 
+
+(S
+   (NP (NNP Mr.) (NNP Pohs))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (DT the) (NN board) (NN probaby))
+                (MD will)
+                (VP (VB elect)
+                    (NP (DT a) (JJ new) (NN chairman))
+                    (PP (IN at)
+                        (NP (PRP$ its) (NN meeting)))
+                    (NP (NNP Nov))))))
+   (. .))
+ 
+ 
+
+(S (PP (IN In)
+       (NP (NN addition)))
+   (, ,)
+   (S (NP (DT the) (NN company))
+      (VP (VBD said)
+          (SBAR (-NONE- 0)
+                (S (NP (NP (NNP Monroe) (NNP M.) (NNP Rifkin))
+                       (, ,)
+                       (NP (DT a) (NN cable) (NN television) (NN investor) (CC and) (NN consultant))
+                       (, ,))
+                   (VBD was)
+                   (VP (VBN elected)
+                       
+                       (NP (DT a) (NN director))
+                       (, ,)
+                       (ADVP (VP (VBG filling)
+                                 (NP (NP (DT a) (JJ vacant) (NN seat))
+                                     (SBARQ
+                                            (WHNP (WDT that))
+                                            (S (NP (-NONE- T))
+                                               (MD will)
+                                               (VP (VB expire)
+                                                   (PP (IN in)
+                                                       (NP (CD 1991))))))))))))))
+   (. .))
+ 
+
+(S (S
+      (NP (DT The) (NN board))
+      (RB currently)
+      (VP (VP (VBZ has)
+              (NP (CD six) (NNS members)))
+          (, ,)
+          (CC but)
+          (VBZ is)
+          (VP (VBG expanding)
+              (PP (TO to)
+                  (NP (CD nine))))))
+   (, ,)
+   (NP (NNP Mr.) (NNP Pohs))
+   (VP (VBD said))
+   (. .))
+ 

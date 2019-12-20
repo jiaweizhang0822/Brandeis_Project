@@ -1,0 +1,259 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (DT A) (NN surge) 
+        (PP (IN in) 
+          (NP (NNS sales) ))
+        (PP (IN in) 
+          (NP (NNP August) )))
+      (VP (VBD helped) 
+        (VP (VB trim) 
+          (NP (NN inventory) (NNS levels) 
+            (PP (IN of) 
+              (NP (NNP U.S.) (NNS businesses) ))))))
+    (, ,) 
+    (S 
+      (NP (NNP Commerce) (NNP Department) (NNS figures) )
+      (VP (VBP show) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNS Sales) 
+      (PP (IN at) 
+        (NP 
+          (NP (NNS factories) )
+          (, ,) 
+          (NP (NNS retailers) )
+          (CC and) 
+          (NP (NNS wholesalers) ))))
+    (VP (VBD jumped) 
+      (NP (CD 3.1) (NN %) )
+      (PP (IN in) 
+        (NP (NNP August) )))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN department) )
+      (VP (VBD reported) ))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (RB far) (VBG outstripping) 
+        (NP (DT a) (CD 0.3) (NN %) (NN climb) 
+          (PP (IN in) 
+            (NP (NNS inventories) ))))))
+  (. .) )
+( (S 
+    (PP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (S 
+      (NP (NNS inventories) )
+      (VP (VBD fell) (RB back) 
+        (PP (TO to) 
+          (NP (DT the) (NN equivalent) 
+            (PP (IN of) 
+              (NP (CD 1.5) (NNS months) 
+                (PP (IN of) 
+                  (NP (NNS sales) )))))))))
+  (. .) )
+( (S 
+    (NP (NNS Inventories) )
+    (VBD had) 
+    (VP (VBN been) 
+      (VP (VBG running) 
+        (PP (IN at) 
+          (NP 
+            (NP (IN about) (DT this) (NN level) )
+            (: --) 
+            (NP 
+              (NP (CC one) )
+              (SBAR (IN that) 
+                (S 
+                  (NP (NNS economists) )
+                  (VP (VBP regard) 
+                    (NP (-NONE- T) )
+                    (PP (RB as) 
+                      (ADJP (JJ manageable) ))))))
+            (: --) ))
+        (PP (IN for) 
+          (NP (RB much) 
+            (PP (IN of) 
+              (NP (DT the) (NN year) ))))))
+    (PP (IN before) 
+      (S 
+        (NP (PRP they) )
+        (VP (VBD jumped) 
+          (PP (TO to) 
+            (NP (CD 1.54) (NNS months) ))
+          (PP (IN in) 
+            (NP (NNP July) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNS numbers) )
+    (VP (VBP are) 
+      (NP (JJ reassuring) (NN news) )
+      (PP (IN for) 
+        (NP (DT the) (NN economy) ))))
+  (. .) )
+( (S 
+    (SBAR (IN If) 
+      (S 
+        (NP (NNS goods) 
+          (PP (IN on) 
+            (NP (NNS shelves) 
+              (CC and)
+              (NNS backlots) )))
+        (VP (VBP pile) (RB up) 
+          (ADJP (RB too) (JJ high) ))))
+    (, ,) 
+    (S 
+      (S 
+        (NP (NNS retailers) )
+        (RB often) 
+        (VP (VBP cut) (RB back) 
+          (PP (IN on) 
+            (NP (NNS orders) ))))
+      (CC and) 
+      (X 
+        (NP (NNS factories) )
+        (PP (IN on) 
+          (NP (NN production) )))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN chain) (NN reaction) )
+    (MD can) 
+    (VP (VB lead) 
+      (PP (TO to) 
+        (NP 
+          (NP (NNS layoffs) )
+          (CC and) 
+          (NP (RB ultimately) (DT a) (NN recession) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (NNP July) ))
+    (, ,) 
+    (S 
+      (NP (NN business) (NNS inventories) )
+      (VBD had) 
+      (VP (VBN climbed) 
+        (NP 
+          (NP (CD 0.9) (NN %) )
+          (, ,) 
+          (NP 
+            (NP (DT a) (NN number) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (DT the) (NN department) )
+                (VP (VBN revised) 
+                  (NP (-NONE- T) )
+                  (PP (IN from) 
+                    (NP (PRP$ its) (JJ initial) (NN report) 
+                      (PP (IN of) 
+                        (NP (CD 0.6) (NN %) ))))))))))))
+  (. .) )
+( (S 
+    (NP (NNS Sales) )
+    (, ,) (RB meanwhile) 
+    (, ,)
+    (VP (VBD dropped) 
+      (NP (CD 0.9) (NN %) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (PP (IN In) 
+        (NP (NNP August) ))
+      (, ,) 
+      (S 
+        (NP (NN business) (NNS inventories) )
+        (VP (VBD totaled) 
+          (NP ($ $) (CD 789.87) (CD billion) ))
+        (, ,) 
+        (SBAR (IN while) 
+          (S 
+            (NP (NNS sales) )
+            (VP (VBD grew) 
+              (PP (TO to) 
+                (NP ($ $) (CD 526.79) (CD billion) )))))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN department) )
+      (VP (VBD said) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (NNS Manufacturers) )
+      (VP (VBD showed) 
+        (NP (DT the) (JJS biggest) (NNS sales) (NNS gains) )))
+    (: ;) 
+    (S 
+      (NP (PRP$ their) (NNS sales) )
+      (VP (VBD rose) 
+        (NP (CD 5.6) (NN %) ))
+      (, ,) 
+      (SBAR (IN while) 
+        (S 
+          (NP (NN factory) (NNS inventories) )
+          (VP (RB only) (VBD grew) 
+            (NP (CD 0.3) (NN %) ))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNS Retailers) )
+      (POS ') (NNS sales) )
+    (VP (VBD increased) 
+      (NP (CD 0.7) (NN %) ))
+    (, ,) 
+    (SBAR (IN as) 
+      (SINV 
+        (VP (VBD did) )
+        (NP (PRP$ their) (NNS inventories) ))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNS Wholesalers) )
+      (POS ') (NNS sales) )
+    (VP (VBD climbed) 
+      (NP (CD 1.5) (NN %) ))
+    (, ,) 
+    (SBAR (IN while) 
+      (S 
+        (NP (PRP$ their) (NNS inventories) )
+        (VP (VBD dropped) 
+          (NP (CD 0.1) (NN %) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S 
+    (NP (RB Here) )
+    (VP (VBZ is) 
+      (NP (DT a) (NN summary) 
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNP Commerce) (NNP Department) )
+            (POS 's) (NN report) 
+            (PP (IN on) 
+              (NP (NN business) (NNS inventories) 
+                (CC and)
+                (NNS sales) 
+                (PP (IN in) )
+                (PP (IN in) 
+                  (NP (NNP August) )))))))))
+  (. .) )

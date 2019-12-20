@@ -1,0 +1,245 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Moody) (POS 's) )
+      (NNPS Investors) (NNP Service) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD downgraded) 
+            (NP (RB about) ($ $) (CD 970) (CD million) 
+              (PP (IN of) 
+                (NP (JJ senior) (NN debt) 
+                  (PP (IN of) 
+                    (NP (NNP Arkla) (NNP Inc.) )))))
+            (PP (IN in) 
+              (NP (NN response) 
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT the) (NN company) (VBZ 's) (JJ increased) (JJ financial) (NN leverage) )
+                    (, ,) 
+                    (VP (VBN related) (RB primarily) 
+                      (PP (TO to) 
+                        (NP 
+                          (NP (NN restructuring) (NNS plans) )
+                          (SBAR 
+                            (WHNP (WDT that) )
+                            (S 
+                              (NP (-NONE- T) )
+                              (VP (VBP include) 
+                                (S 
+                                  (NP (-NONE- *) )
+                                  (VP (VBG taking) 
+                                    (NP (DT a) ($ $) (CD 189) (CD million) (NN charge) )))))))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Moody) (POS 's) )
+    (VP (VBZ contends) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP 
+            (NP (DT the) (JJ natural) (NN gas) (NN company) )
+            (POS 's) (NN debt) )
+          (VBZ has) 
+          (VP (VBN risen) 
+            (ADVP 
+              (ADVP (RB principally) (IN because) 
+                (PP (IN of) 
+                  (NP (JJ large) (NNS prepayments) 
+                    (PP (TO to) 
+                      (NP (NNS producers) ))
+                    (S 
+                      (NP (-NONE- *) )
+                      (TO to) 
+                      (VP (VB settle) 
+                        (NP (JJ take-or-pay) (NNS claims) ))))))
+              (, ,) 
+              (CC and)
+              (ADVP (RB due) 
+                (PP (TO to) 
+                  (NP (JJ aggressive) (NNS efforts) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (TO to) 
+                      (VP (VB increase) 
+                        (NP (NN market) (NNS opportunities) )
+                        (PP (IN through) 
+                          (NP 
+                            (NP (NNS acquisitions) )
+                            (, ,) 
+                            (SBAR 
+                              (WHNP (WDT which) )
+                              (S 
+                                (NP (-NONE- T) )
+                                (VBD were) 
+                                (VP (RB partially) (VBN financed) 
+                                  (PP (IN by) 
+                                    (NP (NN debt) )))))))))))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NN Arkla) )
+    (VBZ is) 
+    (VP (VBN based) 
+      (PP (IN in) 
+        (NP 
+          (NP (NNP Shreveport) )
+          (, ,) 
+          (NP (NNP La) (. .) ))))))
+( END_OF_TEXT_UNIT )
+( (S 
+    (SINV 
+      (VP (VBN Downgraded) 
+        (PP (IN by) 
+          (NP (DT the) (NNS ratings) (NN concern) ))
+        (PP-1 (-NONE- *pseudo-attach*) )
+        (PP-2 (-NONE- *pseudo-attach*) ))
+      (VBP are) 
+      (NP 
+        (NP (NNP Arkla) )
+        (POS 's) (JJ first) (NN mortgage) (NNS bonds) )
+      (PP-1 (TO to) 
+        (NP (JJ single-A-3) ))
+      (PP-2 (IN from) 
+        (NP (JJ single-A-2) )))
+    (: ;) 
+    (X 
+      (X 
+        (NP (NNS notes) )
+        (PP (TO to) 
+          (NP (JJ single-A-3) ))
+        (PP (IN from) 
+          (NP (JJ single-A-2) )))
+      (: ;) 
+      (X 
+        (NP (NNS debentures) )
+        (PP (TO to) 
+          (NP (JJ single-A-3) ))
+        (PP (IN from) 
+          (NP (JJ single-A-2) )))
+      (: ;) 
+      (X 
+        (NP (NN shelf) (NN registration) )
+        (PP (TO to) 
+          (NP (DT a) (JJ preliminary) (NN rating) 
+            (PP (IN of) 
+              (NP (JJ single-A-3) ))))
+        (PP (IN from) 
+          (NP (DT a) (JJ preliminary) (NN rating) 
+            (PP (IN of) 
+              (NP (JJ single-A-2) )))))
+      (: ;) 
+      (X 
+        (NP (JJ convertible) (JJ preferred) (NN stock) )
+        (PP (TO to) 
+          (NP (JJ Baa-1) ))
+        (PP (IN from) 
+          (NP (JJ single-A-3) )))
+      (, ,) 
+      (CC and)
+      (X 
+        (NP 
+          (NP (DT the) (NN concern) )
+          (POS 's) (NN rating) 
+          (PP (IN for) 
+            (NP (JJ commercial) (NN paper) )))
+        (PP (TO to) 
+          (NP (JJ Prime-2) ))
+        (PP (IN from) 
+          (NP (JJ Prime-1) ))))
+    (. .) ))
+( (SINV (RB Also) 
+    (VP (VBN downgraded) 
+      (PP-3 (-NONE- *pseudo-attach*) )
+      (PP-4 (-NONE- *pseudo-attach*) )
+      (PP-7 (-NONE- *pseudo-attach*) )
+      (PP-8 (-NONE- *pseudo-attach*) ))
+    (VBD were) 
+    (NP 
+      (NP 
+        (NP 
+          (NP (DT the) (NN company) )
+          (POS 's) (NNP Entex) (NNP Inc.) (NN unit) )
+        (POS 's) (JJ first) (NN mortgage) (NNS bonds) 
+        (PP-3 (TO to) 
+          (NP (JJ single-A-3) ))
+        (PP-4 (IN from) 
+          (NP (JJ single-A-2) )))
+      (CC and) 
+      (NP (NNS debentures) 
+        (PP-7 (TO to) 
+          (NP (JJ single-A-3) ))
+        (PP-8 (IN from) 
+          (NP (JJ single-A-2) ))))
+    (. .) ))
+( (S 
+    (NP (NNP Arkla) )
+    (VP (VBD acquired) 
+      (NP (NNP Entex) )
+      (PP (IN in) 
+        (NP (CD 1988) )))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Moody) (POS 's) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN rating) (NN action) )
+          (VP (VBZ takes) 
+            (PP (IN into) 
+              (NP (NN account) ))
+            (NP 
+              (NP (NNP Arkla) )
+              (POS 's) (NN plan) 
+              (PP (IN for) 
+                (X 
+                  (NP (DT an) 
+                    (ADJP (JJ initial) (JJ public) )
+                    (NN offering) 
+                    (PP (IN of) 
+                      (NP (RB as) (JJ much) 
+                        (PP (IN as) 
+                          (NP (CD 18) (NN %) 
+                            (PP (IN of) 
+                              (NP (DT the) (JJ common) (NN stock) 
+                                (PP (IN of) 
+                                  (NP 
+                                    (NP (PRP$ its) (NN oil) 
+                                      (CC and)
+                                      (NN gas) (NN exploration) 
+                                      (CC and)
+                                      (NN development) (NN subsidiary) )
+                                    (, ,) )))))))))
+                  (NP 
+                    (NP (NNS proceeds) )
+                    (SBAR 
+                      (WHPP (IN of) 
+                        (WHNP (WDT which) ))
+                      (S 
+                        (NP (-NONE- T) )
+                        (MD will) 
+                        (VP (VB be) 
+                          (VP (VBN used) 
+                            (S 
+                              (NP (-NONE- *) )
+                              (TO to) 
+                              (VP (VB repay) 
+                                (NP (NN debt) )))))))))))))))
+    (. .) ))

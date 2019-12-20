@@ -1,0 +1,55 @@
+
+ 
+ 
+ 
+
+(S (NP (NP
+           (ADJP (JJ Swedish) (JJ real))
+           (NN estate) (CC and) (NN building) (NN concern))
+       (NP (NNP Skanska) (NNP AB)))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (PRP$ its) (NN group) (JJ pretax) (NN profit)
+                    (PP (IN for)
+                        (NP (DT the)
+                            (ADJP (JJ first))
+                            (CD eight) (NNS months))))
+                (VP (VBD rose)
+                    (NP (CD 58) (NN %))
+                    (PP (PP (TO to)
+                            (NP (NP (CD 1.49) (CD billion) (NN kronor))
+                                (-LRB- -LRB-)
+                                (NP ($ $) (CD 233)
+                                    (CD million))
+                                (-RRB- -RRB-)))
+                        (PP (IN from)
+                            (NP (NP (CD 946) (CD million) (NN kronor))
+                                (-LRB- -LRB-)
+                                (NP ($ $) (CD 148)
+                                    (CD million))
+                                (-RRB- -RRB-))))
+                    (PP (IN in)
+                        (NP (DT the) (JJ corresponding) (NN period) (JJ last) (NN year)))))))
+   (. .))
+ 
+ 
+
+(S (NP (NNP Skanska))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (NN group) (NNS sales)
+                    (PP (IN in)
+                        (NP (DT the)
+                            (ADJP (JJ first))
+                            (CD eight) (NNS months))))
+                (VP (VBD increased)
+                    (NP (CD 29) (NN %))
+                    (PP (PP (TO to)
+                            (NP (CD 17.64) (CD billion) (NN kronor)))
+                        (PP (IN from)
+                            (NP (CD 13.67) (CD billion)
+                                (ADVP (NP (DT a) (NN year))
+                                      (RB ago)))))))))
+   (. .))
+ 
+ 

@@ -1,0 +1,818 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP Supreme) (NNP Court) )
+    (VP (VBD agreed) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB decide) 
+          (SBAR (IN whether) 
+            (S 
+              (NP (DT a) (JJ federal) (NN court) )
+              (, ,) 
+              (PP (IN in) 
+                (NP 
+                  (NP (DT an) (JJ antitrust) (NN lawsuit) )
+                  (VP (VBN filed) 
+                    (PP (IN by) 
+                      (NP 
+                        (NP (NN state) (NNS officials) )
+                        (CC or) 
+                        (NP (JJ private) (NNS parties) ))))))
+              (, ,) (MD may) 
+              (VP (VB dismantle) 
+                (NP 
+                  (NP (DT a) (NN merger) )
+                  (SBAR (IN that) 
+                    (S 
+                      (NP (PRP it) )
+                      (VBZ has) 
+                      (VP (VBN ruled) 
+                        (NP (-NONE- T) )
+                        (ADJP (JJ anti-competitive) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (JJ high) (NN court) )
+    (VP (VBD agreed) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB hear) 
+          (NP (DT the) (NN state) 
+            (PP (IN of) 
+              (NP 
+                (NP (NNP California) )
+                (POS 's) (NN challenge) 
+                (PP (TO to) 
+                  (NP (DT the) (NN legality) 
+                    (PP (IN of) 
+                      (NP (DT the) (NN acquisition) 
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNP Lucky) (NNP Stores) (NNP Inc.) )
+                            (, ,) 
+                            (NP (DT a) (NN supermarket) (NN chain) )
+                            (, ,) ))
+                        (PP (IN by) 
+                          (NP 
+                            (NP (NNP American) (NNP Stores) (NNP Co.) )
+                            (SBAR 
+                              (WHNP (WDT which) )
+                              (S 
+                                (NP (-NONE- T) )
+                                (VP (VBZ owns) 
+                                  (NP 
+                                    (NP (DT another) (NN chain) )
+                                    (, ,) 
+                                    (NP (NNP Alpha) (NNP Beta) (NNP Stores) (NNP Inc) ))))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN Under) 
+      (NP 
+        (ADJP (JJ federal) (JJ antitrust) )
+        (NN law) ))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (DT the) (NNP Federal) (NNP Trade) (NNP Commission) )
+        (CC and) 
+        (NP (DT the) (NNP Justice) (NNP Department) ))
+      (VP (VBP have) 
+        (NP (DT the) (NN authority) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB ask) 
+              (NP (DT a) (JJ federal) (NN court) )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB order) 
+                  (NP (DT the) (NN divestiture) 
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT a) (NN merger) )
+                        (SBAR 
+                          (WHNP (WDT that) )
+                          (S 
+                            (NP (-NONE- T) )
+                            (X 
+                              (X (VBZ has) 
+                                (VP (VBN been) 
+                                  (VP (VBN completed) )))
+                              (CC but) 
+                              (X (VBZ has) 
+                                (VP (VBN been) 
+                                  (VP (VBN found) 
+                                    (S 
+                                      (NP (-NONE- *) )
+                                      (TO to) 
+                                      (VP (VB be) 
+                                        (ADJP (JJ anticompetitive) ))))))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (CC But) 
+    (SBAR (RB even) (IN after) 
+      (S 
+        (NP (DT the) (JJ federal) (NNS agencies) )
+        (VBP have) 
+        (VP (VBN approved) 
+          (NP (DT a) (NN merger) ))))
+    (, ,) 
+    (S 
+      (NP 
+        (ADJP (JJ federal) (JJ antitrust) )
+        (NN law) )
+      (VP (VBZ allows) 
+        (NP 
+          (NP (NNS states) )
+          (CC or) 
+          (NP 
+            (ADJP (JJ other) )
+            (ADJP (VBN affected) )
+            (NNS parties) ))
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB sue) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB challenge) 
+                (NP (DT the) (NN merger) )
+                (PP (IN on) 
+                  (NP (DT the) (NNS grounds) 
+                    (SBAR (IN that) 
+                      (S 
+                        (NP (PRP it) )
+                        (VP (VBZ is) 
+                          (ADJP (JJ anticompetitive) )))))))))))))
+  (. .) )
+((S 
+    (NP (JJ Federal) (NNS appeals) (NNS courts) )
+    (, ,) (RB however) 
+    (, ,)
+    (VP (VBP disagree) 
+      (SBAR (IN whether) 
+        (S 
+          (NP (JJ federal) (NNS courts) )
+          (VP (VBP have) 
+            (NP (DT the) (NN authority) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB order) 
+                  (NP (DT the) (NN break) (RP up) 
+                    (PP (IN of) 
+                      (NP (VBN completed) (NNS mergers) ))))))
+            (PP (IN in) 
+              (NP 
+                (ADJP (JJ such) (JJ private) (JJ antitrust) )
+                (NNS lawsuits) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR (IN While) 
+      (S 
+        (NP (DT the) (JJ high) (NN court) )
+        (VP (VBZ tries) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB resolve) 
+              (NP (DT the) (JJ disparate) (NNS views) 
+                (PP (IN of) 
+                  (NP (DT the) (NNS appeals) (NNS courts) ))))))))
+    (, ,) 
+    (S 
+      (NP (NNP American) (NNP Stores) )
+      (VP (VBZ remains) 
+        (PP (IN under) 
+          (NP (DT a) (JJ temporary) (NN order) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB operate) 
+                (NP (DT the) (CD two) (NN supermarket) (NNS chains) )
+                (PP (IN as) 
+                  (NP (JJ separate) (NNS businesses) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP American) (NNP Stores) )
+      (POS ') (NN bid) 
+      (PP (IN for) 
+        (NP (NNP Lucky) (NNP Stores) )))
+    (VP (VBD began) 
+      (PP (IN as) 
+        (NP (DT a) (JJ hostile) (NN offer) ))))
+  (. .) )
+((S 
+    (S (CC But) 
+      (SBAR 
+        (WHADVP (WRB when) )
+        (S 
+          (NP (DT the) (NN tender) (NN offer) )
+          (VBD was) 
+          (VP (VBN increased) )))
+      (, ,) 
+      (S 
+        (NP 
+          (NP (NNP Lucky) )
+          (POS 's) (NNS directors) )
+        (VP (VBD approved) 
+          (NP (DT the) (NN merger) ))))
+    (CC and) 
+    (, ,)
+    (S 
+      (PP (IN in) 
+        (NP (NNP June) (CD 1988) ))
+      (, ,) 
+      (S 
+        (NP 
+          (NP (NNP American) (NNP Stores) )
+          (POS ') 
+          (NP 
+            (NP ($ $) (CD 2.5) )
+            (CD billion) (NN purchase) 
+            (PP (IN of) 
+              (NP (NNP Lucky) (NNP Stores) ))))
+        (VBD was) 
+        (VP (VBN completed) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP FTC) )
+    (VP 
+      (VP (VBD reviewed) 
+        (NP (DT the) (NN merger) ))
+      (CC and) 
+      (, ,)
+      (VP 
+        (PP (IN in) 
+          (NP (NNP August) (CD 1988) ))
+        (, ,) (VBD approved) 
+        (NP (DT a) (NN settlement) 
+          (PP (IN between) 
+            (NP 
+              (NP (DT the) (NNP FTC) (NN staff) )
+              (CC and) 
+              (NP (NNP American) (NNP Stores) )))))))
+  (. .) )
+( (S 
+    (SBAR 
+      (PP (IN While) 
+        (S 
+          (NP (DT the) (NN settlement) )
+          (VP (VBD was) 
+            (PP (IN under) 
+              (NP (NN review) 
+                (PP (IN by) 
+                  (NP (DT the) (NNP FTC) ))))))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN staff) )
+      (VP (VBD required) 
+        (NP (NNP American) (NNP Stores) )
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB run) 
+            (NP (DT the) (NNP Lucky) 
+              (CC and)
+              (NNP Alpha) (NNP Beta) (NNS chains) )
+            (RB separately) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (RB Meanwhile) 
+    (, ,)
+    (S 
+      (NP 
+        (NP (NNP California) (NNS officials) )
+        (, ,) 
+        (VP (VBG arguing) 
+          (SBAR (IN that) 
+            (S 
+              (NP (DT the) (NN merger) )
+              (MD would) 
+              (VP (VB cost) 
+                (NP 
+                  (NP (DT the) (NN state) )
+                  (POS 's) (NNS consumers) )
+                (NP ($ $) (CD 400) (CD million) )
+                (RB annually) 
+                (PP (IN in) 
+                  (NP 
+                    (ADJP (JJR higher) )
+                    (NNS prices) ))))))
+        (, ,) )
+      (VP (VBD sued) 
+        (PP (IN in) 
+          (NP (JJ federal) (NN court) ))
+        (PP (IN in) 
+          (NP (NNP September) (CD 1988) )))))
+  (. .) )
+( (S 
+    (NP (DT A) (JJ federal) (NN judge) 
+      (PP (IN in) 
+        (NP (NNP Los) (NNP Angeles) )))
+    (, ,) 
+    (ADVP 
+      (PP (IN after) 
+        (NP (DT a) (NN hearing) ))
+      (CC but) 
+      (SBAR 
+        (PP (IN before) )
+        (S 
+          (NP (DT a) (NN trial) )
+          (VBD was) 
+          (VP (VBN held) ))))
+    (, ,) 
+    (VP (VBD reached) 
+      (NP (DT an) (JJ initial) (NN conclusion) 
+        (SBAR (IN that) 
+          (S 
+            (NP (DT the) (NN merger) )
+            (VP (VBD was) 
+              (ADJP (JJ anti-competitive) )))))))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (RB then) 
+    (VP (VBD issued) 
+      (NP 
+        (NP (DT a) (JJ preliminary) (NN injunction) )
+        (VP (VBG ordering) 
+          (NP (NNP American) (NNP Stores) )
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB continue) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB run) 
+                  (NP (DT the) (CD two) (NNS chains) )
+                  (RB separately) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT A) (JJ federal) (NNS appeals) (NN court) 
+      (PP (IN in) 
+        (NP (NNP San) (NNP Francisco) )))
+    (VP (VBD ruled) 
+      (PP (IN in) 
+        (NP (NNP March) ))
+      (SBAR (IN that) 
+        (S 
+          (NP 
+            (NP (DT the) (NN district) (NN court) )
+            (POS 's) (NN order) )
+          (VP (VBD had) 
+            (NP (DT the) (JJ same) (NN effect) )
+            (PP (IN as) 
+              (S 
+                (NP (-NONE- *) )
+                (VP (VBG requiring) 
+                  (NP (NN divestiture) 
+                    (PP (IN of) 
+                      (NP (CD one) (NN chain) ))
+                    (PP (IN by) 
+                      (NP (NNP American) (NNP Stores) )))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNS appeals) (NN court) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (JJ federal) (NNS courts) )
+          (VP (VBP lack) 
+            (NP (DT the) (NN authority) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB require) 
+                  (NP (NN divestiture) )))
+              (PP (IN in) 
+                (NP 
+                  (ADJP (JJ private) (JJ antitrust) )
+                  (NNS lawsuits) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (NNP August) ))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (NNP Supreme) (NNP Court) (NNP Justice) )
+        (NP (NNP Sandra) (NNP O'Connor) ))
+      (VP (VBD issued) 
+        (NP 
+          (NP (DT a) (JJ temporary) (NN stay) )
+          (, ,) 
+          (VP (VBG requiring) 
+            (NP (DT the) (JJ separate) (NNS operations) )
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB continue) 
+                (SBAR (IN until) 
+                  (S 
+                    (NP (DT the) (JJ high) (NN court) )
+                    (MD could) 
+                    (VP (VB decide) 
+                      (SBAR (IN whether) 
+                        (S 
+                          (NP (-NONE- *) )
+                          (TO to) 
+                          (VP (VB hear) 
+                            (NP (DT the) (NN case) ))))))))))))))
+  (. .) )
+( 
+  (-LRB- -LRB-)
+  (NP (NNP California) 
+    (PP (IN vs.) 
+      (NP (NNP American) (NNP Stores) (NNP Co) )))
+  (. .) 
+  (-RRB- -RRB-)
+  )
+( END_OF_TEXT_UNIT )
+( (NP (NNP Court) 
+    (PP (IN in) 
+      (NP (NNP Brief) ))))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (JJ other) (NN action) ))
+    (NN yesterday) 
+    (, ,)
+    (S 
+      (NP (DT the) (JJ high) (NN court) )
+      (: :) (: --) 
+      (VP 
+        (VP 
+          (VP (VBD Agreed) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB decide) 
+                (SBAR (IN whether) 
+                  (S 
+                    (NP 
+                      (NP (NNS people) )
+                      (VP (VBN arrested) 
+                        (PP (IN for) 
+                          (NP (JJ drunken) (NN driving) ))))
+                    (MD must) 
+                    (VP (VB be) 
+                      (VP (VBN advised) 
+                        (PP (IN of) 
+                          (NP (PRP$ their) (NN right) 
+                            (S 
+                              (S 
+                                (NP (-NONE- *) )
+                                (TO to) 
+                                (VP (VB decline) 
+                                  (PP (TO to) 
+                                    (NP (NN answer) (NNS questions) ))))
+                              (CC and) 
+                              (S 
+                                (NP (-NONE- *) )
+                                (TO to) 
+                                (VP (VB consult) 
+                                  (NP (DT a) (NN lawyer) ))))))
+                        (SBAR 
+                          (PP (IN before) )
+                          (S 
+                            (NP (NNS police) )
+                            (MD may) 
+                            (VP (VB videotape) 
+                              (NP (PRP them) )
+                              (S 
+                                (NP (-NONE- *) )
+                                (TO to) 
+                                (VP (VB preserve) 
+                                  (NP (DT a) (NN record) 
+                                    (PP (IN of) 
+                                      (NP (PRP$ their) (NN condition) ))))))))))))))
+            (X (. .) ))
+          (X 
+            (-LRB- -LRB-)
+            (NP (NNP Pennsylvania) 
+              (PP (IN vs.) 
+                (NP (NNP Muniz) )))
+            (-RRB- -RRB-) ))
+        (: --) 
+        (VP 
+          (VP (VBD Agreed) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB decide) 
+                (SBAR (IN whether) 
+                  (S 
+                    (NP (DT a) (JJ federal) (NN court) )
+                    (MD may) 
+                    (VP (VB fine) 
+                      (NP (DT a) (NN lawyer) )
+                      (PP (IN for) 
+                        (S 
+                          (NP (-NONE- *) )
+                          (VP (VBG filing) 
+                            (NP (DT a) (JJ frivolous) (NN lawsuit) )))))
+                    (SBAR (IN although) 
+                      (S 
+                        (NP (DT the) (NN lawyer) 
+                          (CC and)
+                          (NN client) )
+                        (RB voluntarily) 
+                        (VP (VBP dismiss) 
+                          (NP (DT the) (NN lawsuit) ))))))))
+            (. .) )
+          (-LRB- -LRB-) 
+          (NP (NNP Cooper) (CC &) (NNP Gell) 
+            (PP (IN vs.) 
+              (NP (NNP Hartmarx) (NNP Corp) ))
+            (. .) )
+          (-RRB- -RRB-) )))))
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )
+( (NP (JJ Right-to-Die) (NN Appeal) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP Bush) (NN administration) )
+    (, ,) 
+    (PP (IN in) 
+      (NP (DT a) (JJ friend-of-the-court) (NN brief) ))
+    (, ,) 
+    (VP (VBD said) 
+      (NP 
+        (SBAR (IN that) 
+          (S 
+            (NP (DT the) (NNP Constitution) )
+            (VP (VBZ gives) 
+              (NP (NNS states) )
+              (NP (JJ broad) (NN flexibility) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB require) 
+                    (SBAR (IN that) 
+                      (S 
+                        (NP (JJ medical) (NNS patients) 
+                          (PP (IN in) 
+                            (NP 
+                              (ADJP (JJ permanent) 
+                                (, ,)
+                                (JJ vegetative) )
+                              (NNS conditions) )))
+                        (VP (VBP continue) 
+                          (S 
+                            (NP (-NONE- *) )
+                            (TO to) 
+                            (VP (VB receive) 
+                              (NP (JJ artificial) (NN feeding) 
+                                (CC and)
+                                (NNS fluids) )))))))))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (DT The) (NN brief) )
+      (, ,) 
+      (VP (VBN filed) 
+        (PP (IN by) 
+          (NP 
+            (NP (NNP Solicitor) (NNP General) )
+            (NP (NNP Kenneth) (NNP Starr) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN family) 
+            (PP (IN of) 
+              (NP (DT a) (NNP Missouri) (NN woman) 
+                (PP (IN in) 
+                  (NP (JJ such) (DT a) (JJ vegetative) (NN state) )))))
+          (VBZ does) (RB n't) 
+          (VP (VB have) 
+            (NP (DT the) (JJ constitutional) (NN right) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB insist) 
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP (DT the) (NN state) )
+                      (VP (VB cut) (RP off) 
+                        (NP (JJ artificial) (NN feeding) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN brief) )
+    (VP (VBZ makes) 
+      (NP 
+        (NP (RB roughly) (DT the) (JJ same) (NN argument) )
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT the) (NN government) )
+            (VP (VBD made) 
+              (NP (-NONE- T) )
+              (NP (JJ last) (NN week) )
+              (PP (IN in) 
+                (NP 
+                  (NP (DT a) (NN brief) )
+                  (VP (VBG urging) 
+                    (NP 
+                      (ADJP (JJR more) )
+                      (NN leeway) 
+                      (PP (IN for) 
+                        (NP (NNS states) ))
+                      (S 
+                        (NP (-NONE- *) )
+                        (TO to) 
+                        (VP (VB restrict) 
+                          (NP (NNS abortions) )))))))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (DT The) (NN brief) )
+      (VP (VBN filed) (NN yesterday) ))
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NN state) (NNS regulations) )
+          (MD need) (RB only) 
+          (VP 
+            (VP (VB be) 
+              (ADJP (`` ``) (JJ reasonable) ('' '') )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB withstand) 
+                  (NP (JJ federal) (NN court) (NN review) ))))
+            (, ,) 
+            (NP 
+              (NP (DT an) (JJ easy) (NN standard) )
+              (SBAR (IN for) 
+                (S 
+                  (NP (NNS states) )
+                  (TO to) 
+                  (VP (VB satisfy) 
+                    (NP (-NONE- T) ))))))))))
+  (. .) )
+( (S (RB Moreover) 
+    (, ,)
+    (S 
+      (NP (DT the) (NN brief) )
+      (VP (VBZ is) 
+        (ADJP (JJ critical) 
+          (PP (IN of) 
+            (NP (NNS arguments) 
+              (PP (IN for) 
+                (NP (DT a) (JJ constitutional) (NN right) 
+                  (PP (TO to) 
+                    (NP (NN privacy) ))))))))
+      (, ,) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG saying) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP (DT any) (NN right) 
+                (PP (IN for) 
+                  (NP (JJ competent) (NNS individuals) ))
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB refuse) 
+                    (NP (JJ medical) (NN treatment) ))))
+              (MD should) 
+              (VP (VB be) 
+                (VP 
+                  (VP (VBN rooted) 
+                    (PP (IN in) 
+                      (NP (NN tradition) )))
+                  (CC and) 
+                  (VP (VBN based) 
+                    (PP 
+                      (PP (IN on) 
+                        (NP (DT the) 
+                          (ADJP (JJ 14th) )
+                          (NNP Amendment) (`` ``) (JJ due) (NN process) ('' '') (NN protection) 
+                          (PP (IN of) 
+                            (NP (`` ``) (NN liberty) 
+                              (, ,)
+                              ('' '') ))))
+                      (RB not) 
+                      (PP (IN on) 
+                        (NP 
+                          (NP (`` ``) (JJ abstract) (NNS notions) ('' '') 
+                            (PP (IN of) 
+                              (NP (NN privacy) )))
+                          (, ,) 
+                          (SBAR 
+                            (WHNP (WDT which) )
+                            (S 
+                              (NP (DT the) (NNP Constitution) )
+                              (VBZ does) (RB n't) 
+                              (VP (VB mention) 
+                                (NP (-NONE- T) ))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (NP (NN Abortion) (NN Case) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNS Organizations) )
+      (VP (VBG supporting) 
+        (NP (DT the) (JJ constitutional) (NN right) 
+          (PP (TO to) 
+            (NP (NN abortion) )))))
+    (VP (VBD filed) 
+      (NP (DT a) (JJ friend-of-the-court) (NN brief) )
+      (PP (IN in) 
+        (NP (CD two) (NNP Supreme) (NNP Court) (NNS cases) ))
+      (PP (IN in) 
+        (NP (NN behalf) 
+          (PP (IN of) 
+            (NP (DT an) (JJ unprecedented) (NN number) 
+              (PP (IN of) 
+                (NP (NNS groups) ))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (DT The) (NN brief) )
+      (, ,) 
+      (VP (VBN coordinated) 
+        (PP (IN by) 
+          (NP 
+            (NP (DT the) (NNP American) (NNP Civil) (NNP Liberties) (NNP Union) )
+            (CC and) 
+            (NP (NNP Planned) (NNP Parenthood) (NNP Federation) 
+              (PP (IN of) 
+                (NP (NNP America) ))))))
+      (, ,) )
+    (VBD was) 
+    (VP (VBN filed) 
+      (PP (IN in) 
+        (NP (NN behalf) 
+          (PP (IN of) 
+            (NP (CD 274) (NNS groups) ))))
+      (, ,) 
+      (SBAR (IN although) 
+        (S 
+          (NP (JJ many) 
+            (PP (IN of) 
+              (NP (PRP them) )))
+          (VP (VBD were) 
+            (NP (JJ small) (NN community) (JJ religious) (NNS organizations) )
+            (ADVP (RB rather) 
+              (PP (IN than) 
+                (ADJP (JJ national) 
+                  (PP (IN in) 
+                    (NP (NN membership) ))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN brief) )
+    (VP (VBD argued) 
+      (NP 
+        (SBAR (IN that) 
+          (S 
+            (NP 
+              (NP 
+                (NP (DT the) (CD 1973) (NN decision) )
+                (VP (VBG recognizing) 
+                  (NP (DT the) (NN right) 
+                    (PP (TO to) 
+                      (NP (NN abortion) )))))
+              (, ,) 
+              (NP (NNP Roe) 
+                (PP (IN vs.) 
+                  (NP (NNP Wade) )))
+              (, ,) )
+            (X 
+              (VP (VBD was) 
+                (ADJP (JJ correct) ))
+              (CC and) 
+              (X (MD should) (RB n't) 
+                (VP (VB be) 
+                  (VP (VBN reconsidered) )))))))))
+  (. .) )

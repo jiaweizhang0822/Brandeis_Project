@@ -1,0 +1,44 @@
+
+ 
+ 
+ 
+
+(S (NP (DT THE) (NN HIGH-SCHOOL) (NN dropout) (NN rate)
+       (PP (IN in)
+           (NP (NP (NNP Pope) (NNP County))
+               (, ,)
+               (NP (NNP Ill.))
+               (, ,))))
+   (VP (VBZ is)
+       (ADJP (RB markedly)
+             (JJR lower)
+             (PP (IN than)
+                 (NP (NP (CD one))
+                     (VP (VBN stated)
+                         (PP (IN in)
+                             (NP (DT a) (JJ page-one) (NN article)))
+                         (NP (NNP Oct.) (CD 13)))))))
+   (, ,)
+   (VP (VBG according)
+       (PP (TO to)
+           (NP
+               (NP (DT the) (NN area))
+               (POS 's) (NN high-school) (NN principal))))
+   (. .))
+ 
+
+(S
+   (NP (DT The) (NN figure)
+       (PP (IN in)
+           (NP (DT the) (NN article))))
+   (VBD was)
+   (VP (VBN based)
+       
+       (PP (IN on)
+           (NP (NP (JJ federal) (NNS data))
+               (VP (VBN provided)
+                   (PP (IN by)
+                       (NP (DT the) (NNP Lower) (NNP Mississippi) (NNP Delta) (NNP Development) (NNP Commission)))))))
+   (. .))
+ 
+ 

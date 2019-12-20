@@ -1,0 +1,322 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP LAC) (NNP Minerals) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD agreed) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB buy) 
+                (NP (CD 65) (NN %) 
+                  (PP (IN of) 
+                    (NP 
+                      (ADJP (JJ Denver-based) )
+                      (NNP Bond) (NNP International) (NNP Gold) (NNP Inc.) )))
+                (PP (IN for) 
+                  (NP 
+                    (NP ($ $) (CD 10) )
+                    (NP 
+                      (NP (DT a) (NN share) ))
+                    (, ,) (CC or) 
+                    (NP ($ $) (CD 373.8) (CD million) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN stake) 
+      (PP (IN in) 
+        (NP (DT the) (JJ gold-mining) (NN company) )))
+    (VBZ is) 
+    (VP (VBN held) 
+      (PP (IN by) 
+        (NP 
+          (NP (NNS companies) )
+          (VP (VBN controlled) 
+            (PP (IN by) 
+              (NP 
+                (NP (JJ Australian) (NN financier) )
+                (NP 
+                  (NP (NNP Alan) (NNP Bond) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP (WP who) )
+                    (S 
+                      (NP (-NONE- T) )
+                      (VBZ has) 
+                      (VP (VBN been) 
+                        (VP (VBG selling) 
+                          (NP (NNS assets) )
+                          (S 
+                            (NP (-NONE- *) )
+                            (TO to) 
+                            (VP (VB reduce) 
+                              (NP (NN debt) )))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP LAC) )
+      (, ,) 
+      (NP (DT a) (JJ gold-mining) (NN company) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN transaction) )
+          (VP (VBZ is) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB close) 
+                (NP (NNP Nov.) (CD 21) )
+                (, ,) 
+                (ADJP (JJ subject) 
+                  (PP (TO to) 
+                    (NP 
+                      (NP (JJ regulatory) (NN approval) )
+                      (CC and) 
+                      (NP 
+                        (ADJP (JJ other) (JJ customary) )
+                        (NNS conditions) )))))))))))
+  (. .) )
+( (S 
+    (PP (IN In) 
+      (NP (JJ composite) (NN trading) 
+        (PP (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+    (, ,) 
+    (S 
+      (NP (NNP Bond) (NNP International) )
+      (VP (VBD closed) 
+        (ADJP (JJ unchanged) )
+        (PP (IN at) 
+          (NP ($ $) (CD 8.75) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN purchase) )
+    (VP (VBZ helps) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP LAC) )
+          (VP (VB make) (RP up) 
+            (PP (IN for) 
+              (NP 
+                (NP 
+                  (NP (DT a) (NN court) (NN decision) )
+                  (ADVP (RBR earlier) 
+                    (NP (DT this) (NN year) )))
+                (SBAR 
+                  (WHPP (IN in) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP (PRP it) )
+                    (VP (VBD lost) 
+                      (NP (DT a) 
+                        (ADJP (JJ long) (JJ legal) )
+                        (NN battle) 
+                        (PP (IN with) 
+                          (NP 
+                            (ADJP (JJ Toronto-based) )
+                            (NNP Corona) (NNP Corp.) ))
+                        (PP (IN for) 
+                          (NP (NN control) 
+                            (PP (IN of) 
+                              (NP 
+                                (NP (NNP Canada) )
+                                (POS 's) 
+                                (ADJP (JJS richest) )
+                                (NN gold) (NN mine) )))))))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNP Bond) (NNP International) (NN stake) )
+    (MD would) 
+    (VP 
+      (VP (RB roughly) (VB double) 
+        (NP 
+          (NP (NNP LAC) )
+          (POS 's) (NN gold) (NN production) ))
+      (CC and) 
+      (VP (RB substantially) (VB reduce) 
+        (NP (PRP$ its) (JJ average) (NN cost) 
+          (PP (IN of) 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG producing) 
+                (NP (NN gold) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Bond) (NNP International) )
+    (VBZ is) 
+    (VP (VBN expected) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB produce) 
+          (NP 
+            (NP (RB about) (CD 600,000) (NNS ounces) 
+              (PP (IN of) 
+                (NP (NN gold) )))
+            (SBAR-1 (-NONE- *pseudo-attach*) ))
+          (PP (IN in) 
+            (NP 
+              (NP (DT the) (JJ fiscal) (NN year) )
+              (VP (VBG ending) 
+                (NP (NNP June) (CD 30) ))))
+          (, ,) 
+          (SBAR-1 
+            (WHPP (IN of) 
+              (WHNP (WDT which) ))
+            (S 
+              (NP (RB roughly) (NNS two-thirds) )
+              (MD would) 
+              (VP (VB be) 
+                (ADJP (JJ attributable) 
+                  (PP (TO to) 
+                    (NP (NNP LAC) ))
+                  (PP (IN from) 
+                    (NP (DT the) (NN date) 
+                      (SBAR (-NONE- 0) 
+                        (S 
+                          (NP (DT the) (NN acquisition) )
+                          (VBZ is) 
+                          (VP (VBN completed) )))))))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNP LAC) )
+      (NP (PRP itself) ))
+    (VBZ is) 
+    (VP (VBN expected) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB produce) 
+          (NP (RB about) (CD 400,000) (NNS ounces) )
+          (NP (DT this) (NN year) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (JJ Last) (NN year) )
+    (, ,) 
+    (S 
+      (NP (NNP Bond) (NNP International) )
+      (VP (VBD spent) 
+        (NP (DT an) (NN average) ($ $) (CD 204) )
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB produce) 
+            (NP (DT an) (NN ounce) 
+              (PP (IN of) 
+                (NP (NN gold) )))
+            (PP (IN at) 
+              (NP (NNS mines) 
+                (PP 
+                  (PP (IN in) 
+                    (NP (NNP North) 
+                      (CC and)
+                      (NNP South) (NNP America) ))
+                  (CC and) 
+                  (PP (IN in) 
+                    (NP (NNP Australia) )))))))
+        (, ,) 
+        (ADJP (RB significantly) (JJR lower) 
+          (PP (IN than) 
+            (NP 
+              (NP (NNP LAC) )
+              (POS 's) 
+              (ADJP (JJ own) (JJ average) )
+              (NN cost) 
+              (PP (IN of) 
+                (NP 
+                  (NP ($ $) (CD 260) )
+                  (NP (DT an) (NN ounce) )))))))))
+  (. .) )
+( (S 
+    (NP (NNS Analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (JJ real) (NN jewel) 
+            (PP (IN in) 
+              (NP (DT the) (NNP Bond) (NNP International) (NN crown) )))
+          (VP (VBZ is) 
+            (NP (PRP$ its) (CD 83) (NN %) (NN stake) 
+              (PP (IN in) 
+                (NP 
+                  (NP 
+                    (NP (NNP Chile) )
+                    (POS 's) (NNP El) (NNP Indio) (NN mine) )
+                  (, ,) 
+                  (SBAR 
+                    (WHNP (WDT which) )
+                    (S 
+                      (NP (PRP they) )
+                      (VP (VBP say) 
+                        (SBAR (-NONE- 0) 
+                          (S 
+                            (NP (-NONE- T) )
+                            (VP (VBD had) 
+                              (NP (NN production) (NNS costs) 
+                                (PP (IN of) 
+                                  (PP (IN below) 
+                                    (NP 
+                                      (NP ($ $) (CD 100) )
+                                      (NP (DT an) (NN ounce) )))))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT A) (NNP LAC) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NN company) )
+          (VP (VBZ has) 
+            (NP (`` ``) (JJ enough) (NN cash) ('' '') 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB pay) 
+                  (PP (IN for) 
+                    (NP (DT the) (NNP Bond) (NNP International) (NN stake) ))
+                  (PP (IN without) 
+                    (NP 
+                      (VP (VBG borrowing) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (NNP LAC) )
+          (VP (VBZ has) 
+            (ADVP-2 (-NONE- *pseudo-attach*) )
+            (NP (DT no) (NNS intentions) 
+              (ADVP-2 (`` ``) (RB right) (RB now) ('' '') )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (RBR further) (VB increase) 
+                  (NP (PRP$ its) (NN stake) 
+                    (PP (IN in) 
+                      (NP (NNP Bond) (NNP International) )))))))))))
+  (. .) )

@@ -1,0 +1,942 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (DT The) (NNP White) (NNP House) (NN budget) (NN director) )
+      (, ,) 
+      (VP (VBG prodding) 
+        (S 
+          (NP (NNP Congress) )
+          (TO to) 
+          (VP (VB finish) 
+            (NP (NN work) )
+            (RB quickly) 
+            (PP (IN on) 
+              (NP (CD 1990) (NN budget) (NNS bills) )))))
+      (, ,) )
+    (VBZ is) 
+    (VP (VBG trying) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB put) 
+          (NP (DT some) (NN sting) )
+          (PP (IN into) 
+            (NP 
+              (NP (DT the) (JJ little-feared) (NN spending) (NNS cuts) )
+              (SBAR 
+                (WHNP (WDT that) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VBD were) 
+                  (VP (VBN triggered) 
+                    (NP (NN yesterday) )
+                    (PP (IN under) 
+                      (NP (DT the) (NNP Gramm-Rudman) (NN deficit-reduction) (NN law) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (TO To) 
+      (VP (VB impose) 
+        (NP (`` ``) (DT a) (JJ little) (NN bit) (JJR more) (NN discipline) ('' '') )
+        (PP (IN on) 
+          (NP (DT the) (NN budget) (NN process) ))))
+    (, ,) 
+    (S 
+      (NP (NNP Budget) (NNP Director) 
+        (NP (NNP Richard) (NNP Darman) ))
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP he) )
+            (MD wo) (RB n't) 
+            (VP (VB give) 
+              (NP (NNS agencies) )
+              (NP (JJ much) (NN flexibility) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB shift) 
+                    (NP (NNS funds) )
+                    (PP (IN among) 
+                      (NP (JJ different) (NNS programs) ))
+                    (PP (IN as) 
+                      (NP (DT a) (NN means) 
+                        (PP (IN of) 
+                          (NP 
+                            (S 
+                              (NP (-NONE- *) )
+                              (VP (VBG coping) 
+                                (PP (IN with) 
+                                  (NP 
+                                    (NP (DT the) (NN law) )
+                                    (POS 's) (NNS requirements) )))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT Some) (NN government) (NN budget) (NNS experts) )
+    (VP (VBD suggested) 
+      (SBAR (IN that) 
+        (S 
+          (NP 
+            (NP (NNP Mr.) (NNP Darman) )
+            (POS 's) (NN maneuver) )
+          (VBZ does) (RB n't) 
+          (VP (VB amount) 
+            (PP (TO to) 
+              (ADJP (RB much) (JJR more) 
+                (PP (IN than) 
+                  (NP (JJ tough) (NN talk) )))))))))
+  (. .) )
+( (S (RB Nevertheless) 
+    (, ,)
+    (S 
+      (NP (PRP it) )
+      (MD may) 
+      (VP (VB add) 
+        (PP (TO to) 
+          (NP (NN pressure) 
+            (PP (IN on) 
+              (NP (DT the) (NNP House) ))
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP 
+                (VP (VB follow) 
+                  (NP 
+                    (NP (DT the) (NNP Senate) )
+                    (POS 's) (NN lead) ))
+                (CC and) 
+                (VP (VB strip) 
+                  (PP (IN from) 
+                    (NP (VBG pending) (NN budget) (NN legislation) ))
+                  (NP (NNS scores) 
+                    (PP (IN of) 
+                      (NP 
+                        (ADJP (JJ costly) 
+                          (, ,)
+                          (JJ extraneous) )
+                        (NNS provisions) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP House) (NNP Speaker) 
+      (NP (NNP Thomas) (NNP Foley) ))
+    (VP (VBD met) 
+      (PP (IN with) 
+        (NP (NN committee) (NNS chairmen) ))
+      (NP (NN yesterday) )
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB try) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB move) 
+              (PP (IN in) 
+                (NP (DT that) (NN direction) ))))))))
+  (. .) )
+((S (`` ``) 
+    (S 
+      (NP (PRP We) )
+      (VBP are) 
+      (VP (VBG going) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB try) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB make) 
+                (NP 
+                  (NP (DT an) (NN agreement) 
+                    (PP (IN with) 
+                      (NP (DT the) (NNP Senate) )))
+                  (SBAR (IN that) 
+                    (S 
+                      (NP (DT the) (NN president) )
+                      (MD would) 
+                      (VP (VB sign) 
+                        (NP (-NONE- T) )))))))))))
+    (, ,) ('' '') 
+    (S 
+      (NP (DT the) (NNP Washington) (NN state) (NNP Democrat) )
+      (VP (VBD told) 
+        (NP (NNS reporters) ))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNS talks) )
+    (VP (VBP are) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB continue) )
+        (NP (NN today) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP House) (NNPS Republicans) )
+    (RB also) 
+    (VP (VBP are) 
+      (ADJP (JJ reluctant) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB pare) (RP down) 
+            (NP (DT the) (JJ 1,878-page) (NN measure) )))))
+    (: --) 
+    (SBAR 
+      (PP (IN at) 
+        (ADJP (JJS least) ))
+      (IN until) 
+      (S 
+        (NP (PRP they) )
+        (VP (VBP are) 
+          (ADJP (JJ guaranteed) 
+            (SBAR (IN that) 
+              (S 
+                (NP 
+                  (NP (DT the) (NNS provisions) )
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP (PRP they) )
+                      (VP (VBP care) 
+                        (PP (IN about) 
+                          (NP (-NONE- T) ))))))
+                (MD will) 
+                (VP (VB get) 
+                  (NP (DT another) (NN vote) )))))))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (NP (DT A) (NN lot) 
+        (PP (IN of) 
+          (NP (DT the) (NNS guys) )))
+      (. .) (. .) (. .) (VBP do) (RB n't) 
+      (VP (VB want) 
+        (NP 
+          (NP (PRP it) )
+          (NP (DT all) )
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (RB just) (VB die) )))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBD said) )
+      (NP 
+        (NP (NNP House) (NNP GOP) (NN leader) 
+          (NP (NNP Robert) (NNP Michel) ))
+        (-LRB- -LRB-) 
+        (NP 
+          (NP (NNP R.) )
+          (, ,) 
+          (NP (NNP Ill) (. .) ))
+        (-RRB- -RRB-) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP House) )
+    (VP (VBD did) (RB n't) 
+      (NP (NN move) 
+        (ADVP (RB quickly) (RB enough) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB meet) 
+              (NP (DT the) (NNP Gramm-Rudman) (NN deadline) 
+                (PP (IN for) 
+                  (NP 
+                    (S 
+                      (NP (-NONE- *) )
+                      (VP (VBG passing) 
+                        (NP (NN legislation) ))))))))
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB bring) 
+              (NP (DT the) (VBN projected) (JJ fiscal) (CD 1990) (NN deficit) )
+              (PP (IN below) 
+                (NP (DT the) ($ $) (CD 110) (CD billion) (NN target) ))))))))
+  (. .) )
+( (S 
+    (SBAR (IN As) 
+      (S 
+        (NP (DT the) (NN law) )
+        (VP (VBZ requires) )))
+    (, ,) 
+    (S 
+      (NP (NNP President) (NNP Bush) )
+      (NP (NN yesterday) )
+      (VP (VBD signed) 
+        (NP 
+          (NP (DT an) (NN order) )
+          (VP (VBG cutting) 
+            (NP (JJ federal) (NN spending) )
+            (PP (IN across) 
+              (NP (DT the) (NN board) ))
+            (PP (IN by) 
+              (NP ($ $) (CD 16.1) (CD billion) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR (IN If) 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBN removed) 
+          (PP (IN from) 
+            (NP (DT the) (NN budget) (NN legislation) )))))
+    (, ,) 
+    (S 
+      (NP 
+        (NP (DT the) (JJ extraneous) (NNS provisions) 
+          (PP (IN in) 
+            (NP (DT the) (NNP House) (NN bill) )))
+        (: --) 
+        (VP (VBG including) 
+          (NP (NNS ones) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP 
+                (VP (VB cut) 
+                  (NP (NNS capital-gains) (NNS taxes) ))
+                (, ,) 
+                (VP (VB provide) 
+                  (NP (JJ new) (NN aid) )
+                  (PP (IN for) 
+                    (NP (NN child) (NN care) )))
+                (CC and) 
+                (VP (VB repeal) 
+                  (NP (DT the) (NN catastrophic-illness) (NN insurance) (NN program) ))))))
+        (: --) )
+      (MD could) 
+      (VP (VB be) 
+        (VP (VBN reintroduced) 
+          (PP (IN as) 
+            (NP (JJ separate) (NNS bills) ))))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (NP 
+        (SBAR 
+          (WHNP (WP What) )
+          (S 
+            (NP (PRP we) )
+            (VP (VBP 're) 
+              (VP (VBG trying) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB explore) 
+                    (NP (-NONE- T) )
+                    (RB now) )))))))
+      (VP (VBZ is) 
+        (SBAR 
+          (WHADVP (WRB how) )
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB protect) 
+              (NP (DT these) (JJ other) (NNS issues) ))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (NP 
+        (NP (NNP House) (NNP Budget) (NNP Committee) (NNP Chairman) 
+          (NP (NNP Leon) (NNP Panetta) ))
+        (-LRB- -LRB-) 
+        (NP 
+          (NP (NNP D.) )
+          (, ,) 
+          (NP (NNP Calif) (. .) ))
+        (-RRB- -RRB-) )))
+  (. .) )
+( (`` ``) 
+  (S 
+    (NP (PRP We) )
+    (VBP 're) (RB not) 
+    (VP (VBG going) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (RB suddenly) (VB abandon) 
+          (NP (PRP them) )))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (NNPS Reps.) (NNP Foley) 
+        (CC and)
+        (NNP Michel) )
+      (VBD had) 
+      (VP (VBN agreed) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB streamline) 
+            (NP (DT the) (NN deficit-reduction) (NN bill) ))))
+      (PP (IN before) 
+        (S 
+          (NP (DT the) (NNP House) )
+          (RB even) 
+          (VP (VBD took) 
+            (NP (PRP it) )
+            (RP up) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP 
+        (NP (NNP Mr.) (NNP Darman) )
+        (CC and) 
+        (NP (NNP White) (NNP House) (NNP Chief) 
+          (PP (IN of) 
+            (NP (NNP Staff) ))
+          (NP (NNP John) (NNP Sununu) )))
+      (VBD had) 
+      (VP (VBN torpedoed) 
+        (NP (DT that) (NN plan) ))
+      (PP (IN in) 
+        (NP (NN order) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB press) 
+              (NP (PRP$ their) (NN fight) 
+                (PP (IN for) 
+                  (NP (DT a) (NN cut) 
+                    (PP (IN in) 
+                      (NP (NNS capital-gains) (NNS taxes) )))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (JJ Congressional) (NNS leaders) )
+    (VP (VBD rejected) 
+      (NP (NNS suggestions) 
+        (SBAR (IN that) 
+          (S 
+            (NP (PRP$ their) (NNS attempts) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB speed) 
+                  (NP (DT the) (NN deficit-reduction) (NN bill) ))))
+            (VP (VBD had) 
+              (NP (NN anything) )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB do) 
+                  (NP (-NONE- T) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP (NNP Friday) )
+                      (POS 's) (NN stock) (NN market) (NN decline) ))))))))))
+  (. .) )
+((S (`` ``) 
+    (S 
+      (NP (PRP We) )
+      (VBP are) 
+      (VP (VBG responding) 
+        (PP (TO to) 
+          (NP (PRP$ our) (NN responsibility) 
+            (PP (IN under) 
+              (NP (DT the) (NN budget) (NN act) ))))))
+    (, ,) ('' '') 
+    (S 
+      (NP (NNP Rep.) (NNP Foley) )
+      (VP (VBD said) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (RB Even) (IN before) 
+      (S 
+        (NP (DT the) (NN size) 
+          (PP (IN of) 
+            (NP 
+              (NP (NN yesterday) )
+              (POS 's) (NN rebound) 
+              (PP (IN in) 
+                (NP (NN stock) (NNS prices) )))))
+        (VBD was) 
+        (VP (VBN known) )))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Darman) )
+      (VP (VBD said) 
+        (SBAR (IN that) 
+          (S 
+            (NP 
+              (NP (NNP Friday) )
+              (POS 's) (NN plunge) )
+            (`` ``) (MD would) 
+            (VP (VB have) 
+              (NP (DT no) (JJ significant) (NN effect) )
+              (PP (IN on) 
+                (NP (DT the) (NN budget) (NN process) )))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR 
+      (WHADVP (WRB When) )
+      (S 
+        (NP (DT the) (JJ fiscal) (NN year) )
+        (VP (VBD began) 
+          (PP (IN on) 
+            (NP (NNP Oct.) (CD 1) )))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NNP Office) 
+        (PP (IN of) 
+          (NP (NNP Management) 
+            (CC and)
+            (NNP Budget) )))
+      (VP (VBD began) 
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG withholding) 
+            (NP 
+              (NP (CD 4.3) (NN %) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NNP Pentagon) )
+                    (POS 's) (NN money) )))
+              (CC and) 
+              (NP (CD 5.3) (NN %) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ other) (NNS agencies) )
+                    (POS ') (NN money) )))))))
+      (, ,) 
+      (SBAR (IN as) 
+        (S 
+          (NP (DT the) (NNP Gramm-Rudman) (NN law) )
+          (VP (VBZ requires) )))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (DT Those) (NNS cuts) )
+      (, ,) 
+      (VP (VBN known) 
+        (PP (IN as) 
+          (NP (DT a) (`` ``) (NN sequester) ('' '') ))
+        (PP (IN in) 
+          (NP (NN budget) (NN jargon) )))
+      (, ,) )
+    (VP (VBD became) 
+      (ADJP (JJ permanent) ))
+    (NP (NN yesterday) )
+    (, ,) 
+    (SBAR (IN although) 
+      (S 
+        (NP (NNP Congress) )
+        (MD could) 
+        (VP (VB cancel) (CC or) (VB rescind) 
+          (NP (PRP them) ))
+        (SBAR 
+          (WHADVP (WRB whenever) )
+          (S 
+            (NP (PRP it) )
+            (VP (VBZ wants) (TO to) ))))))
+  (. .) )
+( (S 
+    (PP (IN Under) 
+      (NP (DT a) (JJ special) (NN provision) 
+        (PP (IN of) 
+          (NP (DT the) (NN law) ))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN government) )
+      (NP (RB yesterday) )
+      (VP (VBD began) 
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG slicing) 
+            (NP (CD 2) (NN %) )
+            (PP (IN from) 
+              (NP 
+                (NP (NNP Medicare) (NNS payments) )
+                (VP (VBN made) 
+                  (PP (TO to) 
+                    (NP (NNS doctors) 
+                      (CC and)
+                      (NNS hospitals) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (RB Nearly) (NNS two-thirds) 
+      (PP (IN of) 
+        (NP 
+          (NP (DT all) (JJ federal) (NN spending) )
+          (: --) 
+          (VP (VBG including) 
+            (NP 
+              (NP (NNP Social) (NNP Security) (NNS payments) )
+              (CC and) 
+              (NP (NNS salaries) 
+                (PP (IN of) 
+                  (NP (JJ current) (JJ federal) (NNS employees) )))))
+          (: --) )))
+    (VP (VBZ is) 
+      (ADJP (JJ exempt) 
+        (PP (IN from) 
+          (NP (DT the) (NNP Gramm-Rudman) (NNS cuts) )))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN rest) 
+      (PP (IN of) 
+        (NP (DT the) (NN government) )))
+    (MD will) 
+    (VP (VB be) 
+      (VP (VBN pinched) 
+        (, ,)
+        (ADVP (RB perhaps) 
+          (PP (IN within) 
+            (NP (DT a) (NN month) )))
+        (, ,) ))
+    (SBAR (IN if) 
+      (S 
+        (NP (DT the) (JJ cut) (NNS funds) )
+        (VBP are) (RB n't) 
+        (VP (VBN restored) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG Taking) 
+        (NP (DT a) (JJ tough) (NN bargaining) (NN position) )))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Darman) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP he) )
+            (VP (VBZ opposes) 
+              (S 
+                (NP (-NONE- *) )
+                (VP (VBG restoring) 
+                  (NP (DT the) (NNS funds) ))
+                (SBAR 
+                  (WHADVP (WRB when) )
+                  (S 
+                    (NP (NNP Congress) )
+                    (VP (RB finally) (VBZ wraps) (RP up) 
+                      (NP (PRP$ its) (NN work) 
+                        (PP (IN on) 
+                          (NP (CD 1990) (NN spending) )))))))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (DT The) (NNP Gramm-Rudman) (NN penalty) )
+      (MD wo) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN taken) (RB seriously) ))
+      (SBAR (IN if) 
+        (S 
+          (NP (NNS agencies) )
+          (VP (RB merely) (`` ``) (VBP figure) (RB out) 
+            (SBAR 
+              (WHADVP (WRB how) )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB juggle) 
+                  (NP (DT the) (NNS accounts) )))))
+          (, ,) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG trusting) 
+              (SBAR (IN that) 
+                (S 
+                  (NP (NNP Congress) )
+                  (VBZ is) 
+                  (VP (VBG going) 
+                    (S 
+                      (NP (-NONE- *) )
+                      (TO to) 
+                      (VP (VB restore) 
+                        (NP (PDT all) (DT the) (NN money) )
+                        (ADVP 
+                          (NP (DT a) (JJ little) (NN bit) )
+                          (RB later) )))))))))))
+    (, ,) ('' '') 
+    (S 
+      (NP (PRP he) )
+      (VP (VBD said) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (JJ Congressional) (NNPS Democrats) )
+    (VP (VBD were) 
+      (ADJP (JJ quick) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB disagree) )))))
+  (. .) )
+((S 
+    (NP 
+      (NP (NNP Senate) (NNP Budget) (NNP Chairman) 
+        (NP (NNP James) (NNP Sasser) ))
+      (-LRB- -LRB-) 
+      (NP 
+        (NP (NNP D.) )
+        (, ,) 
+        (NP (NNP Tenn) (. .) ))
+      (-RRB- -RRB-) )
+    (VP (VBD insisted) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (NP (PRP We) )
+        (VBP do) (RB n't) 
+        (VP (VB do) 
+          (NP (DT the) (JJ American) (NNS people) )
+          (ADJP (RB any) (JJ good) (RB whatsoever) )
+          (PP (IN by) 
+            (NP 
+              (S 
+                (NP (-NONE- *) )
+                (VP (VBG standing) (RB by) ))
+              (CC and) 
+              (S 
+                (NP (-NONE- *) )
+                (VP (VBG letting) 
+                  (NP (DT these) (JJ automatic) (NNS cuts) )
+                  (VP (VBP go) 
+                    (PP (IN into) 
+                      (NP (NN effect) ))))))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (TO To) 
+      (VP (VB quicken) 
+        (NP 
+          (NP (DT the) (NN pain) )
+          (SBAR (IN that) 
+            (S 
+              (NP (DT the) (NN spending) (NNS cuts) )
+              (VBP are) 
+              (VP (VBN intended) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB inflict) 
+                    (NP (-NONE- T) )))))))))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Darman) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT the) (NNP OMB) )
+            (VBZ is) 
+            (VP (VBG making) 
+              (NP (DT the) (NNS cuts) )
+              (PP (IN from) 
+                (NP (DT each) (JJ individual) (NN program) 
+                  (, ,)
+                  (NN project) (CC or) (NN activity) 
+                  (PP (IN in) 
+                    (NP (DT the) (NN budget) ))))))))))
+  (. .) )
+( (S 
+    (S 
+      (PP (IN Until) 
+        (NP (RB yesterday) ))
+      (, ,) 
+      (S 
+        (NP (NNP OMB) )
+        (VBD had) 
+        (VP (VBN indicated) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP (PRP it) )
+              (MD would) 
+              (VP (VB cut) 
+                (PP (IN at) 
+                  (NP (DT the) (`` ``) (NN account) ('' '') (NN level) ))))))))
+    (: ;) 
+    (S 
+      (NP (DT each) (NN account) )
+      (VBZ is) 
+      (VP (VBN comprised) 
+        (PP (IN of) 
+          (NP (JJ many) (NNS programs) 
+            (, ,)
+            (NNS projects) (CC or) (NNS activities) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Darman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (JJ new) (NN approach) )
+          (MD will) 
+          (VP (VB give) 
+            (NP (NNS agencies) )
+            (NP (`` ``) (JJR less) (NN ability) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB shift) 
+                  (PP (IN from) 
+                    (NP (CD one) (NN area) ))
+                  (PP (TO to) 
+                    (NP (NN another) ))))
+              (: ...) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB fudge) (IN over) 
+                  (NP (NNS things) ))))))))
+    (. .) ('' '') ))
+( (S (CC But) 
+    (PP 
+      (PP (IN at) 
+        (ADJP (JJS least) ))
+      (IN for) 
+      (NP (DT some) (JJ major) (NN spending) (NNS programs) ))
+    (, ,) 
+    (S 
+      (NP (NN government) (NN budget) (NNS experts) )
+      (VP (VBD said) ))
+    (, ,) 
+    (S 
+      (NP (NNP OMB) )
+      (VP (VBZ has) (RB n't) 
+        (NP (DT any) (JJ significant) (NN control) 
+          (PP (IN of) 
+            (NP (JJ individual) (NNS programs) 
+              (, ,)
+              (NNS projects) (CC or) (NNS activities) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S 
+    (S 
+      (NP (RB First) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB suffer) 
+            (PP (IN from) 
+              (NP (DT the) (NN spending) (NNS cuts) )))))
+      (MD will) 
+      (VP (VB be) 
+        (NP 
+          (NP (NNS programs) )
+          (SBAR 
+            (WHNP (WDT that) )
+            (S 
+              (NP (-NONE- T) )
+              (VP (VBP spend) 
+                (NP (JJS most) 
+                  (PP (IN of) 
+                    (NP (PRP$ their) (NN money) )))
+                (PP (IN on) 
+                  (NP (NNS personnel) ))))))))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Darman) )
+      (VP (VBD said) )))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (MD would) (RB n't) 
+    (VP (VB predict) 
+      (SBAR 
+        (ADJP 
+          (WHADVP (WRB how) )
+          (JJ long) )
+        (S 
+          (NP (PRP it) )
+          (MD would) 
+          (VP (VB be) )
+          (PP (IN before) 
+            (S 
+              (NP (DT the) (JJ first) (NNS layoffs) )
+              (, ,) 
+              (PP (IN if) 
+                (NP (DT any) ))
+              (, ,) 
+              (VP (VBP occur) )))))))
+  (. .) )
+( (S 
+    (PP (IN Under) 
+      (NP (DT the) (NN law) ))
+    (, ,) 
+    (S 
+      (NP (NNP President) (NNP Bush) )
+      (MD may) 
+      (VP (VB exempt) 
+        (NP (JJ military) (NNS personnel) (NNS accounts) )
+        (PP (IN from) 
+          (NP (DT the) (NN spending) (NNS cuts) )))))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (VBZ has) (RB n't) (RB yet) 
+    (VP (VBN done) (RB so) ))
+  (. .) )
+( (S 
+    (NP (NNP Mr.) (NNP Darman) )
+    (RB also) 
+    (VP (VBD said) 
+      (NP (NN yesterday) )
+      (SBAR (IN that) 
+        (S 
+          (SBAR (IN although) 
+            (S 
+              (NP (DT the) (NN administration) )
+              (VBZ is) (RB n't) 
+              (VP 
+                (ADVP (RB any) (RB longer) )
+                (VBG pushing) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB include) 
+                    (NP (DT a) (NN cut) 
+                      (PP (IN in) 
+                        (NP (NNS capital-gains) (NNS taxes) )))
+                    (PP (IN as) 
+                      (NP (NN part) 
+                        (PP (IN of) 
+                          (NP (DT the) (CD 1990) (NN budget) (NN legislation) )))))))))
+          (, ,) 
+          (S 
+            (NP (DT the) (NNS odds) )
+            (VP (VBP are) 
+              (ADJP (JJ 8-to-5) 
+                (PP (IN in) 
+                  (NP (NN favor) 
+                    (PP (IN of) 
+                      (NP 
+                        (S 
+                          (NP (-NONE- *) )
+                          (VP (VBG winning) 
+                            (NP (NN approval) 
+                              (PP (IN for) 
+                                (NP (NN capital) (NNS gains) (NNS taxes) ))))
+                          (NP (DT this) (NN year) )))))))))))))
+  (. .) )

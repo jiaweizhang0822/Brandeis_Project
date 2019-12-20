@@ -1,0 +1,198 @@
+
+ 
+ 
+ 
+
+((NP (NNP N.V)
+     (. .)))
+ 
+
+(S (NP (NNP Philips))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP
+                    (ADJP (JJ third-quarter) (JJ net))
+                    (NN profit))
+                (VP (VBD surged)
+                    (NP (CD 41) (NN %))
+                    (PP (PP (TO to)
+                            (NP (NP (NP (CD 227) (CD million) (NNS guilders))
+                                    (-LRB- -LRB-)
+                                    (NP ($ $) (CD 109.4)
+                                        (CD million))
+                                    (-RRB- -RRB-))
+                                (, ,)
+                                (CC or)
+                                (NP (CD 84) (NN guilder) (NNS cents)
+                                    (NP (DT a) (NN share)))))
+                        (, ,)
+                        (PP (IN from)
+                            (NP (NP (CD 161) (CD million) (NNS guilders))
+                                (, ,)
+                                (CC or)
+                                (NP (CD 63) (NNS cents))
+                                (, ,)
+                                (ADVP (DT a) (NN year)
+                                      (RBR earlier)))))))))
+   (. .))
+ 
+ 
+
+(S (NNP Separately)
+   (, ,)
+   (S (NP (DT the) (JJ Dutch) (NN electronics) (NN group))
+      (VP (VBD announced)
+          (SBAR (-NONE- 0)
+                (S (NP (PRP it))
+                   (MD will)
+                   (VP (VB spin)
+                       (RP off)
+                       (NP (RB about)
+                           (CD 20) (NN %)
+                           (PP (IN of)
+                               (NP (PRP$ its) (NNP PolyGram) (NNP BV) (NN recording) (NN subsidiary))))
+                       (PP (IN in)
+                           (NP (DT an) (JJ international) (NN stock) (NN offering))))))))
+   (. .))
+ 
+
+(S
+   (NP (PRP It))
+   (VP (VBD said)
+       (SBAR (-NONE- 0)
+             (S (NP (PRP it))
+                (VP (VBZ plans)
+                    (S (NP (-NONE- *))
+                       (TO to)
+                       (VP (VB file)
+                           (NP (DT the) (NN share) (NN offer))
+                           (PP (IN with)
+                               (NP (NP (DT the)
+                                       (NP (NP (NNP U.S.))
+                                           (NP (NP (NP (NNP Securities))
+                                                   (CC and)
+                                                   (NP (NNP Exchange)))
+                                               (NP (NNP Commission)))))
+                                   (CC and)
+                                   (NP (NNP Amsterdam) (NNP Stock) (NNP Exchange))))
+                           (PP (`` ``)
+                               (IN within)
+                               (NP (DT the)
+                                   (ADJP (JJ next))
+                                   (JJ few) (NNS weeks))
+                               (. .)
+                               ('' '')))))))))
+ 
+
+(S (NP (PRP It))
+   (VBD did)
+   (RB n't)
+   (VP (VB elaborate))
+   (. .))
+ 
+ 
+
+(S (NP (DT The) (JJ big)
+       (NP (NP (NNS earnings)
+               (NP (NN improvement)))))
+   (VP (VBD reflected)
+       (NP (NP (NP (JJ extraordinary) (NNS gains))
+               (CC and)
+               (NP (DT the) (NN accounting) (NN impact)
+                   (PP (IN of)
+                       (NP (JJ subsidiary) (NNS disposals)))))
+           (, ,)
+           (RB as)
+           (RB well)
+           (IN as)
+           (NP (NP (NN restructuring) (NNS charges))
+               (, ,)
+               (NP (JJ mixed) (NN market) (NNS factors))
+               (, ,)
+               (NP
+                   (ADJP (JJR higher))
+                   (NNS taxes))
+               (CC and)
+               (NP (NP (VP (VBG plunging))
+                       (NN financing) (NNS costs))
+                   (CC and)
+                   (NP (JJ other) (NN spending) (NNS reductions))))))
+   (. .))
+ 
+ 
+
+(S
+   (NP
+       (NP (DT The) (CD 1989) (NN third-quarter))
+       (POS 's) (NN jump)
+       (PP (IN in)
+           (NP (JJ net) (NN profit))))
+   (VBD was)
+   (VP (VBN aided)
+       
+       (PP (IN by)
+           (NP (NP (NP (DT a) (CD 277) (CD million) (NN guilder))
+                   (, ,)
+                   (CC or)
+                   (NP (NP (CD 47.4) (NN %)))
+                   (, ,))
+               (NP (NN drop)
+                   (PP (IN in)
+                       (NP (JJ net) (NN financing) (NNS charges)))))))
+   (. .))
+ 
+ 
+
+(S (NP (NNS Disappointments)
+       (PP (IN in)
+           (NP (DT the) (NN quarter))))
+   (VP (VBD included)
+       (S (NP (JJ intense) (NN competition))
+          (VP (VBG causing)
+              (NP (NP (JJ downward) (NN price) (NN pressure))
+                  (SBARQ
+                         (WHNP (WDT that))
+                         (S (NP (-NONE- T))
+                            (VP (VBD led)
+                                (PP (TO to)
+                                    (NP (JJ unspecified) (NN operating) (NNS losses)))
+                                (PP (IN in)
+                                    (NP (CD two) (JJ key) (NN product) (NNS lines)))
+                                (, ,)
+                                (RB especially)
+                                (PP (IN in)
+                                    (NP (DT the) (NNP U.S))))))))))
+   (. .))
+ 
+
+(S (PP (IN As)
+       (NP (DT a) (NN result)))
+   (, ,)
+   (S (NP
+          (NP (NNP Philips))
+          (POS 's) (JJ pretax) (NN operating) (NN profit)
+          (PP (IN before)
+              (NP (NN financing) (NNS items))))
+      (VP (VBD tumbled)
+          (NP (CD 15.7) (NN %))
+          (PP (IN from)
+              (ADVP (NP (DT a) (NN year))
+                    (RBR earlier)))
+          (PP (TO to)
+              (NP (CD 592) (CD million) (NNS guilders)))))
+   (. .))
+ 
+ 
+
+(S
+   (NP (JJ Third-quarter) (NNS sales))
+   (RB world-wide)
+   (VP (VBD were)
+       (ADJP (JJ unchanged))
+       (PP (IN from)
+           (ADVP (NP (DT a) (NN year))
+                 (RB ago)))
+       (PP (IN at)
+           (NP (CD 13.57) (CD billion) (NNS guilders))))
+   (. .))
+ 

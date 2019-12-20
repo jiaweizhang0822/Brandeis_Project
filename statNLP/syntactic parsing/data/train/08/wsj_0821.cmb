@@ -1,0 +1,94 @@
+
+ 
+ 
+ 
+
+((S
+    (NP (DT The) (NNP World) (NNP Bank))
+    (VP (VBD approved)
+        (NP (NP ($ $) (CD 363)
+                (CD million))
+            (PP (IN in)
+                (NP (NNS loans)
+                    (PP (TO to)
+                        (NP (NP (DT the) (NNP Ivory) (NNP Coast))
+                            (CC and)
+                            (NP (NNP Brazil))))))))
+    (. .)))
+ 
+ 
+
+(
+ (S (NP (DT The) (NNP Ivory) (NNP Coast))
+    (MD will)
+    (VP (VB get)
+        (NP (NP (CD two) (NNS loans))
+            (VP (VBG totaling)
+                (NP ($ $) (CD 216)
+                    (CD million))))
+        (S (NP (-NONE- *))
+           (TO to)
+           (VP (VP (VB support)
+                   (NP (JJ agricultural) (NNS reforms)))
+               (CC and)
+               (VP (VB help)
+                   (S
+                      (NP (-NONE- *))
+                      (VP (VB finance)
+                          (NP (JJ municipal) (NN development))
+                          (PP (IN in)
+                              (NP (ADJP (JJR more)
+                                        (PP (IN than)
+                                            (NP (CD 30) (NNS cities))))))))))))
+    (. .))
+ )
+ 
+ 
+
+(
+ (S (NP (NNP Brazil))
+    (MD will)
+    (VP (VB get)
+        (NP (NP (CD two) (NNS loans))
+            (VP (VBG amounting)
+                (PP (TO to)
+                    (NP (NP ($ $) (CD 147)
+                            (CD million))
+                        (X (IN for)
+                           (NP (NP (NNS schools))
+                               (, ,)
+                               (NP (NNS roads))
+                               (CC and)
+                               (NP (JJ other) (NNS projects)
+                                   (PP (IN in)
+                                       (NP (JJ urban) (NNS areas)))))
+                           (CC and)
+                           (S (NP (-NONE- *))
+                              (TO to)
+                              (VP (VB help)
+                                  (S (NP (-NONE- *))
+                                     (VP (VB finance)
+                                         (NP (JJ agricultural) (NN research) (NNS projects))
+                                         (PP (IN in)
+                                             (NP (NP (DT the) (NNP Amazon))
+                                                 (CC and)
+                                                 (NP (JJ northeastern) (NNS regions)
+                                                     (PP (IN of)
+                                                         (NP (DT the) (NN country))))))))))))))))
+    (. .)))
+ 
+ 
+
+((S
+    (NP (DT The) (NNS loans))
+    (MD will)
+    (VP (VB be)
+        (PP (IN at)
+            (NP (NP (JJ variable) (NN interest) (NNS rates))
+                (, ,)
+                (RB currently)
+                (NP (CD 7.74) (NN %)
+                    (NP (DT a) (NN year))))))
+    (. .))
+ )
+ 

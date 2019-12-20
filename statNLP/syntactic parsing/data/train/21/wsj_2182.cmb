@@ -1,0 +1,948 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (S 
+        (NP (-NONE- *) )
+        (VP (VBG Being) 
+          (NP (DT the) (NN No.) (CD 2) (NN newspaper) 
+            (PP (IN in) 
+              (NP (NN town) ))))))
+    (VP (RB just) (VBD got) 
+      (ADVP (RBR tougher) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (DT The) (NNP Dallas) (NNP Morning) (NNP News) )
+      (, ,) 
+      (NP (DT the) (NN No.) (CD 1) (NN paper) 
+        (PP (IN in) 
+          (NP (NN town) )))
+      (, ,) )
+    (VBZ has) 
+    (VP (VBN secured) 
+      (NP (JJ exclusive) (NNS rights) (RB here) 
+        (PP (TO to) 
+          (NP 
+            (NP 
+              (NP (NNP Universal) (NNP Press) (NNP Syndicate) )
+              (POS 's) (NNS features) )
+            (, ,) 
+            (VP (VBG including) 
+              (NP 
+                (NP (CD 26) )
+                (VP (RB previously) (VBN carried) 
+                  (PP (IN by) 
+                    (NP 
+                      (NP (PRP$ its) (JJ struggling) (NN rival) )
+                      (, ,) 
+                      (NP (DT the) (NNP Dallas) (NNP Times) (NNP Herald) )))))))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NNP News) )
+    (VP (VBD agreed) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB pay) 
+          (NP 
+            (NP 
+              (NP (DT a) (NN minimum) 
+                (PP (IN of) 
+                  (NP ($ $) (CD 100,000) (RB annually) ))))
+            (PP (IN for) 
+              (NP (CD five) (NNS years) ))
+            (PP (IN for) 
+              (NP (DT the) (NNS features) ))
+            (, ,) 
+            (CC and)
+            (NP (DT an) (JJ unusual) ($ $) (CD 500,000) (NN fee) 
+              (, ,)
+              (ADVP (RB mostly) (RB up) (RB front) )
+              (, ,) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB keep) 
+                  (NP (DT all) 
+                    (ADJP (JJ current) 
+                      (CC and)
+                      (JJ future) )
+                    (NNP Universal) (NNS offerings) )
+                  (PP (IN for) 
+                    (NP (PRP itself) ))
+                  (PP (IN in) 
+                    (NP (DT the) (NNP Dallas) (NN area) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN move) )
+    (VP (VBD was) 
+      (NP (DT a) (JJ stunning) (NN coup) ))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG nabbing) 
+        (NP (DT some) 
+          (PP (IN of) 
+            (NP 
+              (NP 
+                (NP (DT the) (NNP Times) (NNP Herald) )
+                (POS 's) (JJS biggest) (NNS draws) )
+              (, ,) 
+              (VP (VBG including) 
+                (NP (`` ``) 
+                  (NP (NNP Dear) (NNP Abby) )
+                  (, ,) ('' '') (`` ``) 
+                  (NP (NNP Doonesbury) )
+                  (, ,) ('' '') 
+                  (NP 
+                    (NP (NNP Erma) (NNP Bombeck) )
+                    (POS 's) (NN column) )
+                  (CC and) (`` ``) 
+                  (NP (DT The) (NNP Far) (NNP Side) ))))))))
+    (. .) ('' '') ))
+((S 
+    (NP (PRP It) )
+    (RB also) 
+    (VP (VBD reignited) 
+      (NP 
+        (NP (DT a) (JJ long-running) (NN newspaper) (NN war) )
+        (SBAR 
+          (WHNP (WDT that) )
+          (S 
+            (NP (-NONE- T) )
+            (VBD had) 
+            (VP (VBN cooled) 
+              (NP (JJ last) (NN year) ))
+            (PP (IN after) 
+              (S 
+                (NP 
+                  (ADJP (RB closely) (JJ held) )
+                  (NNP DTH) (NNP Media) (NNP Inc.) )
+                (VP (VBD bought) 
+                  (NP (DT the) (NNP Times) (NNP Herald) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Universal) )
+    (VP (VBZ argues) 
+      (SBAR (IN that) 
+        (S 
+          (NP (JJ special) (NNS circumstances) )
+          (VP (VBD led) 
+            (PP (TO to) 
+              (NP (DT the) (NN agreement) )))))))
+  (. .) )
+( (S (CC But) 
+    (SBAR (IN if) 
+      (S 
+        (NP 
+          (NP (DT the) (NN syndicate) )
+          (POS 's) (NN contract) 
+          (PP (IN with) 
+            (NP (DT the) (NNP Morning) (NNP News) )))
+        (VP (VBZ survives) 
+          (NP 
+            (NP (DT the) (NNP Times) (NNP Herald) )
+            (POS 's) (NN court) (NN challenge) ))))
+    (, ,) 
+    (S 
+      (NP (JJ other) (JJ second-place) (NNS newspapers) )
+      (VP (VBP worry) 
+        (SBAR (IN that) 
+          (S 
+            (NP (PRP they) )
+            (, ,) (RB too) 
+            (, ,)
+            (MD may) 
+            (VP (VB see) 
+              (NP (PRP$ their) (JJS best) (NNS features) )
+              (VP (VBN snatched) (RB away) 
+                (PP (IN by) 
+                  (NP 
+                    (ADJP (JJR bigger) 
+                      (, ,)
+                      (JJR wealthier) )
+                    (NNS rivals) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (`` ``) 
+    (S 
+      (NP (PRP We) )
+      (VP (VBP 're) 
+        (ADJP (RB very) (JJ concerned) )))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBZ says) )
+      (NP 
+        (NP (NNP Tom) (NNP King) )
+        (, ,) 
+        (NP (DT the) (NN editor) 
+          (CC and)
+          (NN president) 
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNP El) (NNP Paso) (NNP Herald-Post) )
+              (, ,) 
+              (NP 
+                (NP (DT a) (NNP Scripps) (NNP Howard) (NN newspaper) )
+                (SBAR 
+                  (WHNP (WDT that) )
+                  (S 
+                    (NP (-NONE- T) )
+                    (VP (VBZ competes) 
+                      (PP (IN with) 
+                        (NP (DT a) (NNP Gannett) (NNP Corp.) (NN paper) ))))))))))))
+  (. .) )
+( (`` ``) 
+  (S 
+    (NP (PRP It) )
+    (RB certainly) 
+    (VP (VBZ looks) 
+      (SBAR (IN like) 
+        (S 
+          (NP (PRP it) )
+          (MD could) 
+          (VP (VB lead) 
+            (PP (TO to) 
+              (NP (NN bidding) (NNS wars) )))))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (CD One) (NN effect) )
+    (, ,) 
+    (S 
+      (NP (NN syndicate) (NNS executives) )
+      (VP (VBP say) ))
+    (, ,) 
+    (VP (VBZ is) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT some) (NNS newspapers) 
+            (PP (IN in) 
+              (NP (VBG competing) (NNS markets) )))
+          (VBP are) 
+          (VP (VBG considering) 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG seeking) 
+                (NP (JJ long-term) (NNS contracts) 
+                  (PP (IN for) 
+                    (NP (PRP$ their) (JJ favorite) (NNS features) )))
+                (PP (RB instead) (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ usual) (NNS pacts) )
+                    (SBAR 
+                      (WHNP (WDT that) )
+                      (S 
+                        (NP (-NONE- T) )
+                        (VP (VBP let) 
+                          (NP (DT the) (NN syndicate) )
+                          (VP (NN cancel) 
+                            (PP (IN with) 
+                              (NP (CD 30) 
+                                (PP (TO to) 
+                                  (NP 
+                                    (NP (CD 90) (NNS days) )
+                                    (POS ') (NN notice) )))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN For) 
+      (NP (JJR smaller) (NNS newspapers) ))
+    (, ,) 
+    (S 
+      (NP (JJ syndicated) (NNS features) )
+      (MD can) 
+      (VP (VB be) 
+        (ADJP (JJ crucial) ))))
+  (. .) )
+( (S 
+    (NP (NN Industry) (NNS executives) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (DT the) (NNS columns) 
+            (CC and)
+            (NNS cartoons) )
+          (VP 
+            (VP (VBP give) 
+              (NP (NNS newspapers) )
+              (NP (NN consistency) ))
+            (CC and) 
+            (VP (VBP build) 
+              (NP (JJ fierce) (NN reader) (NN loyalty) )))))))
+  (. .) )
+((S (`` ``) 
+    (S 
+      (NP (PRP I) )
+      (VP (VBP have) 
+        (NP (NNS people) )
+        (VP (VB tell) 
+          (NP (PRP me) )
+          (SBAR (IN that) 
+            (S 
+              (NP (NNP Garfield) )
+              (VP (VBZ is) 
+                (NP (DT the) (JJ only) (NN reason) 
+                  (SBAR (-NONE- 0) 
+                    (S 
+                      (NP (PRP they) )
+                      (VP (VBP read) 
+                        (NP (DT the) 
+                          (-LRB- -LCB-)
+                          (NNP Arkansas) 
+                          (-RRB- -RCB-)
+                          (NNP Gazette) )))))))))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBZ says) )
+      (NP 
+        (NP (NNP Walter) (NNP E.) (NNP Hussman) )
+        (, ,) 
+        (NP (DT the) (NN publisher) 
+          (PP (IN of) 
+            (NP (DT the) (VBG competing) (NNP Arkansas) (NNP Democrat) ))))))
+  (. .) )
+( (S 
+    (NP (NNS Syndicates) )
+    (VBP have) (RB traditionally) 
+    (VP (VBN turned) (RP down) 
+      (NP (JJR fatter) (NNS fees) 
+        (PP (IN from) 
+          (NP (NNS competitors) ))))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG switching) (RB only) 
+        (SBAR 
+          (WHADVP (WRB when) )
+          (S 
+            (S 
+              (NP (DT a) (NN newspaper) )
+              (VP (VBD dropped) 
+                (NP (DT a) (NN feature) )))
+            (CC or) 
+            (S 
+              (NP (DT some) (JJ unusual) (NN ownership) (NN change) )
+              (VP (VBD occurred) )))))))
+  (. .) )
+( (S 
+    (PP (IN In) 
+      (NP (CD 1984) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NNP Boston) (NNP Herald) )
+      (VP (VBD stole) 
+        (NP (IN about) (CD 10) (NNS features) )
+        (PP (IN from) 
+          (NP (DT the) (JJR bigger) (NNP Boston) (NNP Globe) )))
+      (, ,) (CC but) 
+      (PP (RB only) (IN after) 
+        (S 
+          (NP 
+            (NP 
+              (NP (DT the) (NNP Herald) )
+              (POS 's) (NN owner) )
+            (, ,) 
+            (NP (NNP Rupert) (NNP Murdoch) )
+            (, ,) )
+          (VP (VBD bought) 
+            (NP 
+              (NP (DT the) (NNS features) )
+              (POS ') (NN syndicator) ))))))
+  (. .) )
+( (S 
+    (PP (IN In) 
+      (NP (CD 1977) ))
+    (, ,) 
+    (S 
+      (NP (NNP Universal) )
+      (VP (VBD pulled) 
+        (NP (PRP$ its) (NNS features) )
+        (PP (IN from) 
+          (NP (DT the) 
+            (ADJP (JJ now-defunct) )
+            (NNP Philadelphia) (NNP Bulletin) )))
+      (X 
+        (ADVP (IN because) 
+          (PP (IN of) 
+            (NP (DT a) (NN contract) (NN dispute) )))
+        (CC and) 
+        (SBAR (IN because) 
+          (S (`` ``) 
+            (S 
+              (NP (EX there) )
+              (VP (VBD was) 
+                (NP (DT no) (NN growth) )
+                (-LRB- -LCB-) (RB there) 
+                (-RRB- -RCB-)
+                (PP (IN for) 
+                  (NP (NNP Universal) ))))
+            (, ,) ('' '') 
+            (SINV 
+              (VP (VBZ says) )
+              (NP 
+                (NP (NNP John) (NNP McMeel) )
+                (, ,) 
+                (NP (NN president) 
+                  (CC and)
+                  (NN co-owner) 
+                  (PP (IN of) 
+                    (NP (NNP Universal) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NN Growth) )
+    (VP (VBD was) (RB also) 
+      (NP (DT a) (NN consideration) )
+      (PP (IN in) 
+        (NP (NNP Dallas) ))))
+  (. .) )
+( (S 
+    (S 
+      (NP 
+        (NP (DT The) (NNP Times) (NNP Herald) )
+        (POS 's) (NN circulation) )
+      (VBD had) 
+      (VP (VBN been) 
+        (VP (VBG slipping) 
+          (PP (IN for) 
+            (NP (JJ several) (NNS years) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP (PRP$ its) (VBN audited) (JJ daily) (NN circulation) )
+      (RB now) 
+      (VP (VBZ stands) 
+        (PP (IN at) 
+          (NP (CD 222,000) ))
+        (, ,) 
+        (VP (VBN compared) 
+          (PP (IN with) 
+            (NP 
+              (NP (DT the) (NNP Morning) (NNP News) )
+              (POS 's) (CD 370,000) ))))))
+  (. .) )
+((S (CC But) 
+    (NP (DT the) (JJ main) (NN reason) 
+      (PP (IN for) 
+        (NP (DT the) (NN move) )))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP McMeel) )
+      (VP (VBZ says) ))
+    (, ,) 
+    (VP (VBZ is) 
+      (NP (DT a) (JJ joint) (NN venture) 
+        (PP (IN between) 
+          (NP 
+            (NP (NNP Universal) )
+            (CC and) 
+            (NP 
+              (NP (NNP A.H.) (NNP Belo) (NNP Corp.) )
+              (, ,) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NNP Morning) (NNP News) )
+                  (POS 's) (NN parent) )
+                (CC and) 
+                (NP (DT the) (NN owner) 
+                  (PP (IN of) 
+                    (NP (CD five) (NN television) (NNS stations) ))))))))))
+  (. .) )
+( (S 
+    (NP (NNS Plans) )
+    (VP (VBP call) 
+      (SBAR (IN for) 
+        (S 
+          (NP (DT the) (CD two) )
+          (X 
+            (X (TO to) 
+              (VP (VB explore) 
+                (NP 
+                  (NP (NN TV) (NN programming) )
+                  (VP (VBN drawn) 
+                    (PP (IN from) 
+                      (NP 
+                        (NP (DT the) (NN syndicate) )
+                        (POS 's) 
+                        (CC and)
+                        (NP (NNS others) )
+                        (POS ') (NNS characters) ))))))
+            (, ,) 
+            (X 
+              (ADVP (RB as) (RB well) 
+                (SBAR (IN as) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB develop) 
+                      (NP (NN TV) (NNS ads) 
+                        (PP (IN for) 
+                          (NP (NNS newspapers) ))))
+                    (S 
+                      (NP (-NONE- *) )
+                      (VP (VBG using) 
+                        (NP 
+                          (NP (NNP Universal) )
+                          (POS 's) (NNS characters) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (JJ Universal) )
+    (VP (VBZ says) 
+      (SBAR (IN that) 
+        (S 
+          (S 
+            (NP (PRP it) )
+            (VP (VBD wanted) 
+              (NP (DT all) (PRP$ its) (NNS creators) )
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB share) 
+                  (PP (IN in) 
+                    (NP (DT the) (NN television) (NN venture) ))))))
+          (CC and) 
+          (S 
+            (NP (NNP Belo) )
+            (MD would) (RB n't) 
+            (VP (VB promote) 
+              (NP 
+                (NP (NNS features) )
+                (VP (VBG appearing) 
+                  (PP (IN in) 
+                    (NP (PRP$ its) (NN competition) ))))))))))
+  (. .) )
+( (S 
+    (NP (NNP Belo) )
+    (VP (VBD declined) 
+      (NP (NN comment) ))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG citing) 
+        (NP (DT the) (NN litigation) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP Times) (NNP Herald) )
+    (VP (VBZ charges) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT the) (NN venture) )
+          (VP (VBZ is) 
+            (NP 
+              (NP (DT a) (NN smokescreen) )
+              (, ,) 
+              (VP (VBN created) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB hide) 
+                    (NP 
+                      (NP (DT the) (NNP News) )
+                      (POS 's) (NN plan) 
+                      (S 
+                        (NP (-NONE- *) )
+                        (TO to) 
+                        (VP (VB buy) 
+                          (NP (DT the) (NNS features) )
+                          (RB away) ))))))))))))
+  (. .) )
+((S (`` ``) 
+    (S 
+      (NP (PRP We) )
+      (VP (VBP 're) 
+        (ADJP (RB very) (JJ skeptical) 
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN venture) )
+              (SBAR 
+                (SBAR 
+                  (WHPP (IN in) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP (DT no) (NN one) )
+                    (VBZ has) 
+                    (VP (VBN invested) 
+                      (NP (DT a) (NN dollar) ))))
+                (, ,) 
+                (SBAR 
+                  (WHPP (IN in) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP (DT no) (NN one) )
+                    (VP (VBZ has) 
+                      (NP (DT any) (NN experience) )
+                      (PP (IN in) 
+                        (NP 
+                          (S 
+                            (NP (-NONE- *) )
+                            (VP (VBG syndicating) 
+                              (NP (JJ animated) (NNS features) 
+                                (CC and)
+                                (NN game) (NNS shows) ))))))))
+                (CC and) 
+                (SBAR 
+                  (WHPP (IN for) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP (EX there) )
+                    (VP (VBD was) (RB not) 
+                      (NP 
+                        (ADJP (JJ prior) )
+                        (-LRB- -LCB-) (NN market) 
+                        (-RRB- -RCB-)
+                        (NN research) ))))))))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBZ says) )
+      (NP 
+        (NP (NNP Roy) (NNP E.) (NNP Bode) )
+        (, ,) 
+        (NP 
+          (NP (DT the) (NNP Times) (NNP Herald) )
+          (POS 's) (NN editor) ))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT Some) (NN syndicate) (NNS executives) )
+    (RB apparently) 
+    (VP (VBP prefer) 
+      (S (RB not) 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB discuss) 
+          (NP (DT the) (NN episode) )
+          (PP (IN in) 
+            (NP (NN public) ))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNP Willard) (NNP Colston) )
+      (, ,) 
+      (NP 
+        (NP (NN chairman) 
+          (PP (IN of) 
+            (NP (DT the) (NNP Los) (NNP Angeles) (NNP Times) (NNP Syndicate) )))
+        (CC and) 
+        (NP (NN program) (NN director) 
+          (PP (IN of) 
+            (NP (DT the) (NNP National) (NNPS Features) (NNP Council) ))))
+      (, ,) )
+    (VP (VBD wanted) 
+      (S 
+        (NP (DT the) (NN group) )
+        (TO to) 
+        (VP (VB sponsor) 
+          (NP (DT a) (NN panel) (NN discussion) 
+            (PP (IN on) 
+              (NP (DT the) (NN pact) )))
+          (PP (IN at) 
+            (NP (PRP$ its) (JJ annual) (NN meeting) 
+              (PP (IN in) 
+                (NP (NNP Dallas) ))))
+          (NP (JJ last) (NN week) )))))
+  (. .) )
+( (S (RB Initially) 
+    (S 
+      (NP (DT a) (NN majority) 
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNS directors) )
+            (, ,) 
+            (VP (VBD made) (RP up) 
+              (PP (IN of) 
+                (NP 
+                  (NP (NN syndicate) (NNS executives) )
+                  (, ,) 
+                  (NP (NNS editors) )
+                  (, ,) 
+                  (NP (NNS cartoonists) )
+                  (CC and) 
+                  (NP (NNS columnists) ))))
+            (, ,) )))
+      (VP (VBD supported) 
+        (NP (DT the) (NN idea) ))))
+  (. .) )
+((S 
+    (S (CC But) 
+      (S 
+        (NP 
+          (NP 
+            (NP (NNP Universal) )
+            (POS 's) (NNP Mr.) (NNP McMeel) )
+          (, ,) 
+          (NP 
+            (NP (DT the) (NN council) )
+            (POS 's) (NN president) )
+          (, ,) )
+        (VP (VBD asked) 
+          (NP (NNS directors) )
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB reconsider) ))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP (PRP they) )
+        (VP (VBD voted) (RP down) 
+          (NP (DT the) (NN discussion) )
+          (ADJP (CD 13-12) ))))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Colston) )
+      (VP (VBZ says) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (RB Meanwhile) 
+    (, ,)
+    (S 
+      (NP (DT the) (NNP Times) (NNP Herald) )
+      (VBZ is) 
+      (VP (RB just) (VBG hoping) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB survive) 
+            (NP (DT this) (JJS latest) (NN blow) ))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (DT A) (NNP Houston) (NN state) (NN district) (NN judge) )
+      (VP (VBD refused) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB enjoin) 
+            (NP (DT the) (NN syndicate) )
+            (PP (IN from) 
+              (NP 
+                (S 
+                  (NP (-NONE- *) )
+                  (VP (VBG moving) 
+                    (NP (DT the) (NNS features) )))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP (DT the) (NNP Morning) (NNP News) )
+      (VP (VBD began) 
+        (S 
+          (NP (-NONE- *) )
+          (VP (VBG running) 
+            (NP (JJS most) 
+              (PP (IN of) 
+                (NP (PRP them) ))))))
+      (ADVP 
+        (NP (DT a) (JJ few) (NNS weeks) )
+        (RB ago) )))
+  (. .) )
+( (S 
+    (NP (DT A) (NN trial) 
+      (PP (IN on) 
+        (NP (NN breach) 
+          (PP (IN of) 
+            (NP (NN contract) ))
+          (CC and) (JJ antitrust) (NNS charges) )))
+    (VBZ is) (RB n't) 
+    (VP (VBN expected) 
+      (PP (IN for) 
+        (NP (DT a) (JJ few) (NNS months) ))))
+  (. .) )
+( (S 
+    (NP (NNP Mr.) (NNP Bode) )
+    (VP (VBZ acknowledges) 
+      (SBAR (IN that) 
+        (S 
+          (NP (DT some) (NNS subscriptions) )
+          (VBP have) 
+          (VP (VBN been) 
+            (VP (VBN canceled) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP Universal-Morning) (NNP News) (NN deal) )
+    (RB also) 
+    (VP (VBZ troubles) 
+      (NP 
+        (NP (JJ syndicated) (NNS writers) 
+          (CC and)
+          (NNS artists) )
+        (, ,) 
+        (SBAR 
+          (WHNP (WP who) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBP fear) 
+              (SBAR (IN that) 
+                (S 
+                  (NP (PRP they) )
+                  (MD wo) (RB n't) 
+                  (VP (VB get) 
+                    (NP (PRP$ their) (NN cut) )
+                    (PP (IN from) 
+                      (NP (DT this) (JJ new) (NN type) 
+                        (PP (IN of) 
+                          (NP (NN exclusivity) (NN payment) )))))))))))))
+  (. .) )
+( 
+  (-LRB- -LRB-)
+  (S 
+    (NP (NNS Creators) 
+      (PP (IN of) 
+        (NP (JJ syndicated) (NNS features) )))
+    (RB generally) 
+    (VP (VBP receive) 
+      (NP 
+        (NP (IN about) (PDT half) (DT the) (NN fee) )
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT a) (NN newspaper) )
+            (VP (VBZ pays) 
+              (PP (IN for) 
+                (NP (PRP$ their) (NN work) ))))))))
+  (. .) 
+  (-RRB- -RRB-)
+  )
+((S 
+    (NP (NNP Mr.) (NNP McMeel) )
+    (VP 
+      (VP (VBZ says) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (DT some) 
+              (PP (IN of) 
+                (NP (DT the) (NN exclusivity) (NN payment) (NN fee) )))
+            (MD will) 
+            (VP (VB be) 
+              (VP (VBN used) 
+                (PP (IN for) 
+                  (NP (JJ future) (NN development) 
+                    (PP (IN of) 
+                      (NP (NNS features) )))))))))
+      (CC and) 
+      (VP (VBZ promises) 
+        (SBAR (IN that) 
+          (S 
+            (NP 
+              (NP (DT those) )
+              (SBAR 
+                (WHNP (WP$ whose) (NN work) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VP (VBZ appears) 
+                    (PP (IN in) 
+                      (NP (DT the) (NNP Morning) (NNP News) ))))))
+            (MD will) 
+            (VP (VB see) 
+              (NP (`` ``) (JJ substantial) (JJ immediate) (NNS increases) ('' '') 
+                (PP (IN in) 
+                  (NP (NN pay) )))))))))
+  (. .) )
+((S (CC But) 
+    (NP (PRP he) )
+    (VP (VBZ concedes) 
+      (SBAR (IN that) 
+        (S 
+          (NP (PRP they) )
+          (VBP have) (RB n't) 
+          (VP (VBN been) 
+            (VP (VBN notified) (RB yet) ))))))
+  (. .) )
+( (S 
+    (NP (DT The) (NN uncertainty) )
+    (RB already) 
+    (VP (VBZ has) 
+      (NP (DT some) 
+        (PP (IN in) 
+          (NP (DT the) (NN business) )))
+      (VP (VBG plotting) 
+        (NP (JJ new) (NN strategy) ))))
+  (. .) )
+((S 
+    (NP 
+      (NP (NNP Arnold) (NNP Schwartzman) )
+      (, ,) 
+      (NP 
+        (NP (DT a) 
+          (NP 
+            (NP (NNP Dayton) )
+            (, ,) 
+            (NP (NNP Ohio) )
+            (, ,) )
+          (NN lawyer) )
+        (SBAR 
+          (WHNP (WP who) )
+          (S 
+            (NP (-NONE- T) )
+            (VBZ has) 
+            (VP (VBN represented) 
+              (NP (IN about) (CD 50) (NNS writers) 
+                (CC and)
+                (NNS artists) )))))
+      (, ,) )
+    (VP (VBZ says) 
+      (SBAR (IN that) 
+        (S 
+          (NP 
+            (NP (DT any) (JJ new) (NN contract) (CC or) (NN renewal) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (PRP he) )
+                (VP (VBZ negotiates) 
+                  (NP (-NONE- T) )))))
+          (MD will) 
+          (VP (VB require) 
+            (SBAR (IN that) 
+              (S 
+                (NP (JJ special) (NNS payments) )
+                (VB be) 
+                (VP (VBN shared) 
+                  (PP (IN with) 
+                    (NP (PRP$ his) (NNS clients) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S (`` ``) 
+    (S 
+      (S 
+        (NP (PRP It) )
+        (VP (VBZ 's) (RB not) 
+          (NP 
+            (NP (NN something) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (PRP I) )
+                (VBP 'm) 
+                (VP (VBG considering) 
+                  (NP (-NONE- T) )))))))
+      (: ;) 
+      (S 
+        (NP (PRP it) )
+        (MD 'll) 
+        (VP (VB become) 
+          (NP (NN part) 
+            (PP (IN of) 
+              (NP (PRP$ my) (NN boilerplate) ))))))
+    (, ,) ('' '') 
+    (S 
+      (NP (PRP he) )
+      (VP (VBZ says) )))
+  (. .) )

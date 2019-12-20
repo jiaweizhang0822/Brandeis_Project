@@ -1,0 +1,661 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (NN response) 
+        (PP (TO to) 
+          (NP 
+            (NP (PRP$ your) (NNS extracts) 
+              (PP (IN from) 
+                (NP 
+                  (NP (NNP David) (NNP Fenton) )
+                  (POS 's) (NN memo) )))
+            (-LRB- -LRB-) 
+            (NP (`` ``) 
+              (SBARQ (WRB How) 
+                (S 
+                  (NP (DT a) (NNP PR) (NN Firm) )
+                  (VP (VBD Executed) 
+                    (NP (DT the) (NN Alar) (NN Scare) ))))
+              (, ,) ('' '') 
+              (NP 
+                (NP (NN editorial) (NN page) )
+                (, ,) 
+                (NP (NNP Oct.) (CD 3) )))
+            (-RRB- -RRB-) ))))
+    (: :) 
+    (S 
+      (PP (IN For) 
+        (NP (DT the) 
+          (ADJP (JJ past) )
+          (CD 10) (NNS years) ))
+      (, ,) 
+      (S 
+        (NP (DT the) (NNP Environmental) (NNP Protection) (NNP Agency) )
+        (X 
+          (X (VBZ has) 
+            (VP (VBN known) 
+              (PP (IN about) 
+                (NP (DT the) (JJ carcinogenic) (NNS hazards) 
+                  (PP (IN of) 
+                    (NP (NN Alar) ))))))
+          (, ,) 
+          (CC and)
+          (X (VBZ has) 
+            (VP (VBN carried) (RP on) 
+              (NP (NNS proceedings) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB remove) 
+                    (NP (DT the) (NN chemical) )
+                    (PP (IN from) 
+                      (NP (DT the) (NN market) )))))))))))
+  (. .) )
+( (S (RB Yet) 
+    (PP (IN until) 
+      (NP (RB recently) ))
+    (, ,) 
+    (S 
+      (NP (DT no) (JJ significant) (NN progress) )
+      (VBD had) 
+      (VP (VBN occurred) 
+        (SBAR (IN because) 
+          (S 
+            (NP 
+              (NP (DT the) (NN pesticide) (NNS manufacturers) )
+              (CC and) 
+              (NP (JJ other) (JJ special) (NNS interests) ))
+            (VBP have) 
+            (VP 
+              (VP (VBN blocked) 
+                (NP (JJ necessary) (JJ congressional) (NN reform) ))
+              (, ,) 
+              (VP (VBN stymied) 
+                (NP (NNP EPA) (NNS actions) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB cancel) 
+                      (NP 
+                        (NP (NNP Alar) )
+                        (CC and) 
+                        (NP (JJ other) (JJ hazardous) (NNS pesticides) ))))))
+              (, ,) 
+              (CC and)
+              (VP (VBN kept) 
+                (NP (DT the) (NN public) )
+                (PP (IN in) 
+                  (NP (DT the) (NN dark) 
+                    (PP (IN about) 
+                      (NP (DT the) (NN threat) 
+                        (PP (IN of) 
+                          (NP (NNS pesticides) )))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN In) 
+      (NP (DT this) (NN country) ))
+    (, ,) 
+    (S 
+      (NP (JJ major) (NNS reforms) )
+      (VP (VBP occur) (RB only) 
+        (SBAR 
+          (WHADVP (WRB when) )
+          (S 
+            (NP (JJ substantial) (JJ public) (NN pressure) )
+            (VBZ is) 
+            (VP (VBN applied) 
+              (PP (TO to) 
+                (NP 
+                  (NP (DT the) (NN government) )
+                  (CC and) 
+                  (NP (NNP Congress) ))))
+            (PP (IN in) 
+              (NP (NN order) 
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB counteract) 
+                    (NP (DT the) (NN lockhold) 
+                      (PP (IN of) 
+                        (NP (JJ special) (NNS interests) ))))))))))))
+  (. .) )
+( (S (RB Therefore) 
+    (, ,)
+    (S 
+      (NP (DT the) (NNP Natural) (NNPS Resources) (NNP Defense) (NNP Council) )
+      (RB specifically) 
+      (VP (VBD chose) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB inform) 
+            (NP (DT the) (NN public) )
+            (PP (IN about) 
+              (NP 
+                (NP (DT the) (NNS risks) )
+                (VP (VBN posed) 
+                  (PP (IN by) 
+                    (NP (NNS pesticides) 
+                      (PP (IN in) 
+                        (NP (NNS foods) ))))))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (-NONE- *) )
+      (TO To) 
+      (VP (VB move) 
+        (NP (DT the) (NN pesticide-reform) (NN agenda) )))
+    (, ,) 
+    (S 
+      (NP (NNP NRDC) )
+      (: --) 
+      (PP (IN like) 
+        (NP 
+          (NP (DT any) (JJ major) (NN corporation) )
+          (CC or) 
+          (NP (DT the) (NN government) )))
+      (: --) 
+      (VP (VBN used) 
+        (NP (DT the) (JJ professional) (NN communication) (NNS skills) 
+          (PP (IN of) 
+            (NP (DT a) (NNS public-relations) (NN firm) )))
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB educate) 
+            (NP (DT the) (NN public) )
+            (PP (IN about) 
+              (NP (DT the) (NNS results) 
+                (PP (IN of) 
+                  (NP (PRP$ our) (JJ two-year-long) (JJ scientific) (NN study) 
+                    (PP (IN on) 
+                      (NP (NNS pesticides) (NNS residues) 
+                        (PP (IN in) 
+                          (NP 
+                            (NP (NNS children) )
+                            (POS 's) (NN food) )))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP NRDC) )
+    (VP (VBZ offers) 
+      (NP (DT no) (NNS apologies) 
+        (PP (IN for) 
+          (NP 
+            (S 
+              (NP (-NONE- *) )
+              (VP (VBG making) 
+                (ADJP (RB public) )
+                (NP (DT the) (NNS results) 
+                  (PP (IN of) 
+                    (NP (PRP$ our) (NN report) 
+                      (PP (IN on) 
+                        (NP (NNS pesticides) 
+                          (PP (IN in) 
+                            (NP (DT the) (NN diet) 
+                              (PP (IN of) 
+                                (NP (NNS preschoolers) ))))))))))))))))
+  (. .) )
+( (S 
+    (NP (PRP We) )
+    (MD will) 
+    (VP (VB continue) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB present) 
+          (NP (DT the) (NNS facts) 
+            (PP (IN about) 
+              (NP (NNS pesticides) 
+                (PP (IN in) 
+                  (NP (NN food) )))))
+          (PP (TO to) 
+            (NP (DT the) (JJS broadest) (JJ possible) (NN segment) 
+              (PP (IN of) 
+                (NP (NN society) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNPS Americans) )
+    (VP (VBP have) 
+      (NP (DT a) (NN right) 
+        (S 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB know) 
+              (SBAR 
+                (WHNP (WP what) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VP (VBZ is) 
+                    (PP (IN in) 
+                      (NP (PRP$ their) (NN food) )))))))
+          (CC and) 
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB do) 
+              (NP (NN something) )
+              (PP (IN about) 
+                (NP (PRP it) )))
+            (SBAR (IN if) 
+              (S 
+                (NP (PRP they) )
+                (VP (VBP choose) ))))))))
+  (. .) )
+( (S 
+    (SBAR (IN Until) 
+      (S 
+        (NP (DT the) (NN food) (NN supply) )
+        (VP (VBZ is) 
+          (ADJP (JJ safe) 
+            (, ,)
+            (PP (RB especially) (IN for) 
+              (NP (NNS children) ))))))
+    (, ,) 
+    (S 
+      (NP (NNP NRDC) )
+      (MD will) 
+      (VP (VB keep) 
+        (VP (VBG doing) 
+          (NP 
+            (NP (NN everything) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (PRP we) )
+                (MD can) )))
+          (S 
+            (NP (-NONE- *) )
+            (TO to) 
+            (VP (VB educate) 
+              (NP (DT the) (NN public) )
+              (PP (IN about) 
+                (NP (DT the) (JJ unnecessary) 
+                  (CC and)
+                  (JJ intolerable) (NN risk) 
+                  (PP (IN of) 
+                    (NP (NNS pesticides) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (NP 
+    (NP (NNP John) (NNP H.) (NNP Adams) )
+    (NP 
+      (NP (NN Executive) (NN Director) )
+      (NP 
+        (NP (NNP National) (NNPS Resources) (NNP Defense) (NNP Council) )
+        (NP (NNP New) (NNP York) )))))
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Mr.) (NNP Fenton) )
+      (POS 's) (NNP PR) (NN firm) )
+    (VBZ has) 
+    (VP 
+      (VP (VBN abused) 
+        (NP (DT the) (NN trust) 
+          (PP (IN of) 
+            (NP (DT the) (NNS media) ))))
+      (CC and) 
+      (VP (VBN done) 
+        (NP (DT the) (NN public) )
+        (NP (DT no) (NN favor) ))))
+  (. .) )
+( (S 
+    (SBAR (RB Just) (IN as) 
+      (S 
+        (NP (PRP you) )
+        (MD can) 
+        (VP (VB yell) 
+          (NP (`` ``) (NN wolf) ('' '') )
+          (NP (RB only) (RB so) (JJ many) (NNS times) ))
+        (PP (IN before) 
+          (S 
+            (NP (NNS people) )
+            (VP (VBP cease) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB heed) 
+                  (NP (PRP you) ))))))))
+    (, ,) 
+    (S 
+      (S 
+        (NP (DT a) (NNP PR) (NN firm) )
+        (MD can) 
+        (VP (VB manipulate) 
+          (NP (DT the) (NN press) )
+          (ADVP (RB only) (RB once) ))
+        (, ,) 
+        (CC and)
+        (S (RB then) 
+          (S 
+            (NP (PRP it) )
+            (VP (VBZ loses) 
+              (NP (DT all) (NN credibility) )))))))
+  (. .) )
+( (S 
+    (NP (JJ Such) (NNS firms) )
+    (VP (VBP go) (RB quickly) 
+      (ADJP (JJ bankrupt) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (NP 
+    (NP (NNP C.) (NNP Brian) (NNP Maddox) )
+    (NP (NNP New) (NNP York) )))
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (PRP I) )
+    (VBD was) 
+    (VP (VBN fascinated) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB read) 
+          (NP (JJ political) (NN publicist) 
+            (NP 
+              (NP (NNP David) (NNP Fenton) )
+              (POS 's) (JJ self-serving) (NN celebration) 
+              (PP (IN of) 
+                (NP (PRP$ his) (JJ own) (NN work) 
+                  (PP (IN in) 
+                    (NP 
+                      (S 
+                        (NP (-NONE- *) )
+                        (VP (VBG creating) 
+                          (NP (DT the) (NN illusion) 
+                            (SBAR (IN that) 
+                              (S 
+                                (NP (NN Alar) )
+                                (VP (VBD was) 
+                                  (NP (`` ``) (DT an) (JJ intolerable) (NN risk) ('' '') 
+                                    (PP (TO to) 
+                                      (NP 
+                                        (NP (NNPS Americans) )
+                                        (: --) 
+                                        (NP (RB particularly) (NNP American) (NNS children) )
+                                        (: --) ))))
+                                (SBAR 
+                                  (WHADVP (WRB when) )
+                                  (S 
+                                    (NP (-NONE- *) )
+                                    (VP (VBN used) 
+                                      (PP (IN on) 
+                                        (ADJP (JJ apples) ))))))))))))))))))))
+  (. .) )
+( 
+  (-LRB- -LRB-)
+  (S 
+    (NP 
+      (NP 
+        (NP (DT The) (CD one) (`` ``) (NN fact) ('' '') )
+        (SBAR 
+          (WHNP (WDT that) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBD caught) 
+              (NP (PRP$ my) (NN eye) )))))
+      (: --) 
+      (NP 
+        (NP (DT the) (VBN alleged) ($ $) (CD 700,000) )
+        (VP (VBN paid) 
+          (PP (IN by) 
+            (NP (DT the) (NN apple) (NNS growers) ))
+          (PP (TO to) 
+            (NP (NNP Hill) (CC &) (NNP Knowlton) ))))
+      (: --) )
+    (VBD was) 
+    (VP (VBN overstated) 
+      (PP (IN by) 
+        (NP (JJR more) 
+          (PP (IN than) 
+            (NP (DT a) (NN factor) 
+              (PP (IN of) 
+                (NP (CD two) ))))))))
+  (. .) 
+  (-RRB- -RRB-)
+  )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR (IN While) 
+      (S 
+        (NP (PRP I) )
+        (VP (VBP doubt) 
+          (SBAR (-NONE- 0) 
+            (S 
+              (NP (DT the) (NNS media) )
+              (VP (VBD were) 
+                (ADJP (RB as) (JJ gullible) 
+                  (CC and)
+                  (JJ malleable) 
+                  (SBAR (IN as) 
+                    (S 
+                      (NP 
+                        (NP (NNP Mr.) (NNP Fenton) )
+                        (POS 's) (NN memo) )
+                      (VP (VBZ suggests) ))))))))))
+    (, ,) 
+    (S 
+      (S 
+        (NP (DT the) (NN Alar) (NN scare) )
+        (VBD was) 
+        (VP (VBN created) 
+          (, ,)
+          (PP (RB mostly) (IN out) 
+            (PP (IN of) 
+              (NP (JJ thin) (NN air) )))
+          (, ,) 
+          (SBAR (RB just) (IN as) 
+            (S 
+              (NP (NNP Mr.) (NNP Fenton) )
+              (VP (VBZ claims) )))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP 
+          (NP (DT the) (NNS media) )
+          (SBAR 
+            (WHNP (WDT that) )
+            (S 
+              (NP (-NONE- T) )
+              (VBD were) 
+              (VP (VBN taken) (RB in) ))))
+        (MD can) 
+        (VP (VB learn) 
+          (NP (NN something) )
+          (PP (IN from) 
+            (NP (DT this) (NN episode) ))))))
+  (. .) )
+( (S (RB So) 
+    (, ,)
+    (PP (IN for) 
+      (NP (DT that) (NN matter) ))
+    (, ,) 
+    (SINV (MD can) 
+      (NP 
+        (NP (JJ other) (NNS industries) )
+        (ADJP (JJ subject) 
+          (PP (TO to) 
+            (NP (DT this) (NN kind) 
+              (PP (IN of) 
+                (NP (NN guerrilla) (NNP PR) (NN attack) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (NP 
+    (NP (NNP Robert) (NNP L.) (NNP Dilenschneider) )
+    (NP 
+      (NP (NN President) 
+        (CC and)
+        (NN CEO) )
+      (NP 
+        (NP (NNP Hill) (CC &) (NNP Knowlton) (NNP Inc) (. .) )
+        (NP (NNP New) (NNP York) )))))
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Fenton) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD was) (RB not) 
+            (NP (DT the) (NN intent) 
+              (PP (IN of) 
+                (NP (DT the) (NNP NRDC) ))
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB have) 
+                  (NP (NN school) (NNS systems) )
+                  (VP (VB ban) 
+                    (NP (NNS apples) ))))))))))
+  (. .) )
+( (SQ (VBP Am) 
+    (NP (PRP I) )
+    (RB also) 
+    (S 
+      (NP (-NONE- *) )
+      (TO to) 
+      (VP (VB believe) 
+        (SBAR (IN that) 
+          (S 
+            (NP (NNP Meryl) (NNP Streep) )
+            (VBD did) (RB not) 
+            (VP (VB intend) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB harm) 
+                  (NP (NN apple) (NNS growers) )
+                  (PP (IN by) 
+                    (NP 
+                      (S 
+                        (NP (-NONE- *) )
+                        (VP (VBG condemning) 
+                          (NP (DT the) (NN use) 
+                            (PP (IN of) 
+                              (NP (NN Alar) )))))))))))))))
+  (. ?) )
+( (S (RB Well) 
+    (, ,)
+    (S 
+      (S 
+        (NP (NN apple) (NNS growers) )
+        (VBD were) 
+        (VP (VBN hurt) ))
+      (CC and) 
+      (S 
+        (NP (JJ many) (NNS others) )
+        (VP (VBD were) 
+          (ADJP (RB needlessly) (JJ frightened) 
+            (PP (IN by) 
+              (NP (DT this) (NN news) (NN story) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (JJ Scientific) (NN fact) )
+    (VBD was) 
+    (VP (VBN replaced) 
+      (PP (IN with) 
+        (NP 
+          (NP (NNS media) (NN hype) )
+          (VP (VBN produced) 
+            (PP (IN by) 
+              (NP 
+                (NP (RB genuinely) (JJ concerned) (CC but) (JJ irrational) (NNS people) )
+                (SBAR 
+                  (WHNP (WP who) )
+                  (S 
+                    (NP (-NONE- T) )
+                    (VP (VBD created) 
+                      (NP (DT a) (JJ dangerous) (NN phenomenon) ))
+                    (SBAR 
+                      (WHADVP (WRB when) )
+                      (S 
+                        (, ,)
+                        (PP (IN by) 
+                          (NP 
+                            (S 
+                              (NP (-NONE- *) )
+                              (VP (VBG using) 
+                                (NP 
+                                  (NP (JJ bad) (NN information) )
+                                  (CC and) 
+                                  (NP (JJ bad) (NN logic) ))))))
+                        (, ,) 
+                        (S 
+                          (NP (PRP they) )
+                          (VP (RB skillfully) (VBD frightened) 
+                            (NP (NNS people) )
+                            (PP (IN about) 
+                              (NP (JJ agricultural) (NNS chemicals) )))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (PRP$ My) (NN family) )
+      (CC and) 
+      (NP (PRP I) ))
+    (MD will) 
+    (VP (VB continue) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP 
+          (VP (VB believe) 
+            (NP 
+              (NP (DT the) (NNP FDA) )
+              (, ,) 
+              (NP (NNP USDA) )
+              (, ,) 
+              (NP (NNP EPA) )
+              (CC and) 
+              (NP (DT the) (NN surgeon) (NN general) )))
+          (CC and) 
+          (VP (VB follow) 
+            (NP (PRP$ their) (JJ nutritional) (NNS guidelines) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB eat) 
+                  (NP 
+                    (NP (DT a) (JJ balanced) (NN diet) )
+                    (SBAR 
+                      (WHNP (WDT that) )
+                      (S 
+                        (NP (-NONE- T) )
+                        (VP (VBZ includes) 
+                          (NP (JJ many) (JJ fresh) (NNS fruits) 
+                            (CC and)
+                            (NNS vegetables) )))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (NP 
+    (NP (NNP Frederick) (NNP Walsifer) (NNP Jr) (. .) )
+    (NP 
+      (NP (NNP Colts) (NNP Neck) )
+      (, ,) 
+      (NP (NNP N.J) ))
+    (. .) ))
+( END_OF_TEXT_UNIT )

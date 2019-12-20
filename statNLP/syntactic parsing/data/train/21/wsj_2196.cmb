@@ -1,0 +1,61 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP James) (NNP T.) (NNP Boone) )
+    (VBD was) 
+    (VP (VBN named) 
+      (PP (TO to) 
+        (NP (DT the) (JJ new) (NN position) 
+          (PP (IN of) 
+            (NP (JJ chief) (JJ administrative) (NN officer) )))))
+    (, ,) 
+    (S 
+      (NP (-NONE- *) )
+      (VP (VBG becoming) 
+        (NP (JJ second) 
+          (PP (IN in) 
+            (NP (NN command) ))
+          (PP (IN at) 
+            (NP (DT this) (NN bank) (VBG holding) (NN company) ))))))
+  (. .) )
+( (S 
+    (NP (NNP Mr.) (NNP Boone) )
+    (VBD had) 
+    (VP (VBN been) 
+      (NP (NN president) 
+        (CC and)
+        (JJ chief) (NN executive) (NN officer) 
+        (PP (IN of) 
+          (NP 
+            (NP 
+              (NP (NNP Sunburst) (NNP Bank) )
+              (, ,) 
+              (NP (NNP Louisiana) )
+              (, ,) )
+            (NP (CD one) 
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (NN company) )
+                  (POS 's) (CD two) (NNS banks) ))))))))
+  (. .) )
+( (S 
+    (NP (NNP R.E.) (NNP Kennington) (NNP II) )
+    (VP (VBZ continues) 
+      (PP (IN as) 
+        (NP (NN chairman) 
+          (CC and)
+          (JJ chief) (NN executive) (NN officer) ))))
+  (. .) )

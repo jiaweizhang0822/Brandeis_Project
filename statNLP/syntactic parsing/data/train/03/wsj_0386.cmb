@@ -1,0 +1,331 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Four) (NNPS Seasons) (NNPS Hotels) (NNP Inc.) )
+    (VP 
+      (VP (VBD announced) 
+        (NP (DT a) (JJ 2-for-1) (NN stock) (NN split) ))
+      (CC and) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP (PRP it) )
+            (VP (VBZ plans) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB increase) 
+                  (NP (PRP$ its) (JJ annual) (NN dividend) ))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S (RB Separately) 
+    (, ,)
+    (S 
+      (NP (DT the) (NN hotel) (NN chain) )
+      (VP (VBD posted) 
+        (NP (DT a) (CD 13) (NN %) (NN increase) 
+          (PP-1 (-NONE- *pseudo-attach*) ))
+        (PP (IN in) 
+          (NP (JJ third-quarter) (NNS earnings) ))
+        (PP-1 (TO to) 
+          (NP 
+            (NP 
+              (NP (CD 3.4) (CD million) (JJ Canadian) (NNS dollars) )
+              (NP 
+                (-LRB- -LRB-)
+                ($ US$) (CD 2.89) (CD million) 
+                (-RRB- -RRB-)
+                )
+              (, ,) )
+            (CC or) 
+            (NP (CD 34) (JJ Canadian) (NNS cents) )))
+        (, ,) 
+        (VP (VBN compared) 
+          (PP (IN with) 
+            (NP 
+              (NP ($ C$) (CD 3) (CD million) )
+              (, ,) (CC or) 
+              (NP (CD 31) (JJ Canadian) (NNS cents) ))))))
+    (. .) ))
+( (S 
+    (NP (NN Revenue) 
+      (PP (IN for) 
+        (NP (DT the) (NN quarter) )))
+    (VP (VBD fell) 
+      (NP (CD 6) (NN %) )
+      (PP (TO to) 
+        (NP ($ C$) (CD 50.4) (CD million) ))
+      (, ,) 
+      (PP (IN from) 
+        (NP ($ C$) (CD 53.7) (CD million) )
+        (NP (DT the) (NN year) (RBR earlier) )))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP it) )
+          (VP (VBD approved) 
+            (NP (DT an) (NN increase) 
+              (PP (IN in) 
+                (NP (PRP$ its) (JJ annual) (NN dividend) (NN rate) ))
+              (PP (TO to) 
+                (NP (CD 22) (JJ Canadian) (NNS cents) ))
+              (, ,) )
+            (PP (IN from) 
+              (NP (CD 19) (JJ Canadian) (NNS cents) ))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NN dividend) )
+    (MD will) 
+    (VP (VB be) 
+      (VP (VBN paid) (RB semiannually) 
+        (, ,)
+        (SBAR (IN although) 
+          (S 
+            (NP (NN pay) 
+              (CC and)
+              (NN record) (NNS dates) )
+            (VBP have) (RB n't) (RB yet) 
+            (VP (VBN been) 
+              (VP (VBN determined) ))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (LS 
+    (NP (DT A) (NN company) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP 
+            (NP (DT the) (NN stock) (NN split) )
+            (, ,) 
+            (VP (VBN planned) 
+              (PP (IN for) 
+                (NP (NNP Jan.) (CD 8) )))
+            (, ,) )
+          (VBZ is) 
+          (VP (VBN intended) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB increase) 
+                (NP (VBG trading) 
+                  (PP (IN in) 
+                    (NP (DT the) (NN stock) )))))))))
+    (. .) ))
+( (S 
+    (PP (IN On) 
+      (NP (DT the) (NNP Toronto) (NNP Stock) (NNP Exchange) ))
+    (NN yesterday) 
+    (, ,)
+    (S 
+      (NP (NNP Four) (NNPS Seasons) )
+      (VP (VBD gained) 
+        (NP ($ C$) (CD 1.50) )
+        (PP (TO to) 
+          (NP ($ C$) (CD 35.75) ))
+        (PP (IN in) 
+          (NP (JJ light) (NN trading) ))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NN company) )
+    (RB currently) 
+    (VP (VBZ has) 
+      (NP 
+        (NP (CD 7.2) (CD million) (JJ subordinate) (NN voting) (NNS shares) )
+        (ADJP (JJ outstanding) )))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN company) )
+    (RB also) 
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP 
+            (NP (NNP Isadore) (NNP Sharp) )
+            (, ,) 
+            (NP 
+              (NP (NN chairman) )
+              (CC and) 
+              (NP (NN president) ))
+            (, ,) )
+          (VP (VBZ plans) 
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB terminate) 
+                (NP (PRP$ his) (NN option) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB acquire) 
+                      (NP (CD 500,000) (NNS shares) ))))))
+            (SBAR (IN so) 
+              (S 
+                (NP (PRP they) )
+                (MD can) 
+                (VP (VB be) 
+                  (VP (VBN distributed) 
+                    (PP (TO to) 
+                      (NP (JJ senior) (NNS executives) ))
+                    (PP (IN under) 
+                      (NP (DT a) (JJ proposed) (NN incentive) (NN plan) ))))))))))
+    (. .) ))
+( (S 
+    (PP (IN In) 
+      (NP (NN return) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN company) )
+      (MD would) 
+      (VP (VB reimburse) 
+        (NP (NNP Mr.) (NNP Sharp) )
+        (PP (IN in) 
+          (NP (DT the) (NN event) 
+            (PP (IN of) 
+              (NP (DT any) (JJ future) (NN sale) 
+                (PP (IN of) 
+                  (NP (NN control) 
+                    (PP (IN of) 
+                      (NP (DT the) (NN company) ))))))))))
+    (. .) ))
+( (S 
+    (NP (DT The) (NNP Toronto) (NNP Stock) (NNP Exchange) )
+    (VP (VBZ limits) 
+      (NP (DT the) (NN number) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNS options) )
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP (DT a) (NN company) )
+                (MD can) 
+                (VP (VB issue) 
+                  (PP (TO to) 
+                    (NP (NNS employees) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NN incentive) (NN plan) )
+    (VP (VBZ is) 
+      (ADJP (JJ subject) 
+        (PP (TO to) 
+          (NP (NN approval) 
+            (PP (IN by) 
+              (NP (DT a) (NN majority) 
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNS holders) 
+                      (PP (IN of) 
+                        (NP (DT the) (JJ subordinate) (NN voting) (NNS shares) )))
+                    (, ,) 
+                    (NP (JJ other) 
+                      (PP (IN than) 
+                        (NP 
+                          (NP (NNP Mr.) (NNP Sharp) )
+                          (CC and) 
+                          (NP (PRP$ his) (NNS associates) ))))
+                    (, ,) ))))
+            (PP (IN at) 
+              (NP 
+                (NP (DT a) (JJ special) (NN meeting) )
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) (VB be) 
+                  (VP (VBN held) 
+                    (NP (NNP Dec.) (CD 19) )))))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (NNP Four) (NNPS Seasons) (NN spokeswoman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP 
+            (NP (NNP Mr.) (NNP Sharp) )
+            (, ,) 
+            (SBAR 
+              (WHNP (WP who) )
+              (S 
+                (NP (-NONE- T) )
+                (VP (VBZ has) 
+                  (NP (DT an) (CD 81) (NN %) (NN voting) (NN stake) )
+                  (PP (IN in) 
+                    (NP (DT the) (NN company) )))))
+            (, ,) )
+          (VP (VBZ has) 
+            (NP (DT no) (JJ current) (NNS plans) 
+              (S 
+                (NP (-NONE- *) )
+                (TO to) 
+                (VP (VB sell) 
+                  (NP (PRP$ his) (NN interest) ))))))))
+    (. .) ))
+( (S 
+    (NP (PRP She) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP 
+            (NP (NNP Mr.) (NNP Sharp) )
+            (POS 's) (NN stake) )
+          (MD wo) (RB n't) 
+          (VP (VB be) 
+            (VP (VBN diluted) 
+              (PP (IN by) 
+                (NP (DT the) (NN stock) (NN split) )))))))
+    (. .) ))
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN For) 
+      (NP (DT the) 
+        (ADJP (JJ first) )
+        (CD nine) (NNS months) 
+        (PP (IN of) 
+          (NP (DT the) (NN year) ))))
+    (, ,) 
+    (S 
+      (NP (NN net) )
+      (VP (VBD rose) 
+        (NP (CD 12) (NN %) )
+        (PP (TO to) 
+          (NP 
+            (NP (CD 9.2) (CD million) (JJ Canadian) (NNS dollars) )
+            (, ,) (CC or) 
+            (NP 
+              (NP (CD 93) (JJ Canadian) (NNS cents) )
+              (NP (DT a) (NN share) ))))
+        (, ,) 
+        (VP (VBN compared) 
+          (PP (IN with) 
+            (NP 
+              (NP ($ C$) (CD 8.2) (CD million) )
+              (, ,) (CC or) 
+              (NP 
+                (NP (CD 84) (JJ Canadian) (NNS cents) )
+                (NP (DT a) (NN share) )))))))
+    (. .) ))
+( (S 
+    (NP (NN Revenue) )
+    (VP (VBD fell) 
+      (PP (TO to) 
+        (NP ($ C$) (CD 148) (CD million) ))
+      (PP (IN from) 
+        (NP ($ C$) (CD 162.3) (CD million) )))
+    (. .) ))

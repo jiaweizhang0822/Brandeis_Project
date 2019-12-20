@@ -1,0 +1,105 @@
+
+ 
+ 
+ 
+
+(
+ (S
+    (NP
+        (NP (NNP Britain))
+        (POS 's)
+        (NP (NP (NNP Monopolies))
+            (CC and)
+            (NP (NNP Mergers) (NNP Commission))))
+    (VP (VBD said)
+        (NP (SBAR (-NONE- 0)
+                  (S (S (NP (NP (NP (DT the) (JJ proposed) (# #)
+                                    (-NONE- #))
+                                (NP (NP (CD 395) (CD million))
+                                    (-LRB- -LRB-)
+                                    (NP ($ $) (CD 637.7)
+                                        (CD million))
+                                    (-RRB- -RRB-)))
+                            (NP (NN acquisition)
+                                (PP (IN of)
+                                    (NP (NNP Tootal) (NNP Group) (NNP PLC)))
+                                (PP (IN by)
+                                    (NP (NP (NNP Coats) (NNP Viyella) (NNP PLC))
+                                        (, ,)
+                                        (NP (DT a) (NNP U.K.) (NN textile) (NN manufacturer))
+                                        (, ,)))))
+                        (MD could)
+                        (VP (VB go)
+                            (RB ahead)))
+                     (VP (VBG pending)
+                         (NP (JJ certain) (NNS conditions)))))))
+    (. .)))
+ 
+ 
+
+((S
+    (NP (DT The) (NN commission))
+    (VP (VBD said)
+        (SBAR (-NONE- 0)
+              (S (NP (NNS Coats))
+                 (MD must)
+                 (RB first)
+                 (VP (VB dispose)
+                     (PP (IN of)
+                         (NP (NP (PRP$ its) (NN interest)
+                                 (PP (IN in)
+                                     (NP
+                                         (NP (NNP Britain))
+                                         (POS 's) (JJ domestic) (NN sewing) (NN thread) (NN industry))))
+                             (CC and)
+                             (NP (PRP$ its) (NNS shares)
+                                 (PP (IN in)
+                                     (NP (DT the) (NNP Gutermann) (NNP Group))))))))))
+    (. .)))
+ 
+ 
+
+((S
+    (NP (DT The) (NN panel))
+    (VP (VBD was)
+        (ADJP (JJ concerned)
+              (SBAR (IN that)
+                    (S (NP (DT the) (NN merger)
+                           (PP (IN of)
+                               (NP (DT the) (CD two) (NNS groups))))
+                       (MD would)
+                       (VP (VB damage)
+                           (NP (NN competition))
+                           (PP (IN in)
+                               (NP (JJ British) (NNS markets)))
+                           (PP (IN for)
+                               (NP (JJ industrial) (CC and) (JJ domestic) (NN sewing) (NN thread) (CC and) (NN clothing))))))))
+    (. .)))
+ 
+ 
+
+((S
+    (NP (NNP Coats))
+    (VBZ has)
+    (VP (VBN offered)
+        (NP (NP (NP (CD one) (JJ ordinary) (NNP Coats) (NN share))
+                (CC and)
+                (NP (CD 400) (NNS pence)
+                    (PP (IN in)
+                        (NP (NN cash)))
+                    (PP (IN for)
+                        (NP (DT every) (CD four) (NNS shares)
+                            (PP (IN in)
+                                (NP (NNP Tootal)))))))
+            (, ,)
+            (SBAR
+                  (WHNP (WDT which))
+                  (S (NP (-NONE- T))
+                     (VP (VBZ is)
+                         (NP (DT the) (NN equivalent)
+                             (PP (IN of)
+                                 (NP (CD 138.4) (NNS pence)
+                                     (PP (IN per)
+                                         (NP (NN share)))))))))))
+    (. .)))
+ 

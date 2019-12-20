@@ -1,0 +1,927 @@
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*                                                                     *x*
+*x*            Copyright (C) 1991 University of Pennsylvania            *x*
+*x*                                                                     *x*
+*x*    The data in this file are part of a preliminary version of the   *x*
+*x*    Penn Treebank Corpus and should not be redistributed.  Any       *x*
+*x*    research using this corpus or based on it should acknowledge     *x*
+*x*    that fact, as well as the preliminary nature of the corpus.      *x*
+*x*                             (9/9/1991)                             *x*
+*x*                                                                     *x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*x*
+
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (NNP Wall) (NNP Street) )
+      (POS 's) (NN takeover-stock) (NNS speculators) )
+    (NP (NN yesterday) )
+    (VP (VBD suffered) 
+      (NP (PRP$ their) (JJS worst) (NN bloodbath) 
+        (PP (IN since) 
+          (NP (DT the) (NNP Black) (NNP Monday) (NN crash) 
+            (PP (IN of) 
+              (NP (NNP October) (CD 1987) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR (RB Even) (IN as) 
+      (S 
+        (NP (DT the) (NN stock) (NN market) )
+        (VP (VBD rebounded) 
+          (PP (IN from) 
+            (NP 
+              (NP (NNP Friday) )
+              (POS 's) (JJ 190.58-point) (NN rout) )))))
+    (, ,) 
+    (S 
+      (NP (NN takeover) (NNS traders) )
+      (VBD were) 
+      (VP (VBN hammered) 
+        (PP (IN by) 
+          (NP (NNS setbacks) 
+            (PP (IN in) 
+              (NP (CD two) (JJ big) (NN airline) (NN takeover) (NNS deals) )))))))
+  (. .) )
+( (S 
+    (NP (DT Some) (NNS analysts) )
+    (VP (VBD estimated) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NN paper) (NNS losses) )
+          (MD could) 
+          (VP (VB total) 
+            (NP ($ $) (CD 500) (CD million) )
+            (PP (IN for) 
+              (NP 
+                (NP (DT the) (NN takeover) (NNS traders) )
+                (, ,) 
+                (VP (VBN known) 
+                  (PP (IN as) 
+                    (NP 
+                      (NP (NN risk) (NNS arbitragers) )
+                      (, ,) (CC or) 
+                      (NP (`` ``) (NNS arbs) ))))))))))
+    (. .) ('' '') ))
+( END_OF_TEXT_UNIT )
+((S 
+    (NP (RB Nearly) (DT all) 
+      (PP (IN of) 
+        (NP (DT the) (JJ big) (NN paper) (NNS losses) )))
+    (VBD were) 
+    (VP (VBN caused) 
+      (PP (IN by) 
+        (NP (NNS declines) 
+          (PP (IN of) 
+            (NP (JJR more) 
+              (PP (IN than) 
+                (NP (CD 20) (NN %) ))))
+          (PP (IN in) 
+            (NP 
+              (NP (CD two) (NN airline) (NNS stocks) )
+              (, ,) 
+              (NP 
+                (NP (NNP UAL) (NNP Corp.) )
+                (CC and) 
+                (NP (NNP AMR) (NNP Corp) ))))))))
+  (. .) )
+( (S 
+    (NP 
+      (NP (NNP Wall) (NNP Street) )
+      (POS 's) (NN arbitrage) (NNS desks) )
+    (VBD had) 
+    (VP (VBN loaded) (RB up) 
+      (PP (IN on) 
+        (NP (NNS stocks) 
+          (PP (IN of) 
+            (NP (DT both) (NNS companies) )))))
+    (PP (IN after) 
+      (S 
+        (NP (DT each) )
+        (VBD had) 
+        (VP (VBN received) 
+          (NP (NN takeover) (NNS proposals) )
+          (PP (IN from) 
+            (NP (NNS investors) ))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (DT The) (NN bid) 
+        (PP (IN for) 
+          (NP (NNP UAL) )))
+      (VP (VBD came) 
+        (PP (IN from) 
+          (NP (NNP Marvis) (NNP Davis) 
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Beverly) (NNPS Hills) )
+                (, ,) 
+                (NP (NNP Calif.) )
+                (, ,) ))))))
+    (CC and) 
+    (S 
+      (NP (DT the) (NN bid) 
+        (PP (IN for) 
+          (NP (NNP AMR) )))
+      (VP (VBD came) 
+        (PP (IN from) 
+          (NP (NNP Donald) (NNP Trump) 
+            (PP (IN of) 
+              (NP (NNP New) (NNP York) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (CC But) 
+    (PP (IN in) 
+      (NP (DT the) (NN wake) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Friday) )
+            (POS 's) (NN announcement) 
+            (SBAR (IN that) 
+              (S 
+                (NP (DT a) (NNP UAL) (NN management-union) (NN group) )
+                (MD could) (RB n't) 
+                (VP (VB obtain) 
+                  (NP (NN bank) (NN financing) )
+                  (PP (IN for) 
+                    (NP (PRP$ its) (NN agreement) 
+                      (S 
+                        (NP (-NONE- *) )
+                        (TO to) 
+                        (VP (VB buy) 
+                          (NP (NNP UAL) )
+                          (PP (IN at) 
+                            (NP 
+                              (NP ($ $) (CD 300) )
+                              (NP (DT a) (NN share) ))))))))))))))
+    (, ,) 
+    (S 
+      (NP (NNP UAL) (NN stock) )
+      (VP (VBD plunged) 
+        (NP ($ $) (CD 56.875) )
+        (NP (NN yesterday) )
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB close) 
+            (PP (IN at) 
+              (NP 
+                (NP ($ $) (CD 222.875) )
+                (NP (DT a) (NN share) )))
+            (PP (IN in) 
+              (NP (NNP New) (NNP York) (NNP Stock) (NNP Exchange) 
+                (NP (JJ composite) (NN trading) 
+                  (PP (IN of) 
+                    (NP (RB nearly) (CD 2.3) (CD million) (NNS shares) ))))))))))
+  (. .) )
+( (S 
+    (PP (IN On) 
+      (NP (NNP Friday) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN stock) )
+      (VP (VBD did) (RB n't) 
+        (NP (NN trade) ))
+      (PP (IN after) 
+        (S 
+          (NP (DT the) (NN buy-out) (NN group) )
+          (VP (VBD announced) 
+            (NP (PRP$ its) (NN financing) (NNS troubles) ))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT That) )
+    (VP (VBD was) 
+      (ADJP (JJ bad) (RB enough) 
+        (PP (IN for) 
+          (NP (DT the) (NNS arbs) )))))
+  (. .) )
+( (S (`` ``) 
+    (S 
+      (PP (IN On) 
+        (NP (NN balance) ))
+      (, ,) 
+      (S 
+        (NP 
+          (NP (DT the) (NN Street) )
+          (POS 's) (JJS biggest) (NN position) )
+        (VBZ has) 
+        (VP (VBN been) 
+          (NP 
+            (NP (NNP UAL) )
+            (, ,) 
+            (VP (RB mostly) 
+              (-LRB- -LCB-)
+              (VBD bought) 
+              (-RRB- -RCB-)
+              (PP (IN in) 
+                (NP (DT the) ($ $) (CD 280) (NN range) )))))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBD said) )
+      (NP 
+        (NP (NNP Frank) (NNP Gallagher) )
+        (, ,) 
+        (NP (NN director) 
+          (PP (IN of) 
+            (NP (NNP Phoenix) (NNP Capital) (NNPS Markets) )))
+        (, ,) 
+        (SBAR 
+          (WHNP (WP who) )
+          (S 
+            (NP (-NONE- T) )
+            (VP (VBZ follows) 
+              (NP (NN arbitrage) (NN activity) )))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+((S (CC But) 
+    (NP (DT the) (NNS arbs) )
+    (VBD were) (RB quickly) 
+    (VP (VBN hit) 
+      (PP (IN with) 
+        (NP (DT another) (NN dose) 
+          (PP (IN of) 
+            (NP (JJ bad) (NN news) )))))
+    (SBAR 
+      (WHADVP (WRB when) )
+      (S 
+        (NP (NNP Mr.) (NNP Trump) )
+        (VP (VBD announced) 
+          (SBAR (IN that) 
+            (S 
+              (NP (PRP he) )
+              (VBD was) 
+              (VP (VBG withdrawing) 
+                (NP (PRP$ his) (NN proposal) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB buy) 
+                      (NP (NNP AMR) )
+                      (PP (IN at) 
+                        (NP 
+                          (NP ($ $) (CD 120) )
+                          (NP (DT a) (NN share) )))))))))))))
+  (. .) )
+( (S 
+    (PP (IN After) 
+      (NP 
+        (S 
+          (NP (NN trading) 
+            (PP (IN in) 
+              (NP (NNP AMR) )))
+          (VP (VBN resumed) ))))
+    (, ,) 
+    (S 
+      (NP (DT the) (NN stock) )
+      (VP (VBD fell) (RB sharply) 
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB close) 
+            (PP (IN at) 
+              (NP 
+                (NP ($ $) (CD 76.50) )
+                (NP (DT a) (NN share) )))
+            (, ,) 
+            (ADVP (RB down) 
+              (NP ($ $) (CD 22.125) )
+              (PP (IN on) 
+                (NP (DT the) (NN day) ))
+              (PP (IN in) 
+                (NP (NNP Big) (NNP Board) (JJ composite) (NN trading) 
+                  (PP (IN of) 
+                    (NP (JJR more) 
+                      (PP (IN than) 
+                        (NP (CD 4.7) (CD million) (NNS shares) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Gallagher) )
+    (VP (VBZ estimates) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NNS arbitragers) )
+          (VP (VBD owned) 
+            (NP (DT the) (NN equivalent) 
+              (PP (IN of) 
+                (NP 
+                  (NP (RB nearly) (CD 30) (NN %) 
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP UAL) )
+                        (POS 's) (NN stock) )))
+                  (, ,) (CC or) 
+                  (NP (IN about) (CD six) (CD million) (NNS shares) )))))
+          (, ,) 
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG indicating) 
+              (NP (NNS losses) 
+                (PP (IN of) 
+                  (NP (IN about) ($ $) (CD 350) (CD million) )))))))))
+  (. .) )
+( (S 
+    (NP (PRP He) )
+    (VP (VBZ estimates) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NNS arbs) )
+          (VP (VBP own) 
+            (NP (DT the) (NN equivalent) 
+              (PP (IN of) 
+                (NP 
+                  (NP (IN about) (CD 10) (NN %) 
+                    (PP (IN of) 
+                      (NP 
+                        (NP (NNP AMR) )
+                        (POS 's) (NN stock) )))
+                  (, ,) (RB also) 
+                  (NP (IN about) (CD six) (CD million) (NNS shares) )
+                  (, ,) ))))
+          (S 
+            (NP (-NONE- *) )
+            (VP (VBG indicating) 
+              (NP (DT an) (JJ additional) ($ $) (CD 130) (CD million) 
+                (PP (IN in) 
+                  (NP (NNS losses) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP 
+      (NP (JJ Several) (JJ other) (NNS stocks) )
+      (VP (VBN owned) 
+        (PP (IN by) 
+          (NP (NN takeover) (NNS traders) ))))
+    (VP (VBD continued) 
+      (S 
+        (NP (-NONE- *) )
+        (TO to) 
+        (VP (VB fall) ))))
+  (. .) )
+( (S 
+    (S 
+      (NP (JJ Many) (NN takeover) (NNS stocks) )
+      (VP (VBD rebounded) (RB somewhat) )
+      (NP (NN yeterday) ))
+    (, ,) (CC but) 
+    (S 
+      (NP (NN none) )
+      (VP (VBD made) (RP up) 
+        (NP (DT all) 
+          (PP (IN of) 
+            (NP (PRP$ their) (JJ sharp) (NNS declines) )))
+        (PP (IN on) 
+          (NP (NNP Friday) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (PP (IN Despite) 
+      (NP (DT the) (NNS losses) ))
+    (, ,) 
+    (S 
+      (NP (EX there) )
+      (VBP have) (RB n't) 
+      (VP (VBN been) 
+        (NP (DT any) (NNS reports) 
+          (PP (IN of) 
+            (NP 
+              (NP (NN arbitrage) (CC or) (NN brokerage) (NNS firms) )
+              (SBAR 
+                (WHNP (WDT that) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VBP have) 
+                  (VP (VBN encountered) 
+                    (NP (JJ serious) (JJ financial) (NNS difficulties) ))))))))))
+  (. .) )
+( (S 
+    (PP (IN For) 
+      (NP (JJS most) (NN takeover-stock) (NNS traders) ))
+    (, ,) 
+    (S 
+      (NP (JJ huge) (NNS profits) 
+        (PP (IN from) 
+          (NP 
+            (NP (JJ booming) (NN takeover) (NN activity) )
+            (NP (JJ last) (NN year) ))))
+      (MD would) 
+      (VP (VB provide) 
+        (NP (DT a) (NN cushion) )
+        (PP (IN against) 
+          (NP (JJ current) (NNS losses) )))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNS Arbitragers) 
+      (PP (IN at) 
+        (NP (JJ several) (JJ major) (NNP Wall) (NNP Street) (NNS securities) (NNS firms) )))
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NNP UAL) )
+          (VP (VBD was) 
+            (PP (IN by) 
+              (NP (RB far) ))
+            (NP 
+              (NP (DT the) (JJS biggest) (NN stock) (NN position) )
+              (SBAR (IN that) 
+                (S 
+                  (NP (PRP they) )
+                  (VP (VBD owned) 
+                    (NP (-NONE- T) ))))))))))
+  (. .) )
+( (S 
+    (NP (PRP They) )
+    (RB also) 
+    (VP (VBP believe) 
+      (SBAR (IN that) 
+        (S 
+          (NP (NNP UAL) )
+          (VP (VBD was) 
+            (NP (DT the) (JJS biggest) (NN position) 
+              (PP (IN for) 
+                (NP (JJS most) (JJ other) (NNS arbs) ))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S (`` ``) 
+    (S 
+      (PP (IN In) 
+        (NP (DT the) (NN arbitrage) (NN community) ))
+      (, ,) 
+      (S 
+        (NP (NNP UAL) )
+        (VBD was) 
+        (VP (VBN viewed) 
+          (PP (IN as) 
+            (NP 
+              (S 
+                (NP (-NONE- *) )
+                (VP (VBG being) 
+                  (NP (DT a) (RB very) (JJ safe) (NN deal) ))))))))
+    (, ,) ('' '') 
+    (SINV 
+      (VP (VBD said) )
+      (NP (CD one) (NN trader) )))
+  (. .) )
+( (S 
+    (NP (NNS Arbs) )
+    (X 
+      (VP (VBD believed) 
+        (SBAR (IN that) 
+          (S 
+            (NP (JJ major) (NNS banks) )
+            (MD would) (RB easily) 
+            (VP (VB finance) 
+              (NP 
+                (NP (DT the) (NNP UAL) (NN buy-out) (NN group) )
+                (POS 's) ($ $) (CD 6.79) (CD billion) (NN bid) )))))
+      (, ,) 
+      (CC and)
+      (X (VBD were) 
+        (VP (VBN stunned) 
+          (PP (IN on) 
+            (NP 
+              (NP (NNP Friday) )
+              (SBAR 
+                (WHADVP (WRB when) )
+                (S 
+                  (NP (DT the) (NN group) )
+                  (MD could) (RB n't) 
+                  (VP (VB obtain) 
+                    (NP (DT the) (JJ necessary) (NNS loans) ))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (JJ Several) (NNS traders) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP they) )
+          (VBD were) (RB n't) 
+          (VP (VBG selling) 
+            (NP (NNP UAL) (NNS shares) ))
+          (SBAR (IN because) 
+            (S 
+              (NP (PRP they) )
+              (VP (VBP believe) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP (DT the) (NN buy-out) (NN group) )
+                    (MD will) 
+                    (VP (VB be) 
+                      (ADJP (JJ able) 
+                        (S 
+                          (NP (-NONE- *) )
+                          (TO to) 
+                          (VP (VB obtain) 
+                            (NP (NN financing) 
+                              (S 
+                                (NP (-NONE- *) )
+                                (TO to) 
+                                (VP (VB complete) 
+                                  (NP (DT the) (NN acquisition) )
+                                  (RB eventually) )))))))
+                    (, ,) 
+                    (PP (IN although) 
+                      (PP (RB perhaps) (IN at) 
+                        (NP (DT a) (NN price) 
+                          (PP (IN of) 
+                            (NP (JJR less) 
+                              (PP (IN than) 
+                                (NP 
+                                  (NP ($ $) (CD 300) )
+                                  (NP (DT a) (NN share) )))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNP Mr.) (NNP Gallagher) )
+    (VP (VBZ thinks) 
+      (SBAR (IN that) 
+        (S 
+          (NP (JJ much) 
+            (PP (IN of) 
+              (NP (DT the) (JJ heavy) (NN trading) 
+                (PP (IN in) 
+                  (NP (NNP UAL) (NNS shares) )))))
+          (VP (VBD was) 
+            (S (`` ``) 
+              (NP (CD one) (NN arb) )
+              (VP (VBG passing) 
+                (NP (PRP it) )
+                (PP (RP on) 
+                  (PP (TO to) 
+                    (NP (DT another) ))))))))))
+  (. .) )
+( (S 
+    (NP (PRP I) )
+    (VBP do) (RB n't) 
+    (VP (VB think) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP you) )
+          (VP (VBP have) 
+            (NP 
+              (NP (JJ institutional) (NNS investors) )
+              (VP (VBG buying) 
+                (NP (DT the) (NN stock) ))))))))
+  (. .) ('' '') )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (NNS Gainers) 
+      (PP (IN among) 
+        (NP 
+          (NP (DT the) (NN arb) )
+          (POS 's) (JJ favorite) (NNS stocks) )))
+    (VP (VBD included) 
+      (NP 
+        (NP 
+          (NP (NNP Hilton) (NNPS Hotels) (NNP Corp.) )
+          (, ,) 
+          (SBAR 
+            (WHNP (WDT which) )
+            (S 
+              (NP (-NONE- T) )
+              (VP (VBD rose) 
+                (NP 
+                  (NP ($ $) (CD 9.50) )
+                  (NP (DT a) (NN share) ))
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB close) 
+                    (PP (IN at) 
+                      (NP ($ $) (CD 94.50) ))
+                    (PP (IN in) 
+                      (NP (NNP Big) (NNP Board) (JJ composite) (NN trading) )))))))
+          (, ,) )
+        (CC and) 
+        (NP 
+          (NP (NNP Warner) (NNPS Communications) (NNP Inc.) )
+          (, ,) 
+          (SBAR 
+            (WHNP (WDT which) )
+            (S 
+              (NP (-NONE- T) )
+              (VP (VBD rose) 
+                (NP ($ $) (CD 1.875) )
+                (S 
+                  (NP (-NONE- *) )
+                  (TO to) 
+                  (VP (VB close) 
+                    (PP (IN at) 
+                      (NP ($ $) (CD 63.375) )))))))))))
+  (. .) )
+( (S 
+    (S 
+      (NP (NNP Hilton) )
+      (VBZ is) 
+      (VP (VBG soliciting) 
+        (NP (NNS bids) )
+        (PP (IN for) 
+          (NP (DT some) (CC or) (DT all) 
+            (PP (IN of) 
+              (NP (PRP$ its) (NN hotel) 
+                (CC and)
+                (NN casino) (NNS operations) ))))))
+    (: ;) 
+    (S 
+      (NP (NNP Warner) )
+      (VBZ is) 
+      (VP (VBG being) 
+        (VP (VBN acquired) 
+          (PP (IN by) 
+            (NP 
+              (NP (NN Time) (NNP Warner) (NNP Inc.) )
+              (, ,) 
+              (SBAR 
+                (WHNP (WDT which) )
+                (S 
+                  (NP (-NONE- T) )
+                  (VP (RB already) (VBZ owns) 
+                    (NP (IN about) (CD 58) (NN %) 
+                      (PP (IN of) 
+                        (NP (NNP Warner) ))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT The) (JJ past) (CD two) (NN trading) (NNS days) )
+    (, ,) 
+    (X (IN while) 
+      (ADJP (JJ painful) ))
+    (, ,) (VBP have) (RB n't) 
+    (VP (VBN been) 
+      (ADJP (RB as) (JJ disastrous) 
+        (PP (IN for) 
+          (NP (DT the) (NNS arbs) ))
+        (PP (IN as) 
+          (NP (DT the) (NNP October) (CD 1987) (NN market) (NN crash) ))))
+    (SBAR (IN because) 
+      (S 
+        (S 
+          (NP (JJ takeover-related) (NNS stocks) )
+          (VBP have) (RB n't) 
+          (VP (VBN dropped) 
+            (ADVP (RB as) (RB sharply) 
+              (SBAR (IN as) 
+                (S 
+                  (NP (PRP they) )
+                  (VP (VBD did) 
+                    (ADVP 
+                      (NP (CD two) (NNS years) )
+                      (RB ago) )))))))
+        (, ,) 
+        (CC and)
+        (S 
+          (NP (NNS traders) )
+          (VP (VBP are) (RB n't) 
+            (PP 
+              (ADVP (RB as) (RB deeply) )
+              (IN in) 
+              (NP (NN debt) )
+              (SBAR (IN as) 
+                (S 
+                  (NP (PRP they) )
+                  (VP (VBD were) (RB then) )))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (X 
+      (PP (IN On) 
+        (NP (NNP Friday) ))
+      (CC and) 
+      (NP (NN yesterday) ))
+    (, ,) 
+    (S 
+      (NP (DT the) (JJS worst) (NN price) (NNS declines) 
+        (PP (IN among) 
+          (NP (JJ takeover-related) (NNS stocks) )))
+      (VP (VBD were) 
+        (NP (IN about) (CD 20) (NN %) )
+        (, ,) 
+        (PP (IN with) 
+          (S 
+            (NP (JJS most) (NN takeover) (NNS stocks) )
+            (VP (VBG falling) 
+              (PP (IN between) 
+                (NP 
+                  (NP (CD 5) (NN %) )
+                  (CC and) 
+                  (NP (CD 15) (NN %) )))))))))
+  (. .) )
+( (S 
+    (S 
+      (PP (IN In) 
+        (NP (NNP October) (CD 1987) ))
+      (, ,) (RB however) 
+      (, ,)
+      (S 
+        (NP (NNS stocks) 
+          (PP (IN of) 
+            (NP 
+              (NP (DT some) (JJ potential) (NN takeover) (NNS targets) )
+              (, ,) 
+              (ADJP (JJ such) 
+                (PP (IN as) 
+                  (NP (NNP Dayton) (NNP Hudson) (NNP Corp.) )))
+              (, ,) )))
+        (VP (VBD fell) 
+          (NP (IN about) (CD 50) (NN %) ))))
+    (, ,) 
+    (S 
+      (NP (NNP Mr.) (NNP Gallagher) )
+      (VP (VBD said) )))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (DT A) (NN trader) 
+      (PP (IN at) 
+        (NP (CD one) (JJ major) (NNP Wall) (NNP Street) (NN firm) )))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP$ his) (NN arbitrage) (NN desk) )
+          (VP (VBD had) 
+            (NP 
+              (NP (IN about) (CD 30) (NN %) 
+                (PP (IN of) 
+                  (NP (PRP$ its) (NN capital) )))
+              (VP (RB currently) (VBN invested) 
+                (PP (IN in) 
+                  (NP (NN cash) )))))))))
+  (. .) )
+( (S 
+    (ADVP 
+      (NP (CD Two) (NNS years) )
+      (RB ago) )
+    (, ,) 
+    (S 
+      (NP (PRP he) )
+      (VP (VBD said) ))
+    (, ,) 
+    (S 
+      (NP (PRP$ his) (NN firm) )
+      (VBD had) 
+      (VP (VBN borrowed) 
+        (NP (DT an) (NN amount) 
+          (ADJP (JJ equal) 
+            (PP (TO to) 
+              (NP (IN about) (CD 30) (NN %) 
+                (PP (IN of) 
+                  (NP (PRP$ its) (NN capital) )))))))
+      (SBAR (IN so) (IN that) 
+        (S 
+          (NP (PRP it) )
+          (MD could) 
+          (VP (VB buy) 
+            (NP (JJR more) (NNS stocks) ))))))
+  (. .) )
+( (S 
+    (NP (NNP Mr.) (NNP Gallagher) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP he) )
+          (VP (VBZ believes) 
+            (SBAR (IN that) 
+              (S 
+                (NP (NN situation) )
+                (VP (VBZ is) 
+                  (ADJP (JJ typical) 
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (RBR more) (JJ conservative) (NNS strategies) )
+                        (SBAR (IN that) 
+                          (S 
+                            (NP (JJ many) (NNS arbitragers) )
+                            (VP (VBN adopted) 
+                              (NP (-NONE- T) ))
+                            (PP (IN after) 
+                              (NP (DT the) (NN crash) )))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (SBAR 
+      (WHADVP (WRB When) )
+      (S 
+        (NP (NNS traders) )
+        (VP (VBP borrow) 
+          (NP (NN money) ))
+        (S 
+          (NP (-NONE- *) )
+          (TO to) 
+          (VP (VB buy) 
+            (NP (JJ additional) (NNS amounts) 
+              (PP (IN of) 
+                (NP (NN stock) )))))))
+    (, ,) 
+    (S 
+      (NP (PRP they) )
+      (VP (VBP run) 
+        (NP (DT the) (NN risk) 
+          (PP (IN of) 
+            (NP 
+              (S 
+                (NP (-NONE- *) )
+                (VP (VBG having) 
+                  (S 
+                    (NP (-NONE- *) )
+                    (TO to) 
+                    (VP (VB sell) 
+                      (NP (NNS stocks) ))
+                    (PP (IN after) 
+                      (NP 
+                        (NP (DT a) (JJ sharp) (NN price) (NN decline) )
+                        (ADJP (JJ such) 
+                          (PP (IN as) 
+                            (NP 
+                              (NP (NN yesterday) )
+                              (POS 's) )))))
+                    (S 
+                      (NP (-NONE- *) )
+                      (TO to) 
+                      (VP (VB meet) 
+                        (NP (NN margin) (NNS calls) ))))))))))))
+  (. .) )
+( (S 
+    (NP (NN Margin) (NNS calls) )
+    (VP (VBP are) 
+      (NP (NNS demands) 
+        (PP (IN by) 
+          (NP (NNS lenders) ))
+        (SBAR (IN that) 
+          (S 
+            (NP (NNS traders) )
+            (VP (VBN put) (RP up) 
+              (NP 
+                (ADJP (JJR more) )
+                (NN cash) ))
+            (S 
+              (NP (-NONE- *) )
+              (TO to) 
+              (VP (VB make) (RB up) 
+                (PP (IN for) 
+                  (NP (NNS declines) 
+                    (PP (IN in) 
+                      (NP (DT the) (NN value) 
+                        (PP (IN of) 
+                          (NP 
+                            (NP (NNS stocks) )
+                            (SBAR 
+                              (WHNP (WDT that) )
+                              (S 
+                                (NP (-NONE- T) )
+                                (VP (VBP serve) 
+                                  (PP (IN as) 
+                                    (NP (NN collateral) 
+                                      (PP (IN for) 
+                                        (NP (NNS loans) ))))))))))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
+( (S 
+    (NP (CD One) (NN trader) )
+    (, ,) (RB however) 
+    (, ,)
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP (PRP he) )
+          (VP (VBZ believes) 
+            (SBAR (IN that) 
+              (S 
+                (NP (JJS most) 
+                  (PP (IN of) 
+                    (NP (DT the) (NN selling) 
+                      (PP (IN in) 
+                        (NP (JJ takeover-related) (NNS stocks) ))
+                      (PP (IN in) 
+                        (NP (DT the) (JJ past) (CD two) (NN trading) (NNS days) )))))
+                (VBZ has) 
+                (VP (VBN been) 
+                  (NP (DT the) (NN result) 
+                    (PP (IN of) 
+                      (NP (NNS judgments) 
+                        (PP (IN by) 
+                          (NP (NNS traders) ))
+                        (SBAR (IN that) 
+                          (S 
+                            (NP (NN takeover) (NNS bids) )
+                            (VP (VBP are) 
+                              (ADJP (RBR less) (JJ likely) 
+                                (S 
+                                  (NP (-NONE- *) )
+                                  (TO to) 
+                                  (VP (VB be) 
+                                    (VP (VBN completed) )))))))))))
+                (, ,) 
+                (X 
+                  (PP (RB rather) (IN than) 
+                    (NP 
+                      (NP (NN selling) )
+                      (VP (VBN prompted) 
+                        (PP (IN by) 
+                          (NP (NN margin) (NNS calls) )))))))))))))
+  (. .) )
+( END_OF_TEXT_UNIT )
